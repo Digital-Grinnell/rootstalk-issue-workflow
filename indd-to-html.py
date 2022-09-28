@@ -51,7 +51,7 @@ def rootstalk_markdownify(filepath):
 
 
 def rootstalk_azure_media(year, term, filepath):
-  ytmd = "{}-{}.md".format(year, term)
+  ytmd = "{}-{}.md".format(year, term, year, term)
 
   # Open the issue's year-term.md file...
   logging.info("Attempting to open markdown file: " + ytmd)
@@ -147,10 +147,11 @@ def rootstalk_make_articles(year, term):
               print(issue_md_content, file=article_md)
 
 
-# Press the green button in the gutter to run the script.
+# Main...
 if __name__ == '__main__':
   
   # Iterate over the working directory tree subdirectories
+  ### Replace with glob...
   for subdir, dirs, files in os.walk(r'.'):
     for filename in files:
       filepath = subdir + os.sep + filename
@@ -158,14 +159,14 @@ if __name__ == '__main__':
       (path, filename) = os.path.split(filepath)
       match = re.match(year_term_pattern, filename)
       if match and filename.endswith(".html"):
-        year = match.group(0)
-        term = match.group(1)
+        year = match.group(1)
+        term = match.group(2)
         issue = "{}-{}".format(year, term)
         logging.basicConfig(filename=issue+".log", encoding='utf-8', level=logging.DEBUG)
         logging.info("Found .html file: " + filepath)
   
         rootstalk_markdownify(filepath)
-        rootstalk_azure_media(year, term)
+        rootstalk_azure_media(year, term, filepath)
         rootstalk_make_articles(year, term)
 
       break  # stop search at first level

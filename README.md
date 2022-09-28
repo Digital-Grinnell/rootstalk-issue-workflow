@@ -85,19 +85,19 @@ The name given each _article_ **must be unique** within the corresponding _issue
 
   *Note that in _OneDrive_ file extensions are NOT displayed.  This is VERY annoying, but we will assume that what we found were indeed `.indd` and `.pdf` files, respectively.
 
-- Copied the two needed files to the local* copy of this repository on my workstation and renamed them to `spring-2022.indd` and `spring-2022.pdf`, respectively.  The files were placed in a `2022-spring` subdirectory of this local repository.
+- Copied the two needed files to the local* copy of this repository on my workstation and renamed them to `spring-2022.indd` and `spring-2022.pdf`, respectively.  
 
   - *Note that our `.gitignore` file contains entries designed to keep large files like these from finding their way into _GitHub_, so _temporary_ local copies of these files need to be carefully maintained!
 
-- Opened the `./2022-spring/2022-spring.indd` file using _InDesign_ as directed in the second bullet above under [Editing _Rootstalk_ for the Web](#export-indd), and created `./2022-spring/2022-spring-web-resources/issue.yml` as instructed above in [Editing _Rootstalk_ for the Web](#export-indd).
+- Opened the `./2022-spring.indd` file using _InDesign_ as directed in the second bullet above under [Editing _Rootstalk_ for the Web](#export-indd), and created `./2022-spring-web-resources/issue.yml` as instructed above in [Editing _Rootstalk_ for the Web](#export-indd).
 
-  - These actions created a new `./2022-spring/2022-spring.html` export and associated `2022-spring/2022-spring-web-resources` directory.
+  - These actions created a new `./2022-spring.html` export and associated `2022-spring-web-resources` directory.
 
-- All of the media files created in the `./2022-spring/2022-spring-web-resources/image` folder were uploaded to _Azure Blob Storage_, into a blob container named `rootstalk-2022-spring` and were subsequently removed from the local repository so as not to bloat _GitHub_ with unnecessary content.
+- All of the media files created in the `./2022-spring-web-resources/image` folder were uploaded to _Azure Blob Storage_, into a blob container named `rootstalk-2022-spring` and were subsequently removed from the local repository so as not to bloat _GitHub_ with unnecessary content.
 
-- Initiated creation of a new `issue.yml` file (see section [Issue.YML File](#issue-yml) above) by examining the table of contents in `./2022-spring/2022-spring.pdf` to identify articles and author names. 
+- Initiated creation of a new `issue.yml` file (see section [Issue.YML File](#issue-yml) above) by examining the table of contents in `./2022-spring.pdf` to identify articles and author names. 
 
-The subsequent `issue.yml` file describing the `2022-spring` issue of _Rootstalk_ reads like this:
+The subsequent `2022-spring.yml` file describing the `2022-spring` issue of _Rootstalk_ reads like this:
 
 ```yml
 year: 2022

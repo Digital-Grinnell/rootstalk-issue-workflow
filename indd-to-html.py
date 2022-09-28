@@ -1,3 +1,5 @@
+# indd-to-html.py
+
 import os
 import sys
 import re
@@ -168,4 +170,4 @@ if __name__ == '__main__':
 
       break  # stop search at first level
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# See VSCode Python setup at https://blog.summittdweller.com/posts/2022/09/proper-python/

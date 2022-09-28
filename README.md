@@ -128,6 +128,7 @@ Engaging the workflow for the Spring 2022 issue (`2022-spring`) looked something
     - horan
     - kessel
     - henry
+    - buck
     - lewis-beck
     - burt
     - taylor

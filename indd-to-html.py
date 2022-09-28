@@ -74,6 +74,7 @@ def rootstalk_azure_media(year, term, filepath):
 
       previous_blank = False
 
+      ### THIS LOGIC NEEDS WORK !!! ###
       for line in lines:
         match_image = re.match(image_pattern, line)
         match_header = re.match(header_pattern, line)
@@ -83,11 +84,11 @@ def rootstalk_azure_media(year, term, filepath):
           previous_blank = False
         elif match_header:  # skip page headers
           previous_blank = True
-        elif previous_blank and len(line) == 0:  # skip redundant blank lines
+        elif len(line) <= 2:  # skip redundant blank lines... \n may be present
           previous_blank = True
         else:
           print(line, file=azure_md)  # write the line out
-          if len(line) == 0:
+          if len(line) <= 2:
             previous_blank = True
           else:
             previous_blank = False

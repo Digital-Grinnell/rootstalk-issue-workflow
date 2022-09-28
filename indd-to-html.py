@@ -5,6 +5,7 @@ import sys
 import re
 import yaml
 import logging
+import glob
 from datetime import datetime
 from markdownify import markdownify as md
 
@@ -51,48 +52,49 @@ def rootstalk_markdownify(filepath):
 
 
 def rootstalk_azure_media(year, term, filepath):
-  ytmd = "{}-{}.md".format(year, term, year, term)
+  # ytmd = "{}-{}.md".format(year, term, year, term)
+  ytmd = filepath.replace(".html", ".md")
 
   # Open the issue's year-term.md file...
   logging.info("Attempting to open markdown file: " + ytmd)
   with open(ytmd, "r") as issue_md:
-    azure_path = "{}-{}-azure.md".format(year, term)
+    # azure_path = "{}-{}-azure.md".format(year, term)
+    azure_path = filepath.replace(".html", "-azure.md")
   
-    # Open and read the issue's year-term.md file...
-    with open(filepath, "r") as issue_md:
-      logging.info("Creating new Azure .md file at '{}'.".format(azure_path))
-      # Open and write a new year-term-azure.md file...
-      with open(azure_path, "w") as azure_md:
-        lines = issue_md.readlines()
+    logging.info("Creating new Azure .md file at '{}'.".format(azure_path))
 
-        # Clean-up...
-        # - translate any year-term-web-resources folder references to new Azure format.
-        # - remove all repeated blank lines (reduces whitespace)
-        # - remove any line that entirely matches the pattern:  ^.+ | .+$
+    # Open and write a new year-term-azure.md file...
+    with open(azure_path, "w") as azure_md:
+      lines = issue_md.readlines()
 
-        previous_blank = False
+      # Clean-up...
+      # - translate any year-term-web-resources folder references to new Azure format.
+      # - remove all repeated blank lines (reduces whitespace)
+      # - remove any line that entirely matches the pattern:  ^.+ | .+$
 
-        for line in lines:
-          match_image = re.match(image_pattern, line)
-          match_header = re.match(header_pattern, line)
-          if match_image:  # transform image references
-            new_line = replacement.replace("xPIDx", match_image.group(1))
-            print(new_line, end='\n', file=azure_md)
-            previous_blank = False
-          elif match_header:  # skip page headers
-            previous_blank = True
-          elif previous_blank and len(line) == 0:  # skip redundant blank lines
+      previous_blank = False
+
+      for line in lines:
+        match_image = re.match(image_pattern, line)
+        match_header = re.match(header_pattern, line)
+        if match_image:  # transform image references
+          new_line = replacement.replace("xPIDx", match_image.group(1))
+          print(new_line, end='\n', file=azure_md)
+          previous_blank = False
+        elif match_header:  # skip page headers
+          previous_blank = True
+        elif previous_blank and len(line) == 0:  # skip redundant blank lines
+          previous_blank = True
+        else:
+          print(line, file=azure_md)  # write the line out
+          if len(line) == 0:
             previous_blank = True
           else:
-            print(line, file=azure_md)  # write the line out
-            if len(line) == 0:
-              previous_blank = True
-            else:
-              previous_blank = False
+            previous_blank = False
 
 
-def rootstalk_make_articles(year, term):
-  ytyml = "{}-{}.yml".format(year, term)
+def rootstalk_make_articles(year, term, filepath):
+  ytyml = filepath.replace(".html", ".yml")
   
   # Look for a year-term.yml file...
   if not os.path.exists(ytyml):
@@ -100,13 +102,8 @@ def rootstalk_make_articles(year, term):
   else:
     logging.info("Processing the {} file.".format(ytyml))
         
-    # Check for corresponding .html and -azure.md files in the same directory
-    html_file = '{}-{}{}'.format(year, term, '.html')
-    azure_md = '{}-{}{}'.format(year, term, '-azure.md')
-    if not os.path.exists(html_file):
-      logging.error(
-            "ERROR: No HTML file '{}' found! You may need to export HTML from InDesign before proceeding.".format(
-              html_file))
+    # Check for corresponding -azure.md file in the same directory
+    azure_md = filepath.replace(".html", "-azure.md") 
     if not os.path.exists(azure_md):
       logging.error(
             "ERROR: No Azure-formatted markdown file '{}' found! You may need to run the 'rootstalk_azure_media' scripts before proceeding.".format(
@@ -124,7 +121,8 @@ def rootstalk_make_articles(year, term):
           
       # Read each article name/index and create a new article_index.md file if one does not already exist
       for name in yml["articles"]:
-        md_path = '{}-{}-web-resources/{}-{}-{}.md'.format(year, term, year, term, name)
+        web_resources = '-web-resources/{}.md'.format(name)
+        md_path = filepath.replace(".html", web_resources)
         logging.info("Creating article markdown file '{}'...".format(md_path))
         if os.path.exists(md_path):
           logging.warning(
@@ -150,24 +148,24 @@ def rootstalk_make_articles(year, term):
 # Main...
 if __name__ == '__main__':
   
-  # Iterate over the working directory tree subdirectories
-  ### Replace with glob...
-  for subdir, dirs, files in os.walk(r'.'):
-    for filename in files:
-      filepath = subdir + os.sep + filename
+  # Iterate over the working directory tree + subdirectories for {year}-{term}.html files
+  # Using '*.html' pattern recursively
+  for filepath in glob.glob('**/*.html'):
+    
       # Looking for year-term.html files...
       (path, filename) = os.path.split(filepath)
       match = re.match(year_term_pattern, filename)
-      if match and filename.endswith(".html"):
+      if match: 
         year = match.group(1)
         term = match.group(2)
         issue = "{}-{}".format(year, term)
-        logging.basicConfig(filename=issue+".log", encoding='utf-8', level=logging.DEBUG)
+        logfile = filepath.replace(".html", ".log")
+        logging.basicConfig(filename=logfile, encoding='utf-8', level=logging.DEBUG)
         logging.info("Found .html file: " + filepath)
   
         rootstalk_markdownify(filepath)
         rootstalk_azure_media(year, term, filepath)
-        rootstalk_make_articles(year, term)
+        rootstalk_make_articles(year, term, filepath)
 
       break  # stop search at first level
 

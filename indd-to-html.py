@@ -69,29 +69,20 @@ def rootstalk_azure_media(year, term, filepath):
 
       # Clean-up...
       # - translate any year-term-web-resources folder references to new Azure format.
-      # - remove all repeated blank lines (reduces whitespace)
       # - remove any line that entirely matches the pattern:  ^.+ | .+$
 
-      previous_blank = False
-
-      ### THIS LOGIC NEEDS WORK !!! ###
       for line in lines:
         match_image = re.match(image_pattern, line)
         match_header = re.match(header_pattern, line)
         if match_image:  # transform image references
           new_line = replacement.replace("xPIDx", match_image.group(1))
           print(new_line, end='\n', file=azure_md)
-          previous_blank = False
-        elif match_header:  # skip page headers
-          previous_blank = True
-        elif len(line) <= 2:  # skip redundant blank lines... \n may be present
-          previous_blank = True
-        else:
+        elif not match_header:  # skip page headers
           print(line, file=azure_md)  # write the line out
-          if len(line) <= 2:
-            previous_blank = True
-          else:
-            previous_blank = False
+
+      # Now, remove all repeated blank lines (reduces whitespace)
+      contents = azure_md.read( )
+      re.sub(r'\n\s*\n', '\n\n', contents)
 
 
 def rootstalk_make_articles(year, term, filepath):

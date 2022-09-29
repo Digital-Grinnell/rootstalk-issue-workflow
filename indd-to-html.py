@@ -12,7 +12,7 @@ from markdownify import markdownify as md
 file_pattern = r"^\d{4}-(spring|fall)\.md$"
 year_term_pattern = r"(\d{4})-(spring|fall)"
 image_pattern = r".{3}\(.+/image/(.+)\)$"
-header_pattern = r"^.+ | .+$"
+header_pattern = r"^Rootstalk \| .+$"
 replacement = '{{% figure_azure pid="xPIDx" caption="" %}}'
 
 frontmatter = '---\n' \
@@ -80,11 +80,13 @@ def rootstalk_azure_media(year, term, filepath):
         elif not match_header:  # skip page headers
           print(line, file=azure_md)  # write the line out
 
-    # Now, remove all repeated blank lines (reduces whitespace)
-    with open(azure_path, "+") as azure_md:
-      contents = azure_md.read( )
-      stripped = re.sub(r'\n\s*\n', '\n\n', contents)
-      azure_md.writelines(stripped)
+  # Now, remove all repeated blank lines (reduces whitespace)
+  with open(azure_path, "r+") as azure_md:
+    contents = azure_md.read( )
+    # stripped = re.sub(r'^$\n', '', contents, flags=re.MULTILINE)
+    stripped = re.sub(r'\n\s*\n', '\n\n', contents)
+    azure_md.seek(0)  # rewind the file
+    azure_md.writelines(stripped)  # write the stripped version
 
 
 def rootstalk_make_articles(year, term, filepath):

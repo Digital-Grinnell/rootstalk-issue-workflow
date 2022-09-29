@@ -80,9 +80,11 @@ def rootstalk_azure_media(year, term, filepath):
         elif not match_header:  # skip page headers
           print(line, file=azure_md)  # write the line out
 
-      # Now, remove all repeated blank lines (reduces whitespace)
+    # Now, remove all repeated blank lines (reduces whitespace)
+    with open(azure_path, "+") as azure_md:
       contents = azure_md.read( )
-      re.sub(r'\n\s*\n', '\n\n', contents)
+      stripped = re.sub(r'\n\s*\n', '\n\n', contents)
+      azure_md.writelines(stripped)
 
 
 def rootstalk_make_articles(year, term, filepath):

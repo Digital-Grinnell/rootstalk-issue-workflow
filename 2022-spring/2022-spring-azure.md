@@ -36,7 +36,7 @@ centers/prairie-studies) (https://www.grinnell.edu/academics/
 
 centers/prairie-studies).
 
-\*All references appear in Endnotes in the back of the issue.
+*All references appear in Endnotes in the back of the issue.
 
 {{% figure_azure pid="Andelson-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
@@ -44,7 +44,7 @@ Photo courtesy of Jon Andelson
 
 Publisher’s Note:
 
-The Stories We Tell\*
+The Stories We Tell*
 
 by Jon Andelson
 
@@ -596,7 +596,7 @@ Woodpeckers of the Prairie:
 
 Red-Headed 
 
-Woodpecker\*
+Woodpecker*
 
  Melanerpes erythrocephalus
 
@@ -604,7 +604,7 @@ The red-headed woodpecker is characterized by its bright-red head, neck, throat,
 
 Red-headed woodpeckers live from the central to eastern United States, and in the lower tip of Canada. They are small compared to some other species within the same family. Their diet consists of a wide variety of insects, spiders, earthworms, nuts, seeds, berries, wild and cultivated fruit and occasional small mammals. Red-headed woodpeckers are also known to eat the young or the eggs from the nests of bluebirds and house sparrows, and they sometimes even consume bark. They prefer open woodlands, forest edges, clearings, and habitats with few tall, large-diameter trees. You can find these birds in river bottoms, open woods, orchards, parks, savannas, and prairies. Red-headed woodpeckers do not migrate in winter, but prefer mature forests containing larger, older trees where they can find an abundance of food, most notably acorns.
 
-\*You’ll find the other “Woodpeckers of the Prairie” featured in this issue on pages [insert pages here].
+*You’ll find the other “Woodpeckers of the Prairie” featured in this issue on pages [insert pages here].
 
 {{% figure_azure pid="O'Brien-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
@@ -742,13 +742,13 @@ Photo courtesy of Jeremy chen
 
 Jeremy Chen is an artist and educator based in Grinnell, Iowa. He holds an MFA in Printmaking with area specialization in Sculpture from the The University of Iowa. (https://uiowa.edu). He currently teaches at Grinnell College (https://grinnell.edu)where he is a Senior Lecturer in Studio Art and chair of American Studies.
 
-\*All references appear in Endnotes in the back of the issue.
+*All references appear in Endnotes in the back of the issue.
 
 Grow Finish Unit 
 
 Takes on “Ruthless and Insatiable” 
 
-Industrial Ag\* 
+Industrial Ag* 
 
 by Jeremy Chen
 
@@ -1186,7 +1186,7 @@ Huelskamp: [For a while] I tried to market myself and join other bands and there
 
  Vargas: I was really into this solo artist named Dayglow (https://dayglowband.com), and this guy puts out this song “Can I Call You Tonight?” (https://dayglowband.bandcamp.com/track/can-i-call-you-tonight) in 2018 before we even had a full-length album. And he instantly blows up. He is also from Austin, Texas, and he just mixes and produces all these songs by himself. Now, a year later, he’s already playing festivals and headlining. He did what he loved, and he blew up from it so quick. Considering that he’s from Texas, you know, just like all of us, I feel like I can be like that guy or I feel like we can make something and, you know, get some kind of traction like he did. Because he had a bunch of supporters from his family and friends that pretty much helped him make music videos and his music, and look where he’s at now. 
 
-Morales: Back when I was in kindergarten, I [forgot] my baseball cards for show and tell, and everyone said, well, sing a song. So I did a Beatles song. That’s the first time I ever thought, “Okay, this is cool,” because people were clapping and I thought, “Okay, nice.” But yeah, I just always wanted to make music. And I did. I made a little solo project, just me, and I did all kinds of [stuff] to it. It was just experimenting. And I love bands like Modest Mouse and I like Mac Miller a lot and indie bands, [I could] just list a bunch. But…these guys [in Blossom Aloe] inspired me as well. Josh is a good producer. Henry is, like, f\*\*\*ing amazing at guitar. Aaron is just a god at bass, and Jafet has this energy that, you know, Jafet, he’s just very outgoing and it’s like, okay, I can be that as well. Josh challenges me [and I ask myself], okay, can I play this beat? Can I keep up? So it’s things like that. I’m just very grateful to be part of it. 
+Morales: Back when I was in kindergarten, I [forgot] my baseball cards for show and tell, and everyone said, well, sing a song. So I did a Beatles song. That’s the first time I ever thought, “Okay, this is cool,” because people were clapping and I thought, “Okay, nice.” But yeah, I just always wanted to make music. And I did. I made a little solo project, just me, and I did all kinds of [stuff] to it. It was just experimenting. And I love bands like Modest Mouse and I like Mac Miller a lot and indie bands, [I could] just list a bunch. But…these guys [in Blossom Aloe] inspired me as well. Josh is a good producer. Henry is, like, f***ing amazing at guitar. Aaron is just a god at bass, and Jafet has this energy that, you know, Jafet, he’s just very outgoing and it’s like, okay, I can be that as well. Josh challenges me [and I ask myself], okay, can I play this beat? Can I keep up? So it’s things like that. I’m just very grateful to be part of it. 
 
 Huelskamp: [In my] first musical memory I was riding in the car with my dad, listening to Incubus, which is like some band from the nineties. I owe a lot to that, just listening to music with my dad and going to shows with him when I was a kid. Just growing up around music. I’m grateful that my parents got me lessons when I was eight years old and got me an electric guitar when I was ten. So, things like that contributed to [what I’m doing today]. 
 

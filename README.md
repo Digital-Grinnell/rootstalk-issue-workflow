@@ -84,9 +84,10 @@ Engaging the workflow for the Spring 2022 issue (`2022-spring`) looked something
       - `Edited InDesign files`
         - `Interactive version`
           - many individual article files
-          - `volume-viii-issue-1-spring-2022`   <-- This is the file I need!
+          - `volume-viii-issue-1-spring-2022`   <-- This file appears to be INCOMPLETE!
         - `Print version`
           - many individual article files
+          - `volume-viii-issue-1-spring-2022-print-version`  <-- This is the file I need!
     - `PDFs`
       - `Draft version PDFs`
       - `Edited version PDFs`

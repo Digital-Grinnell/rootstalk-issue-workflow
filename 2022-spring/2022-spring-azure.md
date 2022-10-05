@@ -20,7 +20,11 @@ Rootstalk is committed to promoting open expression and is hosted on
 
  Grinnell’s Digital Grinnell server.
 
-A note on this issue’s multimedia features: In addition to this “print-friendly” number of Rootsatalk, we’ve created an interactive multimedia version of the issue. In order to access all the media in this interactive issue—including content featuring hyperlinks—you’ll need to download the interactive PDF version and, once you’ve done so, open it using the Adobe Acrobat Reader. You'll find a link you can use to download the interactive PDF at the bottom of the page at [https://rootstalk.grinnell.edu](http://).  If you don’t already have the Adobe Acrobat Reader installed on your computer, you can download a trial copy at https://acrobat.adobe.com.
+A note on this issue’s multimedia features: In addition to this “print-friendly” number of Rootstalk, we’ve created an interactive multimedia PDF of the issue, which you can download at https://rootstalk.grinnell.edu. Interactive issues of Rootstalk include content featuring hyperlinks and—occasionally—embedded audio and video files, including short film, computer animations and graphics, and our podcast, “RootsTalk!” 
+
+To access these features, you’ll need to have the Adobe Acrobat Reader running on your computer. If you don’t already have the software installed, you can download a trial copy at https://acrobat.adobe.com.
+
+You can also use the Rootstalk link (https://rootstalk.grinnell.edu) to read all the content for this and past issues of the journal online.
 
 Grinnell alumnus Keith Kozloff  took the photograph we're featuring on the cover of this issue. It’s titled “Hiking with Frank.” 
 
@@ -54,7 +58,7 @@ One bright spring morning nearly twenty-five years ago I was sitting with some c
 
 During the coffee break that followed the session I found myself sitting outside with my friend Jackie Brown, a member of the Biology Department (https://www.grinnell.edu/academics/majors-concentrations/biology), who had been in a different breakout session. I decided to share with Jackie what I’d just heard and how it had made me feel. Somewhat to my surprise he said, “I heard the same thing in my group, and it pissed me off, too.” 
 
-“It’s not as if the college is going to move,” I said.
+“It’s not as if the College is going to move,” I said.
 
 “They should settle in and get to know the place,” Jackie said. 
 
@@ -82,6 +86,8 @@ In this issue of Rootstalk, and every issue, we offer stories about the prairie 
 
 Postscript: This issue of Rootstalk contains photography by Keith Kozloff on the covert and a song by Emma Kieran Schaefer. 
 
+Publisher’s Note | Andelson
+
 {{% figure_azure pid="Andelson-2-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
 Image Courtesy of Grinnell College’s Center for Prairie Studies
@@ -90,9 +96,101 @@ Image Courtesy of Grinnell College’s Center for Prairie Studies
 
 Janus, Roman god of doorways, gates and transitions. Image courtesy of Wikimedia Commons 
 
+Publisher’s Note | Andelson
+
 {{% figure_azure pid="Andelson-4-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
 John Everett Millais, “The Boyhood of Raleigh” (1870), from the collection of the Tate Gallery, London. Image courtesy of Wikimedia Commons 
+
+{{% figure_azure pid="agpoon-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+All images courtesy of the author, unless otherwise noted
+
+Hannah Agpoon ‘22 graduated from Grinnell College, redeiving her BA in Studio Art with an Environmental Studies concentration. She is from Wauwatosa, Wisconsin (https://www.wauwatosa.net), the land of fireflies, and is proud to call the prairie region home. Many of Agpoon’s best memories growing up are from going on long camping trips with her family and friends and playing outside at her grandparent’s farm. In addition to her love of the outdoors, Agpoon loves crafting, candy, and Tetris. 
+
+Periodically, we like to allow one of our Associate Editors to take over the Editor’s column for an issue. We thought Hannah’s extraordinary re-imagining of the prairie’s changing seasonal colors deserved such a recognition. 
+
+Mark Baechtel, Editor-in-chief
+
+If a fountain could jet bouquets of chrome yellow in dazzling arches of chrysanthemum fireworks, that would be Canada Goldenrod. Each three-foot stem is a geyser of tiny gold daisies, ladylike in miniature, exuberant en masse. Where the soil is damp enough, they stand side by side with their perfect counterpart, New England Asters. Not the pale domesticates of the perennial border, the weak sauce of lavender or sky blue, but full-on royal purple that would make a violet shrink. The daisylike fringe of purple petals surrounds a disc as bright as the sun at high noon, a golden-orange pool, just a tantalizing shade darker than the surrounding goldenrod. Alone, each is a botanical superlative. Together, the visual effect is stunning. Purple and gold, the heraldic colors of the king and queen of the meadow, a regal procession in complementary colors.  
+
+Robin Wall Kimmerer, Braiding Sweetgrass, 
+
+page 38-39 
+
+In this passage from a chapter entitled “Asters and Goldenrod” in Braiding Sweetgrass (https://milkweed.org/book/braiding-sweetgrass), one of my favorite books, Robin Wall Kimmerer grapples with the relationship between artistic beauty and scientific understanding of nature. In thinking about Kimmerer’s description of the intertwining of colors of prairie plants, I became interested in the intricacies of color and life present on the prairie. Many view the prairie region of the United States as “flyover country,” deeming the region uninteresting, flat, and monotonous. With this project, I aim to illustrate the raw beauty, diversity, and color of prairie flora using a series of abstract landscapes, created with color swatches derived from plants present during a given month.
+
+{{% figure_azure pid="august_square.jpg" caption="" %}}
+
+Editor’s Note:
+
+Exploring the Prairie’s 
+
+Palette from Spring to Fall
+
+by Hannah Agpoon
+
+Editor’s Note | Agpoon
+
+{{% figure_azure pid="Agpoon-2-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+{{% figure_azure pid="Agpoon-3-volume-viii-issue-1-spring-2022.png" caption="" %}}
+
+Photos by Jon Andelson
+
+Having grown up in the prairie region, I have seen how plant life on the prairie shifts in color and variety with the rounding of the seasons. To undertake an artistic exploration of those changes, during a time of the year before the colors began to appear, I turned to images of the prairie in a field guide, Wildflowers of the Tallgrass Prairie (https://www.uipress.uiowa.edu/books/9781587297960/wildflowers-of-the-tallgrass-prairie) by Sylvan Runkel and Dean Roosa, and in a short film, “Prairie Through the Seasons,” (rtsp://lib-stream.grinnell.edu/CERA/PTTS.mov) produced by Grinnell College’s Center for Prairie Studies. I also enlisted the help of avid nature photographer and prairie farmer, Carl Kurtz, who kindly allowed me to interview him about the plants that grow on his prairie in Marshall County, Iowa. I examined individual plant species and swatched the colors of both their stems and seed heads or flowers, mixing acrylic paint and ordering the swatches randomly in a sketchbook. I later photographed my pages of color swatches and cropped colors down into individual squares, arranging them digitally to create compositions representing the colors of the prairie in each month of the growing season. I hope that my “Palette of the Prairie” leads viewers to think about the beauty and variety of life present within the prairie and how that beauty is ever-changing.![](2022-spring-web-resources/image/1.png)
+
+{{% figure_azure pid="Agpoon-4-volume-viii-issue-1-spring-2022.png" caption="" %}}
+
+{{% figure_azure pid="Agpoon-5-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+The prairie was gray and drab, no beautiful flowers brightened it, it had only dull greenish-gray herbs and grasses, and Mother Earth’s heart was sad because her robe was lacking in beauty and brightness. Then the Holy Earth, our mother, sighed and said: ‘Ah, my robe is not beautiful, it is somber and dull. I wish it might be bright and beautiful with flowers and splendid with color. I have many beautiful, sweet and dainty flowers in my heart. I wish to have them upon my robe. I wish to have upon my robe flowers blue like the clear sky in fair weather. I wish also to have flowers white like the pure snow of winter and like the high white cloudlets of a quiet summer day. I wish also to have brilliant yellow flowers like the splendor of the sun at noon of a summer day. And I wish to have delicate pink flowers like the color of the dawn light of a joyous day in springtime. I would also have flowers red like the clouds at evening when the sun is going down below the western edge of the world.
+
+Melvin R. Gilmore, Prairie Smoke 
+
+(https://www.amazon.com/Prairie-Smoke-Mel
+
+vin-R-Gilmore/dp/0873512073), page 201  
+
+{{% figure_azure pid="Agpoon-6-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+May
+
+{{% figure_azure pid="Agpoon-7-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+June
+
+{{% figure_azure pid="Agpoon-10-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+{{% figure_azure pid="Agpoon-8-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+July
+
+September
+
+{{% figure_azure pid="Agpoon-9-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Our language does not distinguish green from green. It is one of the ways in which we have declared ourselves apart from nature. In nature, there is nothing so impoverished of distinction as simply the color green. There are greens as there are grains of sand, an infinitude of shades and gradations of shades, of intensities and brilliancies. Even one green is not the same green. There is the green of dawn, of high noon, of dusk. There is the green of young life, of maturity, of old age. There is the green of new rain and of long drought. There is the green of vigor, the green of sickness, the green of death. One could devote one’s life to a study of the distinctions in the color green and not yet have learned all there is to know. There is a language in it, a poetry, a music. We have not stopped long enough to hear it. 
+
+Paul Gruchow, Journal of a Prairie Year
+
+(https://milkweed.org/book/journal-of-a-
+
+prairie-year), page 80
+
+August
+
+{{% figure_azure pid="Editors-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+The editorial staff for the Spring 2022 issue of Rootstalk. First row, from left to right: Editor-in-chief Mark Baechtel, Associate Editors Liz Neace, Taylor Kingery, Kendra Bradley, Harrison Kessel, Publisher Jon Andelson. Back row, from left to right: Carlie Duus, Xonzy Gaddis, Hannah Agpoon, Mikayla Trissell, Ian MacMoran. Absent from the photo are Associate Editors Robby Burchit, Avery Hootstein, Zainab Thompson, and Fernando Villatoro-Rodriguez. Photo courtesy of Jon Andelson
+
+The Editors
+
+Kanis Painting | Woodward
+
+{{% figure_azure pid="Woodward-Kanis_Painting-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+“Kanis Painting” by Tilly Woodward. 
 
 {{% figure_azure pid="TOC-volume-viii-issue-1-spring-2022.png" caption="" %}}
 
@@ -528,6 +626,8 @@ In the moment I had felt at peace, basking in the quiet with the other students 
 
 Despite the fact that the Midwest is a far better place to stargaze than my hometown, bigger urban centers like Chicago or the Twin Cities show that the Midwest is by no means immune to light pollution. People like Cadmus, Paulson, and Johnson are putting in hard work to protect the Midwestern skies as much as possible, but it’s going to take a lot more than just them to make a dent. The more people that join the movement to protect one of our most overlooked natural resources, the longer we’ll be able to save it for future generations to enjoy.![](2022-spring-web-resources/image/1.png)
 
+Dark Skies or Light in My Eyes | Thompson
+
 {{% figure_azure pid="Thompson-2-Lew-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
 Watching a meteor shower from a field near Grinnell College’s Grant Gale Observatory. Photo by Scott Lew (https://instagram.com/bellagio3?igshid=YmMyMTA2M2Y=)
@@ -538,6 +638,8 @@ Image of Comet Hale-Bopp taken by Bob Cadmus from the Gale Observatory in 1997. 
 
 () 
 
+Dark Skies or Light in My Eyes | Thompson
+
 {{% figure_azure pid="Thompson-4-volume-viii-issue-1-spring-2022.png" caption="" %}}
 
 {{% figure_azure pid="Thompson-5-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
@@ -547,6 +649,8 @@ Light pollution can be mitigated by replacing lights whose translucent globes la
 {{% figure_azure pid="Thompson-6-volume-viii-issue-1-spring-2022.png" caption="" %}}
 
 A map depicting the zenith sky brightness, as measured by the World Atlas in 2015. Point 1 is the location of the author’s home in Dallas, GA. Point 2 is the location of the Grinnell College soccer field where she watched the Perseid meteor shower. Point 3 is the location of Merritt Reservoir, where the Nebraska Star Party holds its annual event. Image Credit: lightpollutionmap.info (https://www.lightpollutionmap.info). 
+
+Dark Skies or Light in My Eyes | Thompson
 
 {{% figure_azure pid="Thompson-7-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
@@ -561,6 +665,106 @@ On August 10, 2020, a derecho with winds up to 120 mph (https://www.washingtonpo
 {{% figure_azure pid="Thompson-10-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
 Visitors stand beneath the Milky Way at Grinnell College’s Conard Environmental Research Area (CERA; https://www.grinnell.edu/academics/majors-concentrations/biology/facilities/cera). Photo courtesy of Justin Hayworth
+
+{{% figure_azure pid="MacMoran-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Author photo
+
+Photo courtesy of Ian MacMoran
+
+Associate editor Ian MacMoran ‘24 is a second-year student at Grinnell College,majoring in Studio Art. He grew up on the East Coast, living in the city and suburbs of Philadelphia. While he’s still not certain what path he wants to travel academically, he plans to pursue film, creative writing, and other forms of creative expression.
+
+Finding Home on the Prairie
+
+by Ian MacMoran
+
+Moving to Iowa was a culture shock. Until my first year at Grinnell, I’d spent my entire life living in Philadelphia. Even though a lot of that time was spent in the Philadelphia suburbs, the area was nothing like Iowa. In Iowa, everything seemed different: the large and empty fields, the houses, the clear night sky. At home, any fields as large as those I’ve seen in Iowa were either used for parks or converted into golf courses. The tract housing surrounding Grinnell doesn’t resemble the type of home architecture I would frequently see back in Philadelphia. Regarding the night sky, at home I’d be lucky to see even a few stars, while here, I see more stars than I could ever count. 
+
+I also find Grinnell quite different socially. To start, I found myself knowing no one and had to make a new social circle for myself. Through this process, I was able to learn more about many different people. Take for example one of my good friends. While growing up outside of Atlanta, in a deeply religious family, he was not able to express himself as who he really is. After coming to Grinnell, he came out as gay and has been able to find himself in ways he never could have outside of Grinnell. Originally, stories like these and others from different friends moved me to create poems about how Grinnell has changed people. But while Grinnell College is a wonderful place in many ways, it doesn’t do a great job at representing the prairie region. The College is filled with students and faculty from all over the world. This creates a social environment vastly different from one you’d find a few miles down the road in any direction. Although a lot of my time has been spent within the College, I have spent some time outside its social environment. Whenever I’ve gone to a restaurant or store in Iowa, the norm is for people to behave with kindness. People can be kind in Philadelphia too, but that kindess isn’t a given as it is in Iowa. 
+
+While my friends and I have been able to become comfortable with the Iowa norm, and even to express ourselves in ways we never could have outside of Grinnell, I wouldn’t say that we have made ourselves at home here. In truth, I’ve rarely thought about the prairie region surrounding me—something that working as an Associate Editor for Rootstalk has forced me to reconsider. 
+
+What does it take to find a sense of home in the prairie region? To answer this question, I decided to talk to four individuals who moved to Grinnell from outside the prairie region to take jobs at Grinnell College and, in the process, discovered a sense of home here. I asked them how they found a connection to this place. I asked how long that took, what the ways were in which they discovered this new sense of belonging, and whether this sense was, in their experience, unique to the prairie? Lastly, I asked if, after living in region for years, they considered themselves to be “locals.” 
+
+In order to gain these insights, I interviewed Chris Hunter (CH), Sigmund Barber (SB), Betty Moffett (BM), and Sandy Moffett (SM). All four have now spent over half of their lives on the prairie, and have now retired in Grinnell. Here’s what they said: 
+
+Rootstalk: Where are you from originally and what is it like there? 
+
+CH: I grew up in northern New Jersey. Northern New Jersey is sort of a suburb of New York City. You go from one town to the next and you have no idea you left one and entered another except maybe the houses are more expensive. The town I grew up in was just like that: one of the middle-class towns right next to the really rich ones. Coming to Grinnell itself was a bit of a shock. I realized, “Wait, I know exactly where the end of the town is here because there’s a cornfield there.” Some people got really upset by that, but I liked it. I appreciated knowing where things ended.
+
+SB: [I was born in] Austria, but I’ve lived in many places. My stepfather was in the military, so I’ve lived in California, Kentucky, Colorado, but mainly Germany. When I was eighteen, I came to the United States for college and lived in Upstate New York for ten years before moving here. I enjoyed moving around. It wasn’t difficult for me. I never found it difficult to make friends so I would make new friends wherever I was and could adjust very easily. I enjoyed all the places except for Kentucky. With all the moving and the culture of the military, I had never encountered racism. It really bothered me. I wanted to go play with some new friends I made, and I was told I couldn’t. I couldn’t understand why this was the way it was.
+
+SM: North Carolina. It’s a great state. It has the ocean and the mountains. At that particular time, it was quite liberal, so we enjoyed the political atmosphere when we lived in Chapel Hill for a while. When we came here, we didn’t want to leave North Carolina. I didn’t want to come here, and I didn’t want to stay here. My idea was to come here until I could find a comparable job in North Carolina. 
+
+BM: When we first got here, I thought I was going to fall off the earth because all the trees were gone. But now when we go back to North Carolina I feel a little claustrophobic. I’ll always love North Carolina, but do I miss it anymore? No.
+
+Rootstalk: What did you first notice about the prairie countryside when you moved? 
+
+CH: We didn’t travel out of town very much. We did go to Des Moines some, and I remember that one of the things that struck both my wife and me was that you drive to Des Moines or Iowa City and there’s nothing between here and there but fields. At first, I thought that was really ugly, especially in the fall, but I’ve since grown to appreciate the variations of brown in the countryside. Living on the prairie was not my life before then. It is now. The rolling countryside was something I really got to like. I was just noticing the colors when we came into town the other day and the variations in slight tinting of green now, which I didn’t notice. Back home we had noticed it in the trees, but here it’s somehow more subtle. 
+
+SB: Well, it was definitely different in many respects to what I had experienced before. I spent a lot of my first month when we arrived in August sitting on the front porch of the house we rented. When storms came through, which they did in August, I was fascinated by the openness of the sky and the lightning storms. The power of nature, which had always interested me, was in full display. This was something I’d never experienced before. I mean we had lived in rural areas, but nothing with the sky this big where you could observe the things that were going on. I was fascinated just sitting there watching the lightning go from cloud to cloud. It was the same thing for me when we had tornado warnings. It was hard for me to go to the basement because I wanted to see it, which was not a good idea.
+
+SM: We lived in the country and almost immediately became aware of the landscape. It was different. The fields were much more ragged than they are now. There were bushes in the fence rows and the gullies. A lot of those have disappeared with new farming practices. But I became aware of the landscape. I realized it was a really rich landscape with lots of wildlife and lots of interesting things. There were probably more birds and animals here than there were in North Carolina even with all those woods and trees. It was a little-by-little incremental thing.
+
+BM: It looked ragged at first. My father always thought that the prairie and anything that looked like the prairie was weeds. He came here a few times. He liked the fact that the corn grew as high as it did. One day we were walking, and he looked out across the prairie. That day, the wind was blowing, and he said, ‘It looks like an animal’s hide.’ It’s rich and full of deep colors. Also, we came from North Carolina in 1971, and then integration and segregation were a big deal. One of the things that was amazing to us when we came here was that it wasn’t present. I remember going to a gathering and one of the women asked me if coming from the South I was concerned about integration. I told her no, and then she let me know that segregation wouldn’t be a problem here. Coming from the South, being able to see integration and a lack of segregation was astonishing. Something else I noticed is that people were very kind. It wasn’t a Southern kind, not, ‘oh come on over to our house right now and I’ll give you a big hug.’ Rather, it was genuinely kind. One time I had the flu, and a woman from across the street brought me ginger ale and apple sauce. I think it saved my life. This woman didn’t know me, but she helped me anyway.
+
+Rootstalk: In what ways did you integrate yourselves into the community? 
+
+CH: My wife was strongly committed to public education. I got involved in MICA (Mid-Iowa Community Action, a local agency that works with families in need). I was on the board for a long time. And now I’m on the Grinnell Area Arts Council. We’re a part of the community so we wanted to do things. College faculty who live here get asked a lot to get involved. But I also feel a commitment. That was different. I hadn’t felt a commitment to where I lived before. I lived in the town. That was it. I didn’t even go to school in that town. I didn’t feel a connection [in New Jersey], and I had one now. After a while we branched out and we got to know people partly through church. We joined in part just to become more involved in the community. Some of those friends are still friends of mine. Those are the batches of friends we still have after all these years. I’m not even a religious person, but Grinnell is [a religious community]. We knew that one of the strong ways of connecting to the community was through the social world of the church. We picked St. Paul’s Episcopal Churchbecause it’s politically more palatable for us. It was initially in large part because of our kids. We wanted our kids to have the experience of being a part of the community and be seen as normal. Back then and maybe even now it was normal to be a part of a church. We got to know great people, so that was really important. But it wasn’t faith-based motivation on my part.
+
+SB: I can’t remember how quickly it happened, but I became very active in the community and still am. I developed friendships with people not associated with the College. Eventually I was asked to be on various committees and boards and things like that. I had no problems assimilating into the community, which was a source of immense satisfaction to me. I became part of the community but not just the College community, but also the Grinnell community. I was able to navigate between these two cultures. Many of my College friends live in the community of Grinnell but are not an integral part of the community. They never went outside of the College culture, which is too bad because there’s something lacking there. At the time in Grinnell, there were restaurants, but not as many as there are now. Because of this, our group created an international dinner club. We would meet once a month and focus on one particular culture. We would drive to Des Moines and get authentic ingredients. 
+
+There also used to be something called Town and Gown, which was a fundraising effort between the College and the community. I was involved with that. My wife and I chaired the organization one year. We also began having kids in our second year in Grinnell, so we became involved in the schools and in parents’ organizations in the town. I’m still a member of some organizations that are a grouping of College people and towns people. I was later asked to be on the hospital board and eventually become more involved in community theater. I acted in some plays and musicals, and eventually got into directing. 
+
+SM: [Grinnell anthropology professor] Doug Caulkins and I had an idea—kind of a dream of preserving some land. By that time, I was deeply into prairie restoration. Doug and I sat down, and we wrote a letter. Doug worked out the financial business, the cash flow, how much we’d have to invest and how we’d pay for it over the years. We circulated this letter around campus to some faculty and a few people in town. In the letter we asked if anyone was interested in this. If we could get 10 investors, we could do it. We ended up getting nine families that were willing to invest. Initially we were going to buy 720 acres of land in Mahaska County, but planned to sell back 80 acres so we could do it with the nine families. We bought it and the rest is history. We immediately began planting prairie, enhancing prairie, and burning to get rid of invasive species. This is an ongoing thing, and we are still doing this today. But we’re all getting older and have decided to deed the property to the Iowa Natural Heritage Foundation when the last of us dies. It was kind of like a flyer that took off and we said let’s try it and see what happens. I think we were all astonished that we were able to pull it off. I still am. Every time I go out there, I’m amazed that it happened. 
+
+BM: In a way, everyone at the College comes here new. I think we were all looking to see where we fit. That was interesting and astonishing. The women’s movement was very strong at that time. I went to a consciousness raising group. At home in North Carolina, I was kind of used to being the instigator when women got together, but not here. These women were something else. These women were strong, powerful, educated, well-spoken, and eager to speak. I found myself needing to raise my hand sometimes to be able to say anything. I appreciated them, and I learned from them. For me, it was my association with women in groups like that. The offshoot of that was wonderful coffee, and we’d become friends. For Sandy, it’s his associations with his colleagues. He was so amazed when we came here, and he did a [theater] production for the College. At the school we were a part of in North Carolina, a few professors would come to the shows. At Grinnell, many faculty came. Not only did they do this, but they read, they studied, and some of them even were in the play. When he saw this, he was delighted. 
+
+Rootstalk: In his book Becoming Native to this Place, Wes Jackson discusses the idea that you can become native to a place where you were not born. Do you feel that you have become native to Iowa or the prairie in any way? 
+
+CH: I feel like it’s partly true. When I walk on campus now, I don’t know many of the people. That’s a point of discomfort for me, my place. In town, I feel that way somewhat. There are places in town I’ve never been to. I’ve never been to Rabbitt’s [Tavern], I’ve never gone to some of the bars, and I know for some of the students that becomes their life and their culture. But I’m not a part of it, and I never will be. I feel native to parts of Grinnell, but I think that’s true for anyone who feels native to an area. You don’t feel native to everything about it or to all the people. But I certainly do—and have for a long time —feel more comfortable here than I do in New Jersey. We’ve been here 44 years. I think it’s partly from having kids, because that draws you into the community really intensely. Very quickly we thought of this as our place. In some ways it feels like you’re native, but you’re also making yourself native. And I’m sure there are some churches that if we gone to them, we would’ve quickly run awayscreaming. In part this would’ve been because of the theology, but also because of the people’s values. We carefully picked our parts of the community to join.
+
+ SB: I’ve lived in Grinnell more than anyplace else. I’ve lived here for 43 years. Grinnell is my home. I’m comfortable here with that. I certainly don’t feel native to Grinnell. I’m accepted by those who are native to Grinnell. I think they find it a little exotic that I’m from a foreign country. I don’t feel like I’m a native of anywhere in particular other than Austria. People have asked me if I could go back and live there now. And no, I couldn’t. Austria is home, there’s a deep connection, but culturally I’m too far away from that. I’m without a nation or native place. It’s a unique situation that has to do with Grinnell and Iowa. I can amend that. I can feel native to Grinnell, but not native to Iowa. I think that has to do with the unique situation of Grinnell as an enclave. It’s like a little island within Iowa. Grinnell is quite different. Culturally, I don’t think I could consider myself a native Iowan, but I could consider myself a native Grinnellian. But again, that’s the cultural aspect of Grinnell and the College. The cosmopolitan nature of the student body appeals to me and speaks to me. 
+
+SM: Absolutely. I do feel native to this place. We’ve lived here since 1971. That’s most of our lives. When I was doing the political thing, people made a big deal about being born in Iowa. I would counter that by saying ‘no, I wasn’t born in Iowa. I chose to live in Iowa.’ If you’re born in Iowa, you don’t have any choice. To me there is something to that. People make a big deal about being born somewhere, but I was born in China. I certainly don’t feel like I’m native to China. Our social life here was based around the College, but until fairly recently I didn’t feel a huge connection to the city of Grinnell. I felt a connection to [Poweshiek] County [where Grinnell is located]. The connection gets weaker and weaker as you get further away. I don’t feel that connected to Sioux City, Iowa, or Davenport. At that point, I feel connected to the Midwest. And that border, Iowa, do I lose my connection once I get to the Mississippi River? I think I feel more Midwestern than I do an Iowan, but Iowan gives it a name. 
+
+BM: Yes. I think there are compartments in my heart. North Carolina has a little compartment in my heart. That’s where I came from. Where am I from now? I’m from Iowa, and I’m proud of that. I feel native to Iowa as a whole, maybe unfairly because there are parts of Iowa I’ve never been to. We have a relative who lives in Atlanta, and he says Atlanta would be a great place if it wasn’t surrounded by Georgia. But I don’t feel that at all about Grinnell. I think Grinnell benefits from being surrounded by Iowa. I think Iowa helps Grinnell not to take itself too terribly seriously. If you’re lucky, you’re connected to what you’re familiar with. This is what we’re familiar with, and we’re lucky because we like it. 
+
+Listening closely to what these four individuals said, I noticed everyone talked about how their assimilation—into the town, or Iowa, or the prairie—took time. The ways they assimilated were fascinating to observe. For all of them, it started with the community stemming from the College. Having children seemed helpful to some, as it forced them to be involved to enhance their children’s lives. It was interesting to see how they all joined organizations within the community. For many, it was through a position of leadership, whether it be through being a board member or holding a political position. The integration through social groups outside of the college also caught my eye. Everyone seemed to have found their own way of being involved in social groups. Whether through church, a dinner club, consciousness raising groups, or land restoration, they all were able to establish a social network. Relating to Sandy’s land restoration, I was intrigued to see how each of the interviewees was drawn into their surroundings by nature in some way. When considering how I would become native to some place, for me it would basically all be done through connecting socially. Seeing other ways that people have found their sense of home and how it is different from mine was something that I found compelling. How far each of their unique ways of feeling native evolved was also interesting. For Chris Hunter and Sigmund Barber, they only feel native to Grinnell as a town. For Sandy and Betty Moffett, they feel native to Iowa and, by extension, the prairie. 
+
+I think about my own assimilation to the prairie. Up to this point, I’d say I haven’t had the easiest time connecting to the prairie because it is nothing like what I’m used to. Yet, seeing my friends love it here makes me feel great for them, and seeing them happy where they are helps me feel more confident about living on the prairie. Although I may not be as comfortable in Grinnell as my friends are, knowing that people who have lived here for a long time went through a similar acclimatization makes me hopeful that I could find what everyone else has in Grinnell. For me, I tend to think that my assimilation could be closer to that of Chris Hunter or Sigmund Barber. The prairie region that surrounds Grinnell is one that I am not familiar with, and I’m not sure if my four years at Grinnell will be enough for me to truly appreciate what surrounds the College. If anything, I think I could maybe become native to Grinnell. If this is the case, maybe I’ll stick around and spend a lot more time within the prairie. And who knows? Maybe I’ll become native. ![](2022-spring-web-resources/image/1.png)
+
+{{% figure_azure pid="macmoran-2-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+White-tailed Deer at the Pleasant Grove Land Corporation. Photo courtesy of Sandy Moffett
+
+{{% figure_azure pid="MacMoran-3-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Rough blazing star (Liatris aspera) at the Pleasant Grove Land Corporation. Photo courtesy of Sandy Moffett 
+
+{{% figure_azure pid="MacMoran-4-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+St. Paul’s Episcopal church. Photo by Ian MacMoran
+
+“That day, the wind was blowing, and he said, ‘It looks like an animal’s hide.’ It’s rich and full of deep colors.”
+
+{{% figure_azure pid="MacMoran-5-volume-viii-issue-1-spring-2022.png" caption="" %}}
+
+A partial copy of a Letter from Sandy Moffett and partners, soliciting participation in the Pleasant Grove Land Corporation in 1998. Document courtesy of Sandy Moffett
+
+{{% figure_azure pid="MacMoran-6-volume-viii-issue-1-spring-2022.png" caption="" %}}
+
+“In some ways it feels like you’re native, but you’re also making yourself native.” 
+
+- Chris Hunter
+
+{{% figure_azure pid="MacMoran-7-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+An American woodcock (Scolopax minor) hen and her chicks at the Pleasant Grove Land Corporation. Photo courtesy of Sandy Moffett
+
+“I think there are compartments in my heart. North Carolina has a little compartment in my heart. That’s where I came from. Where am I from now? I’m from Iowa, and I’m proud of that.”
+
+“Up to this point, I’d say I haven’t had the easiest time connecting to the prairie because it’s nothing like what I’m used to. Yet, seeing my friends love it here makes me feel great for them, and seeing them happys where they are helps me feel more confident about living on the prairie.”
 
 {{% figure_azure pid="Villatoro-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
@@ -900,6 +1104,200 @@ Red-bellied woodpeckers are characterized by the bold black-and-white zebra patt
 
 Red-bellied woodpeckers are non-migratory and can be found in the eastern half of the United States, including the prairie region. They are adaptable to various temperate forested habitats, but typically reside below 600 meter elevations in mature hardwood forests, mixed pine-hardwood forests, mesic pine flatwoods, heavily timbered bottomlands, swampy woods, and riparian forests. Their diet includes a wide variety of fruits, nuts, seeds, berries and tree sap, as well as ants, flies, grasshoppers, beetle larvae, caterpillars, brown and green anole lizards, tree frogs, small fish, nestling birds, and bird eggs. 
 
+{{% figure_azure pid="Hootstein-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Associate Editor Avery Hootstein ’23 is currently a third-year Political Science major and football player at Grinnell College. Hootstein grew up in New York City. In his free time, he enjoys street photography, playing sports, and watching movies. 
+
+Photo courtesy of Avery Hootstein
+
+The Streets of 
+
+Dallas: A Look Into The Minds of 
+
+Three Photographers
+
+by Avery Hootstein
+
+One doesn’t just pick up a camera for the first time and immediately begin taking great pictures. Like other crafts, photography takes practice, but that shouldn’t ever stop one from jumping in, particularly if one is passionate about learning to create. My interview with a trio of Dallas, Texas-area photographers—Omar Gonzalez, Jarrod Oram and Ivan Zapien —provides support for this claim.
+
+For many people these days, a photograph is something they take with their smartphone to provide a visual element for their next social media post. For others, though, photography is their response to an inner drive to make art. Photography is a visual artform that allows storytelling to take place in an extremely intimate and authentic way. 
+
+There are almost as many approaches to photography as there are photographers. Gonzales, Oram and Zapien are practitioners of street photography (https://photographylife.com/what-is-street-photography). In street photography one captures the world around oneself as it happens. Street photographers produce images that are extremely accessible, intimate and immediate, with no need for a studio. In fact, the world itself functions as their studio. While street photographers do sometimes stage their shots the way studio phographers do, most working in this genre use their cameras to capture a seemingly unmediated image of their environment. At its best, photography allows the artist to show others exactly what the photographer is seeing. While this sometimes appears to produce images in their rawest, most basic form, in reality framing artful street photography requires the same skills: an understanding of proper camera set-up, shot-composition, and lens choice appropriate to the situation. Held in balance, these elements come together to transform a snapshot into a work of art. 
+
+The three Dallas photographers I spoke with have each achieved their own versions of this understanding. For Zapien it’s showing off the people who he sees everyday who might go unnoticed by most other people, Oram finds value in bringing fresh eyes to the “old and rad stuff” he finds in his photo-taking expeditions, while Gonzalez uses the foundations that doing street photography had laid for him to frame more artful compositions. By sharing their idiosyncratic perception of the world around them, they make it possible for us to have a real and uniquely intimate glimpse into places we might not otherwise have seen. 
+
+Omar Gonzalez 
+
+Omar Gonzalez is a photographer and video- grapher who started taking pictures at a very young age with an $80 camera from Radio Shack. He dabbled in other forms of art too, but realized none of them were for him. When he joined a photography club in middle school, it ignited his enduring passion for photography. In college at the University of North Texas in Denton he majored in journalism and minored in photography. Currently he works for a dietary supplement company and helps coordinate its digital content while freelancing on the side. Gonzalez started working in photography during college when a friend got him a job at a night club called Citizen (https://citizendallas.com). The first night he shot there he saw some of the players from the Dallas Mavericks but was told to focus on the other aspects of the club. “It’s definitely just something that happened by accident,” he said. “And I really didn’t want to do it for [the friend who got Gonzalez the job].” Since he was only a college student, he wasn’t sure if he would be able to deliver a high-quality product. 
+
+Photography offered Gonzalez a unique medium that allowed people looking at his work to see the world the same way he did. 
+
+“Street photography was something big for me,” he said. “It really intrigued me, so I started doing a lot of [it]. I didn’t really have a style [at that point].” These early experiences, including the work he was able to do at Citizen, helped him to develop his styles. 
+
+While Gonzalez resists identifying a favorite place to shoot “because [he’s] always in a different spot,” there is a certain place that’s tied to his best memory of photography: the top of Dallas’s Sheraton Hotel. “Seeing the city in all its greatness…you feel like Batman or Spider Man,” he says. “The best feeling I ever had was being on that rooftop with my camera and just enjoying the moment.”
+
+These days, because he’s working a lot, that view from the Sheraton’s rooftop is not one he often gets to have. “I haven’t been on a rooftop in years,” he says. Still, the feeling that he had on top of the Sheraton has contributed massively to why he loves photography. 
+
+ Jarrod Oram 
+
+Jarrod Oram is, a “lifelong creative” who describes himself as an “Old Stuff and Rad Things Fine Art Photographer.” He started his career working on rap music videos in New York City before moving back to Dallas, and he currently works as a freelancer, developing digital content for a few companies. Oram doesn’t limit himself to Dallas’s confines. He travels to wherever he can find what he calls “beauty in decay.” His favorite things to shoot are “run-down buildings, old signs, things with history…[Dallas] is a city where a lot of things with historical significance go away.” 
+
+Preserving history is very important to Oram because, as Dallas modernizes, he sees the “Old Stuff” he loves so much beginning to fall out of quaintness and into active disintegration. When it comes to finding the “rad things” which remain, Oram follows his eye into fertile visual ground. Oram adds his own flare to what he finds by using the rule of thirds (https://digital-photography-school.com/rule-of-thirds), a compositional technique that places a subject on the left or right third of an image while leaving the remaining two thirds of the image more open, to help fill the frame as well as employing the natural light of the scene to create a certain mood. 
+
+Oram emphasizes that photography is more than just a side hustle to him, and also more than a passion. It is a way of filling a void. He said: “Something wasn’t ‘right’ inside me and I thought I was depressed, you know, so I would go to therapy or take medication to ease my depression, but what was really happening was there were areas of unmet needs inside me. So, the thing that I discovered early to numb the pain was alcohol. [For a while] it actually worked, if that makes sense. It calmed my nerves and it eased my tensions. But what happened was there was no solution to anything. All I was doing was stuffing it down and not addressing it, and the only thing I knew to do, the only thing I knew that worked, was [more] alcohol. And so that’s the whole thing with alcoholism it’s that you keep going back to it expecting a different result. 
+
+“Eventually it stopped working. I had no idea about unprocessed childhood trauma; I had no idea about any of those things. I would go to people that didn’t have the answers to [becoming sober], they’d ask me ‘Well, Jarrod, why don’t you just quit?’ And I would tell people ‘You don’t get it; I can’t,’ and they didn’t understand that.” 
+
+In 2007 Oram finally realized that it was time to get sober. When he did, he found that the problems of the past persisted, except now he was without the solace of alcohol. Eight years into being sober he found he was still in a lot of pain, and he realized that dealing with that pain was the real work. He began working with a therapist to untangle the pain of the past. “I was feeling empty… my therapist was talking about abundance and ‘filling abundance,’ and I’m like how the f**k do you fill abundance? What does that even mean?”
+
+For Oram photography became an answer. It became something that was therapeutic, evolving into a way for him to see things differently and to see himself differently. In what he has realized is the lifelong process of “filling abundance,” photography has given him a path to be a more complete version of himself. 
+
+ Ivan Zapien 
+
+Ivan Zapien is a 35-year-old amateur photographer who was raised in Dallas and began taking photos in high school, but nothing beyond simple snapshots. Like Gonzalez, he explored other art mediums such as drawing and music as well, but he found his passion when he returned to photography. In the last few months his interest in photography has spiked. When I asked him why, he told me about a conversation with his wife. 
+
+“[I told her], ‘I kinda want to get into this photography thing and see where it goes.’” His wife responded with, “‘Why don’t you do it?’” He replied that “photography’s expensive!’’ But she ended the discussion saying: “Well go buy a camera!” 
+
+So, he did. Having no formal photography training, he built his skills as so many others do these days: by watching videos on YouTube. One of the photographers who inspired Zapien was Faizal Westcott (https://faizalwestcott.com), a street photographer from Boston. Zapien took inspiration from Westcott’s work, because, as Zapien puts it, “You just go out, walk, take pictures of things, people, dogs, like whatever, I just… you know, something clicked.” 
+
+Zapien’s photography style is influenced by film, and he often decides what to photograph by asking himself: “Could this be in a movie scene?” When discussing his style Zapien mentioned that he tries to avoid editing his photos like Peter McKinnon (https://www.petermckinnon.com) or Pierre Lambert (https://pierretlambert.com), two photographers with large YouTube channels. Their style generally involves an image that is incredibly sharp while also included very vibrant colors that make an image really pop. Zapien prefers to use cooler, bluer tones in his edits. This allows him to create a more cinematic feel. 
+
+When asked about how shooting in Dallas has impacted his perception of the city he said: “I like going out to streets where most people wouldn’t even think about going. I live in a part of town where it’s not so good. I’ve even tried to venture out and go out with a camera where it’s not so safe and kinda get that side of Dallas; most people think that’s horrible, but there’s so many good things, even in neighborhoods that people think are dangerous that no one sees, and I want to bring that out.” ![](2022-spring-web-resources/image/1.png)
+
+{{% figure_azure pid="Hootstein-2-gonzalez-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+“Trinity River” by Omar Gonzalez
+
+{{% figure_azure pid="Hootstein-3-gonzalez-2-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+“Bridge” by Omar Gonzalez
+
+{{% figure_azure pid="hootstein-4-gonzalez-3-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Untitled photo by Omar Gonzalez
+
+{{% figure_azure pid="hootstein-5-Oram-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+“I’ll Be Your Mirror” by Jarrod Oram 
+
+{{% figure_azure pid="hootstein-6-oram-2-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+“To Live is To Fly” by Jarrod Oram
+
+{{% figure_azure pid="IKnowtheEnd_JarrodOram.jpg" caption="" %}}
+
+“I Know The End” by Jarrod Oram
+
+{{% figure_azure pid="zapien_photos-3.jpg" caption="" %}}
+
+Untitled photo by Ivan Zapien
+
+{{% figure_azure pid="zapien_photos-5.jpg" caption="" %}}
+
+Untitled photo by Ivan Zapien
+
+Untitled photo by Ivan Zapien
+
+{{% figure_azure pid="zapien_photos-1.jpg" caption="" %}}
+
+{{% figure_azure pid="kessel-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Photo courtesy of Katie Kregal. All other photos by the author unless otherwise noted
+
+Associate editor Harrison Kessel is a third-year political science major at Grinnell College. He was born and raised in Phoenix, Arizona, where he often visited jobsites with his father, a general contractor. After Grinnell, he hopes to combine his passions for design and helping others by becoming an architect practicing community design. In his free time, he enjoys playing basketball, hiking, and sketching.
+
+*All references appear in Endnotes in the back of the issue.
+
+Prairie Style: Wright, the Griffins, Sullivan, and Their Impact on Iowa Architecture*
+
+by Harrison Kessel
+
+This spring, I went on a wildflower walk at the Conard Environmental Research Area (CERA; https://www.grinnell.edu/academics/majors-concentrations/biology/facilities/cera), a prairie reserve owned and managed by Grinnell College about 10 miles southwest of Grinnell, Iowa. It had just rained, and the wind was blowing dark storm clouds towards us from the west. Surrounded by the sound of swaying trees, we hiked through a forested section of CERA where bunches of newly green plants were sprouting delicate, white flowers. I was reminded of a statement from the famed architect Louis H. Sullivan (https://www.architecture.org/learn/resources/architecture-dictionary/entry/louis-sullivan): “observe how rhythmically the seasons follow the sun. Note their unfailing spontaneous logic, their exquisite analyses and synthesis, their vital, inevitable balance”1 (emphasis original). He was telling architects to imbue their design with abstract characteristics such as beauty, rhythm, and balance—characteristics which make real contributions to the way we feel when we are in nature. Following Sullivan’s urging, a group of American architects that included Frank Lloyd Wright (https://franklloydwright.org), Walter Burley Griffin (http://www.wbgriffinsociety.org/griffins-bio.html), and Marion Mahony Griffin (Walter’s wife; https://pioneeringwomen.bwaf.org/marion-mahony-griffin) would introduce the long, horizontal lines that characterize much of the prairie environment throughout the American Midwest into their design. Iowa, close to the movement’s epicenter in Chicago, Illinois, would become home to numerous examples of Prairie Style (https://en.wikipedia.org/wiki/Prairie\_School#Prairie\_School\_architects) buildings which would form an important part of the state’s architectural history. 
+
+I was first exposed to Prairie Style in a place not known for its prairie: my hometown of Phoenix, Arizona. My father was a general contractor, and our family lived in a home he built in north Phoenix when I was young. My parents were both fans of Frank Lloyd Wright, so they asked their architect to design a Wright-inspired home. They had another request, though, which was that the house not feel “cold,” a side effect of modern designs which employ a large amount of steel and concrete or maintain the monotone colors of industrial materials. A “warm” modern house could be described as mixture of a modern house and a traditionally styled house; instead of steel and concrete, it employs materials like wood, stucco, and brick. Instead of flat roofs with no chimneys, it employs peaked roofs with broad chimneys. In Frank Lloyd Wright’s body of work, his Prairie Style houses most fit this description, so my parents essentially built a Prairie Style house in the desert. They told me I was living in a Prairie Style house even though I had no conception of what a prairie looked like. 
+
+When I moved to Grinnell, Iowa, for college, I did not realize I would be within walking distance of two important Prairie Style buildings: the Merchants’ National Bank (https://www.youtube.com/watch?v=J6vo2QW\_Bdc), designed by Sullivan, and the B. J. Ricker House (https://www.youtube.com/watch?v=i7TVcR7t2v8), designed by Walter Burley and Marion Mahoney Griffin. Only after I discovered these buildings did I realize that, since I was now in the prairie region, I could expect to see more Prairie Style architecture. Yet, aside from the examples built in the early 20th century, around the time Frank Lloyd Wright was practicing in his Oak Park, Illinois, studio, Prairie Style architecture is relatively rare in Iowa. This raised an interesting question: why is a style named after the prairie no longer popular in a state practically defined by its prairie? To find the answer, I examined three Iowa buildings designed by three different Prairie Style architects: the City National Bank and Park Inn Hotel by Frank Lloyd Wright in Mason City, Iowa (https://visitmasoncityiowa.com/places/united-states/iowa/mason-city/culturalhistoric/frank-lloyd-wrights-historic-park-inn-hotel), and the B. J. Ricker House and Merchants’ National Bank Building, both in Grinnell. 
+
+The City National Bank and Park Inn Hotel 
+
+In 1972, H. Allen Brooks (https://en.wikipedia.org/wiki/H.\_Allen\_Brooks) published one of the definitive histories of Prairie Style architecture, The Prairie School: Frank Lloyd Wright and his Midwest Contemporaries (https://www.amazon.com/Prairie-School-Wright-Midwest-Contemporaries/dp/039373191X). According to Brooks, Frank Lloyd Wright designed this unique combination of a hotel, bank, and law office in Mason City, Iowa, in 1908. J. E. E. Markley, a bank director and attorney, commissioned Wright after he visited his eldest daughter at the school she attended in Spring Green, Wisconsin. Her school, the Hillside Home School (https://flwright.org/researchexplore/wrightbuildings/hillsidehomeschool), had been designed by Wright, and Markley was impressed by it.2 Wright faced a challenge when designing the City National Bank and Park Inn Hotel, however: he had been commissioned to design in one building three separate spaces whose purposes sometimes conflicted with one another. For example, a hotel should appear inviting to potential guests, but banks at the time were meant to be imposing to convey a sense of security. The building is therefore a balancing act, but in masterfully striking this balance 
+
+Viewed from Mason City’s Central Park, the left side contained the City National Bank; the lower, middle section housed the law offices of Blythe, Markley, Rule and Smith, while the right side housed the Park Inn Hotel. Today, the Park Inn Hotel takes up the entire building, with the City National Bank side converted to a ballroom and the law offices now housing hotel management. Immediately visible are characteristics which defined the Prairie Style: the roof is long and low, extending off the building to create large eaves. Bands or ribbons of windows characterize the facade and are complemented by geometric ornamentation in the form of colorful tilework. The roof line, windows, windowsills, and even the brickwork all emphasize the horizontal, while vertical elements such as pillars or broad, anchoring chimneys create contrast. These characteristics define the Prairie Style: using horizontal, simple forms, they create a sense of monumentality and rootedness within the site. 
+
+The Prairie Style also entailed innovations in interior design, as architects such as Wright and Griffin began to open up the compartmentalized interior spaces that were common in older architectural styles. The interior of the City National Bank and Park Inn Hotel offers a Wright masterclass in manipulation of light and space. A ribbon of geometric stained-glass windows beckons potential guests off the street into the hotel. Once inside, I was immediately greeted by the imposing wall forming the balcony of the second-floor mezzanine. Underneath the mezzanine is the check-in desk, which is intentionally cramped by the mezzanine ceiling. Through a set of folding doors behind the check-in desk is a two-story room lit by the soft light of geometric stained-glass skylights, a scene that stunned me when I first walked into the building. Wright designed the stained glass to reflect the colors of autumn, and, combined with the natural colors of the Arts and Crafts style (https://www.theartstory.org/movement/arts-and-crafts/history-and-concepts) furniture, the light in the room had a pleasantly warm effect, a startling contrast to the cold Iowa weather of that day. 
+
+I would be remiss not to mention the restoration of the building by the Wright on the Park Foundation (https://wrightonthepark.org), which was formed to restore the City National Bank and Park Inn Hotel following considerable alterations and deterioration that occurred over its history.3 A contributor to this restoration was Scott Borcherding, an interior designer with the Mason City architecture firm Bergland + Cram (http://www.berglandandcram.com). I interviewed him about the restoration and his thoughts on the Prairie Style, and he described an exhaustive restoration process that took place over several years involving multiple stakeholders, including the National Park Service and the community of Mason City. Preparations for the restoration included interviews conducted with former hotel guests and construction crews that had worked at the building, while restorers poured over Wright’s original plans and determined the evolution of the building over its history. Many parts of the design had been cannibalized over the years: security bars originally installed over the bank window had been used as a fence for a home in Clear Lake, Iowa, and one of the statues of the Roman god Mercury that had stood in the bank is rumored to have ended up in California. Scott said the core of the restoration effort from the beginning was a conviction that “we didn’t want to be the ones who tore [the City National Bank and Park Inn Hotel] down. We had to save it.” 
+
+Both Scott and the docent of my tour at the City National Bank and Park Inn Hotel, Jim Collison, told me that one of the most exciting moments of the restoration involved the beautiful art glass in the skylight room. Almost immediately after the hotel opened, the skylight panels began to leak, so they were taken down and essentially lost to history. They were rediscovered, however, in a Prairie Style building in Mason City: the Walter Burley Griffin-designed Blythe House (https://www.iowaarchitecture.org/discover/project-details/james-blythe-house/c463927703fb3a5e). An expert in the Prairie Style who stayed in the home (which is still a private residence) was meditating in the sunroom, looked up, and realized they were looking at a priceless collection of Frank Lloyd Wright original art glass! The homeowner, also a Prairie Style expert, then donated the glass to the Wright on the Park Foundation, and it was restored to its original position in the skylight room. 
+
+Scott said that there were many in Mason City at the beginning of the restoration who were worried about the price tag and the potential involvement of taxpayer dollars. The group went ahead with the project regardless, and when they opened the building to the community, a line of hundreds stretched into Central Park. Scott said that “we changed a lot of minds that day. People came up to me and said, ‘I thought you were crazy, but I was wrong.’” 
+
+The B. J. Ricker House 
+
+ Nestled on the corner of a residential neighborhood at 10th Avenue and Broad Street in Grinnell, Iowa, stands a home designed by Walter Burley and Marion Mahoney Griffin in late 1910 or early 1911 for B. J. Ricker.4 Walter Burley Griffin was a pivotal contributor to the Prairie Style movement, and the B. J. Ricker House amounts to a departure from the influence of Wright, with whom Griffin had worked at Wright’s Oak Park, Illinois, studio. The house bears the hallmarks of the Prairie Style: the Broad Street facade had two ribbons of windows, with windowsills, roof line, and brickwork forming long horizontals, as well as wide, anchoring chimneys. Burley Griffin, in contrast to Wright, employed gabled instead of hipped roofs. His work, including the Ricker House, also has a greater sense of monumentality. The roof seems to rest on four great pillars, one to each corner, and the house rests on a wide concrete foundation, a relatively new building practice in the era. 
+
+The decorative panels between the windows on the second floor are tile, brick, and plaster, and were designed by Marion Mahony Griffin, an excellent architect and draftswoman who helped define the Prairie Style. She also designed a centerpiece Japanese-motif tile mosaic above the fireplace as well as the geometric ornamentation of the windows.5 Determining the exact contributions of either Griffin to the designs the couple produced is a difficult task, as “Mahony Griffin was such a fierce cheerleader of her husband…that she happily painted herself in his background.”6 Before she worked with Walter, Marion maintained an impressive solo career. When Wright abruptly left for Europe in 1909, it was Marion who finished most of his remaining projects, culminating in a design for Henry Ford in 1912.7 Eventually, she would produce the renderings for Griffin’s winning submission for the design of Australia’s capital city of Canberra. Her renderings of the B. J. Ricker House are at the Grinnell College Museum of Art. Despite her architectural training and impressive design portfolio, architectural historians dismissed her design work, focusing instead on her renderings and relationship with Walter. For example, historian Allen H. Brooks hypothesized that “she lacked the imaginative mind to create a wide and rich variety of outstanding designs.”8 In reality she was a pioneer in a traditionally male-dominated field and a gifted architect whose contributions to the design of the B. J. Ricker House are illustrative of her talent. 
+
+The interior of the home employed an L-shaped plan, an innovation of Walter’s, who was a master at laying out interior space. By organizing the kitchen, dining room, and living room around the fireplace, Walter created a natural flow between rooms while still maintaining their separate functions.9 You can walk into the dining room from the kitchen, and from the dining room you walk around a fireplace (forming the L) to get to the living room, the natural location for the hearth. Walter also fit five bedrooms and three bathrooms onto the second floor, with the tops of each corner pillar forming sleeping porches. A garage addition designed by Prairie Style architect Barry Byrne (https://www.oakpark.com/2013/09/10/who-was-barry-byrne) was added later. 
+
+The Griffins would go on to design Rock Crest Rock Glen (https://wrightonthepark.org/product/prairie-school-walking-tour), a neighborhood development in Mason City that rests on bluffs flanking Willow Creek. It was while they were completing their work there that Walter won the Canberra competition and was hired by the Australian government to oversee construction. Had he stayed in America, his body of work might have gone on to rival Wright’s in terms of its significance to American architecture. His career was tragically cut short when he died at the age of 60 of peritonitis while in India working on another commission. 
+
+Like the homes of Rock Crest Rock Glen, the B. J. Ricker House--formerly owned by Grinnell College but now the home of Ryan Ferguson and his family. I took pictures of the B.J. Ricker House at Ryan Ferguson’s gracious invitation, and I had the chance to talk to him about his thoughts on living in a Griffin designed home. He also sent me an essay he wrote about the experience for the Walter Burley Griffin Society of America (http://www.wbgriffinsociety.org). In his essay, he writes that “Walter Burley Griffin is noted for designing wonderful floorplans, which perhaps can best be appreciated by active children.”10 Ferguson and his family face the unique situation of living in a piece of architectural history. Their home is furnished with period-correct Stickley furniture, but Ferguson worries about the hard wooden edges his kids keep running into, and the family purchased a more comfortable Ikea couch for their living room. He faces a constant stream of projects to maintain the home, so he has to balance his desire for preservation with the rest of life’s demands, including spending time with his family. Despite these and other challenges (they’ve done lots of insulation work to keep heating bills manageable for a home built in a time without modern insulation), Ferguson’s family enjoys living in the B.J. Ricker House, a testament to the strength and beauty of Griffin’s design, as well as the passion and patience of the family. 
+
+The Merchant’s National Bank 
+
+Titan of architecture Louis H. Sullivan designed the Merchants’ National Bank in Grinnell in 1914.11 Located on the corner of Broad Street and 4th Avenue, the building is essentially a cube which Sullivan lined with art glass windows to introduce light into the interior. The 4th Avenue facade contains a rose window, while the facade facing Broad Street contains a ribbon of art windows separated by tall, narrow columns. The roof of the bank has a stained-glass skylight colored in a brilliant blue. The result is an imposing exterior that hides an ethereal interior, providing authority and a sense of wealth like that of a cathedral. It is a beautiful composition of form and light that characterizes the work of Sullivan and so many other Prairie Style architects. 
+
+The bank’s exterior emphasizes authority and opulence, similar to Wright’s National Bank in Mason City. In contrast to the simplified geometric designs of Wright, however, Sullivan employed his signature terracotta ornamentation of swirling leaves and organic forms to surround the entrance and the rose window. Two winged lions flank the embedded columns framing the front door, further establishing the prestige of the bank. The narrow columns which intersperse the art glass windows on the Broad Street facade emphasize the verticality of the building and the thinness of the brick walls. The facade is capped by more terracotta decoration, which form spike-like clusters against the sky. For Sullivan, this intricately detailed exterior sculpture was a way to integrate natural forms into his architecture, a philosophical idea he would articulate for the Prairie School in writings and speeches like the one I quoted at the beginning of this essay. He believed nature was characterized by “the beauty, the exquisite spontaneity, with which life seeks and takes on its forms in an accord perfectly responsive to its needs.”12 It was from this belief that he derived the famous axiom, “form ever follows function”13—meaning the design of a building should reflect its purpose, as the forms of nature reflect the needs of organic life. The adornment of the Merchants’ National Bank, therefore, celebrates the role of the bank in facilitating commerce, and enshrines this function as occurring on the same level as the fundamental processes of nature. 
+
+The interior is marked by diffuse light from the art glass windows and more of Sullivan’s ornamentation. Oak trim and blackish-green marble counters recall natural colors and provide richness, while organic terracotta forms and two planters placed at the rear of the bank frame the entrance to the vault. When one walks from the rear of the bank towards the front entrance, the intricate rose window above the door comes into view, sitting above the oak trim of the entrance hall as if on a pedestal. Entering the Merchants’ National Bank was the second time during my research that I entered a space and was astounded by the light and color it contained. Like the first time I walked into the skylight room of the City National Bank and Park Inn Hotel, it was a cold day, and after feeling a sense of compression due to a low ceiling in the entry way, I suddenly found myself in an ethereal space full of warm colors and bathed in richly colored light. 
+
+The Merchants’ National Bank was one of the last commissions Louis H. Sullivan would receive in his life. The pinnacle of his career was in Chicago, where he pioneered the architecture of skyscrapers with his partner Dankmar Adler (http://www.shapell.org/roster/stories/dankmar-adler-courage-architecture-and-the-american-dream). Following Adler’s departure, an economic crash, and a revival of interest in older, more traditional styles of architecture following the 1893 Columbian Exposition (https://www.architecture.org/learn/resources/architecture-dictionary/entry/world-s-columbian-exposition-of-1893), Sullivan’s career went into decline. His autobiography (The Autobiography of an Idea; http://brothersjudd.com/index.cfm/fuseaction/reviews.detail/book\_id/1929/Autobiograph.htm) ended with a denunciation of traditional architectural styles, and he died impoverished in 1924, with former associates contributing funds to pay for his funeral.14 His legacy was that of his work in Chicago and his philosophical influence on the field of architecture. Many monumental architects, including both Wright and Griffin, cited their work with him and his views of architecture as being formative. The Merchants’ National Bank, though it was designed at the nadir of his career, is a breathtaking building in which Sullivan’s ideal of form following function is eloquently expressed. 
+
+The Prairie Style in the Modern Day 
+
+The City National Bank and Park Inn Hotel, B.J. Ricker House, and Merchants’ National Bank all illustrate the primary characteristics of the Prairie Style. They draw inspiration from nature and prioritize function over form, though in the end they weave function and form together. These architects brought natural light into innovatively designed interiors through ribbon and stained-glass windows. Their design was rooted in an appreciation of nature and a philosophical belief in the importance of artistic innovation. Their buildings also had a lasting impact on the communities they were built in. The official branding of both Mason City and the town of Grinnell employ Prairie Style motifs, and Prairie Style buildings serve as anchors for their respective downtowns. 
+
+Given the artistic significance of Prairie Style buildings, why is the style not more popular in Iowa today? First, it should be noted that the Prairie Style originated in Chicago, and what Jim Collison told me after our tour at the City National Bank and Park Inn Hotel is true: “the Prairie Style name is a misnomer.” Yes, Prairie Style architects cited the prairie as inspiration for the long horizontal lines of their architecture, and most of their buildings were in the American Midwest. But Brooks says that they thought of their movement as the Chicago School [https://en.wikipedia.org/wiki/Chicago\_school\_(architecture)], as that is where it had formed and been perfected. The term “Prairie Style” was only applied later by art historians to distinguish the style from a preceding movement in Chicago commercial architecture which is best known for the birth of the modern-day skyscraper.15 So, despite the word “Prairie” being in the name, outside of its higher integration with nature compared to preceding traditional architecture, Prairie Style architects were designing for the prairie simply because it was where they were receiving commissions. 
+
+Second, the Prairie Style abruptly lost popularity around 1914. Brooks claims the sources of the style’s demise were “cultural [and] sociological changes that culminated with the 1914-18 war”16 that changed client preferences: a revival in traditional styles dried up Prairie Style work. The Prairie Style could not coexist with traditional styles, like Victorian or Colonial Revival, which were antithetical to the design philosophy articulated by architects such as Sullivan and Wright. Scott Borcherding described the Prairie Style as “kind of a reaction to Victorian design—[which, in comparison, was] very opulent, decadent, and layered, with surfaced things applied to make things pretty. A lot of those things had no function, only aesthetic, and they were honestly a little competitive with your neighbors.” When traditional styles experienced a resurgence of popularity before World War I, many Prairie Style architects had to return to the older styles or stop practicing—they could not adapt their style to the changing times. 
+
+Third, while the style as it existed in the early 20th century is not widespread in Iowa, many of its characteristics would go on to influence modernist and contemporary architecture, which is currently popular across the state. Modernism (https://www.designingbuildings.co.uk/wiki/Modernist\_architecture) developed in Europe following World War I, but it was influenced by Wright’s pre-war work. Prairie Style cast off the rigid rules and opulence of traditional European styles and instead drew inspiration from nature, which allowed Prairie Style architects to simplify the designs for their buildings. This simplicity would be expanded upon in Modernism, with architects such as Mies van der Rohe (https://www.miessociety.org) simplifying residential architecture to essentially steel and glass boxes in projects like the Farnsworth House (https://edithfarnsworthhouse.org). Most current contemporary architecture is not this extreme, but it does integrate itself with nature and employ the simplified forms first experimented with by Prairie Style architects such as Wright, Griffin, and Sullivan. 
+
+An example of contemporary Iowa architecture which integrates elements from the Prairie Style is the Integrity in Thornton Project (http://www.berglandandcram.com/portfolio/residential/integrity-in-thornton), a residence designed by Bergland + Cram Senior Project Manager Joe Anderson (http://www.berglandandcram.com/about-us/people/joe-anderson-assoc-aia). The house employs hipped roofs, ribbon windows, and is integrated with its site by occupying the crest of a small hill. Natural light pours into the home from ribbon and clerestory (above eye level) windows, both used extensively by Prairie Style architects. Natural materials including warm woods and stone are used, a broad chimney anchors the home, and there is no superfluous decoration. The home’s beauty comes from the home’s structure and materials. The interior is logically designed and flows throughout rather than being compartmentalized. The Integrity in Thornton Project, like much of cutting-edge architecture across Iowa, employs design characteristics that were first employed by Prairie Style architects—characteristics, however, which transcended the style, becoming critical components of modernist and contemporary architecture as well. 
+
+I talked with Joe Anderson about his thoughts on the Prairie Style and the role it plays in his work. He told me that Iowa punches above its weight for creating cutting edge architecture, and that energy codes and sustainability concerns are driving architects to design region-specific buildings, which means the built environment in Iowa is increasingly responding to its prairie surroundings. He also said that “just like any good architecture, the Prairie Style was a snapshot in time that provided a look into how we wanted to live, not how we were living.” Those words perfectly describe the Prairie Style: a step forward in our relationship with the built environment that would help define modern architecture, an important part of which took place in Iowa.![](2022-spring-web-resources/image/1.png)
+
+{{% figure_azure pid="kessel-2-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+The City National Bank and Park Inn Hotel. 
+
+{{% figure_azure pid="kessel-3-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+The City National Bank and Park Inn Hotel skylight room
+
+{{% figure_azure pid="Kessel-4-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+B. J. Ricker House in Grinnell, Iowa
+
+{{% figure_azure pid="Kessel-5-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+An exterior decorative panel designed by Marion Mahony Griffin
+
+{{% figure_azure pid="kessel-6-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+The Merchants’ National Bank 4th Avenue Facade
+
+{{% figure_azure pid="kessel-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+The Merchants’ National Bank skylight
+
+{{% figure_azure pid="kessel-8-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Intregrity in Thornton. Photos courtesy of AJ Brown Imaging
+
+{{% figure_azure pid="kessel-9-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
 Kay Henry is a writer with roots in the American Midwest who now lives with her husband in the Catalunya region of northern Spain. She holds her MFA from Vermont College of Fine Arts (https://vcfa.edu/programs/mfa-in-writing).  Her nonfiction work has appeared in The Writer’s Chronicle (https://www.awpwriter.org/magazine\_media/writers\_chronicle\_overview), Numéro Cinq (http://numerocinqmagazine.com), and Collateral Journal (Collateral Journal), and her essays have been selected as finalists for prizes including Ruminate Magazine’s VanderMey Nonfiction Prize (https://www.ruminatemagazine.com) and the Orison (https://www.orisonbooks.com) Anthology Award in Non-Fiction. She is currently working on an essay collection whose topics include why Catalunya reminds her of Kansas.
 
 {{% figure_azure pid="Henry-7-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
@@ -1110,7 +1508,271 @@ The prefered habitat of this non-migratory bird is mature deciduous woodlands of
 
 The one that got away. The yellow-bellied sapsucker is the only woodpecker native to the prairie that has thus far eluded Sandy Moffett's lens. Photo captured at a bird-banding event by Chelsea Steinbrecher-Hoffmann (https://www.linkedin.com/in/chelsea-steinbrecher-hoffmann-82723755), biologist with the U.S. Geological Survey's Eastern Ecological Science Center (https://www.usgs.gov/centers/eesc) 
 
-Sandy Moffett, Emeritus Professor of Theatre at Grinnell College, joined the faculty in 1971 and continues to teach and direct plays on campus on occasion. Currently he spends most of his time restoring prairie, writing songs and stories, performing with The Too Many String Band, and catering to the whims of his grandchildren. His writing has appeared in The Wapsipinicon Almanac, and Salt Water Sportsman, and he has frequently published his writing, photography and music in Rootstalk, in Volume VI, Issue 1 (Spring 2020); Volume V, Issue 2 (Spring 2019); Volume III, Issue 2(Spring 2017); Volume III, Issue 1 (Fall 2016); and Volume II, Issue 1 (Fall 2015). 
+Sandy Moffett, Professor Emeritus of Theatre at Grinnell College, joined the faculty in 1971 and continues to teach and direct plays on campus on occasion. Currently he spends most of his time restoring prairie, writing songs and stories, performing with The Too Many String Band, and catering to the whims of his grandchildren. His writing has appeared in The Wapsipinicon Almanac (http://www.wapsialmanac.com) and Salt Water Sportsman (https://www.saltwatersportsman.com), and he has frequently published his writing, photography and music in Rootstalk, in Volume VI, Issue 1 (Spring 2020, https://rootstalk.grinnell.edu/past-issues/volume-vi-issue-1); Volume V, Issue 2 (Spring 2019); Volume III, Issue 2(Spring 2017, https://rootstalk.grinnell.edu/past-issues/volume-iii-issue-2); Volume III, Issue 1 (Fall 2016, https://rootstalk-archive.grinnell.edu/issue/4); and Volume II, Issue 1 (Fall 2015, https://rootstalk-archive.grinnell.edu/issue/2). 
+
+Iowa City writer Mike Lewis-Beck has work appearing in Alexandria Quarterly (http://www.alexandriaquarterlymag.com), Apalachee Review (http://apalacheereview.org), Cortland Review (http://www.cortlandreview.com), Chariton Review (http://charitonreview.truman.edu), Pure Slush (https://pureslush.com), Pilgrimage (http://www.pilgrimagepress.org), Seminary Ridge Review (http://seminaryridgereview.org), Taos Journal of International Poetry and Art (http://www.taosjournalofpoetry.com), Writers’ Café (http://www.writerscafe.org) and Wapsipinicon Almanac (http://www.wapsialmanac.com), among other venues. His previous contributions to Rootstalk include poems (Volume IV, Issue 1, https://rootstalk.grinnell.edu/article/two-poems), and a review (Volume VI, Issue 1). His book of poems, Rural Routes, recently came out from Alexandria Quarterly Press. His short story, “Delivery in Göteborg,” received a Finalist prize from Chariton Review in 2015.
+
+{{% figure_azure pid="Lewis-beck-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Photo courtesy of Mike Lewis-Beck
+
+Born to Fly 
+
+ —for AUR*
+
+by Mike Lewis-Beck
+
+My name’s Chester Whitcomb Riley, named after our state poet, who wrote ‘’Little Orphant Annie” and “Waitin’ fer the Cat to Die,” my favorite, though I lack the knack fer pencilin out poems myself. My pals call me ‘Wick,’ short fer Whitcomb, say it like in a burnin candle ‘wick,’ guess cause I’m fired up fer the ladies. But this story’s not only about me, it’s about me and my best buddy Ulysses, leastways I called him Ulysses. Well, actually, I called him ‘U,’ as in ‘Hey You,’ that’s how ya say it, ‘You,’ just plain letter ‘U.’ But his full name when he come into this world—the eighth day of August 1880—in a long sorry labor on a 120-acre hog farm outside tiny Poling Town, Indiana, was Alexander Ulysses Kidd, christened so by his lovin mother, Myrtle May. She give him, she told me, the name Ulysses cause he come into the light at dawn, and she membered the schoolmarm’s homeroom recitation of the Odyssey, where Ulysses set out from dawn’s ‘rosy fingers’—way she membered it. 
+
+Then, too, Ulysses was General Grant’s known name, and Myrtle May’s own dad, Cletus O’Toole, had served under him—First Sergeant in the Battle of Shiloh— where he caught a minniball in his right leg, right above the kneecap. The ball stuck there fer all to see, she said, and he took sick and went to heaven, even though they had sawed the green part off. They buried him, along with his missin leg part, in high ground overlookin the White River, water’s edge fer Indianapolis back then. That monument there in Indy, fer the Union vets, she said she wants her dad’s name cut into it, cause he was a good pa—woulda been a great soldier, only he’d had more chance. She knowed, she said, her son Alexander Ulysses would be great, like Alexander the Great, since they was both born with one brown eye and one blue, difference bein one conquered the earth but her Alexander would conquer the sky. So there you have it, a Hoosier boy headed fer greatness, headed fer the stars— to fly like no man had ever done.
+
+U studied hard in high school, just three of us in the whole class, seven in the whole Poling High School, that’s a fact. Me and U was the oldest, so we had duties. In winter, I’d stoke the stove with dry hickory, four-way splits about a foot-length out, and U would warsh the blackboard with bucket rags, makin sure at least one long length of chalk hid in the tray, fer the teacher to find. Before the lesson Miss Hearn, our teacher, would turn her backside to us, fiddle her gray bun, and square the overhead George Warshington pitcher. I reckoned that where President Warshington, the father of our country, was hung, that direction pointed north. Anyways, U studied birds and triangles whenever he could, I studied gettin up mornins in time to rob eggs from the hen nests in the hen house, then slow-footed it to school. Next to the school, a one-room house, was a water pump and a cherry tree, planted by the class of 1892, to honor George Warshington. 
+
+One May day, right when that cherry tree decided to blossom, a new student showed up, a girl, makin fer a class of four. Her dad did only popcorn, farmed the fields next to the schoolhouse, so it was easy fer her to get to school. Just hiked up her skirt, shinnied over the wire fence, careful not to catch her calico. Name of Beatrice, Beatrice Bettendorf. Bee—what we named her—was made to do the daily verse. U liked her versifyin, I liked her looks. She had the prettiest pigtails, blacker’en dirt. Her work apron fit her real nice. She helped teacher put out the lunch, too, skillet biscuits and fresh milk (from my dad’s cows).
+
+The other girl in our class, Hazel Wilt, her dad did dairy, too—Holsteins. She griped the school didn’t serve up her pa’s milk. I said cause we had Guernsey’s, what give out better butter. Her pa come over to our dairy barn to poke our cows. Hazel come along but got bored lookin at udders. That’s when I walked her to our pig pond, to show her my prize porker, called General Sherman. “Why’d ya name him that?” she asked.
+
+“Cause he eats up everthing in sight,” I said. That’s when she took my hand, over to the shade of the willow tree by the wallow. I give her a kiss, on the lips. She let me. I told U.
+
+“Hazel cannot do long division,” said U. Both his eyes looked like clay marbles, the blue one more glazed. It drilled right into me.
+
+“Might be, “I said, “but she looks made for milkin.”
+
+Pretty soon, the township shut our high school down, eight students not bein sufficient. That made U mad, since he reckoned on doin higher sums. He knowed he really needed more rithmetic fer his flyin projects, so he went back with the eighth-graders to do-over the drills. He liked do-overs, said it left the lessons in your noggin, like a photo-somethin, it was. He did that Greek theory over and over on his chalkboard. After school he bagged birds with his squirrel rifle, a handy one-shot .22 Remington. Pigeons it was, shot them off the beam over the hayloft. Once he had hold of a dead pigeon he’d chop it up with his jackknife, turnin over drawins in a bird book, pickin at its guts, measurin its wings. Saturday mornins he watched white pigeons waddle around the chicken coop, peckin at bits of gravel, just gettin off the ground after a wobble, barely clearin the barn or not, when they got brained. He liked to look at the white ones, he said, cause he supposed angels had white wings, too.
+
+“Why do pigeons fly so badly?” U asked me.
+
+“They ain’t angels,” I said. 
+
+“Don’t make a joke.” U’s face went red.
+
+“Why ya wanna know?” U always had to ask me trick questions.
+
+“You know why, Wick.” He pushed out his knobby chin, his signal for wrasslin.
+
+“Ya wanna fly like a bird?” I flapped my arms like a goose.
+
+“I want to fly high and mighty,” he said, as he tossed me one of his Flyin Eagle pennies he kept around.
+
+With no high schoolin left, we had time to loaf, leastwise after chores. But when you’re goin on eighteen years of age you got lots of vinegar, so our loafin kept us movin. We’d go to my dad’s barn, unhitch the big Belgians and race ‘em, slow as they was. On scorchers we’d swim in the crick, below the barn, just before the stand of sycamores. Sometimes we’d rig sulkies and go all the eleven miles to the county seat, Portland, where we shot eight-ball penny a rack at Klemmer’s Pool Hall. Myrtle May got in a stitch over that, specially since she smelled tobacco on us. U didn’t take tobacco but I did, chewed Mail Pouch, just like my dad. I liked this loafin around, but mostly I liked girls. I’d roam farm-to-farm askin to help with the plantin and such, farms with daughters not in school no more, daughters who heaped up the mashed potatas, piled the fried chicken, set out the pies—rhubarb fer me cause it bit.
+
+Another way I’d meet girls was durin detasslin corn time, July, maybe August. Once me and Priscilla Gablehanger went to pull the same tassle top and one thing led to another. Like I told U, “Before I knowed what fer she had her hand on my dogwood.”
+
+“What did you do then, farm boy?” asked U. He never did take to such tales.
+
+“Not ’nuff. The corn rows was all scratchy, no layin down.”
+
+“I do not have time for girls,” U said. Truth told, he didn’t have time for farmin, neither. Walkin the beans in late summer fer pocket money was about it. Most of all he hated to slop the hogs out by the horse tank, the bristly red Durocs he had to feed the kitchen scraps, keep their pen shoveled clean. When I tell my brother Jake he keeps our sleepin porch like a pigpen, I know what I’m sayin. Pig shit, now that’s somethin U knowed he didn’t like. Who wouldn’ta knowed that? 
+
+But he also knowed somethin peculiar. He wanted to fly. He had to fly. He sent away fer an advanced study course—Engine Mechanicals—from Anthony Wayne Technical Correspondence School, out of Fort Wayne, some fifty miles from here. 
+
+He was puffed up about the course one day and we went to tell his ma. Myrtle May stood over a tin tub in the kitchen, a barlow knife in her hand, diggin caterpillars out of a head of cabbage. We sat on the edge of the table, chompin corn bread and strawberry jam. All at once, U swallered his corn bread hard then declared, “Ma, I want to build a machine that flies, beat those Wright boys to it.” The cords in his neck got tighter, like he was reinin in his words.
+
+“Machines don’t fly, son, they run,” said Myrtle May. Then she snapped shut the jam lid before she spoke. “But yer blue birth eye has got you lookin at the sky.”
+
+“Got to make the right engine, Ma.” U had his peepers on the flypaper danglin from the ceilin.
+
+“Ya was born to greatness, Alexander.” She put her hand over her heart.
+
+Ulysses dropped his towhead, his big curls bobbin. Then he stood dumb, like a statue. 
+
+“My Eastern star,” she said, studyin the jam mess we made and thinkin, I reckon, about his tomorrow.
+
+“I’ll fly you to the sky, Ma,” he said, sightin a fat summer cloud with his thumb. 
+
+“Just mind ya don’t come to harm, son.”
+
+Startin June first 1902, I daily drove U in a two-seater buggy—sometimes his dad’s, sometimes his own— over to Berne to the postal station, seven miles by the markers, so’s to see if the worksheets from his study course had come. On the twentieth of June, with red clover full in the culverts, the clover smell smotherin the smell of the horse turds, the worksheets got delivered from Fort Wayne, wrapped in gray pulp paper, all covered in green George Warshington two-cent stamps. On the buggy ride back to Poling Town, I said, “U, ya goin on the hayride this evenin?”
+
+“No. You go.” He lifted his heavy head up from fussin with the worksheets.
+
+“Bee wants ya to go with.”
+
+“She knows Latin. We do declensions together. You go with Bee.”
+
+“I take to Bee but she don’t take to me. She likes the great Ulysses.” I shouldn’ta said it sharp like that, but I did. “Sides, I’m goin with Sadie Yoder.”
+
+ “The Amish girl?” 
+
+ “Yeah, heard tell they dance bare-nekked in the rain.”
+
+ “That all you care about?”
+
+ I cared considerable about Bee, but I didn’t say so. “Bee’s got the eye fer ya, U.”
+
+ “I have got to build an engine, a flying engine.” He lost himself starin over toward the sun, settin just then.
+
+U begun his flight trainin for real. His engine studies showed him stuff the Wright brothers were workin on. Ah course, since Wilbur was born in the next county, that got his competitive blood goin. He wanted to be first, Hoosier first. In his attic room, on his bed quilt, he dumped out the study package, saw a leather lesson book and its ‘question pages,’ each startin with a commandment, like “Think. Do not simply recollect or repeat.” U saw the wherefer of that, saw that memorizin weren’t ‘nuff. He spread out the first-week packet, thinkin on new words: fasteners, sealants, gaskets; magnetism, cycles and components. The next week, he thunk on fuel lines, air induction, ignition. The third week, it were engine disassembly, cylinders, valves. Before long, he started goin to Smitty’s, the blacksmith shop on Boundary Pike, and buildin small gasoline engines for bike pumps, butter churns, and ringer warshers. After that, he made a thrashin machine engine, not small a’tall. Engine exercises, he called ‘em.
+
+Engines was the cat’s whiskers in these Hoosier parts—the gas boom in Gas City, backyard strikes of oil, Elwood Haynes the inventor of the first automobile nearby in Portland. But U didn’t care about any kind of engines except winged engines. He turned his brain to the workins of how to fly, called, aerodynam-somethin. He hammered together kites that got tore up in Myrtle May’s clothes line. She made him stop that. Then, he did model airplanes out of horse glue and balin wire, stretches of shaved hickory for wings. He’d hurdle through the waves of green timothy, pullin eight-foot wings with binder twine. The tall grass cut his arms but it didn’t matter to U. Once one of these model planes caught a hot air patch and shot up, landin after twenty-seven seconds ‘without incident’ as U bragged to the neighbors watchin from the Back Forty. On a fencepost next to me sat Bee, purty as a picture and payin me no mind. She was all out for U, hollerin and hollerin. He heard her voice and froze her face when he shot her a wink. 
+
+That was a big day fer U, but it liked to make me feel small. All I had was a stockboy job stackin boxes at Ross’s Dry Goods in Bryant. Well, it weren’t all I had. I could eat penny candy till my dad’s cows come home. Tootsie Rolls mornin, night, and noon. They busted my gut. I et lots of licorice twists fer that. Plus, the owner’s daughter, Crystal Caster, took a shine to me. She worked the yard table, rollin out bolts of cloth, markin em for dresses. Like I told U, pretty soon she got hold of my bolt, back where they stored the feed sacks. U thought I shoulda been more of a gentleman. Maybe he preached that way cause he’d started with Bee, a lady I’d give my own heart.
+
+U was her hero. She baked him cherry pies—gold lard crust laid on like a picket fence—and made a pine box fer his draftin pencils. She took piano lessons from Widow Jones, best teacher in the county, so’s to play keyboard fer him, even sing Saturdays. U fancied her, but he didn’t do nothin much about it cause of his dream. That give me a try with Bee, when U wudn’t lookin, him busy makin a bigger plane, a bigger engine, to lift him to the sky. He went on and on about wings of angle iron, ribs of steel, billy goat skin. 
+
+One hot sticky mornin, of a Sunday when the church bells was clangin, he was ready, and so was I. We took a hay rope, hooked it to the flying contraption—named ‘Blind Pig’— then latched the other end to his uncle Earl’s car fender. U drove the car, clutched it to top thirty-five miles per, when it stopped dead. U cut loose the rope and the glider flew up over the pasture like from a slingshot, waggin its wings like Taft’s top hat, before comin down buryin its wheels into the mud. U jumped out the car and pushed hard on a stuck wheel. He had nature’s own strength, like he was born a bear. It got unstuck sorta, then fell back, right on his left foot. Four toes crushed. Bee was there, standin tall and fine in the alfalfa, and saw it all.
+
+Luck saved his big toe, the others didn’t wiggle no more. Bee cried like a bobcat caught in a mole trap. She cycled over to his home place ever night after fer days and days, to rub his foot and soak his toes in Epsom salts. Didn’t make no difference. She wanted him whole. One night I was there whittlin on the front porch swing, heard ’em wooin in the parlor, after she had sung to him about pickin violets in spring. It tore me up.
+
+“Ulysses,” said Bee.
+
+“Yes?” said U.
+
+“Your toes. I prayed. I’m prayin yet.” 
+
+“Well, the big one works.” U never let on his pain.
+
+“You are brave. They have to hurt.” She whimpered.
+
+“Best get back to Smitty’s.” 
+
+“You’re my flyboy, Ulysses— all the way to the moon.” I heard Bee move, like her dress was swishin. Then the rocker rocked more. I tried not to listen.
+
+ Bee kept her faith, in U and the Lord Almighty. At the Church Social, she showed strong, sipped her lemonade. I watched her paint a valentine on the cool wet of the pitcher, put in it ‘B + U.’ Then she went all still. U’s ma, Myrtle May, had went gray with worry over the harm he could come to. She turned poorly, took too many nips of Mrs. Winslow’s Soothing Syrup. U told me she kept the syrup on that walnut chest-o’-drawers in the pantry, next to them cans of lard. He told Bee and Myrtle May he knowed it would all work out cause—like he said—he could do what had to be done. He rose up like a gladiator, ready for the lions.
+
+The rest of the summer, U pounded and banged. He built a gliding plane, wide as twenty farmhands standin side by side. Also, he hammered on a big engine, six cylinders. Winter settled in, frost froze its fuel. He parked that whopper of a flyin machine in Cheever Tate’s main storage barn, covered the engine in sheep’s wool. With spring a thaw come on. The bog sprouted lily pads, the toads hopped out their holes. Once the dandelions yellowed up, he knowed he could try again. When the wind was right, he could try his glider. It would fly high, then he would mount the engine and shoot for the stars.
+
+The Weekly Commercial Review put out a broadside—“Poling Man to Fly”—advertisin over three Indiana counties—Jay, Blackford, and Randolph—not to mention nearby Ohio counties, includin Dayton. Lots of folks puttin money down, talkin about an “airplane.” One late May day of 1903, circled by young’uns playin Ring-Around-The-Rosie, me and U hitched four two-thousand-pound Clydesdales to the Blind Pig II, in Laff Lybarger’s high-ground field, where we’d been practicin. Word went out the township, and spectators, eighty-seven by one count, showed up, ready to roar fer U. They hooted and hooted, louder and louder, once the horses started jinglin and snortin. The team, the finest in Eastern Indiana, belonged to Harry Hardroe from out Winchester way. 
+
+Harry shooed the ornery kids with the flat end of his whip. At ten o’clock on the dot, the sun breakin full over the last daffodils, Harry slapped the lead horse on his haunches, makin ’em all thunder acrost the rotted fall cornstalks. These broad beasts, chestnut chests full of pant, did not fall, did not falter, hoofs rising and falling in a rural reel. The Blind Pig II did rise, too, U riding 
+
+*Author’s note: This story, a work of historical fiction, was inspired by the life and aeronautical innovations of Albert Ulysses Rupel, born in 1880 in Jay County, Indiana. He achieved much, including the building of an airplane in 1903, which flew successfully as a glider. He was working on its engine when he died young, from tetanus. (For a fuller account, see Eugene Gillum, “From the Ground Up,” Jay County Historical Society (https://www.jaycountyhistory.org), Portland, Indiana, 2011.) There are many facts that could be underlined, such as the truth that the Wright brothers attended his funeral. However, my construction of his social life with neighbors, family and friends is, as far as I can know, fictional. 
+
+“She knowed, she said, her son Alexander 
+
+Ulysses would be great, like Alexander the Great, since they was both born with one brown eye and one blue, difference bein one conquered the earth but her Alexander would conquer the sky.”
+
+{{% figure_azure pid="Lewis-beck-3-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Franco-American aviator Octave Chanute (https://en.wikipedia.org/wiki/Octave\_Chanute) prepares to launch his “Katydid,” a twelve-wing glider of his own design, near Gary, Indiana in the summer of 1896. Photo courtesy of Wikimedia Commons
+
+“He wanted to fly. He had to fly. He sent away fer an advanced study course—Engine Mechanicals—from Anthony Wayne Technical Correspondence School, out of Fort Wayne.”
+
+{{% figure_azure pid="Lewis-beck-2-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+German aviation pioneer Otto Lillienthal (https://en.wikipedia.org/wiki/Otto\_Lilienthal) makes a flight attempt in 1895. Photo courtesy of Wikimedia Commons
+
+“T]he rest of the summer, U pounded and banged. He built a gliding plane, wide as twenty farmhands standin side by side. Also, he hammered on a big 
+
+engine, six Cylinders. ”
+
+the glider as it got hauled along. When it climbed high as the cottonwood tops he waved to Bee, who fixed a love look on him. I couldn’t see much of it cause of her parasol. Then the glider lost the pocket and it drifted down just past County Road 47, missin a silo, missin the gravel pit, but finally stopped, twistin in the Gibsons’ bramble bushes.
+
+Fer no reason, when the plane plowed into the brambles, the crowd rose up a hymn, a hymn everbody knowed. U’s aunt Marthy, most particular, belted it out: ‘Oh come, come, come, come, come to the church by the wildwood….’ After she took a breath, Norval Reidenbach, U’s neighbor from the farm over, said, “Guess U was right, people fly better’n pigeons.” Everbody got a laugh. Next thing I knowed, a bunch of young fellas yanked U’s red bandana off his neck, hoisted him out of the plane, heaved him on a wagon bed, where the Clydesdales was hitched. Harry beat his belly like a drum, drove his team and U all the way to the Lob Lolly General Store, everbody yellin and throwin cattails and cow pies at U from the ditch. At the Lob Lolly, Issac Brown—the proprietor— give him free pickles, many as he could eat. Bee had been waitin for him in the store, over by the laundry soap. When U waved her over to the pickle barrel, she went all pink. I coulda done with some of that color.
+
+The way back home on my buckboard I felt grouchy as a bull with a pug ass, like dad would say. I was plumb wore out from handlin the glider and the horses, and my butt was plain sore. U was full of hisself. “That crate flies, Wick. I can fly! The people cheered me. You see Bee’s face?!”
+
+“I did,” I said. “She’s moonstruck fer her man.” I didn’t say that no one wasted a word or a wink my direction, cept when Bee yelped at me fer steppin on her Sunday shoes.
+
+We bounced the rest of the way, keepin to ourselves, till the smell of a dead skunk hit us at Gallager’s Swamp. “Pee-yew!” said U. “Worse than your farts.” I’d never heard U talk like that before.
+
+U knowed now the contraption was sky-worthy, would fly fine. All it needed was his guidin hand, him at the helm, with the right engine at his fingertips, to power the propellers. He set about finishin the engine— just a four-banger for better size, with air-holes, to fit tight under his seat. Time was runnin out. I heard tell Sarah Worth, the Wright boys’ cousin in Bryant, had wrote’m about U and his flyin notions. So U had to double up. Slavin long hours, mostly by kerosene, forgettin his farm chores, he bunked out at Smitty’s on an army cot, up at dawn. U told me Bee would bring him bacon and egg sandwiches at noon, then split an apple with him, before he walked her back to the gate. He didn’t tell me what they did there. 
+
+The mornin of the eighth day of August 1903, his twenty-third birthday, hammerin away to finish the pilot seat, he turned to grab a board from the wood bin. He slid out a slat had a nail in it, halfway. His left-hand, his workin hand, gripped into the nail. He yelled out and Smitty come, wrapped a piece of burlap around it, and trotted him to Doc Gillum. Smitty collared me to go over to Doc’s place and wait with U.
+
+Doc pulled the board up and the nail come with it, out of U’s hand. U turned white, a white stone. Somethin to watch. He doctored U, I bundled him home. A few days later, when I went to his attic hideout, it was 99 degrees fairinhight. “I can’t get him downstairs,” Myrtle May said, as she warshed his face with cool well water. “Feel his forehead, hotter’n this attic.” I put my palm on his temple. It liked to burn me. I heard Bee’s voice, comin up the steps, wailin like a widow-woman.
+
+When she swung open the door, she changed. “Wick, get out of the way. Myrtle, please fetch me some washrags and that bottle of witch hazel. Let me take out that attic window.” She knocked loose the window jam and air come in. 
+
+“I’ll ride over get the Doc back,” I said. 
+
+Doc Gillum diagnosed, “tetanus—incurable.” That learned me two words I’d never forget. I confess I could hardly hold up. Ever day I went over and rubbed U’s arms, told him how we was gonna go up again, get them gas gliders goin. Sometimes he didn’t know me, would cuss me out. He was better with Bee. She cooed and warshed his eyes with cold water, one at a time, first blue then brown, back and forth. A true special lady. Next thing, afer we knowed it, his neck don’t turn, his face twisted up like a Halloween mask, couldn’t even keep down Myrtle May’s special chicken soup. His jaw locked like a vise, and he’d have crazy man fits. U died a week later. Without U to horse around with, I was a blank slug. Mostly, I just swigged Old Crow.
+
+The funeral service, held at Bear Creek Methodist, brought folks from five Indiana counties, and next door—Ohio— counties. Even the Wright brothers made the trip. They’d been meanin to get to Poling Town ever since cousin Sarah had wrote about her neighbor—the boy ‘Born to Fly,’ she’d put it. Now they come, Orville and Wilbur, as pallbearers, sad to say. Their testimony got to the mourners and the church choir salved ‘em by repeated rounds of “Rock of Ages.” ‘Rock of ages, cleft for me/Let me hide myself in Thee…’ During everthin, Bee kept a distance, upright under the shade of an old oak, in a black dress. She didn’t have nothin on her head or face. I wanted to talk to her but I couldn’t.
+
+  After the mourners had gone, I stood over the grave. I took off my itchy collar, rolled up my sleeves, reached in my tote and pulled out a pigeon, a dead white one, put it on the grave dirt. U had finally flown better’n a pigeon, just as he was born to. My best buddy winged his way to the Pearly Gates. I wandered off into a field of corn, summer sweet, like U and I had done ever August, before start of school. U never got sick from it, I always did. I et one ear raw, then shucked another and et it, and another, till I got a powerful bellyache.
+
+ At Christmastime, the August heat made for a distant memory. The ground froze, the cornstalks hard stubble, the fields dusted with snow. I stumbled over clods of soil, crost a field onto the Kidd place, went to a grove of pines, chopped one down with my axe, tied it to my buggy, and took it over to Bee’s. She saw me tetherin my pony by the root cellar and waved me up to the house. I dragged the tree to the parlor, stuck it in a warsh tub next to the wide window overlookin the road. She put a tinsel star on the top, one she’d made for U. She cried till she couldn’t cry no more. I felt too low to cry. I had felt too low to even come see Bee, to my shame. Here I was now, to make a try.
+
+ “Bee, our U’s gone, gone almost six months,” I said.
+
+“Yes, over the moon, he is. More like four months. One-hundred-and-thirteen days, actually,” said Bee.
+
+“Seems longer.”
+
+ “Seems like my lifetime.” With bony fingers, she tugged at her gingham dress, liked to wipe off the black-and-white checks. She said nothin else, just stroked her dress.
+
+“When ya lost U, Bee, ya lost yer world. I lost mine, too. Now we got nothin left but our feelins for U. A candle still burnin.” I got up out my straight-backed chair and went down on one knee. “Will you marry me?” . 
+
+Bee went back to her scissors and thread, her thimble, went to the davenport, returned to the string of popcorn she had been workin on.
+
+“No, Chester. Thank you. No.”
+
+Day after New Year’s I left the farm and Poling Town, moved into Portland, got a room over Klofenstein’s Hardware, paid the rent by sweepin the store. Didn’t feel much like chasin the ladies, not since Bee. I did run into her at Stabler’s Drug. She said she’d quit the farm to work at the county courthouse, acrost the alley. Put up a museum there—stuffed owls, arrowheads, gas lights, old maps, carved canes, soldier medals, toads in jars. I visited it once. They was bird wings, all sorts, wings from hawks, pheasants, larks, robins, jays, crows, chickens—you name it, except for pigeons. A piece, too, of wooden wing from the Blind Pig II, with a label she sewed on. It said, Alexander Ulysses: Conqueror of the Sky. Myrtle May never did see it. She did tell me once that on U’s birthday she read aloud over his grave, from the Dayton Daily News, the big story about Orville and Wilbur Wright. “The headline says ‘First in Flight.’ We know better.” I didn’t have the heart to say otherwise.![](2022-spring-web-resources/image/1.png)
+
+“The Blind Pig II did rise, too, U riding the glider as it got hauled along. When it climbed high as the cottonwood tops he waved to Bee, who fixed a love look on him.”
+
+{{% figure_azure pid="Lewis-beck-4-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Orville Wright crashes one of the early Wright Flyers at Kitty Hawk, NC, in 1911. Photo courtesy of 
+
+Wikimedia Commons
+
+{{% figure_azure pid="Lewis-beck-5-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+The Wright Brothers’ first successful flight, December 17, 1903. Photo courtesy of Wikimedia Commons
+
+{{% figure_azure pid="Burt-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+All images courtesy of the author unless otherwise noted
+
+Michael Burt recently retired from Grinnell College after working nearly 33 years in Facilities Management as Associate Director for Grounds, Landscaping, and Hauling. Mike received his BS degree in Horticulture from Iowa State University in 1983 and MS from ISU in 1989. Mike has been married to Diane for 40 years, and their four children, Bailey, Ben, Hannah, and Sam, all attended Grinnell College. Since retiring, Mike is finding more time to walk his golden retriever, Rosie; keep up the yard, garden, and 110-year-old house; hunt waterfowl and turkeys; and fish—mostly for trout! 
+
+*All references appear in Endnotes in the back of the issue.
+
+Fly Fishing in the Driftless Region
+
+by Michael Burt
+
+I am obsessed with fly fishing for trout. In Iowa, trout are only found in far northeastern Iowa streams. When weather and water conditions are favorable for catching fish, I make every effort to get to one of my favorite Iowa trout waters, tolerating the 340-mile round trip for a day of fishing. I will fish long hours in the heat or cold any time of year; I will walk far and work hard for the chance to catch trout. I target unstocked sections of streams or tough areas with difficult access to find water with limited pressure, which often improves my chances for success. I’ve only fished trout for ten years, using spinning tackle and artificial lures for four years before taking up fly fishing. During this time, I’ve worked diligently to improve my trout angling skills, dedicating countless hours to bettering myself. It has been a labor of love to pursue trout in this beautiful part of the state.  
+
+Nymphs imitate the immature larval stage of aquatic insects, like caddisflies and mayflies, and subaquatic species, like worms, scuds, and leeches.  Nymphs can be drifted to fish with a tight line presentation using “sighter” line to detect strikes or with any form of strike indicator attached to the line functioning like a bobber. This aids the fisherman in determining if a fish is interested in the bait and, if lucky, if a fish has taken the bait. Dry flies imitate mature adult insects, including many kinds of stream flies and terrestrial insects, like grasshoppers and beetles. Dry flies are cast directly to the surface-feeding fish or drifted to fish using stream current. Streamers imitate small baitfish and crawfish and are fished with an active retrieve by pulling line in quickly. 
+
+Fly fishing requires a myriad of gear and accessories, and between fishing trips it is critical to spend time at home keeping it all in good working condition and organized. Quality waders and wading boots, fly rods and reels, and nets are essential. A good vest or pack is required to hold everything within easy reach that could possibly be needed streamside. The weather dictates clothing needed, and a change of clothes is a good idea, as wading accidents will occur. I stay connected to fly fishing by reading and rereading classic fly fishing literature, with a book always open on the nightstand. Indeed, it is virtually my only reading done for pleasure. YouTube provides me with hours and hours of fly-tying instruction, fly fishing how-tos, and awesome fly fishing adventures from around the world. I have always liked to fish. It seems now I live to fish. 
+
+To stay connected to fly fishing when at home, I tie all my own flies: nymphs, dry flies, and streamers. Additionally, I make all my own leaders, which primarily protect the main fishing line from damage and breaking, by fastening 20-pound test camouflaged monofilament to my fly line. And, tying progressively smaller diameter camo monofilament together forms the taper to a short section of brightly colored or bicolored monofilament that makes strike detection visible to the wielder. To finish it off, the tippet then connects to this “sighter” line, allowing flies to be attached to the leader. Because in Iowa we are allowed to fish two flies per line, I tie a new two fly tippet and prepare some spares at home prior to the next fishing trip. 
+
+Driving into northeast Iowa, one sees and begins to feel a change come over the landscape. The land is more rugged and roads are no longer oriented north to south and east to west as is common in the rest of Iowa. They switch back and snake along stream valleys and over ridgetops. Agricultural fields of northeast Iowa often are contour farmed, and the large, rectangular farm fields common to much of the state are replaced by fields in seemingly limitless shapes and sizes. The timber thickens and the steep, inaccessible ridgetops create a sense of remoteness and ancientness. Even driving, you imagine yourself in a remote ridgetop timber beneath the dense canopy, planted on the sun-starved forest floor. In appearance, the contrast that this area provides to the rest of Iowa is remarkable.  
+
+During this drive to Decorah’s Pulpit Rock Campground (https://parks.decorahia.org/pulpit-rock-campground) for a three-day fishing and camping trip with Diane, my wife, and our friends Steve and Lisa, I think about why this particular trip seems so important to me. Perhaps I just need to get away and try to forget about things. It has been hard not to dwell on our country’s intensely polarized political climate fueled by rampant misinformation, our resulting dysfunctional government, and the ongoing threat to our democracy. The long-lasting pandemic, with so many in our nation more concerned about their individual rights rather than for the greater good of others, provides little hope for the immediate future. Affecting my family very directly, the death of my mother to pancreatic cancer in summer 2020, and my father’s terminal liver cancer diagnosis in summer 2021 has taken an emotional toll on my sisters and me. We are nearly two weeks into Hospice home care for dad, and he isn’t doing well. I have been apprehensive about what lay ahead for him and the end-of-life decisions we will again be facing.  
+
+The past two years have been difficult for me. I find myself regularly distracted, anxious, and impatient. I’ve often commented that it seems the only thing that has gone well for me during this time is fly fishing. Maybe this trip is important because I am just looking forward to fishing. I get completely absorbed in the moment, clearing my mind and focusing only on the task at hand—catching the next fish. For me, trout fishing is peaceful and calming, and I am grateful for the solace found on trout waters. Between dad’s health and my work, I have had little opportunity to fish since mid-summer, but I am thankful for the time spent over the past few months with dad and my sisters and hope to return home with at least some renewed faith and optimism for the future.  
+
+I began fishing with my dad as a very young boy. Dad taught me about fishing equipment, how to find and use live bait and what to use for artificial bait, how to locate and catch fish, and how to clean fish and prepare them for the table. We fished ponds, Big Creek Lake (https://www.iowadnr.gov/Fishing/Where-to-Fish/Lakes-Ponds-Reservoirs/LakeDetails/lakeCode/BIC77), and the Des Moines River (https://en.wikipedia.org/wiki/Des\_Moines\_River) catching bluegill, bass, crappie, and catfish near our home in central Iowa. Dad would often share helpful insight when I couldn’t get fish to bite, telling me I wasn’t holding my mouth right. Or, when a fish would strike and I couldn’t hook it, he would tell me that I really missed that one. He seldom fished as he got older, and Dad never fished for trout.  
+
+Trout fishing in northeast Iowa is excellent, and anglers can fish year-round with no closed season. The Iowa Department of Natural Resources keeps the streams well stocked with ten to thirteen inch put-and-take rainbow trout. The spring-spawning “Rainbows” don’t reproduce naturally here. However, rainbow trout tolerate the hatchery conditions far better than brown and brook trout and thus are much easier and more economical to produce. In Iowa streams, fall-spawning brown trout are now reproducing naturally, providing self-sustaining populations that produce good numbers of fish. Because of this sustainability, there are no plans to continue to stock brown trout in Iowa streams. Brook trout also are fall-spawners and the state’s only native trout. Due to their more specific spawning and habitat requirements, particularly cold, clean, high-quality water, “Brookies” reproduce and thrive only in a select few streams. Brook trout are stocked only as two-inch fingerlings in area streams with habitats conducive to their reproduction and survival.  
+
+The Driftless Area (https://eaglebluffmn.org/resources/driftless), which people there simply refer to as the Driftless, comprises southwest Wisconsin, southeast Minnesota, northeast Iowa and a small section of far northwest Illinois. Approximately, 85 percent of the Driftless is found in the southwest quarter of Wisconsin. This area was not covered by ice sheets during the fourth, final Pleistocene glaciation called the Wisconsin Glacial Advance. Because of this isolation, the Driftless lacks drift: the clay, silt, sand, gravel, and boulders left behind by the receding glaciers. Common landscape features of the Driftless include steep hills and bluffs, called Coulees in Wisconsin, thickly forested ridges, deeply gouged streams and river valleys, karst topography, and the heavily fractured bedrock of limestone that surface water flows through to erode and form caves, disappearing streams, surface water sinks called sinkholes, shallow ground aquifers, and underground streams that often resurface as cold-water springs. These springs supply the cold, clear, oxygenated water to area streams. This high-quality water combined with the limestone dominated stream beds and their variable stream bed composition, flow gradients, and water depths provide the habitat trout need and the support for plant and insect life that trout depend on. Trout live in beautiful places, and the Driftless is a beautiful land of diverse habitats: a topographical island in the otherwise flattened Midwest landscape.  
+
+On Sunday, the last day of our three-day camping and fishing trip, Steve and I leave the campground well before sunrise on a gorgeous mid-October morning in the Driftless. It is warm with a light breeze and the many visible stars tell us that we will be seeing the sun at sunrise. We are heading to Waterloo Creek to fish the restrictive, regulated stream section that mandates catch and release of all fish and only artificial lures. Catch and release angling usually eliminates the need for put-and-take stream stocking programs, and results in larger, “wilder” trout better adapted for long term survival in the streams. I practice catch and release when trout fishing, releasing all brown and brook trout netted and only occasionally taking for the table put-and-take rainbow trout. The use of artificial lures is much safer for the trout than fishing with live bait. Fish tend to swallow live bait, and the hooks are usually impossible to remove without injuring or killing the fish. I always use barbless hooks on the flies I hand tie. They are much easier to remove and thus inflict little damage to fish.  
+
+We were hoping to be the first anglers to the parking lot, but a wrong turn ended up taking us well out of the way and cutting into our precious angling time. Checkout time at the campground would be 1:00 p.m., and Steve and I figured we would need to be off the stream and heading for my truck by 10 a.m. We got to the stream parking lot as the sun below the horizon began to illuminate the eastern sky. The parking lot was empty, thankfully, and Steve and I rigged up our fly rods and put on our waders and boots.  
+
+We crossed the stream near the parking lot and found the water to be very clear and at normal level. The dry summer and fall had led to reduced stream flows and very clear water that had made fishing challenging. Despite these conditions, Steve and I had enjoyed the usual good fishing on South Bear Creek (https://www.iowadnr.gov/idnr/Fishing/Where-to-Fish/Trout-Streams/Stream-Details?lakeCode=TSB96) on Friday, catching a mix of brown and rainbow trout in good numbers, but nothing big. We found the fishing at Coon Creek (https://www.iowadnr.gov/idnr/Fishing/Where-to-Fish/Trout-Streams/Stream-Details?lakeCode=TCN96) Saturday morning slow, catching only several rainbow trout and many very small brown trout. I fished Twin Springs Creek (https://www.iowadnr.gov/idnr/Fishing/Where-to-Fish/Trout-Streams/Stream-Details?lakeCode=TTS96) right behind our campsite Saturday afternoon and had great fun catching many rainbow trout from the shallow, clear water. As Steve and I hiked downstream at Waterloo Creek (https://www.iowadnr.gov/idnr/Fishing/Where-to-Fish/Trout-Streams/Stream-Details/lakeCode/TWA03), two bald eagles flew upstream, apparently also starting their fishing day. Bald eagles are commonly seen in the Driftless, often trying to catch trout. Just as we got to the stream, the sun topped the bluffs to the southeast, and the morning’s first golden sunlight danced on the stream’s broken surface.  
+
+Steve and I had been catching fish all morning, including a nice 15-inch brown trout just hooked and landed. I consider any Driftless trout 15 inches or larger a good fish, and we remained optimistic that we may yet find a big fish in the great looking water upstream. I checked my phone, and it would soon be 10 a.m. and time for us to head to the truck. Steve stayed to fish just downstream of the deep corner pool fed by a fast, shallow riffle with the fastest water flowing closer to the far bank and hard around the corner. The deepest, darkest water of the pool was between the faster water and the shallow gravel bar where I positioned myself. Because of the bright sunlight and gin-clear water, I expected the best fish in the pool to be holding in the deepest water and where the current moved food directly to them.  
+
+I cast my hand-tied, tungsten bead-headed pine squirrel leech fly (https://www.youtube.com/watch?v=MMIHeu7DP54) upstream and across into the faster water and let it drift downstream. The fly stayed in the shallower, faster water along the far bank and around the corner—not the drift I or a hungry fish wanted. I placed the next cast upstream right at the inside seam between faster and slower water. The fly rode the current downstream, but this time found the slower water at the top of the pool and sank quickly into deep water. I fished the fly slowly, felt a slight tap, set the hook, but no fish. The next cast repeated the same drift and as the fly again settled into the slower, deep water, I felt a solid take and responded quickly with a downstream hookset. I instantly found myself fast to a good, heavy fish that took line easily even though swimming upstream into fast current. Not liking the shallow water it found there, the big trout turned back downstream making for the deep corner pool, content to settle this fight in the deepest water with violent head shakes and short runs.  
+
+My heart pounded from excitement during the difficult, lengthy battle with the fish and from the fear of potentially losing it. I remember last year in this same stream section, when I broke off a very large brown trout. That memory haunts me. Though my angling skills continue to improve, and I’ve become a more confident angler and have netted progressively larger trout with each fly fishing season, I wasn’t certain I’d net this fish. Keeping steady pressure on it by slowly backing downstream, I took line when possible and allowed line to be pulled off the reel during the fish’s frequent runs. Eventually, I worked the big fish close enough to determine it was a large, male brown trout, and it appeared to be hooked solidly in one corner of its mouth. After making it to a shallow spot to net the fish, I held my ground and slowly worked the big brown trout towards me. My first attempt to net the fish was a failure. It spooked as I extended my net and made its last long run to the far bank, tiring as I worked him ever so slowly back towards me. The second net attempt was successful, and with the great brown trout in hand, I was an elated fisherman. After a few hollers and high fives, I easily removed the barbless hook, and Steve and I worked quickly to get a few more photos, measure its length, and release the great brown trout unharmed back to the stream, perhaps one day again to be caught by another lucky Driftless angler. 
+
+The beautiful male brown trout (https://www.iowadnr.gov/Fishing/Iowa-Fish-Species/Fish-Details/speciescode/brt) measured twenty-one inches long, and due to the thickness and height of its body, I estimated that it weighed well over four pounds. The photos show its big square tail and huge, bright sunflower yellow fins, a distinctive kyped jaw, and a stunningly beautiful, dark olive spotted back and bright golden spotted sides that transitioned to its amber underbelly. I am thankful to have had the chance to hook, land, and release such a wonderful Iowa Driftless brown trout, and to have shared this experience with my fishing buddy. The pictures he took really capture the beauty of that fish and the stream that is its home. My goal over the past three fishing seasons has been to land a twenty-inch brown trout because I hadn’t caught one previously, and fish that size are not all that common in Iowa’s Driftless streams. During this quest for the twenty-inch brown trout, I caught several dozen fish over sixteen inches with a few fish topping nineteen inches. However, all those fish paled in comparison to the size and beauty of the brown trout in this story. My next fly fishing goal will simply be to catch a larger Driftless brown trout and to enjoy every moment in pursuit of it. I will fish as often as possible when weather and stream conditions are favorable especially during the spring and fall, fish the better Driftless streams that can support large fish, continue to improve my angling skills, and hope to have good luck on my side. 
+
+Diane and I packed up the truck, said and hugged our goodbyes with Steve and Lisa. Once we were back on the road and without the excitement of fishing, camping, and friends, my mind wandered back to my dad and his terminal liver cancer diagnosis: the man who taught me to fish, starting me on a fishing life that is now an obsession for catching trout with flies. An obsession that leads me to sanctuary, solitude, and great sport in this beautiful, distinctive Driftless Iowa landscape. I called my sister to see how dad was doing. She said he had continued to decline and would be moved from home to the nearby Johnston Hospice facility the next day, Monday. As we continued the drive towards home, I thought about the amazingly unique, limestone dominated landscape that is the Driftless, the great time we had with our old friends, the battle I was lucky to win with that great brown trout, and how I value this wonderful cold-water fishery and the serenity and solace I find there. But mostly, I thought about my dad.  
+
+My father, Gene Goode Burt, would pass away peacefully on Friday October 15, 2021, with our family and the Johnston, Iowa, Hospice staff by his side. He is missed.![](2022-spring-web-resources/image/1.png)
+
+1911 map of the Driftless region1 of Iowa and Wisconsin.1 
+
+{{% figure_azure pid="Burt-2-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+“Dad would often share helpful insight when I couldn’t get fish to bit, telling me I wasn’t holding my mouth right.”
+
+{{% figure_azure pid="Burt-3-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+{{% figure_azure pid="1ABA1274-C956-44F1-97E5-CE719B078133.jpg" caption="" %}}
+
+{{% figure_azure pid="67721C9C-2C12-4FD0-9807-B42CCAEE94B3.jpg" caption="" %}}
 
 {{% figure_azure pid="gaddis-1-volume-viii-issue-1-spring-2022.png" caption="" %}}
 
@@ -1204,7 +1866,7 @@ Huelskamp: I’d say no matter what skill level you are, always make time for yo
 
 Be sure to check Blossom Aloe out on Spotify, Apple Music, and all other music streaming platforms. Enter this URL (https://open.spotify.com/playlist/6alHG9nqV5BBXVTa9fyQ62?si=cfeed586d5a04fff) to link to Blossom Aloe’s setlist, featured at Axelrad in Houston.
 
-You can catch the group at Float Fest in July and keep up with them on Instagram, Twitter and all other platforms through their Linktree (https://linktr.ee/blossomaloeband). Also, make sure to check out the full video on YouTube at https://youtu.be/3z74fFCLoU8.![](2022-spring-web-resources/image/1.png) ![](2022-spring-web-resources/image/8.png)e time away to do those things because you never know where it’s going to go. 
+You can catch the group at Float Fest in July and keep up with them on Instagram, Twitter and all other platforms through their Linktree (https://linktr.ee/blossomaloeband). Also, make sure to check out the full video on YouTube at https://youtu.be/3z74fFCLoU8.![](2022-spring-web-resources/image/1.png) ![](2022-spring-web-resources/image/14.png)e time away to do those things because you never know where it’s going to go. 
 
 Make sure to check Blossom Aloe out on Spotify, Apple Music, and all other music streaming platforms. Linked here is Blossom Aloe’s setlist featured at Axelrad in Houston. 
 
@@ -1228,11 +1890,157 @@ Photo Courtesy of Blossom Aloe
 
 Screen grab from the author’s interview with Blossom Aloe, courtesy of the author and the band. Enter this URL (https://youtu.be/3z74fFCLoU8) in your browser to listen in on the conversation. 
 
-Endnotes
+{{% figure_azure pid="Bradley-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Photo courtesy of Kendra Bradley
+
+Associate editor Kendra Bradley ‘22 (they/them) is a queer Psychology major with Neuroscience and Linguistics concentrations. They were raised in south Mississippi and currently live in Grinnell, Iowa. They mostly like to research language acquisition and processing, especially in the context of disparity. 
+
+Looking for 
+
+Community: Queer Scientists’ Search 
+
+for Connection in 
+
+the Midwest 
+
+by Kendra Bradley
+
+When I was asked to create content for a multimedia online journal about the prairie region, as a STEM major through-and-through with little to no experience with non-academic writing, I knew immediately I was a fish out of water. However, it is a central tenet for Rootstalk that too-often-unheard voices have a place on its pages. As a queer scientist myself, I realized that this was a perfect opportunity for me to collect and tell the stories of queer scientists in the Midwest. 
+
+For context, I am a queer person from Mississippi, and as I write this I am in my last semester as a Psychology major with concentrations in Neuroscience and Linguistics. Most of my stress dreams these days are focused on the question of my future as an aspirational scientist. Additionally, when I began this article I had just passed six months since I started medically transitioning, so navigating that was another thing to consider as I began searching every job that seemed tolerable. As any overeager about-to-be-grad would do, I began to scour Reddit for anyone with with professional and personal experience even remotely comparable to mine, thinking I would ask them for advice. I came up completely short in just about every regard, though, further emphasizing the need for stories like mine. 
+
+ My original idea was to cast a wide net, mostly using social media, and thinking I would highlight the experience of as many queer scientists from or in the Midwest as I could find. I immediately ran into trouble. Turns out, finding openly queer scientists is difficult anywhere, and even more so in the Midwest. I got a couple of responses to my queries, but in the event I could only arrange interviews with two scientists—Alex Keyes, a fifth-year graduate student in the pharmacology program at the University of Iowa, and Asia Perkins, a third-year PhD student in the clinical psychology program at the University of Connecticut. I continued to reach out even more openly to other queer scientists and was even less successful in arranging meetings. 
+
+I next thought about reaching out to undergraduate students as a different demographic. I searched for which Midwestern universities had an active chapter of oSTEM(“out in STEM,” an LGBT STEM organization; https://www.ostem.org) to contact students directly. However, oSTEM couldn’t really provide contact information, since insuring that everyone remains safe and in control of their own identities means discretion is a priority. From there, I individually contacted LGBT groups at major Midwestern universities to gauge interest in my project. Still, I got no responses. 
+
+I considered a couple other options: cast yet another even wider net with professors and other scientists to whom I hadn’t reached out to before, hoping that my luck would turn. Unfortunately, as my emails continued to go unanswered, I was reminded just how hard the next couple years would be as I continued through my daunting life transitions without the comfort of people who knew what I was going through. Furthermore, what could I write about? I began to consider giving up on the concept entirely. But then I realized that the difficulty of gathering the stories of LGBT scientists in the Midwest was, in fact, the story. 
+
+Asia Perkins is a queer woman of color who grew up in Oklahoma. She earned her undergraduate degree in 2015 at the University of Oklahoma (https://www.ou.edu) in Psychology and English Language and Literature. There, she noticed a lack of mental health resources, a lack of support for diverse populations, and general bigotry. Currently, she focuses primarily on the cause and identification of disruptive behavior disorders generally and how those disorders interact with psychopathic traits to impact development more specifically. Additionally, she studies the factors that influence racial and ethnic diagnostic disparities apparent in these disruptive behavior disorders, and how provider and teacher biases contribute to inaccurate and ineffective treatment recommendations. 
+
+When I asked about the most rewarding parts of her work with the children in her research and advocacy work struggling with these disorders, Perkins said, “I used to hear, ‘There’s nothing we can do for you. You’re always going to be this way. You’re probably going to end up in prison.’” Because this attitude was being imposed on impressionable children, Perkins felt called to find the intersection of her clinical and research work and childhood development. She uses her position as a queer woman of color to empathize with the position these children often from minority groups are put in and to intervene with appropriate support. Her empathy, informed by her own experiences with bigotry in the Midwest, shows these children that they are not lost causes, and that someone is willing to sit down and say, “Hey, I really care about you. I want to learn about you as an individual.” It’s this work that Perkins feels can make a huge difference. Perkins also helps these groups by working with the Connecticut Psychological Association(https://connpsych.org) and the American Psychological Association (https://www.apa.org) on behalf of high school kids. This work connects them with psychologists of color to support their growth in the classroom as well as potentially connecting them with psychology as a potential field of research. 
+
+Alex Keyes grew up in Tucson, then attended college at Linfield University (https://www.linfield.edu) in Oregon, where they studied Chemistry and Biology. Keyes then moved to Iowa to attend graduate school in pharmacology at the University of Iowa. 
+
+Keyes’ research is in determining the role of neuro-immune interactions within the spinal cord in pain sensitization. This line of research has been a consistent interest of Keyes since they were 15. “I knew people that had severe chronic pain that current therapeutics couldn’t treat,” Keyes says, “There are people with chronic pain out there; approximately a third of the population has some form of chronic pain, and it needs a lot of addressing because there really isn’t a lot of good treatment out there.” As a disabled trans person, Keyes’ firmly believes that science should always be done at the guidance, and for the benefit, of those most affected by the subject being studies. They endeavor to support marginalized scientists and marginalized community voices in every area of science. This goal drives their passion in science communication online, as this mode of communication allows for those outside the field to have access to the information as well as furthering representation of their minority identities. 
+
+One of Keyes’s notable experiences was working informally on a YouTube video that was debunking the Wakefield vaccine hypothesis (which posits that vaccines lead to autism). “One of the things that I really want to work on is [promoting] science communication,” Keyes said. “Especially to people that have don’t have as much science background, got pushed out of the sciences, or, for whatever reason, didn’t have access to good science, education, anything like that.” 
+
+A common theme when I asked Perkins and Keyes about community and its importance was just how difficult it is to find and situate yourself in the queer science community or to find diverse representation. As Perkins said, “I hadn’t really noticed any decent representation until I got to grad school. I don’t think I had a single queer or, like, racially or ethnically minoritized psychology professor, or anyone to look up to when I was in college or younger.” 
+
+Coming from the Deep South, I had the impression that “at least the Midwest isn’t as conservative as the South,” so I was frankly surprised about what I was hearing as well as what I was not hearing. My top choice graduate program is at the University of Iowa, and I felt so excited at the prospect of joining that community. However, I was hearing that even in a place that has a progressive reputation, at least in terms of LGBT+ rights, there still isn’t a community. 
+
+One possible explanation is that the Midwest has a unique brand of bigotry. While places in the South are much more obvious about their bigotry, a lot of the problems in the Midwest are more covert. From vague comments about length of hair to assumptions about the gender of an alluded partner based on perceived gender of the speaker, it’s much smaller things that clue you in to the covert judgments constantly being made. Compared to slurs yelled out of pick-up trucks and overt violence that can be suffered merely walking down the street, these examples seem minor and not exactly newsworthy; however, these examples still make those impacted feel alienated and unsupported. So, the next question is why, in this supposedly progressive area, are people so bad at accepting LGBT+ identities? 
+
+Keyes made an excellent point about this problem: the Midwest is incredibly rural and spread apart. Even most of our metropolitan areas would barely be considered notable towns in the more populated coastal regions, and the space between the cities is almost entirely empty. Keyes says, “A lot of it out here in Iowa is genuinely just visibility, because most of the time, I’m the first trans grad student that people have come across.” Queer youth are not used to enough openly queer people being around to even begin to create a community. Add the STEM aspect, in which anything other than cisgender heterosexual, wealthy white men is still considered a minority, the possible community is even smaller. Even worse, those that have these queer identities may choose to “just stay in the closet” (which is painful in its own right), which even further lessens the visible community. This lack of visibility of your own identities makes it easy to feel like you just don’t belong in this space. 
+
+In response to Keyes’s point about this lack of representation, Perkins said, “I got to grad school, and it’s still not necessarily very diverse, but I know where to look now. I know who to talk to. And I know how to network, how to get connected and find the people who do share different aspects of my identities now. It’s just difficult because you have to find them and search for them.” Keyes further echoed this, noting that “it took until this year to work with an openly queer professor.” 
+
+Are Keyes and Perkins saying that I’m doomed to constantly search for a community which may or may not even stick? No, in fact they both have a lot of advice about how to find that community. 
+
+ Both emphasized how important student connections are: senior peers, graduate students from interesting labs, even random students on social media. Peer connections are invaluable for finding others in the community. Both said how exciting it is to interact with those interested in their field. Keyes advised emailing current graduate students. “If there’s research you’re really interested in, email us,” they said. “We’d love to talk about our research. We’re generally open to cold emails.” Those connections more easily help find others that share identities, as, anecdotally, it only takes one person to introduce you to a community. Additionally, Perkins highlighted the task forces -- nationally, regionally, and locally -- that specialize in minority populations where you can find community. 
+
+Finding such a community may take work, but it is worth the effort. These communities are vital for combatting imposter syndrome, as minoritized populations much more often than others are more susceptible to believing they are not good enough and don’t belong in their space. As Perkins said, “if I didn’t find people who look like me and have been in the program or in the field, then it would have been rougher than it is. It is very, very important to find your people and find a sense of community. I cannot say or talk about that highly enough.” As she found her community related to both her racial and queer identities, she said “I found several communities where it feels so safe, it feels so warm.” 
+
+Minoritized populations in science aren’t important just for community. As Keyes said, “you realize that pain affects predominantly minoritized people… And usually, the more marginalized identities you hold, the higher risk you are for developing chronic pain. And so being able to find scholars that even look at that, or are part of those communities themselves, it helps in terms of advocacy work and what we are able to push for.” Further, Perkins said, “whatever background you have, if there’s research you’re passionate about, you can do it. Sometimes coming from a background of either your marginalized identities or just the classes you’ve taken, your education can really inform a perspective that is potentially course-changing for the research that you do.” 
+
+Despite the challenges I have described above, I want to emphasize that the effort it takes to make it into the science field is worth it. There are many obstacles, and we must support each other. Add in the imposter syndrome that many minority populations struggle with, and it truly is something to celebrate how we succeed despite the challenges finding our community. We may have to put a bit more elbow grease into it, and that can be discouraging, so I will end with a quote from Keyes on pushing through the discouragement: 
+
+“You are worthy of being there.” ![](2022-spring-web-resources/image/1.png)
+
+{{% figure_azure pid="Bradley-2-volume-viii-issue-1-spring-2022.png" caption="" %}}
+
+oSTEM (which stands for “out in Science, Technology, Engineering and Math”) is a non-profit professional society focused on supporting LGBT people in STEM careers. oSTEM has over 100 active chapters at colleges and universities, as well as in professional settings in both the U.S. and abroad. Logo courtesy of oSTEM.
+
+{{% figure_azure pid="Bradley-3-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Asia Perkins, from Oklahoma, now a third-year PhD candidate at the University of Connecticut
+
+{{% figure_azure pid="Bradley-4-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Alex Keyes, from Arizona, now a fifth-year PhD candidate at the University of Iowa
+
+{{% figure_azure pid="Bradley-5-volume-viii.jpg" caption="" %}}
+
+The combined laboratory, classroom and greenhouse at the Conard Environmental Research Area (CERA), Grinnell College’s state-of-the-art teaching facility for the environmental sciences, is the centerpiece of the College’s multi-year prairie restoration project
+
+{{% figure_azure pid="Burchit-1-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+All photos courtesy of Robby Burchit
+
+Associate Editor Robby Burchit ‘23 is a third-year sociology major at Grinnell College. Robby considers himself both a Midwestern and Southern boy, as he is originally from the small town of Waverly, Iowa, but relocated to Bentonville, Arkansas as a child. Beside being a full-time student, Robby is also the Student Government Association Concerts Chair at Grinnell College and is involved in numerous other extracurricular activities such as Mbira Ensemble. Outside of school, Robby enjoys cooking, travelling, making music, and roller-skating. 
+
+Warped Cherubs 
+
+and Tasmanian 
+
+Devils: A Tattoo 
+
+Artist in Fairfield
+
+by Robby Burchit
+
+As I walk into Arrowhead Tattoo studio (https://www.arrowheadtattoo.com) in Faifield, Iowa (https://cityoffairfieldiowa.com), I’m immediately struck by Dom Rabalais’ bold personal style. The 32-year-old multimedia artist, tattooer, and Fairfield native (http://www.domrabalais.com) is sporting tight leopard print leggings, a cropped Chippendales t-shirt and a platinum bleached hairdo. His style matches his bright and extroverted demeanor as he greets me and introduces me to the studio. He hands me a thick binder bursting with sketches of tattoos, and although the purpose of my visit to the studio is simply to talk to him, I find myself curiously flipping through his sketch-book. Rabalais’ tattoo work is vibrant and playful, with a childlike sense of wonder and mischief that emanates from each design. After surveying his sketches of flower chains, small scarab beetles, and wolves, I remember one of his designs that I had liked that I saw online: a small jester. I mention this to him and before I know it, he’s furiously scribbling at his desk, rendering the vintage Halloween-inspired design, ready to tranfer it from the page to my skin. Next thing I know, I’m sprawled out on a table in the studio getting prepped for a spontaneous tattoo as we discuss his work. 
+
+Rabalais’ tattoo work and paintings have gained significant traction online lately, largely through platforms such as Instagram, where he posts his work for thousands of followers that include other notable and emerging artists. His colorful, cartoony work feels fresh and of-the-moment, and it’s clearly resonating with people in the Fairfield area, as he has been booked and busy since his return to Fairfield in 2020. Despite his growing following, however, Rabalais didn’t set out specifically to become a “tattoo artist.” 
+
+“I never thought ‘and someday I’ll be a tattooer being interviewed about tattooing’ or something like that. I was kind of like, ‘Well, my friends want tattoos and I shall give them some.’” 
+
+Rabalais’ tattoo journey began when he was a teenager in the 2000s, when he discovered stick and poke tattooing (https://sticknpoke.com/how-to-stick-and-poke) through a feature titled “The DIY Guide to Everything” in the punk ‘zine Razor Cake (https://razorcake.org). A “stick-and-poke” is a type of tattoo that’s created by spreading ink on the skin and then using needle-sticks to introduce the ink beneath the surface of the skin. Because the equipment is relatively inexpensive and the technique requires less precision, it’s often seen as the go-to tattooing method for beginners. From there, Rabalais began tattooing in what he calls an “evil manner,” using safety pins to scrawl designs on himself. “Occasionally, my friends would want something abhorrent tattooed on them, and I could do it in a very rudimentary way.” 
+
+Later in his 20s, Rabalais developed his tattoo skills further while living as a touring musician. He recounts the story of his former bandmate and late friend who bought him his first tattoo gun. Stick-and-poke tattoos can be time consuming, and since he wanted lots of tattoos done quickly, he ordered Rabalais what he referred to as a beginner’s “Baby’s First Tattoo Gun.” Rabalais would then use this gun to tattoo his friends, bandmates, and the owners of whatever house they were crashing at that night during their tour. “As a result, I gave a lot of tattoos that were not the world’s best , but were very much the kind of tattoos that one gives and receives in a punk house.” In those days, punk houses were spaces where members of a given punk scene lived, performed to packed local audiences, and partied. It was through the trial and error process of rendering these punk house tattoos that Rabalais refined his craft, learning things about the process that he could only learn b giving a lot of tattoos. 
+
+“There’s a bond between the tattoo-er and the machine, the wielder of the tool and the tool itself, that can only be built through experience,” he says. 
+
+One can see the youthful, rebellious energy of DIY music channeled into Rabalais’ designs like his series of warped cherubs or his offbeat sketches of the Tasmanian Devil from Looney Tunes. Later, he explains that music was and in many ways still is his primary artistic outlet. “My main thing is playing music and going on tour all the time.” He explained that before the pandemic, his plan was to be on tour indefinitely, and it wasn’t until recently that he was able to dive deeper into tattooing and painting as other outlets for artistic expression. He explains that music, art, and tattooing are often tied together through the imagery they feature. He describes the “dialectical back and forth” between his paintings and tattoos, with each borrowing designs from the other. When I ask Rabalais how his focus shifted largely to tattooing, he jokingly admits that it’s all about attention. 
+
+ “OK, I’m not trying to be like, ‘Oh, no one likes the music,’ but as far as things that I have been successful at doing, I feel just in general, people seem to respond really well to the paintings and tattoos, which is great because I mean, in the end, all I want is validation and attention.” 
+
+ He says this last part with a smirk and a chuckle, but the attention he has received for his visual art and tattooing is no joke. From residencies and shows in galleries in Ohio and Washington to becoming a regular tattoo artist at Arrowhead Studios in Fairfield, Rabalais has managed to build a successful career out of his visuartwork, allowinl g him to quit his indexing job and pursue his art full time. Rabalais’ major shift in focus toward tattoo art came after returning home to Fairfield after living in New York City for several years. 
+
+He was born and raised in Fairfield, a small college town located in southeast Iowa. At first glance, the town might appear to be like many other small towns in Iowa: sleepy, unassuming, conservative. However, Fairfield boasts a unique history as the home of the Maharishi International University (https://www.miu.edu), a private college centered around the practice of transcendental meditation where Rabalais’ mother worked during his upbringing. The college, founded in 1973 by Indian yoga guru Maharishi Mahesh Yogi (https://en.wikipedia.org/wiki/Maharishi\_Mahesh\_Yogi), has gained a sort of cult following known locally as “the Movement,” and has created the small Iowa town’s singularly offbeat culture. This unique, non-conformist culture has influenced him in many ways. 
+
+When I ask him if growing up in Fairfield has affected his art or style, Rabalais replies with “Well, definitely in the way that my mom was very supportive.” “I acknowledge and am aware that growing up in Fairfield was unconventional. It was also the kind of thing where ‘I don’t really know what I don’t know.’ I have no baseline to compare it to. My perspective on it has changed a lot over the years.” Growing up, he attended what he describes as the Maharishi equivalent of Catholic school run by the Movement. After graduation, he later attended the university’s art school where he began to develop his artistic chops. It was during his time in school that Rabalais began to pick up on “the secret history of America.” 
+
+“Just to go full tinfoil hat here, there are things about the Movement that I find to be kind of buck wild. I wouldn’t even say these are conspiracy theories. It’s history. It’s fact that people don’t generally talk about.” 
+
+From here, the two of us both go “full tinfoil hat” as we dive into a long and winding conversation surrounding the Movement’s connections to geopolitics and culture, its alleged ties to COINTELPRO (an FBI backed program run from the ‘50s-70s, designed to surveil, infiltrate, and disrupt leftist political organizing in the US; https://en.wikipedia.org/wiki/COINTELPRO), and its relationship to ‘60s counterculture and LSD. The conversation was fascinating—albeit, a little off topic—but more than anything it lent context to Dom Rabalais as a man and artist. While his upbringing in Fairfield might not play an explicit role in his art, I could see how these components of his past—the Maharishi schooling, the punk house life, the constant touring—all come together to influence Rabalais’ wonderfully zany and unconventional signature style. 
+
+While returning home after living in New York City has brought Rabalais lots of new opportunities, his move back wasn’t under the best of circumstances. It was the passing away of his father during the pandemic that prompted him to return to Fairfield where he could take care of his mother. “It was hard to be like, ‘Ok, Mom, just deal with that.’” Rabalais tells me about how he moved himself and his partner out of New York and across the country, back to Fairfield, with his partner eventually relocating to Minneapolis. While his plan isn’t to live in Fairfield for the long term (he already splits his time relatively evenly between Minneapolis and Iowa), he has found comfort and solace in returning to the prairie. 
+
+“I can come back and spend time with my mom and help to fix things around the house. I mean, in a more existential/emotional way, I need to figure out being alone and experiencing solitude without having a mental breakdown at the same time. I feel like now I have to confront that part of myself that is so afraid of solitude. And yeah, small-town Iowa is a great place to [do that].” 
+
+In between bouts of Iowa solitude, you can catch him traveling all over the country working on projects from an arts festival in northwest Arkansas to doing tattoo residencies in Portland to painting fences in Nashville and putting on his own visual art shows in Ohio. 
+
+Rabalais finishes the final touches on my tattoo and snaps a few pictures to post on his Instagram account. I admire the new piece of art on my leg: a playful ode to my birthday being on April Fools’ Day. As we exchange goodbyes, I find myself already craving another tattoo and make a mental plan to return one day for another new piece.![](2022-spring-web-resources/image/1.png)
+
+“[T]hrough the trial and error of these punk houses Rabalais refined his craft, learning things about the process that he could only learn by giving a lot of tattoos...” 
+
+{{% figure_azure pid="Burchit-2-volume-viii-issue-1-spring-2022.png" caption="" %}}
+
+{{% figure_azure pid="Burchit-3-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Dom Rabalais poses wth two of his canvses and, of course, the canvas he has made of his body
+
+{{% figure_azure pid="Burchit-4-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+{{% figure_azure pid="Burchit-5-volume-viii-issue1-spring-2022.jpg" caption="" %}}
+
+“There’s a bond between the tattoo-er and the machine, the wielder of the tool and the tool itself, that can only be built through experience.” 
+
+{{% figure_azure pid="Burchit-6-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+The Evolution of an Artwork: After consulting with his client on the design, Dom Rabalais bdgins by outlining the figure (left, and left below) 
+
+A tatoo design sometimes requires several visits before a it is fully developed, particularly if—as here—Rabalais is working on several tatoos at once. During later sessions, the artist will add detail and color
+
+{{% figure_azure pid="Burchit-7-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+Rabalais seated at a workstation dedicated to another of his passions: music
 
 Endnotes 
 
-Publisher’s Note: “The Stories We Tell”
+Publisher’s Note: The Stories We Tell
 
 1 Joseph Frazier Wall, Iowa: A Bicentennial History (The States and the Nation Series, New York: W.W. Norton & Company, 1978, p.xvi)
 
@@ -1250,85 +2058,101 @@ Grow Finish Unit Takes on “Ruthless and Insatiable” Industrial Ag
 
 2 https://www.kcrg.com/2020/06/25/man-charged-with-arson-after-a-7-hour-standoff-in-poweshiek-county/
 
-“A Conversation about The Great Plains Trail”
+Prairie Style: Wright, the Griffins, Sullivan, and their Impact on Iowa Architecture
 
-1The Bureau of Land Management (BLM) owns nearly 250 million acres of land in the United States, mostly in the western half of the nation. Most BLM land is free to camp on for up to 14 days, making it a popular choice for thru-hikers. 
+1. Louis Henry Sullivan, “The Young Man in Architecture,” The Architectural Review 9, no. 54 (1901): 214
 
-that comes out of it and come hang out with us sometime and everybody just be safe out there. Thank you. 
+2. Allen H. Brooks, The Prairie School: Frank Lloyd Wright and his Midwest Contemporaries, (Toronto and Buffalo: University of Toronto Press, 1972), 242
 
+3. “WTOP History,” Wright on the Park, 2022, https://wrightonthepark.org/about-us/wotp-history/
 
+4. Allen H. Brooks, The Prairie School, 173
 
+5. Ryan Ferguson. “Ricker House, Ryan Ferguson Perspective,” 2020
 
+6. Claire Zulkey, “Meet Marion Mahony Griffin, Frank Lloyd Wright’s best frenemy: The two architects are forever intertwined,” Curbed, June 8, 2017. https://archive.curbed.com/2017/6/8/15755858/marion-mahony-walter-burley-griffin-wright-drawings
 
-Huelskamp: I’d say no matter what skill level you are, always make time for your creative outlet. Whether it’s music, art, theatre, put some time away to do those things because you never know where it’s going to go. 
+7. Allen H. Brooks, The Prairie School, 164
 
+8. Allen H. Brooks, The Prairie School, 164
 
+9. “Walter Burley Griffin in his Own Right: The Griffins Architecture Interviews Producer’s Notes,” PBS, June 4, 1999, https://www.pbs.org/wbgriffin/index.htm
 
+10. Ryan Ferguson. “Ricker House, Ryan Ferguson Perspective,” 2020
 
+11. Allen H. Brooks, The Prairie School, 231
 
-Be sure to check Blossom Aloe out on Spotify, Apple Music, and all other music streaming platforms. Enter this URL (https://open.spotify.com/playlist/6alHG9nqV5BBXVTa9fyQ62?si=cfeed586d5a04fff) to link to Blossom Aloe’s setlist, featured at Axelrad in Houston.
+12. Louis Henry Sullivan, “The Tall Office Building Artistically Considered,” Lippincott’s 
 
+Magazine, March 1896, 408
 
+13. Louis Henry Sullivan, “The Tall Office Building Artistically Considered,” 408
 
+14. H. Koeper, “Louis Sullivan,” Encyclopedia Britannica, accessed April 8, 2022 from https://www.britannica.com/biography/Louis-Sullivan
 
+15. Allen H. Brooks, The Prairie School, 12
 
-You can catch the group at Float Fest in July and keep up with them on Instagram, Twitter and all other platforms through their Linktree (https://linktr.ee/blossomaloeband). Also, make sure to check out the full video on YouTube at https://youtu.be/3z74fFCLoU8.![](2022-spring-web-resources/image/1.png) ![](2022-spring-web-resources/image/8.png)e time away to do those things because you never know where it’s going to go. 
+16. Allen H. Brooks, The Prairie School, 344
 
+Fly Fishing in the Driftless Region
 
+1Isaiah Bowman, PhD, Forest Physiography: Physiography of the United States and Principles of Soils in Relation to Forestry. (New York and London: John Wiley & Sons, 1911), p. 495. 
 
+his art, I could see how these components of his past—the Maharishi schooling, the punk house life, the constant touring—all come together to influence Rabalais’ wonderfully zany and unconventional signature style. 
 
 
-Make sure to check Blossom Aloe out on Spotify, Apple Music, and all other music streaming platforms. Linked here is Blossom Aloe’s setlist featured at Axelrad in Houston. 
 
 
 
+While returning home after living in New York City has brought Rabalais lots of new opportunities, his move back wasn’t under the best of circumstances. It was the passing away of his father during the pandemic that prompted him to return to Fairfield where he could take care of his mother. “It was hard to be like, ‘Ok, Mom, just deal with that.’” Rabalais tells me about how he moved himself and his partner out of New York and across the country, back to Fairfield, with his partner eventually relocating to Minneapolis. While his plan isn’t to live in Fairfield for the long term (he already splits his time relatively evenly between Minneapolis and Iowa), he has found comfort and solace in returning to the prairie. 
 
 
-Catch them at Float Fest in July and keep up with them on Instagram, Twitter and all other platforms through their Linktree. Also, make sure to check out the full video linked above on YouTube. 
 
 
 
+“I can come back and spend time with my mom and help to fix things around the house. I mean, in a more existential/emotional way, I need to figure out being alone and experiencing solitude without having a mental breakdown at the same time. I feel like now I have to confront that part of myself that is so afraid of solitude. And yeah, small-town Iowa is a great place to [do that].” 
 
 
 
 
 
+In between bouts of Iowa solitude, you can catch him traveling all over the country working on projects from an arts festival in northwest Arkansas to doing tattoo residencies in Portland to painting fences in Nashville and putting on his own visual art shows in Ohio. 
 
 
 
-{{% figure_azure pid="gaddis-2-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
 
+Rabalais finishes the final touches on my tattoo and snaps a few pictures to post on his Instagram account. I admire the new piece of art on my leg: a playful ode to my birthday being on April Fools’ Day. As we exchange goodbyes, I find myself already craving another tattoo and make a mental plan to return one day for another new piece.![](2022-spring-web-resources/image/1.png)
 
 
 
 
-Blossom Aloe (L to R) are: Jafet Lujan, Ian Morales, Henry Huelskamp, Josh Vargas and Aaron Ruiz. Photo courtesy of Micahl wyckoff
 
+ 
 
 
 
 
 
+ 
 
 
 
 
 
-{{% figure_azure pid="gaddis-3-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
 
 
 
 
 
-Photo by Mark C. Austin 
 
 
 
 
 
 
+“[T]hrough the trial and error of these punk houses Rabalais refined his craft, learning things about the process that he could only learn by giving a lot of tattoos...” 
 
 
 
@@ -1340,7 +2164,6 @@ Photo by Mark C. Austin
 
 
 
-“ I want to play to all kinds of people: young, old. People of color and, like, just everybody. And I feel like Houston is the perfect place to do that.” 
 
 
 
@@ -1349,6 +2172,7 @@ Photo by Mark C. Austin
 
 
 
+{{% figure_azure pid="Burchit-2-volume-viii-issue-1-spring-2022.png" caption="" %}}
 
 
 
@@ -1357,17 +2181,17 @@ Photo by Mark C. Austin
 
 
 
+{{% figure_azure pid="Burchit-3-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
 
 
-{{% figure_azure pid="gaddis-4-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
 
 
+Dom Rabalais poses wth two of his canvses and, of course, the canvas he has made of his body
 
 
 
-Photo Courtesy of Blossom Aloe 
 
 
 
@@ -1376,17 +2200,83 @@ Photo Courtesy of Blossom Aloe
 
 
 
+{{% figure_azure pid="Burchit-4-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
 
 
-{{% figure_azure pid="gaddis-5-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
 
 
 
 
 
+{{% figure_azure pid="Burchit-5-volume-viii-issue1-spring-2022.jpg" caption="" %}}
 
-Screen grab from the author’s interview with Blossom Aloe, courtesy of the author and the band. Enter this URL (https://youtu.be/3z74fFCLoU8) in your browser to listen in on the conversation. 
+
+
+
+
+
+“There’s a bond between the tattoo-er and the machine, the wielder of the tool and the tool itself, that can only be built through experience.” 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{% figure_azure pid="Burchit-6-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+
+
+
+
+
+The Evolution of an Artwork: After consulting with his client on the design, Dom Rabalais bdgins by outlining the figure (left, and left below) 
+
+
+
+
+
+A tatoo design sometimes requires several visits before a it is fully developed, particularly if—as here—Rabalais is working on several tatoos at once. During later sessions, the artist will add detail and color
+
+
+
+
+
+
+
+
+
+
+
+{{% figure_azure pid="Burchit-7-volume-viii-issue-1-spring-2022.jpg" caption="" %}}
+
+
+
+
+
+
+Rabalais seated at a workstation dedicated to another of his passions: music
 
 
 
@@ -1412,16 +2302,6 @@ Screen grab from the author’s interview with Blossom Aloe, courtesy of the aut
 
 
 
-Endnotes
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1440,7 +2320,7 @@ Endnotes
 
 
 
-Publisher’s Note: “The Stories We Tell”
+Publisher’s Note: The Stories We Tell
 
 
 
@@ -1494,17 +2374,121 @@ Grow Finish Unit Takes on “Ruthless and Insatiable” Industrial Ag
 
 
 
-“A Conversation about The Great Plains Trail”
+Prairie Style: Wright, the Griffins, Sullivan, and their Impact on Iowa Architecture
 
 
 
 
 
-1The Bureau of Land Management (BLM) owns nearly 250 million acres of land in the United States, mostly in the western half of the nation. Most BLM land is free to camp on for up to 14 days, making it a popular choice for thru-hikers. 
+1. Louis Henry Sullivan, “The Young Man in Architecture,” The Architectural Review 9, no. 54 (1901): 214
 
 
 
 
+
+2. Allen H. Brooks, The Prairie School: Frank Lloyd Wright and his Midwest Contemporaries, (Toronto and Buffalo: University of Toronto Press, 1972), 242
+
+
+
+
+
+3. “WTOP History,” Wright on the Park, 2022, https://wrightonthepark.org/about-us/wotp-history/
+
+
+
+
+
+4. Allen H. Brooks, The Prairie School, 173
+
+
+
+
+
+5. Ryan Ferguson. “Ricker House, Ryan Ferguson Perspective,” 2020
+
+
+
+
+
+6. Claire Zulkey, “Meet Marion Mahony Griffin, Frank Lloyd Wright’s best frenemy: The two architects are forever intertwined,” Curbed, June 8, 2017. https://archive.curbed.com/2017/6/8/15755858/marion-mahony-walter-burley-griffin-wright-drawings
+
+
+
+
+
+7. Allen H. Brooks, The Prairie School, 164
+
+
+
+
+
+8. Allen H. Brooks, The Prairie School, 164
+
+
+
+
+
+9. “Walter Burley Griffin in his Own Right: The Griffins Architecture Interviews Producer’s Notes,” PBS, June 4, 1999, https://www.pbs.org/wbgriffin/index.htm
+
+
+
+
+
+10. Ryan Ferguson. “Ricker House, Ryan Ferguson Perspective,” 2020
+
+
+
+
+
+11. Allen H. Brooks, The Prairie School, 231
+
+
+
+
+
+12. Louis Henry Sullivan, “The Tall Office Building Artistically Considered,” Lippincott’s 
+
+
+
+
+
+Magazine, March 1896, 408
+
+
+
+
+
+13. Louis Henry Sullivan, “The Tall Office Building Artistically Considered,” 408
+
+
+
+
+
+14. H. Koeper, “Louis Sullivan,” Encyclopedia Britannica, accessed April 8, 2022 from https://www.britannica.com/biography/Louis-Sullivan
+
+
+
+
+
+15. Allen H. Brooks, The Prairie School, 12
+
+
+
+
+
+16. Allen H. Brooks, The Prairie School, 344
+
+
+
+
+
+Fly Fishing in the Driftless Region
+
+
+
+
+
+1Isaiah Bowman, PhD, Forest Physiography: Physiography of the United States and Principles of Soils in Relation to Forestry. (New York and London: John Wiley & Sons, 1911), p. 495. 
 
 
 

@@ -17,23 +17,24 @@ replacement = '{{% figure_azure pid="xPIDx" caption="" %}}'
 
 frontmatter = '---\n' \
               'title: \n' \
+              'articleIndex: \n' \
               'index: \n' \
               'description: \n' \
               'date: \n' \
               'draft: false \n' \
-              'authors: \n' \
-              '  - name: \n' \
+              'contributors: \n' \
+              '  - role: author \n' \
+              '    name: \n' \
               '    headshot: \n' \
-              '    bio: " "\n' \
-              '  - name: \n' \
-              '    headshot: \n' \
+              '    caption: \n' \
               '    bio: " "\n' \
               'articletype: \n' \
-              'tags: [" "," "] \n' \
               'azure_dir: \n' \
-              "azure_header: \n" \
+              'header_image: \n' \
+              '  filename: \n' \
+              '  alt_text: \n' \
+              'tags: [" "," "] \n' \
               "---\n"
-
 
 # Open the year-term.html file and run the "markdownify" package
 #   (https://github.com/matthewwithanm/python-markdownify) on it.
@@ -114,7 +115,9 @@ def rootstalk_make_articles(year, term, filepath):
       
       for key, value in yml.items():
         logging.info("{}: {}".format(key, value))
-          
+
+      aIndex = 0
+
       # Read each article name/index and create a new article_index.md file if one does not already exist
       for name in yml["articles"]:
         web_resources = '-web-resources/{}.md'.format(name)
@@ -129,12 +132,13 @@ def rootstalk_make_articles(year, term, filepath):
             issue_md_content = md.read()
                 
             # Customize the front matter before inserting it...
-            fm = frontmatter.replace("index: ", "index: {}".format(name)).replace("azure_dir: ",
-                                                                                      "azure_dir: rootstalk-{}-{}".format(
-                                                                                        year, term)).replace("date: ",
-                                                                                                             "date: '{}'".format(
-                                                                                                               datetime.now().strftime(
-                                                                                                                 '%d/%m/%Y %H:%M:%S')))
+            fm = frontmatter.replace("index: ", "index: {}".format(name))
+            fm = fm.replace("articleIndex: ", "articleIndex: {}".format(aIndex))
+            fm = fm.replace("azure_dir: ", "azure_dir: rootstalk-{}-{}".format(year, term))
+            fm = fm.replace("date: ", "date: '{}'".format(datetime.now().strftime('%d/%m/%Y %H:%M:%S')))
+            
+            aIndex += 1
+            
             # Write the front matter and content to the article.md file
             with open(md_path, "w") as article_md:
               print(fm, file=article_md)

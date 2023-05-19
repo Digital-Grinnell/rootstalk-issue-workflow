@@ -1,0 +1,857 @@
+2022-06-03 11:50:02,074 - INFO - 2022-06-03 11:50:02.073974
+2022-06-03 11:50:02,074 - INFO - 2015-fall.yml file found and opened.
+2022-06-03 11:50:02,076 - INFO - Creating new .md file: 2015-fall.md
+2022-06-03 11:50:02,178 - INFO - Attempting to open markdown file: 2015-fall.md
+2022-06-03 11:50:02,178 - INFO - Creating new Azure .md file at '2015-fall-azure.md'.
+2022-06-03 11:50:02,179 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,179 - INFO - Replaced image reference '![](2015-fall-web-resources/image/1.png)' with new line '{{% figure_azure pid="1.png" caption="" %}}'
+2022-06-03 11:50:02,179 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,179 - INFO - Replaced image reference '![](2015-fall-web-resources/image/20150714prairieMACRO272.jpg)' with new line '{{% figure_azure pid="20150714prairieMACRO272.jpg" caption="" %}}'
+2022-06-03 11:50:02,179 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,179 - INFO - A group of 8 redundant blank lines were removed
+2022-06-03 11:50:02,179 - INFO - Removed page header line 'A PRAIRIE JOURNAL OF CULTURE, SCIENCE, AND THE ARTS | FALL 2015'
+2022-06-03 11:50:02,179 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,179 - INFO - A group of 7 redundant blank lines were removed
+2022-06-03 11:50:02,179 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,179 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,179 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,179 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - Removed page header line 'Photograph | Hayworth'
+2022-06-03 11:50:02,180 - INFO - A group of 8 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - Replaced image reference '![](2015-fall-web-resources/image/20140828macro312.jpg)' with new line '{{% figure_azure pid="20140828macro312.jpg" caption="" %}}'
+2022-06-03 11:50:02,180 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - Replaced image reference '![](2015-fall-web-resources/image/NE9-13_51208.jpg)' with new line '{{% figure_azure pid="NE9-13_51208.jpg" caption="" %}}'
+2022-06-03 11:50:02,180 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 5 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - Removed page header line 'Drawing | Howland'
+2022-06-03 11:50:02,180 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Howland_Madeline_1.png)' with new line '{{% figure_azure pid="Howland_Madeline_1.png" caption="" %}}'
+2022-06-03 11:50:02,180 - INFO - A group of 9 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 6 redundant blank lines were removed
+2022-06-03 11:50:02,180 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 6 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - Removed page header line 'Farewell, Richard | Andelson'
+2022-06-03 11:50:02,181 - INFO - Replaced image reference '![](2015-fall-web-resources/image/richard_fyffe_compass_plant_display_burling.png)' with new line '{{% figure_azure pid="richard_fyffe_compass_plant_display_burling.png" caption="" %}}'
+2022-06-03 11:50:02,181 - INFO - A group of 12 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 7 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - Replaced image reference '![](2015-fall-web-resources/image/IMG_3053.jpg)' with new line '{{% figure_azure pid="IMG_3053.jpg" caption="" %}}'
+2022-06-03 11:50:02,181 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Madeline.png)' with new line '{{% figure_azure pid="Madeline.png" caption="" %}}'
+2022-06-03 11:50:02,181 - INFO - A group of 8 redundant blank lines were removed
+2022-06-03 11:50:02,181 - INFO - Removed page header line 'Drawing | Howland'
+2022-06-03 11:50:02,181 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Howland_Madeline_3.png)' with new line '{{% figure_azure pid="Howland_Madeline_3.png" caption="" %}}'
+2022-06-03 11:50:02,182 - INFO - A group of 12 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - Replaced image reference '![](2015-fall-web-resources/image/IMG_1811.png)' with new line '{{% figure_azure pid="IMG_1811.png" caption="" %}}'
+2022-06-03 11:50:02,182 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - Replaced image reference '![](2015-fall-web-resources/image/IMG_1070.jpg)' with new line '{{% figure_azure pid="IMG_1070.jpg" caption="" %}}'
+2022-06-03 11:50:02,182 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,182 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,183 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,184 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - Removed page header line 'Rootstalk | Volume II, Issue 1, Fall 2015'
+2022-06-03 11:50:02,185 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Betty_Moffett.png)' with new line '{{% figure_azure pid="Betty_Moffett.png" caption="" %}}'
+2022-06-03 11:50:02,185 - INFO - A group of 15 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,185 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - Removed page header line 'My Prairie | B. Moffett'
+2022-06-03 11:50:02,186 - INFO - A group of 20 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - Removed page header line 'Rootstalk | Volume II, Issue 1, Fall 2015'
+2022-06-03 11:50:02,186 - INFO - A group of 16 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Sandy_Burn.jpg)' with new line '{{% figure_azure pid="Sandy_Burn.jpg" caption="" %}}'
+2022-06-03 11:50:02,186 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,186 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,187 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - Removed page header line 'The Real Deep River Blues | S. Moffett'
+2022-06-03 11:50:02,188 - INFO - A group of 8 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Clayton_headshot.png)' with new line '{{% figure_azure pid="Clayton_headshot.png" caption="" %}}'
+2022-06-03 11:50:02,188 - INFO - A group of 17 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - Replaced image reference '![](2015-fall-web-resources/image/RedWingBB.jpg)' with new line '{{% figure_azure pid="RedWingBB.jpg" caption="" %}}'
+2022-06-03 11:50:02,188 - INFO - A group of 8 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - Removed page header line 'The Garwin Bowery | Heath'
+2022-06-03 11:50:02,188 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Heath_1.jpg)' with new line '{{% figure_azure pid="Heath_1.jpg" caption="" %}}'
+2022-06-03 11:50:02,188 - INFO - A group of 17 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Bowery-GS.jpg)' with new line '{{% figure_azure pid="Bowery-GS.jpg" caption="" %}}'
+2022-06-03 11:50:02,188 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,188 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - Removed page header line 'The Garwin Bowery | Heath'
+2022-06-03 11:50:02,189 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Owens.png)' with new line '{{% figure_azure pid="Owens.png" caption="" %}}'
+2022-06-03 11:50:02,189 - INFO - A group of 9 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Barnet.png)' with new line '{{% figure_azure pid="Barnet.png" caption="" %}}'
+2022-06-03 11:50:02,189 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Garwin_contest.jpg)' with new line '{{% figure_azure pid="Garwin_contest.jpg" caption="" %}}'
+2022-06-03 11:50:02,189 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 5 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Hayworth_2c_JustinMUG.jpg)' with new line '{{% figure_azure pid="Hayworth_2c_JustinMUG.jpg" caption="" %}}'
+2022-06-03 11:50:02,189 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - Replaced image reference '![](2015-fall-web-resources/image/SmallerOne003.png)' with new line '{{% figure_azure pid="SmallerOne003.png" caption="" %}}'
+2022-06-03 11:50:02,189 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,189 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - Removed page header line 'Photography | Hayworth'
+2022-06-03 11:50:02,190 - INFO - Replaced image reference '![](2015-fall-web-resources/image/SmallerOne002.jpg)' with new line '{{% figure_azure pid="SmallerOne002.jpg" caption="" %}}'
+2022-06-03 11:50:02,190 - INFO - A group of 9 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - Replaced image reference '![](2015-fall-web-resources/image/JW_peasant_France_2005.png)' with new line '{{% figure_azure pid="JW_peasant_France_2005.png" caption="" %}}'
+2022-06-03 11:50:02,190 - INFO - A group of 8 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,190 - INFO - Removed page header line 'Tortoise Philosophy | Whittaker![](2015-fall-web-resources/image/3.png)'
+2022-06-03 11:50:02,191 - INFO - Replaced image reference '![](2015-fall-web-resources/image/CSTU_-_10-0531_-_0003K._portrait_-_4_to_5_ratio.png)' with new line '{{% figure_azure pid="CSTU_-_10-0531_-_0003K._portrait_-_4_to_5_ratio.png" caption="" %}}'
+2022-06-03 11:50:02,191 - INFO - A group of 21 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 11 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - Removed page header line 'Tortoise Philosopohy | Whittaker'
+2022-06-03 11:50:02,191 - INFO - A group of 8 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - Replaced image reference '![](2015-fall-web-resources/image/PATU_-_15-0503_-_0004M._landscape_-_4_to_5_ratio.jpg)' with new line '{{% figure_azure pid="PATU_-_15-0503_-_0004M._landscape_-_4_to_5_ratio.jpg" caption="" %}}'
+2022-06-03 11:50:02,191 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 6 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 5 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - Removed page header line 'Triptych | Scandridge'
+2022-06-03 11:50:02,191 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Scandridge_Diana_bottom.jpg)' with new line '{{% figure_azure pid="Scandridge_Diana_bottom.jpg" caption="" %}}'
+2022-06-03 11:50:02,191 - INFO - A group of 9 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Scandridge_Diana_top.jpg)' with new line '{{% figure_azure pid="Scandridge_Diana_top.jpg" caption="" %}}'
+2022-06-03 11:50:02,191 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Scandridge_Diana_middle.jpg)' with new line '{{% figure_azure pid="Scandridge_Diana_middle.jpg" caption="" %}}'
+2022-06-03 11:50:02,191 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Scandridge_headshot.png)' with new line '{{% figure_azure pid="Scandridge_headshot.png" caption="" %}}'
+2022-06-03 11:50:02,191 - INFO - A group of 7 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Connie_Mutel.png)' with new line '{{% figure_azure pid="Connie_Mutel.png" caption="" %}}'
+2022-06-03 11:50:02,191 - INFO - A group of 8 redundant blank lines were removed
+2022-06-03 11:50:02,191 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 11 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,192 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - Removed page header line 'The Stories We Live By | Mutel'
+2022-06-03 11:50:02,193 - INFO - A group of 12 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 7 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - Removed page header line 'The Stories We Live By | Mutel'
+2022-06-03 11:50:02,193 - INFO - A group of 24 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,193 - INFO - A group of 11 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - Replaced image reference '![](2015-fall-web-resources/image/4.png)' with new line '{{% figure_azure pid="4.png" caption="" %}}'
+2022-06-03 11:50:02,194 - INFO - A group of 5 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Untitled_Panorama1.png)' with new line '{{% figure_azure pid="Untitled_Panorama1.png" caption="" %}}'
+2022-06-03 11:50:02,194 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 11 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Bill_Stowe-2.jpg)' with new line '{{% figure_azure pid="Bill_Stowe-2.jpg" caption="" %}}'
+2022-06-03 11:50:02,194 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 11 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,194 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,195 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - Removed page header line 'Swimming Upstream | Stowe'
+2022-06-03 11:50:02,196 - INFO - A group of 20 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - Replaced image reference '![](2015-fall-web-resources/image/water-works-aerial-web.jpg)' with new line '{{% figure_azure pid="water-works-aerial-web.jpg" caption="" %}}'
+2022-06-03 11:50:02,196 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - Removed page header line 'Swimming Upstream | Stowe'
+2022-06-03 11:50:02,196 - INFO - A group of 15 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - A group of 19 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - Removed page header line 'Swimming Upstream | Stowe'
+2022-06-03 11:50:02,196 - INFO - A group of 34 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - Removed page header line 'Rootstalk | Volume II, Fall 2015'
+2022-06-03 11:50:02,196 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Christensen_-_Field_Of_Dreams.jpg)' with new line '{{% figure_azure pid="Christensen_-_Field_Of_Dreams.jpg" caption="" %}}'
+2022-06-03 11:50:02,196 - INFO - A group of 9 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - Replaced image reference '![](2015-fall-web-resources/image/11834853_10200991272261949_7177991618690530328_o.jpg)' with new line '{{% figure_azure pid="11834853_10200991272261949_7177991618690530328_o.jpg" caption="" %}}'
+2022-06-03 11:50:02,196 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - A group of 6 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - Removed page header line 'Photography | Christensen'
+2022-06-03 11:50:02,196 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Christensen_-_The_River.png)' with new line '{{% figure_azure pid="Christensen_-_The_River.png" caption="" %}}'
+2022-06-03 11:50:02,196 - INFO - A group of 13 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - Removed page header line 'Rootstalk | Volume II, Issue 1, Fall 2015'
+2022-06-03 11:50:02,196 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Mary_LaHay.jpg)' with new line '{{% figure_azure pid="Mary_LaHay.jpg" caption="" %}}'
+2022-06-03 11:50:02,196 - INFO - A group of 17 redundant blank lines were removed
+2022-06-03 11:50:02,196 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Mary_LaHay1.jpg)' with new line '{{% figure_azure pid="Mary_LaHay1.jpg" caption="" %}}'
+2022-06-03 11:50:02,197 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,197 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - Removed page header line 'Puppy Mills in Iowa | LaHay'
+2022-06-03 11:50:02,198 - INFO - Removed page header line 'Rootstalk | Volume II, Issue 1,Fall 2015'
+2022-06-03 11:50:02,198 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Screen_Shot_2015-12-14_at_10.50.18_AM.png)' with new line '{{% figure_azure pid="Screen_Shot_2015-12-14_at_10.50.18_AM.png" caption="" %}}'
+2022-06-03 11:50:02,198 - INFO - A group of 18 redundant blank lines were removed
+2022-06-03 11:50:02,198 - INFO - Removed page header line 'Puppy Mills in Iowa | LaHay'
+2022-06-03 11:50:02,198 - INFO - Removed page header line 'Rootstalk | Volume II, Issue 1, Fall 2015'
+2022-06-03 11:50:02,198 - INFO - Replaced image reference '![](2015-fall-web-resources/image/dogs_in_semi_trailer.jpg)' with new line '{{% figure_azure pid="dogs_in_semi_trailer.jpg" caption="" %}}'
+2022-06-03 11:50:02,198 - INFO - A group of 25 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - Removed page header line 'Puppy Mills in Iowa | LaHay'
+2022-06-03 11:50:02,199 - INFO - Replaced image reference '![](2015-fall-web-resources/image/cages1.jpg)' with new line '{{% figure_azure pid="cages1.jpg" caption="" %}}'
+2022-06-03 11:50:02,199 - INFO - A group of 9 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - Replaced image reference '![](2015-fall-web-resources/image/one_eye.jpg)' with new line '{{% figure_azure pid="one_eye.jpg" caption="" %}}'
+2022-06-03 11:50:02,199 - INFO - A group of 6 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - Removed page header line 'Rootstalk | Volume II, Issue 1, Fall 2015'
+2022-06-03 11:50:02,199 - INFO - Replaced image reference '![](2015-fall-web-resources/image/boston_terrier_(1).jpg)' with new line '{{% figure_azure pid="boston_terrier_(1).jpg" caption="" %}}'
+2022-06-03 11:50:02,199 - INFO - A group of 14 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - Removed page header line 'Puppy Mills in Iowa | LaHay'
+2022-06-03 11:50:02,199 - INFO - A group of 8 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - Replaced image reference '![](2015-fall-web-resources/image/20150714prairieMACRO317.jpg)' with new line '{{% figure_azure pid="20150714prairieMACRO317.jpg" caption="" %}}'
+2022-06-03 11:50:02,199 - INFO - A group of 13 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 9 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - Removed page header line 'From Soil to Sustainability | Kirschenmann'
+2022-06-03 11:50:02,199 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Kirschenmann.png)' with new line '{{% figure_azure pid="Kirschenmann.png" caption="" %}}'
+2022-06-03 11:50:02,199 - INFO - A group of 9 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,199 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,200 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,201 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Main-1.png)' with new line '{{% figure_azure pid="Main-1.png" caption="" %}}'
+2022-06-03 11:50:02,202 - INFO - A group of 16 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - Removed page header line 'From Soil to Sustainability | Kirschenmann'
+2022-06-03 11:50:02,202 - INFO - A group of 7 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - Removed page header line 'From Soil to Sustainability | Kirschenmann'
+2022-06-03 11:50:02,202 - INFO - Removed page header line 'Rootstalk | Volume II, Fall 2015'
+2022-06-03 11:50:02,202 - INFO - A group of 35 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - Removed page header line 'From Soil to Sustainability | Kirschenmann'
+2022-06-03 11:50:02,202 - INFO - Replaced image reference '![](2015-fall-web-resources/image/20140828macro097.jpg)' with new line '{{% figure_azure pid="20140828macro097.jpg" caption="" %}}'
+2022-06-03 11:50:02,202 - INFO - A group of 23 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - Removed page header line 'Photography | Hayworth'
+2022-06-03 11:50:02,202 - INFO - Replaced image reference '![](2015-fall-web-resources/image/JHAY3726.jpg)' with new line '{{% figure_azure pid="JHAY3726.jpg" caption="" %}}'
+2022-06-03 11:50:02,202 - INFO - A group of 9 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - A group of 7 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - Replaced image reference '![](2015-fall-web-resources/image/6.png)' with new line '{{% figure_azure pid="6.png" caption="" %}}'
+2022-06-03 11:50:02,202 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - Replaced image reference '![](2015-fall-web-resources/image/6.png)![](2015-fall-web-resources/image/Best_Head_Shot.jpg)' with new line '{{% figure_azure pid="Best_Head_Shot.jpg" caption="" %}}'
+2022-06-03 11:50:02,202 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - Replaced image reference '![](2015-fall-web-resources/image/8.png)' with new line '{{% figure_azure pid="8.png" caption="" %}}'
+2022-06-03 11:50:02,202 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - A group of 6 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,202 - INFO - Removed page header line 'Close-up | Wolf'
+2022-06-03 11:50:02,203 - INFO - Replaced image reference '![](2015-fall-web-resources/image/QtcwX_(1).png)' with new line '{{% figure_azure pid="QtcwX_(1).png" caption="" %}}'
+2022-06-03 11:50:02,203 - INFO - A group of 13 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Spring_Dawn.png)' with new line '{{% figure_azure pid="Spring_Dawn.png" caption="" %}}'
+2022-06-03 11:50:02,203 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 6 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - Replaced image reference '![](2015-fall-web-resources/image/High_Summer.jpg)' with new line '{{% figure_azure pid="High_Summer.jpg" caption="" %}}'
+2022-06-03 11:50:02,203 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 7 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Howland_Madeline_2.png)' with new line '{{% figure_azure pid="Howland_Madeline_2.png" caption="" %}}'
+2022-06-03 11:50:02,203 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Howland_headshot-2.jpg)' with new line '{{% figure_azure pid="Howland_headshot-2.jpg" caption="" %}}'
+2022-06-03 11:50:02,203 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - Removed page header line 'Such A Clean, Tidy Man | McIlrath'
+2022-06-03 11:50:02,203 - INFO - Replaced image reference '![](2015-fall-web-resources/image/Harley_June_2010_020.jpg)' with new line '{{% figure_azure pid="Harley_June_2010_020.jpg" caption="" %}}'
+2022-06-03 11:50:02,203 - INFO - A group of 13 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,203 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,204 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,205 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - Removed page header line 'Such A Clean, Tidy Man | McIlrath![](2015-fall-web-resources/image/9.png)'
+2022-06-03 11:50:02,206 - INFO - Removed page header line 'Such A Clean, Tidy Man | McIlrath'
+2022-06-03 11:50:02,206 - INFO - A group of 21 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - Removed page header line 'Such A Clean, Tidy Man | McIlrath'
+2022-06-03 11:50:02,206 - INFO - Replaced image reference '![](2015-fall-web-resources/image/4.png)' with new line '{{% figure_azure pid="4.png" caption="" %}}'
+2022-06-03 11:50:02,206 - INFO - A group of 14 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - Replaced image reference '![](2015-fall-web-resources/image/pinkflower-1.jpg)' with new line '{{% figure_azure pid="pinkflower-1.jpg" caption="" %}}'
+2022-06-03 11:50:02,206 - INFO - A group of 4 redundant blank lines were removed
+2022-06-03 11:50:02,206 - INFO - A group of 2 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 6 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 3 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - A group of 1 redundant blank lines were removed
+2022-06-03 11:50:02,207 - INFO - Making article.md files for 2015-fall.
+2022-06-03 11:50:02,209 - DEBUG - year: 2015
+2022-06-03 11:50:02,209 - DEBUG - term: fall
+2022-06-03 11:50:02,209 - DEBUG - title: Volume II, Issue 1, Fall 2015
+2022-06-03 11:50:02,209 - DEBUG - articles: ['farewell-richard', 'editor', 'hayworth-photos', 'moffett-1', 'moffett-2', 'heath', 'whittaker', 'scanbridge', 'mutel', 'stowe', 'lahay', 'kirschenmann', 'wolf', 'mcilrath', 'filler-material']
+2022-06-03 11:50:02,209 - INFO - Creating article markdown file '2015-fall-web-resources/farewell-richard.md'...
+2022-06-03 11:50:02,210 - INFO - Creating article markdown file '2015-fall-web-resources/editor.md'...
+2022-06-03 11:50:02,211 - INFO - Creating article markdown file '2015-fall-web-resources/hayworth-photos.md'...
+2022-06-03 11:50:02,211 - INFO - Creating article markdown file '2015-fall-web-resources/moffett-1.md'...
+2022-06-03 11:50:02,212 - INFO - Creating article markdown file '2015-fall-web-resources/moffett-2.md'...
+2022-06-03 11:50:02,212 - INFO - Creating article markdown file '2015-fall-web-resources/heath.md'...
+2022-06-03 11:50:02,213 - INFO - Creating article markdown file '2015-fall-web-resources/whittaker.md'...
+2022-06-03 11:50:02,214 - INFO - Creating article markdown file '2015-fall-web-resources/scanbridge.md'...
+2022-06-03 11:50:02,214 - INFO - Creating article markdown file '2015-fall-web-resources/mutel.md'...
+2022-06-03 11:50:02,215 - INFO - Creating article markdown file '2015-fall-web-resources/stowe.md'...
+2022-06-03 11:50:02,215 - INFO - Creating article markdown file '2015-fall-web-resources/lahay.md'...
+2022-06-03 11:50:02,216 - INFO - Creating article markdown file '2015-fall-web-resources/kirschenmann.md'...
+2022-06-03 11:50:02,216 - INFO - Creating article markdown file '2015-fall-web-resources/wolf.md'...
+2022-06-03 11:50:02,217 - INFO - Creating article markdown file '2015-fall-web-resources/mcilrath.md'...
+2022-06-03 11:50:02,217 - INFO - Creating article markdown file '2015-fall-web-resources/filler-material.md'...

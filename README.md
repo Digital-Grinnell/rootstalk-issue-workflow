@@ -1,10 +1,10 @@
 # Rootstalk New Issue Workflow
 
-This document is intended to document a comprehensive workflow for creation of a new **digital** issue of _Rootstalk_.  
+This file documents a comprehensive workflow for creation of a new **digital** issue of _Rootstalk_.  
 
 ## Python
 
-See [Proper Python](https://blog.summittdweller.com/posts/2022/09/proper-python/) for applicable guidance when enabling Python parts of this workflow.  
+See [Proper Python](https://blog.summittdweller.com/proper-python/) for applicable guidance when enabling Python parts of this workflow.  
 
 ## Assumptions and Conventions
 

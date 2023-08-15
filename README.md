@@ -45,9 +45,9 @@ An _issue_ is comprised of `articles` and _filler_. Each _article_ is  included 
 
 This portion of the workflow MUST follow successful publication of an issue in-print.
 
-  - Create a new subdirectory with a `year-term` name in this repo.  For example, when working with the Spring 2022 issue a new subdirectory named `2022-spring` was created.
+  - Create a new subdirectory with a `year-term` name in this repo.  For example, when working with the Spring 2023 issue a new subdirectory named `2023-spring` was created.
 
-  - Find the _issue_'s `.indd` file and rename it, if necessary, using the convention of `year-term`.  For example, the _issue_ assembled in the Spring of 2022 should be named `2022-spring.indd` and it should be saved in the corresponding new `year-term` subdirectory.
+  - Find the _issue_'s `.indd` file and rename it, if necessary, using the convention of `year-term`.  For example, the _issue_ assembled in the Spring of 2023 should be named `2023-spring.indd` and it should be saved in the corresponding new `year-term` subdirectory.
   
   - Open the properly named _issue_ `.indd` file using _InDesign_ and export it using `File`>`Export...`>`HTML` with all default options.  This should produce a new `.html` file and corresponding `-web-resources` folder.  For example, an _InDesign_ export of a file named `2022-spring.indd` will produce the following:
     - a `2022-spring.html` file, and 

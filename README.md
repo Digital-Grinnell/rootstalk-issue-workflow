@@ -49,18 +49,18 @@ This portion of the workflow MUST follow successful publication of an issue in-p
 
   - Find the _issue_'s `.indd` file and rename it, if necessary, using the convention of `year-term`.  For example, the _issue_ assembled in the Spring of 2023 should be named `2023-spring.indd` and it should be saved in the corresponding new `year-term` subdirectory.
   
-  - Open the properly named _issue_ `.indd` file using _InDesign_ and export it using `File`>`Export...`>`HTML` with all default options.  This should produce a new `.html` file and corresponding `-web-resources` folder.  For example, an _InDesign_ export of a file named `2022-spring.indd` will produce the following:
-    - a `2022-spring.html` file, and 
-    - a `2022-spring-web-resources` folder of media files. 
+  - Open the properly named _issue_ `.indd` file using _InDesign_ and export it using `File`>`Export...`>`HTML` with all default options.  This should produce a new `.html` file and corresponding `-web-resources` folder.  For example, an _InDesign_ export of a file named `2023-spring.indd` produced the following:
+    - a `2023-spring.html` file, and 
+    - a `2023-spring-web-resources` folder of media files. 
   
-  - Inside the new `year-term` subdirectory create an `issue.yml` file reflecting the web-structure of the _issue_.  See the [Issue.YML File](./Issue.YML File) section for details.  In our `2022-spring` example the file should have a path of: `./2022-spring/2022-spring.yml`.
+  - Inside the new `year-term` subdirectory create an issue `.yml` file reflecting the web-structure of the _issue_.  See the [Issue.YML File](./Issue.YML File) section for details.  In our `2023-spring` example the file should have a path of: `./2023-spring/2023-spring.yml`.
   
-### <a name="issue-yml"> Issue.YML File
+### <a name="issue-yml"> Issue .YML File
 
-Each _issue_ must have a corresponding `issue.yml` file in it's corresponding `year-term` subdirectory.  The structure of an `issue.yml` file is [YAML](https://yaml.org), and its contents include the following fields:
+Each _issue_ must have a corresponding issue `.yml` file in it's corresponding `year-term` subdirectory.  The structure of an issue `.yml` file is [YAML](https://yaml.org), and its contents include the following fields:
   - `year` - The 4-digit calendar year in which the _issue_ was assembled.
   - `term` - The academic term in which the _issue_ was assembled.  Usually "spring" or "fall".
-  - `title` - The title of the _issue_.  Usually in a form like: "Volume II, Issue 2, Spring 2022".  Surrounding quotes are only required if the title contains a quote, colon, or other punctuation.
+  - `title` - The title of the _issue_.  Usually in a form like: "Volume IX, Issue 1, Spring 2023".  Surrounding quotes are only required if the title contains a quote, colon, or other punctuation.
   - `articles` - A list declaration of identifiers for each _article_ to be included in the web-version of the _issue_.
 
 The name given each _article_ **must be unique** within the corresponding _issue_ and values generally reflect the last name of the author, if known, or may alternatively reflect the author's role with _Rootstalk_, or a brief description of the _article_'s content.  Some examples include:
@@ -105,7 +105,7 @@ Engaging the workflow for the Spring 2022 issue (`2022-spring`) looked something
 
     - All of the media files created in the `./2022-spring/2022-spring-web-resources/image` folder were uploaded to _Azure Blob Storage_, into a blob container named `rootstalk-2022-spring` and were subsequently removed from the local repository so as not to bloat _GitHub_ with unnecessary content.
 
-5) Initiated creation of a new `issue.yml` file (see section [Issue.YML File](#issue-yml) above) by examining the table of contents in `./2022-spring/2022-spring.pdf` to identify articles and author names. 
+5) Initiated creation of a new issue `.yml` file (see section [Issue.YML File](#issue-yml) above) by examining the table of contents in `./2022-spring/2022-spring.pdf` to identify articles and author names. 
 
   The subsequent `./2022-spring/2022-spring.yml` file describing the `2022-spring` issue of _Rootstalk_ reads like this:
 

@@ -53,7 +53,139 @@ This portion of the workflow MUST follow successful publication of an issue in-p
     - a `2023-spring.html` file, and 
     - a `2023-spring-web-resources` folder of media files. 
   
-  - Inside the new `year-term` subdirectory create an issue `.yml` file reflecting the web-structure of the _issue_.  See the [Issue.YML File](./Issue.YML File) section for details.  In our `2023-spring` example the file should have a path of: `./2023-spring/2023-spring.yml`.
+  - Inside the new `year-term` subdirectory create an issue `.yml` file reflecting the web-structure of the _issue_.  See the [Issue .YML File](#issue-yml) section for details.  In our `2023-spring` example the file should have a path of: `./2023-spring/2023-spring.yml`.
+
+The next steps will move the **old/existing** "current issue" (`Volume VIII, Issue 1` in our example) to "past issue" status, and will introduce a **new** "current issue" (`Volume IX, Issue 1` in our example) to the publication.  
+
+  - Working locally in the `npm-rootstalk` directory, duplicate the old/existing current issue contents (the entire `volume-viii-issue-1` directory in our example) and rename the new folder to match the **new** issue name (`volume-ix-issue-1` in our example).  
+
+  - Move the old/existing current issue directory (the entire `volume-viii-issue-1` directory in our example) to the `past-issues` directory.  
+
+  - In the **new** issue directory (`volume-ix-issue-1` in our example) delete all of the "article" `.md` files.  DO NOT delete the `_index.md` file there!   
+
+  - In the **new** issue directory create a new `.pending` hidden directory (`volume-ix-issue-1/.pending` in our example).    
+
+  - Copy all of the new issue `.md` files from the `rootstalk-issue-workflow/<current issue>` directory (`rootstalk-issue-workflow/2023-spring-web-resources` in our example) to the new `.pending` directory created above.  
+
+  - Make a duplicate of the first `.md` file in `.pending` and change the duplicate's name to `_master.md`.  This will become our backup copy of the original Markdown content in case something goes wrong later on in the process.  
+
+  - Make a new issue sub-directory in `static/images/` named after the **new** issue, so `static/images/volume-ix-issue-1` in our example.  
+
+  - Open the `.pdf` of the **new** issue, view the cover, and copy/crop a portion of the cover image, saving the cropped copy as `cover.png` in the new `static/images/` sub-directory created above (`/static/images/volume-ix-issue-1/cover.png` in our example).  
+
+  - Edit the **new** issue `_index.md` file changing any/all old issue references to new ones.  Nearly all of the frontmatter will need to be updated, as well as any old references in the content portion of the file.  The data in this file will be reflected in several places in the new "current issue" so if anything is missed it will become apparent when you view the new publication.  
+
+  - Edit the **old** issue's `_index.md` file (the `past-issues/volume-viii-issue-1/_index.md` file in our example) and remove any `Current Issue` references there.  
+
+  - In the root directory edit the `index.html` file changing old issue references to new ones.  
+
+  - Open `Microsoft Azure Storage Explorer` and the account owned by `digital@grinnell.edu`.  You should be able to see a structure like the one depicted below.  
+
+    ![Microsoft Azure Storage Explorer sample](documentation/images/azure-storage-explorer.png)  
+
+    - Right click on the `Blob Containers` link under `Storage Accounts | rootstalk` and select `Create Blob Container`.  Name the new blob container `rootstalk-YEAR-TERM`, so `rootstalk-2023-spring` in our example.  
+
+    - Navigate into the new blob container and use the `Upload` button to upload all of the files from the `rootstalk-issue-workflow/<current issue>-web-resources/image` directory (`rootstalk-issue-workflow/2023-spring-web-resources/image` in our example) to the new blob container.  This process could take a few minutes so be patient.  
+
+    - Right click on the new blob container link (`rootstalk-2023-spring` in our example) and select `Set Public Access Level...` from the dropdown menu.  Set the access level to 
+   `Public read access for container and blobs` and click `Apply`.
+
+    - That should be all we need of `Microsoft Azure Storage Explorer` at this time so that window can be closed.
+
+  - Return to the `npm-rootstalk` local project and edit the `config.yml` file changing old issue references to new ones.  There are 7 or more places where changes will be necessary.  
+
+  - In the `npm-rootstalk` local project terminal enter `npm run serve`.  You should see output something like this:  
+
+```
+╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/npm-rootstalk ‹main●› 
+╰─$ npm run serve
+
+> npm-rootstalk@1.0.0 serve
+> npm run hugo:build && npx pagefind --source public --bundle-dir ../static/_pagefind && npm run hugo:serve
+
+
+> npm-rootstalk@1.0.0 hugo:build
+> hugo -d public
+
+Start building sites … 
+hugo v0.111.3-5d4eb5154e1fed125ca8e9b5a0315c4180dab192 darwin/arm64 BuildDate=2023-03-12T11:40:50Z VendorInfo=gohugoio
+
+                   | EN   
+-------------------+------
+  Pages            | 411  
+  Paginator pages  |   0  
+  Non-page files   |  20  
+  Static files     | 648  
+  Processed images |   0  
+  Aliases          |   0  
+  Sitemaps         |   1  
+  Cleaned          |   0  
+
+Total in 381 ms
+
+Running Pagefind v0.12.0 (Extended)
+Running from: "/Users/mcfatem/GitHub/npm-rootstalk"
+Source:       "public"
+Bundle Directory:  "../static/_pagefind"
+
+[Walking source directory]
+Found 354 files matching **/*.{html}
+
+[Parsing files]
+Did not find a data-pagefind-body element on the site.
+↳ Indexing all <body> elements on the site.
+
+[Reading languages]
+Discovered 1 language: en
+
+[Building search indexes]
+Total: 
+  Indexed 1 language
+  Indexed 352 pages
+  Indexed 19573 words
+  Indexed 0 filters
+  Indexed 0 sorts
+
+Finished in 0.624 seconds
+
+> npm-rootstalk@1.0.0 hugo:serve
+> hugo server
+
+Start building sites … 
+hugo v0.111.3-5d4eb5154e1fed125ca8e9b5a0315c4180dab192 darwin/arm64 BuildDate=2023-03-12T11:40:50Z VendorInfo=gohugoio
+
+                   | EN   
+-------------------+------
+  Pages            | 411  
+  Paginator pages  |   0  
+  Non-page files   |  20  
+  Static files     | 648  
+  Processed images |   0  
+  Aliases          |   0  
+  Sitemaps         |   1  
+  Cleaned          |   0  
+
+Built in 304 ms
+Watching for changes in /Users/mcfatem/GitHub/npm-rootstalk/{archetypes,assets,content,data,layouts,package.json,static,themes}
+Watching for config changes in /Users/mcfatem/GitHub/npm-rootstalk/config.yml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+```  
+
+- If all went well you should be able to open a local copy of the new site in your browser by visiting the link provided.  
+
+
+  
+
+
+
+
+
+
+
   
 ### <a name="issue-yml"> Issue .YML File
 

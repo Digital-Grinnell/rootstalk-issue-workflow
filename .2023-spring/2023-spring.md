@@ -30,10 +30,10 @@ Volume IX, Issue 1, Spring 2023
 
 
 
-Rootstalk, Spring 2022
+Rootstalk, Spring 2023
 
 
-Volume VIII, Issue 1
+Volume IX, Issue 1
 
 
 Supported by Grinnell College’s [Center for Prairie Studies](http://)
@@ -61,7 +61,7 @@ You can also use the Rootstalk link (https://rootstalk.grinnell.edu) to read all
 
 
 
-Tilly Woodward  provided  the painting we're featuring on the cover of this issue. It’s titled “Rhubarb.” 
+Tilly Woodward  provided  the painting we're featuring on the cover of this issue. It’s titled “Rhubarb,” and was done in oil on archival mat board in 2021. 
 
 
 Cover design: Mark Baechtel, Jonathan Andelson
@@ -151,7 +151,7 @@ Sadly—but undeniably—one of the most trenchant observations one can make abo
 Ecology and History as Mutually Causal 
 
 
- In People of the Ecotone, historian Robert Michael Morrissey’s point of departure is historianvDaniel K. Richter’s idea of approaching the history of the Midwest not in the usual way, by standing with one’s back to the East Coast and heading west, but instead by “facing east from Indian country.” This shift in perspective leads, in Morrissey’s book, to a number of new insights about the Indigenous cultures of the region in the late seventeenth and early eighteenth centuries (especially the Meskwaki and the Illinois), their relationship with the natural environment (especially the bison), and their relationship with European colonial powers (especially the French). The ecotone in the title refers to the eastern tallgrass prairie, a borderland between the central grasslands of the continent and the woodlands to the east, and the region in which much of the history that Morrissey analyzes took place.
+ In People of the Ecotone, historian Robert Michael Morrissey’s point of departure is historian Daniel K. Richter’s idea of approaching the history of the Midwest not in the usual way, by standing with one’s back to the East Coast and heading west, but instead by “facing east from Indian country.” This shift in perspective leads, in Morrissey’s book, to a number of new insights about the Indigenous cultures of the region in the late seventeenth and early eighteenth centuries (especially the Meskwaki and the Illinois), their relationship with the natural environment (especially the bison), and their relationship with European colonial powers (especially the French). The ecotone in the title refers to the eastern tallgrass prairie, a borderland between the central grasslands of the continent and the woodlands to the east, and the region in which much of the history that Morrissey analyzes took place.
 
 
  The ecology of the region today bears little resemblance to what it was like prior to full-on European settlement in the first half of the nineteenth century, let alone in the late seventeenth century, and Morrissey is to be commended for his efforts to help us imagine how it was. He devotes considerable attention to the bison, which at times were so numerous in places like the Illinois Valley that Native hunters, pursuing them on foot, took them by the hundreds. Competition among the various tribes in the region for game resources pre-dated the arrival of Europeans and underlay cycles of warfare, which Morrissey describes in detail, but gained added significance in the context of colonial trade. By de-centering European colonialism in telling the story, Morrissey allows Indigenous politics, which followed its own logic and generated its own complex adaptive behaviors, to come into focus as an independent force and not merely a reaction to the colonial presence.
@@ -192,6 +192,11 @@ Iowa at A Crossroads: Which Path Will We Choose?
 
 
 
+ Publisher’s Note |  Andelson
+
+
+
+
 
 ![](2023-spring-web-resources/image/andelson-2-volume-ix-issue-1-spring-2023.jpg)
 
@@ -208,6 +213,11 @@ Photo courtesy of the University of Iowa Press
 
 
 Photo courtesy of the University of Washington Press
+
+
+
+
+ Publisher’s Note |  Andelson
 
 
 
@@ -232,6 +242,11 @@ Photo courtesy of the University of Iowa Press
 
 
 
+ Publisher’s Note |  Andelson
+
+
+
+
 
 ![](2023-spring-web-resources/image/andelson-7-volume-ix-issue-1-spring-2023.jpg)
 
@@ -242,7 +257,7 @@ Gray-headed coneflowers and bee balm. Photo by Jon Andelson
 
 
 
-The editorial staff for the Spring 2023 issue of Rootstalk in front of Herrick Chapel at Grinnell College. First row, from left to right: Associate Editors Saul Chan Htoo Sang, Ky Klassen, Francisco Pantoja Martinez, Joanie Fieser. Back row, from left to right: Associate Editors Lucien Akira DeJule and Emma Walsh, Editor-in-chief Mark Baechtel, Publisher Jon Andelson, Associate editors Zach Spindler-Krage, Will Gresham, and Marty Allen. Photo courtesy by Saul Chan Htoo Sang
+The editorial staff for the Spring 2023 issue of Rootstalk in front of Herrick Chapel at Grinnell College. First row, from left to right: Associate Editors Saul Chan Htoo Sang, Ky Klassen, Francisco Pantoja Martinez, Joanie Fieser. Back row, from left to right: Associate Editors Lucien Akira DeJule and Emma Walsh, Editor-in-chief Mark Baechtel, Publisher Jon Andelson, Associate editors Zach Spindler-Krage, Will Gresham, and Marty Allen. Photo by Saul Chan Htoo Sang
 
 
 
@@ -257,8 +272,28 @@ The Editors
 
 
 
+ Photograph |  Andelson
 
-![](2023-spring-web-resources/image/TOC-volume-viii-issue-1-spring-2022.png)
+
+
+
+
+![](2023-spring-web-resources/image/sullivanbank-andelson-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Interior detail, Louis Sullivan bank, Owantonna, Minnesota. Photo by Jon Andelson
+
+
+
+
+
+![](2023-spring-web-resources/image/TOC-kurtz-volume-ix-issue-1-spring-2023.png)
+
+
+
+Rootstalk | Volume IX, Issue 1, Spring 2023
+
 
 
 
@@ -270,262 +305,298 @@ Contents
 In order of appearance
 
 
-Common Yarrow, Blue Grama,  Cover
+Rhubarb (painting)  Cover
 
 
- and Showy Milkweed
+Tilly Woodward
 
 
- Sofia Carr
-
-
-Publisher's Note 3-5
+Publisher's Note 1-6
 
 
 Jon Andelson
 
 
-Editor’s Note 6-9
+The Editors 7
 
 
-Mark Baechtel
-
-
-Associate Editors 10
-
-
-Untitled Photo 13-14
-
-
- Carl Kurtz
-
-
-To Understand the Prairie’s Beauty, 14-15
-
-
-“Deconstruct to Reconstruct”
-
-
- (Artwork)
-
-
-Sofia Carr
-
-
-Visualizing Loss: Fabric Art and
-
-
-Photography 17-20
-
-
- Winifred Commers (Quilt)
-
-
- Chris McGowan (Photographs)
-
-
- Graeme Thompson (Photographs) 
-
-
-Two poems 21
-
-
-Changming Yuan
-
-
-Untitled Photo 22
-
-
- Bruce Leventhal
-
-
-Trees of the Prairie: 23-24
-
-
-the American Elm
-
-
-Fit Getahun
-
-
-Untitled Photo 24
-
-
-Homer Edward Price
-
-
-How Wetlands Contribute 25-26
-
-
-to Water Quality (Infographic)
-
-
-Elisha Tibatemwa
-
-
-Memory in A Mustard Grain: 27-31
-
-
-Three Indigenous Women (Essay)
-
-
-Ingrid Meulesmans
-
-
-The Politicians of Edison High 32-34
-
-
-School (Audio Essay) 
-
-
-Connor Arneson
-
-
-Telehealth on the Prairie 35-41
-
-
-(Interview) 
-
-
-Berit Madsen talks with Telehealth expert 
-
-
-Mary DeVaney
-
-
-Untitled Photos 36, 37, 40
-
-
-Justin Hayworth
-
-
-“Freedom and Equality”: Missouri’s 42-49
-
-
- East Wind Community (Essay) 
-
-
- Agnès Ohlenbusch
-
-
-Trees of the Prairie:  50
-
-
-the Burr Oak
-
-
- Fit Getahun
-
-
-Untitled Photo 50
-
-
- Carl Kurtz 
-
-
-Barns of the Midwest (video essay) 51-52
-
-
- McKenna Doherty
-
-
-A Conversation about the   53-62
-
-
- Great Plains Trail (Interview)
-
-
- Cara Keleher interviews Thru-hiker “Pony”
-
-
-Prairie Restoration: Grown at 63-66 Home (Infographic) 
-
-
-Katie Goodall
-
-
-Untitled Photo 64
+Untitled Photo 8
 
 
  Jon Andelson
 
 
-A Summer’s Day on the Prairie 67-68 
-
-
-(Short Video) 
-
-
-Maya Andelson
-
-
-Exploring Minnesota Foodways 69-73
-
-
-through Four Recipes 
-
-
-Nicki Kreutzian
-
-
-From Bhutan to Omaha: Refugees 74-77
-
-
- Put Down New Roots
-
-
- Tenzing Sherpa
-
-
-Trees of the Prairie: 78
-
-
-the Cottonwood
-
-
-Fit Getahun
-
-
-Untitled Photos 78
-
-
- Jason Sturnr
+Untitled Photo 9-10
 
 
  Carl Kurtz
 
 
-“Evening Falls on the Prairie”:  79-82
+La Voz de la Communidad: , 11-16
 
 
- An Interactive Poetry Module 
+the Effects of the Discount Mall’s
 
 
- (Computer Program)
+Closure on the People of
 
 
- Oona Miller
+la Villita (Feature story)
 
 
-Trees of the Prairie: 83
+Francisco Pantoja Martinez 
 
 
-the Hackberry
+New Lives in the Midwest 17-23
 
 
-Fit Getahun
+(interview)
 
 
-Untitled Photos 83
+Saul Chan Htoo Sang with 
 
 
- Kathy Zuzek
+Peter Chan Min Sang
 
 
- Carl Kurtz
+The Propaganda of 24-27
 
 
-Endnotes 84
+Postcards (essay)
+
+
+ Kylie Klassen
+
+
+Untitled Photo 28
+
+
+Jon Andelson
+
+
+Technology on the Prairie: 29-30
+
+
+the First Electronic 
+
+
+Digital Computer (Feature)
+
+
+Marty Allen
+
+
+Four-legged People (poems) 25-36
+
+
+Emma Walsh
+
+
+Untitled Photos 32, 34, 36
+
+
+Joan Van Gorp
+
+
+Untitled Photo 35
+
+
+ Jun Taek Lee
+
+
+Wolves Under Threat: A Deep 37-48
+
+
+Dive into the Endangered 
+
+
+Species Act (Essay)
+
+
+Lucien Akira DeJule
+
+
+Technology on the Prairie: 49
+
+
+the First Sky Scraper (Feature) 
+
+
+Marty Allen
+
+
+Is Renewable Energy Enough? 50-52
+
+
+(Essay) 
+
+
+Kamyar Enshayan
+
+
+Tight, Insulated and Thermally 53-61
+
+
+Massive: Rethinking Residential
+
+
+Architecture in Colmbia,
+
+
+Missouri (Feature) 
+
+
+Joanie Fieser
+
+
+Technology on the Prairie: the 62
+
+
+Discovery of Helium 
+
+
+in America (Feature) 
+
+
+Marty Allen
+
+
+Tornadoes in Kansas (memoir) 63-65
+
+
+ Beryl Clotfelter
+
+
+Researching Corn in Iowa  66-70
+
+
+and Beyond (essay)
+
+
+ Ben Schrager
+
+
+Technology on the Prairie: 71
+
+
+the Liquid Crystal Display (Feature)
+
+
+Marty Allen
+
+
+The Emptying of Rural Iowa 72-74
+
+
+(essay)
+
+
+ Dan Weeks
+
+
+Untitled Photo 74
+
+
+ David Ottenstein 
+
+
+Finding A Home: A Young 75-84
+
+
+ Farmer’s Journey (Essay)
+
+
+ Kate Edwards
+
+
+RootsTalk! #7: A Conversation with    85
+
+
+ Charles Connerly (Podcast)
+
+
+ Dechen Khangkyil ’22 and Alexandra Natalie
+
+
+Technology on the Prairie: 86
+
+
+the First American Automobile 
+
+
+(Feature)
+
+
+Marty Allen
+
+
+Three poems 87-89
+
+
+ Rustin Larson 
+
+
+Untitled Photos 88, 89
+
+
+ Jun Taek Lee
+
+
+Iowa’s Lichens: Found and Lost 90-93 
+
+
+(Essay) 
+
+
+James Colbert
+
+
+A Sprited Land: Indigenous 94-103
+
+
+Tribes’ Fight to Protect 
+
+
+the Boundary Waters 
+
+
+Zach Spindler-Krage
+
+
+Technology on the Prairie: 104
+
+
+Stroboscopic Photography (Feature)
+
+
+Marty Allen
+
+
+Two Poems 105-106
+
+
+Karen Downing
+
+
+Interview with Neal Smith 107-118
+
+
+ Tayler Chicoine Ulbrich and Jon Andelson
+
+
+Sundogs 119-121
+
+
+Will Gresham
+
+
+Endnotes 122-130
+
+
+
+
+
+
 
 
 
@@ -550,238 +621,271 @@ Publisher’s Note 3-5
 Jon Andelson
 
 
-Editor’s Note 6-9
+La Voz de la Communidad: 11-16
 
 
-Mark Baechtel
+the Efffects of the Discount Mall’s
 
 
-Associate Editors 10
+Closure on the People of
 
 
-Two poems 21
+la Villita (Feature story)
 
 
- Changming Yuan
+Francisco Pantoja Martinez
 
 
-Memory in A Mustard Grain: 27-31
+New Lives in the Midwest 17-23
 
 
-Three Indigenous Women (Essay)
+(interview)
 
 
-Ingrid Meulesmans
+Saul Chan Htoo Sang with 
 
 
-Telehealth on the Prairie 35-41
+Peter Chan Min Sang
 
 
-(Interview) 
+The Propaganda of 24-27
 
 
-Berit Madsen talks with Telehealth expert 
+Postcards (essay)
 
 
-Mary DeVaney
+ Kylie Klassen
 
 
-“Freedom and Equality”: Missouri’s 42-49
+Technology on the Prairie (Feature)
 
 
- East Wind Community (Essay) 
+by Marty Allen 
 
 
- Agnès Ohlenbusch
+The First Electronic Digital Computer 29-30
 
 
-A Conversation about the   53-62
+The First Sky Scraper 49
 
 
- Great Plains Trail (Interview)
+The Discovery of Helium in America 62
 
 
- Cara Keleher Interviews Thru-hiker “Pony”
+The Liquid Crystal Display 71
 
 
-Exploring Minnesota Foodways 69-73
+The First American Automobile 86
 
 
-through Four Recipes 
+Stroboscopic Photography 104
 
 
-Nicki Kreutzian
+Poems: Five-legged People 25-36
 
 
-From Bhutan to Omaha: Refugees 74-77
+Emma Walsh
 
 
- Put Down New Roots
+Wolves Under Threat: A Deep 37-48
 
 
- Tenzing Sherpa
+Dive into the Endangered 
 
 
-Endnotes 84
+Species Act (Essay)
+
+
+Lucien Akira DeJule
+
+
+Is Renewable Energy Enough? 50-52
+
+
+(Essay) 
+
+
+Kamyar Enshayan
+
+
+Tight, Insulated and Thermally 53-61
+
+
+Massive: Rethinking Residential
+
+
+Architecture in Colmbia,
+
+
+Missouri (Feature) 
+
+
+Joanie Fieser
+
+
+Tornadoes in Kansas (memoir) 63-65
+
+
+ Beryl Clotfelter
+
+
+Researching Corn in Iowa  66-70
+
+
+and Beyond (essay)
+
+
+ Ben Schrager
+
+
+The Emptying of Rural Iowa 72-74
+
+
+(essay)
+
+
+ Dan Weeks
+
+
+Finding A Home: A Young 75-84
+
+
+ Farmer’s Journey (Essay)
+
+
+ Kate Edwards
+
+
+Three poems 87-89
+
+
+ Rustin Larson
+
+
+Iowa’s Lichens: Found and Lost 90-93 
+
+
+(Essay) 
+
+
+James Colbert
+
+
+A Sprited Land: Indigenous 94-103
+
+
+Tribes’ Fight to Protect 
+
+
+the Boundary Waters 
+
+
+Zach Spindler-Krage
+
+
+Two Poems 105-106
+
+
+Karen Downing
+
+
+Interview with Neal Smith 107-118
+
+
+ Tayler Chicoine-Ulbrich and Jon Andelson
+
+
+Sundogs 119-121
+
+
+Will Gresham
+
+
+Endnotes 122-130
 
 
 Sounds & images
 
 
-Common Yarrow, Blue Grama,  Cover
+Painting: “Rhubarb”  
 
 
- and Showy Milkweed
-
-
- Sofia Carr
-
-
-Photography: Carl Kurtz
-
-
- Untitled  13-14
-
-
- Untitled  48
-
-
- Untitled  76
-
-
- Untitled  83
-
-
-To Understand the Prairie’s Beauty, 
-
-
- “Deconstruct to Reconstruct”
-
-
- (Artwork)
-
-
-Sofia Carr 14-15
-
-
-Visualizing Loss: Fabric Art and
-
-
-Photography 17-20
-
-
- Winifred Commers (Quilt)
-
-
- Chris McGowan (Photographs)
-
-
- Graeme Thompson (Photographs)
-
-
-Photography: Bruce Leventhal 22
-
-
- Untitled  
-
-
-Trees of the Prairie
-
-
- American Elm 24
-
-
- Burr Oak 50
-
-
- Cottonwood 78
-
-
- Hackberry 83
-
-
-Photography: Homer Edward Price 
-
-
- Untitled  24
-
-
-Infographic: How Wetlands Contribute
-
-
- to Water Quality 
-
-
- Elisha Tibatemwa  25-26
-
-
-Audio Essay: The Politicians of 
-
-
-Edison High
-
-
- Connor Arneson  32-34
-
-
-Photography: Justin Hayworth 
-
-
- Untitled  36
-
-
- Untitled  37
-
-
- Untitled  40
-
-
-Video Essay: Barns of the Midwest
-
-
- McKenna Doherty  51-52
+ Tilly Woodward  Cover
 
 
 Photography: Jon Andelson
 
 
- Untitled  64 
+ Untitled  8
 
 
-Infographic: Prairie Restoration: 
+ Untitled  28
 
 
-Grown at Home
+ Untitled  32
 
 
- Katie Goodall  63-66
+ Untitled  106
 
 
-A Summer’s Day on the Prairie 67-68 
+Photography: Joan Van Gorp
 
 
-(Short Video) 
+ Untitled  32
 
 
- Maya Andelson
+ Untitled  34
 
 
-“Evening Falls on the Prairie”:  79-82
+ Untitled  36
 
 
- An Interactive Poetry Module 
+ Untitled  114
 
 
- (Computer program)
+ Untitled  115
 
 
- Oona Miller
+Photography: Jun Taek Lee 
 
 
-Photography: Kathy Zuzek
+ Untitled  35 
 
 
- Untitled  83
+ Untitled  88
+
+
+ Untitled  89
+
+
+Photography: David Ottenstein 
+
+
+ Untitled  74
+
+
+Podcast: RootsTalk! #7:    
+
+
+ A Conversation wth 
+
+
+ Charles Connerly
+
+
+ Dechen Khangkyil ’22 and Alexand    85
+
+
+Photography: Justin Hayworth 
+
+
+ Untitled  120
+
+
+ Untitled  121
+
+
+ 
 
 
 
@@ -812,12 +916,12 @@ Photo by Paul Chan Htoo Sang. All other photos by the author
 
 
 
-A Chicago native, Francisco Pantoja Martinez is currently pursuing his studies at Grinnell College under the Questbridge Scholarship. However, he has hasn’t forgotten his roots and continues to advocate for the injustices his people back home face on a daily basis. He plans to pursue a career in public service, either in education or in law. 
+A Chicago native, Francisco Pantoja Martinez is currently pursuing his studies at Grinnell College under the Questbridge Scholarship (https://www.questbridge.org). However, he has hasn’t forgotten his roots and continues to advocate for the injustices his people back home face on a daily basis. He plans to pursue a career in public service, either in education or in law. 
 
 
 
 
-La Voz de la Comunidad; 
+La Voz de la Comunidad: 
 
 
 the Effect of the Discount Mall’s Closure on the 
@@ -833,10 +937,10 @@ by Francisco Pantoja Martinez
 
 
 
-Little Village, a predominantly Mexican community located near the “Heart” of Chicago, recently lost one of its significant cultural roots. The Discount Mall, or “El Mall de veintisies,” as locals would call it since it sits along 26th Street, recently kicked out half of its vendors due to Novak Construction, a major contractor, buying the plaza in which the mall is located. While the community rallied and pleaded with lawmakers and the company itself, all they were able to achieve was to delay the eviction date by a few months. Ultimately, after 31 years of business, the majority of vendors had to pack their bags and abandon what many of them had come to call their business home. 
+Little Village (https://www.choosechicago.com/neighborhoods/little-village), a predominantly Mexican community located near the “Heart” of Chicago, recently lost one of its significant cultural roots. The Discount Mall, or “El Mall de veintiseis,” as locals would call it since it sits along 26th Street, recently kicked out half of its vendors due to Novak Construction (https://www.novakconstruction.com), a major contractor, buying the plaza in which the mall is located. While the community rallied and pleaded with lawmakers and the company itself, all they were able to achieve was to delay the eviction date by a few months. Ultimately, after 31 years of business, the majority of vendors had to pack their bags and abandon what many of them had come to call their business home. 
 
 
- The Discount Mall has fostered a strong sense of community and encapsulates the culture of Little Village. When people think of Little Village, the Mexican culture stands out the most. However, what is “Mexican” culture? It’s the food. It’s the music. It’s the hard-working people. It’s the resilience, that even after being beat down day in and day out, you are still going home to your family with love. It’s the family values that we hold near and dear to our hearts. 
+ The Discount Mall has fostered a strong sense of community and encapsulates the culture of Little Village. When people think of Little Village, the Mexican culture stands out the most. What is “Mexican” culture? It’s the food. It’s the music. It’s the hard-working people. It’s the resilience, that even after being beat down day in and day out, you are still going home to your family with love. It’s the family values that we hold near and dear to our hearts. 
 
 
 Due to the way contracts work at the mall, many of the vendors went under; there are two owners, for neither of whom was I able to receive any contact information. Both were given contracts to keep some percentage of their buildings respectively. The mall was one big building with doors in the middle dividing the left and right side. Each owner owned one half of the mall. Granted, no matter if they signed on or not, there was going to be some downsizing, but one of the owners refused to, which left him and the vendors under his contract without a place for business. 
@@ -845,25 +949,25 @@ Due to the way contracts work at the mall, many of the vendors went under; there
 Novak Construction has announced plans for the future of the mall. This entails the laying off the majority of the vendors and bringing in larger commercial stores to the plaza. While it may be good for business, it defeats the purpose of the plaza, which, beyond its commercial purpose, is creating community strongly rooted in the Mexican culture of Little Village. It is gentrification in front of our own eyes. 
 
 
-I wanted to take a deeper dive and ask the vendors and customers who make the Discount Mall the pillar of culture for their perspective. Major news outlets only mention the closure briefly. I wanted the story—their story. I had the opportunity to interview three vendors with staple businesses within the mall, as well as with community member. These are their stories.
+I wanted to take a deeper dive and ask the vendors and customers who make the Discount Mall the pillar of culture for their perspective. Major news outlets only mention the closure briefly. I wanted the story—their story. I had the opportunity to interview three community member as well as vendors with anchor businesses within the mall. These are their stories.
 
 
  
 
 
-A Vendor: Trajes1 
+A Vendor: Trajes\* 
 
 
 I interviewed a vendor who is keeping their shop open even after all the chaos that Novak brought to the community. For the sake of their business, they have requested to remain anonymous. They immigrated from Mexico at the age of 15 and were presented with a job opportunity at a clothing store in Little Village, at their sister location at the Mall, where they’ve been for 20 years now. 
 
 
-“It was after the pandemic that I knew Novak bought the mall.…Things between the vendors haven’t been the same since this news. We’ve limited the amount of merchandise we would usually get, we would live with the fear of losing our jobs that we’ve worked so hard to keep for more than 20 years.” ~pTrajes \*
+“It was after the pandemic that I knew Novak bought the mall” said Trajes. “Things between the vendors haven’t been the same since this news. We’ve limited the amount of merchandise we would usually get, we would live with the fear of losing our jobs that we’ve worked so hard to keep for more than 20 years.”
 
 
-This is the first time I got a clear timeline regarding the announcement of closings; it comes as a shock that a company would come in and take people’s livelihoods from them, but even more so after a devastating pandemic. As this vendor goes on to say, Novak’s actions changed the behavior even of businesses that were not evicted. When I visited the Mall, there wasn’t the same lively atmosphere, the shops weren’t popping and everything seemed to be much more conservative, and I now know why. These vendors knew that their shops might not make it, and while they cling to faith, it’s better to be pleasantly surprised than to be disappointed. They brace for the worst by having less merchandise and expect to sell what they have and move on to whatever may be next. 
+This is the first time I got a clear timeline regarding the announcement of closings. It’s shocking that a company would come in and take people’s livelihoods from them, but even more so after a devastating pandemic. As this vendor goes on to say, Novak’s actions changed the behavior even of businesses that were not evicted. When I visited the Mall, there wasn’t the same lively atmosphere, the shops weren’t popping, and everything seemed to be much more conservative, and I now know why. These vendors knew that their shops might not make it, and while they cling to faith, it’s better to be pleasantly surprised than to be disappointed. They brace for the worst by having less merchandise and expect to sell what they have and move on to whatever may be next. 
 
 
-Every day for them felt like an uphill battle, and maybe today would be the day they get the call that they have to pack. Maybe it’s the day they see the bulldozer outside their workplace. Or maybe today would be the day they longed for, when the owners or even the alderman came in with a contract, informing them that eviction was avoided. However, for more than half the vendors the worst has already happened: they lost not just their jobs, but also their life’s work with nothing more than a memory to show for it, just a memory. 
+Every day for them felt like an uphill battle, and maybe today would be the day they get the call that they have to pack. Maybe it’s the day they see the bulldozer outside their workplace. Or maybe today would be the day they longed for, when the owners or even the alderman came in with a contract, informing them that eviction was avoided. However, for more than half the vendors the worst has already happened: they lost not just their jobs, but also their life’s work with nothing more than a memory to show for it. 
 
 
 Trajes told me:“Discount Mall is more than just an experience, it’s a state of mind.” It’s a very small quote, but it carries so much weight. While many, including me, would walk in and spend a Sunday with the family at the Discount Mall, grab an elote and maybe even buy something, it was when I walked in in March of this year that something had vastly changed. Something was missing, and while I couldn’t put my finger on it at the time, I realize now that the passion had left. Everyone seemed beaten down and distraught at the prospect of losing their shops, their lives. There wasn’t a fight there anymore. Some vendors shared feelings of frustration, others shared feelings of sadness, but they all expressed love for the Mall. However, they have all accepted the inevitable – not because they wanted to, they were just exhausted. 
@@ -875,7 +979,7 @@ Maricela Iñiquez: Iñiquez Unisex Hair Salon
 Originally from Mexico, but naturalized in the States, Maricela Iñiquez is a professional hair stylist who has been working for more than thirty years, starting when she was still a sophomore in high school, balancing both high and cosmetology school. The years of training paid off quickly since she opened her shop at the Discount Mall when it first opened in 1991. She shares her story full of a mixture of emotions: opportunity, faith, and hope, but at the same time frustration and disappointment for the place that has given her so much ends so abruptly. 
 
 
-Maricela Iñiquez says:“Tenemos 30 años trabajando. Dia a dia. Se mira simple, humilde, sace mis dos hijos. Sace carreras de aqui. Por la bendición de este hogar” Translation: “We have 30 years working here; – day to day. It looks simple, humble even. I got my two kids through life with this, I made careers here. Because this place is a blessing we call home.” ~ Maricela Iñiquez 
+Maricela Iñiquez says:“Tenemos 30 años trabajando. Dia a dia. Se mira simple, humilde, sace mis dos hijos. Sace carreras de aqui. Por la bendición de este hogar” Translation: “We have 30 years working here; – day to day. It looks simple, humble even. I got my two kids through life with this, I made careers here. Because this place is a blessing we call home.” 
 
 
 It’s been thirty years of business for her. It’s no longer just a “job” for her, it’s her life. While vendors such as Maricela may live as much as an hour away, the mall is where their friends are, where they watched their kids run around, get dirty, and grow up. Maricela feels all of this, but in addition to the sadness and frustration, she, along with many other vendors, calls this place a blessing. It has given them more fruit than any tree, and more shade than any umbrella. She has had numerous people come to work for her, and now her ex-employees run their own hair salons in Mexico, Uruguay, and Argentina. She, along with the other vendors, know that this mall isn’t as grand as the Mall of America, nor is it trendy like malls downtown. It’s simple, but it’s rooted. 
@@ -887,13 +991,13 @@ Maricela Iñiquez said “No sace ni un cinco de el gobierno, ni para mis hijos.
  Maricela’s statement is directed at Novak Construction, the buyers of the mall, and at the American capitalist system in general. Maricela emphasizes that the vendors are hardworking people who must pay rent on a weekly basis. If they do not sell a certain amount, they’re evicted. Despite these constraints, they take pride in their work. It’s not a side hustle for them; it’s their livelihood—they keep their families alive with this money. This is often overlooked by Novak and anyone else who looks at this building as a source of profit. 
 
 
-When Maricela refers to the “heart,” what she means is that the mall is located close to an area known as the “Heart of Chicago.” This location is the reason Novak Construction was tempted to buy out the mall. For Chicago, Little Village is a gold mine; known as the Second Magnificent Mile, it brings in around $900 million annually. Yet these businesses are run by forgotten people who don’t need fancy stores or skyscrapers, to generate big revenue, just hard work and a spirit rooted in community and culture. When Novak Construction buys the mall to pursue only economic gain, they are seen by the vendors as a symbol of death, bringing the end of an aspect of the community that is beloved. While many people, from vendors to community members, are scared or even furious about the future of the mall. Maricela isn’t fazed, but rather laughs at Novak because she knows that without the vendors, the community, the people, the plaza is nothing. This “dance” that she refers to is a nod to traditions in Latin culture, where dances often symbolize a new beginning or an ending to something great. 
+When Maricela refers to the “heart,” what she means is that the mall is located close to an area known as the “Heart of Chicago.” This location is the reason Novak Construction was tempted to buy out the mall. For Chicago, Little Village is a gold mine; known as the Second Magnificent Mile, it brings in around $900 million annually. Yet these businesses are run by forgotten people who don’t need fancy stores or skyscrapers to generate big revenue, just hard work and a spirit rooted in community and culture. When Novak Construction buys the mall to pursue only economic gain, they are seen by the vendors as a symbol of death, bringing the end of an aspect of the community that is beloved. While many people, from vendors to community members, are scared or even furious about the future of the mall. Maricela isn’t fazed, but rather laughs at Novak because she knows that without the vendors, the community, the people, the plaza is nothing. This “dance” that she refers to is a nod to traditions in Latin culture, where dances often symbolize a new beginning or an ending to something great. 
 
 
- Maricela Iñiquez says “El hombre que trabaja tiene honor, tiene vida. El hombre que no trabaja no tiene nada y los que ni quieren trabajar tienen menos, y por eso cortarle el pescuezo. Y aqui esta mío, cortamelo porque yo tengo todo.” Translation: “The man that works has honor, he has life. The man that doesn’t work has nothing, and those who don’t even want to work have less, and because of that, cut off their [Novak] necks. And here’s my neck, for I have everything.” 
+ Maricela Iñiquez says “El hombre que trabaja tiene honor, tiene vida. El hombre que no trabaja no tiene nada y los que ni quieren trabajar tienen menos, y por eso cortarle el pescuezo. Y aqui esta mío, cortamelo porque yo tengo todo.” Translation: “The man that works has honor, he has life. The man that doesn’t work has nothing, and those who don’t even want to work have less, and because of that, cut off their [Novak] necks.” 
 
 
-Maricela’s statement is directed at Novak. Honor is one of the most valued qualities in a person within Mexican culture. To earn honor, one must work, get their hands dirty, so that they can say that what they accomplished or made is by their own labor. Since Novak and its people only signed a check to earn the mall, she labels them as people without any honor. It’s the injustice of the capitalistic system, in which the person with money can swoop in and buy out a place of great significance, purely for financial gain. 
+Maricela’s statement is directed at Novak. Honor is one of the most valued qualities in a person within Mexican culture. To earn honor, one must work, get their hands dirty, so that they can say that what they accomplished or made is by their own labor. Since Novak and its people only signed a check to acquire the mall, she labels them as people without any honor. It’s the injustice of the capitalistic system, in which the person with money can swoop in and buy out a place of great significance, purely for financial gain. 
 
 
  
@@ -914,7 +1018,7 @@ It’s a sentiment shared by many vendors. They are not forced to take this job,
 The wife says: “Nos supimos por la noticas que se iba vender el mall.” Translation: “We found out through the news that they were going to sell the mall.” 
 
 
-The harsh, unfortunatel reality is that the vendors were denied the respect they deserved by not being told the news of the mall being bought out to their face. Instead, many found out about the eviction from the television news. This was a major slap in the face for these people, and they were still left in the dark when they posed questions about their future. The husband-and-wife shop owners told me that they had reached out to their alderman at the time but heard nothing back. They also reached out to their mall landlord and again heard nothing. No one was willing to talk, and they were left confused and scared. 
+The harsh, unfortunate reality is that the vendors were denied the respect they deserved by not being told the news of the mall being sold to their face. Instead, many found out about the eviction from the television news. This was a major slap in the face for these people, and they were still left in the dark when they posed questions about their future. The husband-and-wife shop owners told me that they had reached out to their alderman at the time but heard nothing back. They also reached out to their mall landlord and again heard nothing. No one was willing to talk, and they were left confused and scared. 
 
 
 The husband says: “Yo digo, yo de aquí digo. No tengo otro trabajo. Toda mi vida he estado aquí trabajando y manteniendo de aquí mis hijos, mi casa, mi familia. Se me hace injusto que no nos permitan quedarnos.” Translation: “I’ll say it right here, I have no other job. All my life I have worked here, and I have maintained my kids, my house, and my family afloat through this job. I think it’s unjust that they don’t let us stay.” 
@@ -926,35 +1030,51 @@ Everyone who is impacted by the mall’s closure has said similar things. They d
 The people who buy out this mall seem not to care that this impacts entire families and communities. It won’t just be the vendor being hurt by the closing. It’s also their children that are dependent on them. It’s also the family down the block that makes visiting the mall their weekly family activity. 
 
 
-Morelia Bermudez, a community member, grew up within the community, developed strong ties within it, and has been a part of the Discount Mall in multiple ways, both through relations with vendors and by being a vendor herself when she was younger, she now attends the University of Illinois in Chicago (UIC) but remains rooted in her community. She shares her thoughts on the mall closing. 
+Morelia Bermudez: a community member
+
+
+Morelia Bermudez grew up within the community, developed strong ties within it, and has been a part of the Discount Mall in multiple ways, both through relations with vendors and by being a vendor herself when she was younger. She now attends the University of Illinois in Chicago (UIC; https://www.uic.edu) but remains rooted in her community. She shares her thoughts on the mall closing. 
 
 
 “My aunt had a candy shop, it was fun and nice to see people appreciate something as small as candy, and it brought people together. And another friend had a shop of trajes (dresses).” 
 
 
-Morelia went to the mall every weekend growing up. She helped her aunt with her shop, and it showed her the joy of candy. She reminisces about how happy older people got when they saw candy from their childhoods back in Mexico. This small, sugary thing brought them back every week, asking for more. She also refers to a close friend and their family business of trajes. Trajes are dresses and outfits for any occasion. However, in Latin-American culture it is deeply rooted in some of our biggest life achievements. Typically the first time someone wears one is in their Baptism: the boys wear a white suit and the girls a white dress. This later carries onto other religious achievements such as The First Communion and Confirmation. But the biggest reason that people buy these trajes is for a girl’s Quinceañera, when a girl enters adulthood in Latin American culture. 
+Morelia went to the mall every weekend growing up. She helped her aunt with her shop, and it showed her the joy of candy. She reminisces about how happy older people got when they saw candy from their childhoods back in Mexico. This small, sugary thing brought them back every week, asking for more. She also refers to a close friend and their family business of trajes. Trajes are dresses and outfits for any occasion. However, in Latin-American culture it is deeply rooted in some of our biggest life milestones. Typically the first time someone wears one is in their Baptism: the boys wear a white suit and the girls a white dress. This later carries onto other religious achievements such as The First Communion and Confirmation. But the biggest reason that people buy these trajes is for a girl’s Quinceañera, when a girl enters adulthood in Latin American culture. 
 
 
 “They jumped through hoops just to sell, and they did it with so much happiness while knowing that the money wasn’t reliable,” says Morelia. “I admire these people, they’re working hard day in and day out, but they stayed. They were the backbone to what made Little Village, Little Village.” 
 
 
-Here Morelia is referring towhat is needed to sell in the mall. While it may seem that all you need is to fill out an application, that’s far from the truth. Each vendor needs to secure a license, negotiate with the landlord, and on top of that pay the weekly rent. The key part in all of this is that income to pay the rent is not guaranteed, and these vendors knew that. However, they do their work with a smile on their face because this is their very own business. Many think these people did research and knew that money will pour in, but that just isn’t the case. They’re selling for their livelihoods, but they also know that they won’t become rich. This is a passion of theirs. 
+Here Morelia is referring to what is needed to sell in the mall. While it may seem that all you need is to fill out an application, that’s far from the truth. Each vendor needs to secure a license, negotiate with the landlord, and on top of that pay the weekly rent. The key part in all of this is that income to pay the rent is not guaranteed, and these vendors know that. However, they do their work with a smile on their face because this is their very own business. Many think these people did research and knew that money will pour in, but that just isn’t the case. They’re selling for their livelihoods, but they also know that they won’t become rich. This is a passion of theirs. 
 
 
 The second part of the quote really shows how the community views these people. All of this you find in every vendor. These vendors are the embodiment of Mexican culture, from the work ethic to the high value they place on their families and community. The vendors made the mall into a haven for all of us to enjoy. 
 
 
-There’s a saying that I grew up with, one that my father said was common back home in Michoacan: “Todo a su debido tiempo,” or, “everything in due time.” I look at the photographs I took of the mall. The vendors knew above all that it was time to go. Shortly after these interviews were conducted, the contracts expired, and most vendors were kicked out. While it was abrupt and not the ending they were hoping for—one where they have the power to call their last ever sale—it was the end nonetheless. They overcame numerous obstacles and struggles to come to where they are now, and this is nothing more than just that, an obstacle. With plans to relocate the vendors to a new location, there is still a sliver of hope that these vendors cling onto. It’s the fire that will ignite again that will get them through this because that is what they all share. A fire to keep going. Currently, the plaza is under construction, and while the plans may look aesthetically pleasing, it is now a shell of what was once there. ![](2023-spring-web-resources/image/1.png)
+There’s a saying that I grew up with, one that my father said was common back home in Michoacan: “Todo a su debido tiempo,” or, “everything in due time.” I look at the photographs I took of the mall. The vendors knew above all that it was time to go. Shortly after these interviews were conducted, the contracts expired, and most vendors were kicked out. While it was abrupt and not the ending they were hoping for—one where they have the power to call their last ever sale—it was the end nonetheless. They overcame numerous obstacles and struggles to come to where they are now, and this is nothing more than just that, an obstacle. With plans to relocate the vendors to a new location, there is still a sliver of hope that these vendors cling onto. It’s the fire that will ignite again, that will get them through this, because that is what they all share. A fire to keep going. Currently, the plaza is under construction, and while the plans may look aesthetically pleasing, it is now a shell of what was once there. ![](2023-spring-web-resources/image/1.png)
 
 
 
 
-\*”Trajes” is  is an alias used to preserve the vendor’s anonymity.
+La Voz de la Comunidad | Pantoja Martinez
+
+
+
+
+\*Trajes is an alias used to preserve the vendor’s anonymity.
+
+
+
+
 
 
 
 
 “[While Novak’s plan] may be good for business, it defeats the purpose of the Plaza, which, beyond its commercial purpose, is creating community...”
+
+
+
+
 
 
 
@@ -966,6 +1086,11 @@ There’s a saying that I grew up with, one that my father said was common back 
 
 
 ![](2023-spring-web-resources/image/pantoja-3-volume-ix-issue-1-spring-2023.png)
+
+
+
+La Voz de la Comunidad | Pantoja Martinez
+
 
 
 
@@ -987,6 +1112,11 @@ There’s a saying that I grew up with, one that my father said was common back 
 
 
 
+La Voz de la Comunidad | Pantoja Martinez
+
+
+
+
 
 ![](2023-spring-web-resources/image/pantoja-5-volume-ix-issue-1-spring-2023.jpg)
 
@@ -997,279 +1127,7 @@ There’s a saying that I grew up with, one that my father said was common back 
 
 
 
-![](2023-spring-web-resources/image/Thompson-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Photo courtesy of Zainab Thompson
-
-
-
-
-Zainab Thompson is an urban fantasy-horror author, a surrealist artist, and the Co-Editor-in-Chief of Grinnell College Press (https://grinnellcollegepress.com/archive/index.html). She has published short stories and art in NOT AN [ANTHOLOGY], The Paranormalcy Zine (https://paranormalcyzine.tumblr.com), and The Grinnell Review (http://www.grinnellreview.com/), and is still riding the high of her February gallery show, Death, Decay, (Re)Defined (https://www.thesandb.com/article/death-decay-redefined-spreads-spores-at-smith-gallery.html) She is finishing up a Bachelor of Arts in Psychology with a concentration in Global Development Studies. She enjoys critiquing zombie movies, theorizing the psychology of fictional characters, and making close friends laugh. 
-
-
-
-
-Dark Skies or Light in My Eyes: A Look at Light Pollution
-
-
-
-
-by Zainab Thompson
-
-
-
-
-I’ve never considered myself an avid astronomy fan, but I have always enjoyed looking at the night sky. Its distance makes it mysterious; a twinkle in the sky could be a star, a planet, a distant galaxy, or something else entirely. The mere knowledge that many of those pinpricks of light up there are the same ones that my ancestors also likely saw, marveled at, and told stories about, even if they were in a completely different part of the world, is magical. 
-
-
-I grew up in Dallas, Georgia, a suburb about 32 miles northwest of Atlanta. Its historic downtown boasts old boutiques and town museums rather than towering skyscrapers or sprawling centers like the state’s capital, but it’s still not the best place to do any sort of stargazing. This wasn’t something I realized until I moved to the Midwest, specifically to the town of Grinnell, Iowa. One of my earliest realizations of the difference between the rural Midwest and the suburban Southeast happened the night that I was with a group of fellow science pre-orientation students in the middle of one of Grinnell College’s athletic fields hoping to see the Perseid meteor shower (https://en.wikipedia.org/wiki/Perseids). 
-
-
-As we were walking to the field, I remember being struck by how far from any artificial lights we seemed (at least in comparison to where I was from), and how the darkness of the night on the prairie was darker than anything I’d ever experienced back in Dallas. We laid out blankets, and one of our upperclassmen guides told us to lie down and look up. 
-
-
-The stars sparkled like someone had spilled thousands of tiny diamonds across a deep black carpet. Backset against them all was a mottled blue-purple haze that I would later learn was the body of our Milky Way galaxy. Then, there were the Perseids themselves. They were quick flashes of playful blink-and-you’ll-miss-it streaks that had me staring for so long I had to remind myself to blink. We stayed out there until the stream of meteors slowed to a trickle. Even after the shower ended, I was still captivated by the sky. By that point, however, others were grumbling about being tired or cold and I didn’t want to stay out there by myself, so we packed everything up and headed back to our dorms. 
-
-
-Over the following months, I tried to gain a more nuanced understanding of the night sky. I went to an Open House at Grinnell’s Grant O. Gale Observatory (https://en.wikipedia.org/wiki/Grant\_O.\_Gale\_Observatory) and attended a couple of Astronomy Club meetings, but I wasn’t quite able to replicate the feeling of breathless awe that I had experienced during that original night of stargazing. As time went on, my sense of fascination faded into more of a passing interest. The night sky became merely a reason for me to crane my head upwards as I walked back to my room in the evenings. 
-
-
-For the purposes of this article I decided to revisit that interest. My initial inquiries led me to interviews with three people in the area who collectively have decades of astronomy experience: Professor Bob Cadmus, a longtime member of the College’s Physics department; Dr. James R. Paulson, a local physician and amateur astronomer who built his own observatory about five miles east of Grinnell; and John Johnson, Outreach and Promotions Director of an astronomy group called the Nebraska Star Party.(https://www.nebraskastarparty.org). 
-
-
-Some, looking up at the night sky, feel miniscule. In the grand scheme of the cosmos, Earth is but a tiny celestial body floating amongst countless other celestial bodies. While the odds of life existing on other planets is high in our infinite universe (https://now.tufts.edu/articles/what-are-chances-life-another-planet) ,until we find evidence of complex beings such as ourselves elsewhere in the galaxy, we are alone on this ball of rock. To some, this is a daunting notion that engenders existential dread and creates questions about the meaning of our finite lives. Grinnell’s Bob Cadmus has a completely different perception. 
-
-
-“[People] say, ‘Oh, whenever I look at the night sky, I feel so insignificant.’ And they seem depressed by this. That’s the exact opposite of the way I feel. When I look at the night sky, I feel privileged and fulfilled... I can spend hours lying on my back and looking [up].”
-
-
-Cadmus appreciates the night sky as an opportunity to relate to people, believing the view is a “resource for everybody.” If understanding the stars and their celestial companions is enjoyable to him, the ability to introduce visitors and newcomers to the Midwestern night sky is equally rewarding. 
-
-
-Dr. Paulson feels the same way. Despite joking that “amateur [astronomers] are nuts,” he fondly recalls summers stargazing with kids from the town, showing his night sky photography at the Grinnell Area Art Center (https://www.grinnellarts.org) and at the Science Center of Iowa (https://www.sciowa.org), and even driving all the way from Grinnell to Car Henge (https://carhenge.com) in Nebraska to experience the 2017 solar eclipse with hundreds of others. 
-
-
-The passion Cadmus and Paulson feel for space and the stars makes them fierce advocates in the effort to preserve the night sky. Such advocacy is necessary, they told me, because the view that captivated me in my first year on the College’s athletic fields is actually under threat.
-
-
-This threat stems from phenomena both natural and human-produced which are obstacles to clear night skies. In addition to light pollution from populated areas, there are less-obvious phenomena which make astronomy difficult. These include heavy greenery, humidity, and large bodies of water. Paulson grew up near Lake Michigan, which often created clouds and haze, while Cadmus grew up near forests where his view of the sky was often blocked by trees. Humidity can cause light dispersion effects that create distracting halos of light around the very celestial bodies you’re trying to look at. 
-
-
-Given that fairly little can be done about natural barriers to clear skies, the efforts of astronomers like Cadmus and Paulson have centered on a problem caused by human activity: light pollution. Researchers in a joint study (https://www.mdpi.com/2072-4292/13/16/3311/htm) published last year by the Complutense University of Madrid (https://www.ucm.es) the Institute of Astrophysics of Andalusia (https://www.iaa.csic.es) and Exeter University (https://www.exeter.ac.uk/us-2/?mrasn=756487.940308.UQt7HFUi) estimate that the increase in light pollution from 1992 to 2017 was 270 percent globally, and potentially up to 400 percent in certain regions. The study’s authors pinned the blame for the increase partly on solid-state light-emitting diodes, also known as LED lighting. 
-
-
-LED lighting has been championed as an energy-efficient, low-emission and low-cost method of illumination. That it’s inexpensive compared to other lighting methods has made it a light pollution problem because, as more and more people and businesses use it to illuminate outdoor spaces, it further degrades the experience of viewing the night sky. Additionally, this profligate use of artificial lights causes problems for nocturnal wildlife. According to Paulson, artificial light interferes with migrating birds, deprives bats of their insect food sources, disorients newly hatched turtles who use moonlight to navigate to the ocean, and interferes with the twilight used to guide arctic krill’s daily rhythms. Paulson said this light can also cause spring to come early by prompting trees to bud before they should, as well as disrupting humans’ sleep rhythms. 
-
-
-These ill-effects have led many to question what can be done about them. In Grinnell, Cadmus and Paulson have pushed for and helped pass a lighting ordinance, modeled on similar laws put in place elsewhere (https://conservationtools.org/guides/10-lighting-ordinance) which aims to preserve the view of the night sky and to minimize artificial lighting’s harm to the environment. 
-
-
-Cadmus says he believes the ordnance passed in Grinnell because he and Paulson pitched it as protection for “a valuable natural resource that we should preserve for future generations.” 
-
-
-Characterizing the night sky in this way is one strategy advocates for minimal artifical illumination use to convince local or federal powers to pass night-sky-friendly measures. For instance, Paulson was successful in lobbying Monsanto Corporation when it announced plans to build one of the largest agribusiness plants in the world about a mile from his observatory. Paulson contacted the plant’s engineers. 
-
-
-“I said, ‘Look, guys. There’s this thing called ‘dark skies’ and it’s gonna be a win-win for you. When you design the lights you’re going to have around, if you make them dark-sky-friendly, [it’ll be] great for you guys! You don’t have to spend as much money for energy.’ To my pleasant surprise, they did it!” 
-
-
-In citing “this thing called ‘dark skies,’” Paulson was referring to the efforts of the International Dark-Sky Association (IDA; https://www.darksky.org), which was started in 2001 “to encourage communities, parks and protected areas around the world to preserve and protect dark sites through responsible lighting policies and public education.” 
-
-
-In practical terms, advancing this agenda has meant fostering conversations about the need to combat light pollution. The IDA has formulated an 11-step action plan to recruit dark sky advocates and create a loose consortium of places prioritizing reduced light pollution. 
-
-
-Cadmus points out that lighting ordinances don’t actually reduce existing light pollution. Rather, they reduce the rate at which things get worse. Cadmus says that while such ordinances are an important early step, public education is equally important, to help people to understand why massive security lights are unnecessary for backyard illumination, or intervening before problematic lighting gets built at all. 
-
-
-Unfortunately, this doesn’t always work. Cadmus provides an illustration from early in his Grinnell career. At that time, there were translucent globe lights on campus that sent significant amounts of light upwards. He used his position on an important committee to try to advocate for the installation of more responsible fixtures. Acorn-shaped globes were one solution then, but the shielding they were equipped with was rudimentary. When the College began a new round of construction and expansion, Cadmus pushed for adoption of the more advanced technologies that had been developed in the interim.
-
-
-Unfortunately, the College president at the time liked the acorn lights, so many remained. Today, these fixtures stand in contrast to newer lights that provide softer lighting elsewhere on the college grounds. 
-
-
-“We had a great opportunity to really improve the campus and we blew it,” Cadmus said.
-
-
-The nine-class Bortle scale (https://skyandtelescope.org/astronomy-resources/light-pollution-and-astronomy-the-bortle-dark-sky-scale) measures the quality or brightness of the night sky for a given location. Class 9 represents an “inner-city sky” that is brightly lit, rendering many stars and certain constellations invisible. On the other end of the scale, Class 1 locations are “excellent dark-sky sites” which feature clear naked-eye viewing of celestial objects such as the M33 (Triangulum) galaxy and the path of our own Milky Way galaxy, which it would be difficult to see in a more light-filled environment.
-
-
-According to LightPollutionMap.info, the 2015 Bortle scale designation of the area including my house in Dallas was designated Class 5. This means that the Milky Way was faint there, if not impossible to see. In contrast, the Bortle scale designation of the area including the soccer field where I watched the Perseids was a Class 4. Finding out that the soccer field was only middle of the pack as far as darkness goes was quite a shock. If what I saw was a class 4, then how much darker could the sky possibly get? 
-
-
-As I learned, this would be a good question to ask at a star party. These events, usually held in the summer, attract amateur astronomers who gather to stargaze together. The Nebraska Star Party (NSP; https://www.nebraskastarparty.org) is one of the most famous of these events. The NSP is the annual project of a loose coalition of individuals and groups which sponsor the gathering at Nebraska’s Merritt Reservoir (http://outdoornebraska.gov/merrittreservoir, which, notably, is designated as a Class 1 on the Bortle scale). The 2022 event, set for July 24-29, will be the 29th NSP. 
-
-
-It is sites and events like this that really show how stargazing is unique in the prairie region, an area of North America in which there are large zones of low-density settlement. Less densely populated clusters mean less light pollution, which allows for experiences like the ethereal sensation of seeing shadows cast by the Milky Way on your hand. (https://www.space.com/7270-great-week-milky.html) 
-
-
-For John Johnson, the NSP’s Outreach and Promotions Director, a large part of the joy he finds in astronomy comes not merely through the study of the planets and the stars themselves (though the hundreds of astronomy books he owns may suggest otherwise); it comes via sharing the experience of stargazing with other people. To him, it’s a bittersweet feeling of “connecting with nature and being out there with this beautiful sky, and then the sadness of knowing that probably 75 percent of the world’s population does not, can not, and will not have that experience.” This realization forms the cornerstone of his conviction that people need to understand just how harmful the brightening night skies are. 
-
-
-“I get to the point where I just want to grab and shake people and say, ‘Do you realize what we’re doing?’” he said. “I’ve done all the studying. I’ve got videos, I’ve got proof, whatever proof you want, about how it’s affecting society, humans both psychologically and physically, and it’s obviously detrimental for nocturnal animals.”
-
-
-He has been working hard for decades to bring to more general awareness both the wonders of the night sky and the threats to experiencing them. He is a passionate advocate for the International Dark Sky Association(https://www.darksky.org/about/) agenda
-
-
-Along with the Nebraska Game and Parks Commission and the rest of the Nebraska Tourism Commission, Johnson has worked to designate Merritt Reservoir and the surrounding area as a dark sky sanctuary. According to the IDA’s website, this label identifies the most dark and remote places in the world “whose conservation state is most fragile” but otherwise has few nearby threats to the quality of its darkness. Upon certification, the IDA works with a given site to promote their work and enhance their visibility to the world at large. 
-
-
-Like Cadmus and Paulson, Johnson has laid the case for the value of this particular dark sky sanctuary before the relevant federal powers by emphasizing the economic benefit of the designation. 
-
-
-“If a bunch of wild-eyed astronomers start beating on their chests saying ‘Oh, we gotta shut all the lights off!! We got to be able to see the stars!’ That doesn’t fly,” Johnson said. “What flies is when you [say], ‘Well, you know how many more destination tours we could get out here? How much more money [tourists] would spend around the state if we had areas designated as dark sky sanctuaries where they could come out and really see the stars?’”
-
-
-As of this writing, Johnson and his fellow amateur astronomers are still trying to get Merritt Reservoir recognized as a dark sky sanctuary in order to preserve the pristine dark skies above in the area. 
-
-
-During Fall Break in 2021, I went on a camping trip with the Grinnell Outdoor Recreation Program (GORP). The trip happens annually, COVID years notwithstanding, and one of our destinations was Pikes Peak State Park (https://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/Pikes-Peak-State-Park) which is known for its sweeping views of the Mississippi River. 
-
-
-One evening while we were there, one of the trip’s two student leaders invited everyone to go on a night hike. I was immediately game for the adventure. Our leader took us through the woods along trails that we’d explored earlier that day, which suddenly seemed so much more menacing as we kept getting spooked by the reflecting eyes of nearby deer and racoons.
-
-
-We eventually reached a tiny trickle of a waterfall by the name of Bridal Falls. Directly behind the dripping curtain of water was a little hollow, likely from years and years of the water eroding away the rock. Our student leader was the first to slowly pick his way down the slippery dirt-turning-rock path to go sit in the hollow. The rest of us gingerly followed suit.
-
-
-Directly in front of us and across the Mississippi River, we could see lights in the state of Wisconsin. The view was spectacular in some ways, with its clear path across the state border to hibitation miles away from us, but I found myself struck by the sight of the sky. Right above the cityscape was a halo of yellow haze being cast up into the air.
-
-
-In the moment I had felt at peace, basking in the quiet with the other students after a long day of hiking. Looking back, though, I don’t recall seeing a single star. The twinkling of the artificial city lights drowned out the natural sparkle and splendor of the stars above.
-
-
-Despite the fact that the Midwest is a far better place to stargaze than my hometown, bigger urban centers like Chicago or the Twin Cities show that the Midwest is by no means immune to light pollution. People like Cadmus, Paulson, and Johnson are putting in hard work to protect the Midwestern skies as much as possible, but it’s going to take a lot more than just them to make a dent. The more people that join the movement to protect one of our most overlooked natural resources, the longer we’ll be able to save it for future generations to enjoy.![](2023-spring-web-resources/image/1.png)
-
-
-
-
-Dark Skies or Light in My Eyes | Thompson
-
-
-
-
-
-![](2023-spring-web-resources/image/Thompson-2-Lew-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Watching a meteor shower from a field near Grinnell College’s Grant Gale Observatory. Photo by Scott Lew (https://instagram.com/bellagio3?igshid=YmMyMTA2M2Y=)
-
-
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Thompson-3-Cadmus-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Image of Comet Hale-Bopp taken by Bob Cadmus from the Gale Observatory in 1997. The lights of the City of Grinnell are blurred because the camera was tracking the comet. It is clear that the town’s lights affect the view from the observatory
-
-
-
-
-() 
-
-
-
-
-Dark Skies or Light in My Eyes | Thompson
-
-
-
-
-
-![](2023-spring-web-resources/image/Thompson-4-volume-viii-issue-1-spring-2022.png)
-
-
-
-
-![](2023-spring-web-resources/image/Thompson-5-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Light pollution can be mitigated by replacing lights whose translucent globes lack shielding (top image) with partly shielded fixtures (bottom image) in which the fixture reflects light downward. Photographs on Grinnell College’s campus by the author
-
-
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Thompson-6-volume-viii-issue-1-spring-2022.png)
-
-
-
-A map depicting the zenith sky brightness, as measured by the World Atlas in 2015. Point 1 is the location of the author’s home in Dallas, GA. Point 2 is the location of the Grinnell College soccer field where she watched the Perseid meteor shower. Point 3 is the location of Merritt Reservoir, where the Nebraska Star Party holds its annual event. Image Credit: lightpollutionmap.info (https://www.lightpollutionmap.info). 
-
-
-
-
-Dark Skies or Light in My Eyes | Thompson
-
-
-
-
-
-![](2023-spring-web-resources/image/Thompson-7-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-A Unihedron Sky Quality Meter (SQM) and its accompanying information card, given to the author by Dr. J. R. Paulson. SQMs are used to measure sky brightness, an important step in the process of applying to be a dark sky location. Photo by the author.
-
-
-
-
-
-
-
-
-
-
-On August 10, 2020, a derecho with winds up to 120 mph (https://www.washingtonpost.com/weather/2020/10/17/iowa-derecho-damage-cost) pummeled the Midwest. the storm an estimated $7.5 billion in damage and knocked out power to a wide area. Grinnell was in the blackout zone. Peter Hanson, a Grinnell College faculty member and amateur astro-photographer, took pictures immediately after the storm while the power was still out (left) and again in the same spot days later when power had been partly restored (right). The effect of light pollution on the same stretch of sky is stark. Photo courtesy of Peter Hanson (https://sites.google.com/view/peterchanson/night-sky-imaging?authuser=0) 
-
-
-
-
-
-![](2023-spring-web-resources/image/Thompson-8-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-
-![](2023-spring-web-resources/image/Thompson-9-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-
-![](2023-spring-web-resources/image/Thompson-10-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Visitors stand beneath the Milky Way at Grinnell College’s Conard Environmental Research Area (CERA; https://www.grinnell.edu/academics/majors-concentrations/biology/facilities/cera). Photo courtesy of Justin Hayworth
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/MacMoran-1-volume-viii-issue-1-spring-2022.jpg)
+![](2023-spring-web-resources/image/Saul-1-volume-ix-issue-1-spring-2023.png)
 
 
 
@@ -1278,2378 +1136,15 @@ Author photo
 
 
 
-Photo courtesy of Ian MacMoran
+Photo courtesy of Zara Pylvainen 
 
 
 
 
-Associate editor Ian MacMoran ‘24 is a second-year student at Grinnell College,majoring in Studio Art. He grew up on the East Coast, living in the city and suburbs of Philadelphia. While he’s still not certain what path he wants to travel academically, he plans to pursue film, creative writing, and other forms of creative expression.
+Peter Chan Min Sang (left), born in Myanmar/Burma (https://en.wikipedia.org/wiki/Myanmar), graduated from Carleton College (https://www.carleton.edu) in Northfield, Minnesota, in 2017 with a major in Political Science and a minor in Education. In 2019, he obtained his master’s degree in education from the University of Minnesota. Since then, he has been teaching at a public magnet school in St. Paul, Minnesota (https://www.stpaul.gov). Peter and his wife, Zara, call the Twin Cities home.
 
 
-
-
-Finding Home on the Prairie
-
-
-
-
-by Ian MacMoran
-
-
-
-
-Moving to Iowa was a culture shock. Until my first year at Grinnell, I’d spent my entire life living in Philadelphia. Even though a lot of that time was spent in the Philadelphia suburbs, the area was nothing like Iowa. In Iowa, everything seemed different: the large and empty fields, the houses, the clear night sky. At home, any fields as large as those I’ve seen in Iowa were either used for parks or converted into golf courses. The tract housing surrounding Grinnell doesn’t resemble the type of home architecture I would frequently see back in Philadelphia. Regarding the night sky, at home I’d be lucky to see even a few stars, while here, I see more stars than I could ever count. 
-
-
-I also find Grinnell quite different socially. To start, I found myself knowing no one and had to make a new social circle for myself. Through this process, I was able to learn more about many different people. Take for example one of my good friends. While growing up outside of Atlanta, in a deeply religious family, he was not able to express himself as who he really is. After coming to Grinnell, he came out as gay and has been able to find himself in ways he never could have outside of Grinnell. Originally, stories like these and others from different friends moved me to create poems about how Grinnell has changed people. But while Grinnell College is a wonderful place in many ways, it doesn’t do a great job at representing the prairie region. The College is filled with students and faculty from all over the world. This creates a social environment vastly different from one you’d find a few miles down the road in any direction. Although a lot of my time has been spent within the College, I have spent some time outside its social environment. Whenever I’ve gone to a restaurant or store in Iowa, the norm is for people to behave with kindness. People can be kind in Philadelphia too, but that kindess isn’t a given as it is in Iowa. 
-
-
-While my friends and I have been able to become comfortable with the Iowa norm, and even to express ourselves in ways we never could have outside of Grinnell, I wouldn’t say that we have made ourselves at home here. In truth, I’ve rarely thought about the prairie region surrounding me—something that working as an Associate Editor for Rootstalk has forced me to reconsider. 
-
-
-What does it take to find a sense of home in the prairie region? To answer this question, I decided to talk to four individuals who moved to Grinnell from outside the prairie region to take jobs at Grinnell College and, in the process, discovered a sense of home here. I asked them how they found a connection to this place. I asked how long that took, what the ways were in which they discovered this new sense of belonging, and whether this sense was, in their experience, unique to the prairie? Lastly, I asked if, after living in region for years, they considered themselves to be “locals.” 
-
-
-In order to gain these insights, I interviewed Chris Hunter (CH), Sigmund Barber (SB), Betty Moffett (BM), and Sandy Moffett (SM). All four have now spent over half of their lives on the prairie, and have now retired in Grinnell. Here’s what they said: 
-
-
-Rootstalk: Where are you from originally and what is it like there? 
-
-
-CH: I grew up in northern New Jersey. Northern New Jersey is sort of a suburb of New York City. You go from one town to the next and you have no idea you left one and entered another except maybe the houses are more expensive. The town I grew up in was just like that: one of the middle-class towns right next to the really rich ones. Coming to Grinnell itself was a bit of a shock. I realized, “Wait, I know exactly where the end of the town is here because there’s a cornfield there.” Some people got really upset by that, but I liked it. I appreciated knowing where things ended.
-
-
-SB: [I was born in] Austria, but I’ve lived in many places. My stepfather was in the military, so I’ve lived in California, Kentucky, Colorado, but mainly Germany. When I was eighteen, I came to the United States for college and lived in Upstate New York for ten years before moving here. I enjoyed moving around. It wasn’t difficult for me. I never found it difficult to make friends so I would make new friends wherever I was and could adjust very easily. I enjoyed all the places except for Kentucky. With all the moving and the culture of the military, I had never encountered racism. It really bothered me. I wanted to go play with some new friends I made, and I was told I couldn’t. I couldn’t understand why this was the way it was.
-
-
-SM: North Carolina. It’s a great state. It has the ocean and the mountains. At that particular time, it was quite liberal, so we enjoyed the political atmosphere when we lived in Chapel Hill for a while. When we came here, we didn’t want to leave North Carolina. I didn’t want to come here, and I didn’t want to stay here. My idea was to come here until I could find a comparable job in North Carolina. 
-
-
-BM: When we first got here, I thought I was going to fall off the earth because all the trees were gone. But now when we go back to North Carolina I feel a little claustrophobic. I’ll always love North Carolina, but do I miss it anymore? No.
-
-
- 
-
-
-Rootstalk: What did you first notice about the prairie countryside when you moved? 
-
-
-CH: We didn’t travel out of town very much. We did go to Des Moines some, and I remember that one of the things that struck both my wife and me was that you drive to Des Moines or Iowa City and there’s nothing between here and there but fields. At first, I thought that was really ugly, especially in the fall, but I’ve since grown to appreciate the variations of brown in the countryside. Living on the prairie was not my life before then. It is now. The rolling countryside was something I really got to like. I was just noticing the colors when we came into town the other day and the variations in slight tinting of green now, which I didn’t notice. Back home we had noticed it in the trees, but here it’s somehow more subtle. 
-
-
-SB: Well, it was definitely different in many respects to what I had experienced before. I spent a lot of my first month when we arrived in August sitting on the front porch of the house we rented. When storms came through, which they did in August, I was fascinated by the openness of the sky and the lightning storms. The power of nature, which had always interested me, was in full display. This was something I’d never experienced before. I mean we had lived in rural areas, but nothing with the sky this big where you could observe the things that were going on. I was fascinated just sitting there watching the lightning go from cloud to cloud. It was the same thing for me when we had tornado warnings. It was hard for me to go to the basement because I wanted to see it, which was not a good idea.
-
-
-SM: We lived in the country and almost immediately became aware of the landscape. It was different. The fields were much more ragged than they are now. There were bushes in the fence rows and the gullies. A lot of those have disappeared with new farming practices. But I became aware of the landscape. I realized it was a really rich landscape with lots of wildlife and lots of interesting things. There were probably more birds and animals here than there were in North Carolina even with all those woods and trees. It was a little-by-little incremental thing.
-
-
-BM: It looked ragged at first. My father always thought that the prairie and anything that looked like the prairie was weeds. He came here a few times. He liked the fact that the corn grew as high as it did. One day we were walking, and he looked out across the prairie. That day, the wind was blowing, and he said, ‘It looks like an animal’s hide.’ It’s rich and full of deep colors. Also, we came from North Carolina in 1971, and then integration and segregation were a big deal. One of the things that was amazing to us when we came here was that it wasn’t present. I remember going to a gathering and one of the women asked me if coming from the South I was concerned about integration. I told her no, and then she let me know that segregation wouldn’t be a problem here. Coming from the South, being able to see integration and a lack of segregation was astonishing. Something else I noticed is that people were very kind. It wasn’t a Southern kind, not, ‘oh come on over to our house right now and I’ll give you a big hug.’ Rather, it was genuinely kind. One time I had the flu, and a woman from across the street brought me ginger ale and apple sauce. I think it saved my life. This woman didn’t know me, but she helped me anyway.
-
-
-Rootstalk: In what ways did you integrate yourselves into the community? 
-
-
-CH: My wife was strongly committed to public education. I got involved in MICA (Mid-Iowa Community Action, a local agency that works with families in need). I was on the board for a long time. And now I’m on the Grinnell Area Arts Council. We’re a part of the community so we wanted to do things. College faculty who live here get asked a lot to get involved. But I also feel a commitment. That was different. I hadn’t felt a commitment to where I lived before. I lived in the town. That was it. I didn’t even go to school in that town. I didn’t feel a connection [in New Jersey], and I had one now. After a while we branched out and we got to know people partly through church. We joined in part just to become more involved in the community. Some of those friends are still friends of mine. Those are the batches of friends we still have after all these years. I’m not even a religious person, but Grinnell is [a religious community]. We knew that one of the strong ways of connecting to the community was through the social world of the church. We picked St. Paul’s Episcopal Churchbecause it’s politically more palatable for us. It was initially in large part because of our kids. We wanted our kids to have the experience of being a part of the community and be seen as normal. Back then and maybe even now it was normal to be a part of a church. We got to know great people, so that was really important. But it wasn’t faith-based motivation on my part.
-
-
-SB: I can’t remember how quickly it happened, but I became very active in the community and still am. I developed friendships with people not associated with the College. Eventually I was asked to be on various committees and boards and things like that. I had no problems assimilating into the community, which was a source of immense satisfaction to me. I became part of the community but not just the College community, but also the Grinnell community. I was able to navigate between these two cultures. Many of my College friends live in the community of Grinnell but are not an integral part of the community. They never went outside of the College culture, which is too bad because there’s something lacking there. At the time in Grinnell, there were restaurants, but not as many as there are now. Because of this, our group created an international dinner club. We would meet once a month and focus on one particular culture. We would drive to Des Moines and get authentic ingredients. 
-
-
-There also used to be something called Town and Gown, which was a fundraising effort between the College and the community. I was involved with that. My wife and I chaired the organization one year. We also began having kids in our second year in Grinnell, so we became involved in the schools and in parents’ organizations in the town. I’m still a member of some organizations that are a grouping of College people and towns people. I was later asked to be on the hospital board and eventually become more involved in community theater. I acted in some plays and musicals, and eventually got into directing. 
-
-
-SM: [Grinnell anthropology professor] Doug Caulkins and I had an idea—kind of a dream of preserving some land. By that time, I was deeply into prairie restoration. Doug and I sat down, and we wrote a letter. Doug worked out the financial business, the cash flow, how much we’d have to invest and how we’d pay for it over the years. We circulated this letter around campus to some faculty and a few people in town. In the letter we asked if anyone was interested in this. If we could get 10 investors, we could do it. We ended up getting nine families that were willing to invest. Initially we were going to buy 720 acres of land in Mahaska County, but planned to sell back 80 acres so we could do it with the nine families. We bought it and the rest is history. We immediately began planting prairie, enhancing prairie, and burning to get rid of invasive species. This is an ongoing thing, and we are still doing this today. But we’re all getting older and have decided to deed the property to the Iowa Natural Heritage Foundation when the last of us dies. It was kind of like a flyer that took off and we said let’s try it and see what happens. I think we were all astonished that we were able to pull it off. I still am. Every time I go out there, I’m amazed that it happened. 
-
-
-BM: In a way, everyone at the College comes here new. I think we were all looking to see where we fit. That was interesting and astonishing. The women’s movement was very strong at that time. I went to a consciousness raising group. At home in North Carolina, I was kind of used to being the instigator when women got together, but not here. These women were something else. These women were strong, powerful, educated, well-spoken, and eager to speak. I found myself needing to raise my hand sometimes to be able to say anything. I appreciated them, and I learned from them. For me, it was my association with women in groups like that. The offshoot of that was wonderful coffee, and we’d become friends. For Sandy, it’s his associations with his colleagues. He was so amazed when we came here, and he did a [theater] production for the College. At the school we were a part of in North Carolina, a few professors would come to the shows. At Grinnell, many faculty came. Not only did they do this, but they read, they studied, and some of them even were in the play. When he saw this, he was delighted. 
-
-
- 
-
-
-Rootstalk: In his book Becoming Native to this Place, Wes Jackson discusses the idea that you can become native to a place where you were not born. Do you feel that you have become native to Iowa or the prairie in any way? 
-
-
-CH: I feel like it’s partly true. When I walk on campus now, I don’t know many of the people. That’s a point of discomfort for me, my place. In town, I feel that way somewhat. There are places in town I’ve never been to. I’ve never been to Rabbitt’s [Tavern], I’ve never gone to some of the bars, and I know for some of the students that becomes their life and their culture. But I’m not a part of it, and I never will be. I feel native to parts of Grinnell, but I think that’s true for anyone who feels native to an area. You don’t feel native to everything about it or to all the people. But I certainly do—and have for a long time —feel more comfortable here than I do in New Jersey. We’ve been here 44 years. I think it’s partly from having kids, because that draws you into the community really intensely. Very quickly we thought of this as our place. In some ways it feels like you’re native, but you’re also making yourself native. And I’m sure there are some churches that if we gone to them, we would’ve quickly run awayscreaming. In part this would’ve been because of the theology, but also because of the people’s values. We carefully picked our parts of the community to join.
-
-
- SB: I’ve lived in Grinnell more than anyplace else. I’ve lived here for 43 years. Grinnell is my home. I’m comfortable here with that. I certainly don’t feel native to Grinnell. I’m accepted by those who are native to Grinnell. I think they find it a little exotic that I’m from a foreign country. I don’t feel like I’m a native of anywhere in particular other than Austria. People have asked me if I could go back and live there now. And no, I couldn’t. Austria is home, there’s a deep connection, but culturally I’m too far away from that. I’m without a nation or native place. It’s a unique situation that has to do with Grinnell and Iowa. I can amend that. I can feel native to Grinnell, but not native to Iowa. I think that has to do with the unique situation of Grinnell as an enclave. It’s like a little island within Iowa. Grinnell is quite different. Culturally, I don’t think I could consider myself a native Iowan, but I could consider myself a native Grinnellian. But again, that’s the cultural aspect of Grinnell and the College. The cosmopolitan nature of the student body appeals to me and speaks to me. 
-
-
-SM: Absolutely. I do feel native to this place. We’ve lived here since 1971. That’s most of our lives. When I was doing the political thing, people made a big deal about being born in Iowa. I would counter that by saying ‘no, I wasn’t born in Iowa. I chose to live in Iowa.’ If you’re born in Iowa, you don’t have any choice. To me there is something to that. People make a big deal about being born somewhere, but I was born in China. I certainly don’t feel like I’m native to China. Our social life here was based around the College, but until fairly recently I didn’t feel a huge connection to the city of Grinnell. I felt a connection to [Poweshiek] County [where Grinnell is located]. The connection gets weaker and weaker as you get further away. I don’t feel that connected to Sioux City, Iowa, or Davenport. At that point, I feel connected to the Midwest. And that border, Iowa, do I lose my connection once I get to the Mississippi River? I think I feel more Midwestern than I do an Iowan, but Iowan gives it a name. 
-
-
-BM: Yes. I think there are compartments in my heart. North Carolina has a little compartment in my heart. That’s where I came from. Where am I from now? I’m from Iowa, and I’m proud of that. I feel native to Iowa as a whole, maybe unfairly because there are parts of Iowa I’ve never been to. We have a relative who lives in Atlanta, and he says Atlanta would be a great place if it wasn’t surrounded by Georgia. But I don’t feel that at all about Grinnell. I think Grinnell benefits from being surrounded by Iowa. I think Iowa helps Grinnell not to take itself too terribly seriously. If you’re lucky, you’re connected to what you’re familiar with. This is what we’re familiar with, and we’re lucky because we like it. 
-
-
-Listening closely to what these four individuals said, I noticed everyone talked about how their assimilation—into the town, or Iowa, or the prairie—took time. The ways they assimilated were fascinating to observe. For all of them, it started with the community stemming from the College. Having children seemed helpful to some, as it forced them to be involved to enhance their children’s lives. It was interesting to see how they all joined organizations within the community. For many, it was through a position of leadership, whether it be through being a board member or holding a political position. The integration through social groups outside of the college also caught my eye. Everyone seemed to have found their own way of being involved in social groups. Whether through church, a dinner club, consciousness raising groups, or land restoration, they all were able to establish a social network. Relating to Sandy’s land restoration, I was intrigued to see how each of the interviewees was drawn into their surroundings by nature in some way. When considering how I would become native to some place, for me it would basically all be done through connecting socially. Seeing other ways that people have found their sense of home and how it is different from mine was something that I found compelling. How far each of their unique ways of feeling native evolved was also interesting. For Chris Hunter and Sigmund Barber, they only feel native to Grinnell as a town. For Sandy and Betty Moffett, they feel native to Iowa and, by extension, the prairie. 
-
-
-I think about my own assimilation to the prairie. Up to this point, I’d say I haven’t had the easiest time connecting to the prairie because it is nothing like what I’m used to. Yet, seeing my friends love it here makes me feel great for them, and seeing them happy where they are helps me feel more confident about living on the prairie. Although I may not be as comfortable in Grinnell as my friends are, knowing that people who have lived here for a long time went through a similar acclimatization makes me hopeful that I could find what everyone else has in Grinnell. For me, I tend to think that my assimilation could be closer to that of Chris Hunter or Sigmund Barber. The prairie region that surrounds Grinnell is one that I am not familiar with, and I’m not sure if my four years at Grinnell will be enough for me to truly appreciate what surrounds the College. If anything, I think I could maybe become native to Grinnell. If this is the case, maybe I’ll stick around and spend a lot more time within the prairie. And who knows? Maybe I’ll become native. ![](2023-spring-web-resources/image/1.png)
-
-
-
-
-
-![](2023-spring-web-resources/image/macmoran-2-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-White-tailed Deer at the Pleasant Grove Land Corporation. Photo courtesy of Sandy Moffett
-
-
-
-
-
-![](2023-spring-web-resources/image/MacMoran-3-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Rough blazing star (Liatris aspera) at the Pleasant Grove Land Corporation. Photo courtesy of Sandy Moffett 
-
-
-
-
-
-![](2023-spring-web-resources/image/MacMoran-4-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-St. Paul’s Episcopal church. Photo by Ian MacMoran
-
-
-
-
-
-
-
-
-
-
-
-
-“That day, the wind was blowing, and he said, ‘It looks like an animal’s hide.’ It’s rich and full of deep colors.”
-
-
-
-
-
-![](2023-spring-web-resources/image/MacMoran-5-volume-viii-issue-1-spring-2022.png)
-
-
-
-A partial copy of a Letter from Sandy Moffett and partners, soliciting participation in the Pleasant Grove Land Corporation in 1998. Document courtesy of Sandy Moffett
-
-
-
-
-
-![](2023-spring-web-resources/image/MacMoran-6-volume-viii-issue-1-spring-2022.png)
-
-
-
-
-
-
-
-“In some ways it feels like you’re native, but you’re also making yourself native.” 
-
-
-- Chris Hunter
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/MacMoran-7-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-An American woodcock (Scolopax minor) hen and her chicks at the Pleasant Grove Land Corporation. Photo courtesy of Sandy Moffett
-
-
-
-
-
-
-
-
-“I think there are compartments in my heart. North Carolina has a little compartment in my heart. That’s where I came from. Where am I from now? I’m from Iowa, and I’m proud of that.”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-“Up to this point, I’d say I haven’t had the easiest time connecting to the prairie because it’s nothing like what I’m used to. Yet, seeing my friends love it here makes me feel great for them, and seeing them happys where they are helps me feel more confident about living on the prairie.”
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Villatoro-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Associate Editor Fernando 
-
-
-Villatoro-Rodriguez '22 is a LatinX graduate of Grinnell College, where he received his bachelors degree in a self-designed independent major titled Health Narratives/Studies. Originally from Los Angeles, California, his interests center on history, seen through a post-modern lens, and include film studies, English, public service, and education. 
-
-
-
-
-Photo courtesy of Fernando Villatoro-Rodriguez 
-
-
-
-
-
-
-
-
-Woodpeckers 
-
-
-of the Prairie
-
-
-
-
-by Fernando Villatoro-Rodriguez
-
-
-
-
-Woodpeckers are fascinating birds which are widely known for their method of gathering food. They use their sturdy beaks to drill holes in tree bark to find their insect prey, and to chisel nest holes in dead wood. Though the prairie is most closely identified with grasslands, there are multiple species of trees that are native to the area, and that’s where woodpeckers are found. 
-
-
-Woodpeckers are a part of the Picidae family, which also includes piculets, wrynecks, and sapsuckers. While (according to the Handbook of Birds of the World, https://en.wikipedia.org/wiki/Handbook\_of\_the\_Birds\_of\_the\_World) there are 254 species of woodpeckers, which come in a wide variety of shapes, sizes, and colors, there are seven species that call the prairie region home.These include northern flickers, yellow-bellied sap suckers, and downy, hairy, pileated, red-bellied, and red-headed woodpeckers. These birds are non-migratory, though some temperate-region species do shift their range for warmth. Their diet mostly consists of insects, but some also feed on fruits and berries. 
-
-
-Woodpeckers are found throughout the world except for Australasia, Madagascar, and Antarctica, as well as some of the oceanic islands. 
-
-
-Frequent Rootstalk contributor Sandy Moffett took the photographs which accompany this feature, capturing all the images near his home in Poweshiek County, Iowa. The yellow-bellied sapsucker is the only local woodpecker that has eluded his camera so far, and it is the only species missing from this issue’s “Birds of the Prairie” special feature.
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Villatoro-2-volume-iii-issue-1-spring-2022.jpg)
-
-
-
-Photo taken May 31, 2017, courtesy of Sandy Moffett
-
-
-
-
-![](2023-spring-web-resources/image/audio-bug-volume-viii-issue-1-spring-2022.jpg)
-
-
-To listen to the vocalization of a red-headed woodpecker, and to learn more about the bird, go to Cornell University's Ornithology Lab and its "All About Birds" site at https://www.allaboutbirds.org/guide/Red-headed\_Woodpecker.
-
-
-
-
-Woodpeckers of the Prairie:
-
-
-Red-Headed 
-
-
-Woodpecker\*
-
-
-
-
- Melanerpes erythrocephalus
-
-
-
-
-The red-headed woodpecker is characterized by its bright-red head, neck, throat, and upper breast; blue-ish black wings and tail; and large white square areas on the rear part of its wings and upper rump. They are monogamous and territorial, with an average life expectancy of 119 months. 
-
-
-Red-headed woodpeckers live from the central to eastern United States, and in the lower tip of Canada. They are small compared to some other species within the same family. Their diet consists of a wide variety of insects, spiders, earthworms, nuts, seeds, berries, wild and cultivated fruit and occasional small mammals. Red-headed woodpeckers are also known to eat the young or the eggs from the nests of bluebirds and house sparrows, and they sometimes even consume bark. They prefer open woodlands, forest edges, clearings, and habitats with few tall, large-diameter trees. You can find these birds in river bottoms, open woods, orchards, parks, savannas, and prairies. Red-headed woodpeckers do not migrate in winter, but prefer mature forests containing larger, older trees where they can find an abundance of food, most notably acorns.
-
-
-
-
-\*You’ll find the other “Woodpeckers of the Prairie” featured in this issue on pages [insert pages here].
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/O'Brien-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-All photos courtesy of Denise O’Brien
-
-
-
-
-Denise O’Brien is a farmer and community activist from Atlantic, Iowa. She has farmed with her husband, Larry Harris, for 47 years. She is the co-founder of Women Food and Agriculture Network (https://wfan.org), the past Chair of the Board of Directors for Pesticide Action Network of North America (https://www.panna.org), and served as an Agriculture Advisor in Afghanistan from 2011 to 2012, deepening her knowledge of women farmers on an international level. Denise currently serves on the board of the Iowa Organic Association (https://www.iowaorganic.org), is the Chair for the county Democratic Party, and is an Assistant Soil and Water Commissioner. Denise has received numerous awards for her community achievements and accomplishments and was inducted into Iowa’s Women’s Hall of Fame (https://humanrights.iowa.gov/cas/icsw/events-recognition/iowa-womens-hall-fame) in 2000. She has run for numerous public offices, including Iowa Secretary of Agriculture in 2006 and the Iowa Legislature in 2018.
-
-
-
-
-A Woman and the Land
-
-
-
-
-by Denise O’Brien
-
-
-
-
-Oats, peas, beans and barley grow. 
-
-
-Oats, peas, beans and barley grow
-
-
-Do you or I or anyone know 
-
-
-How oats, peas, beans and barley grow? 
-
-
-First the Farmer sows the seed
-
-
-Then he stands and takes his ease
-
-
-He stamps his foot and claps his hands 
-
-
-And turns around to view his lands. 
-
-
-  -British/American song from the late 1800s 
-
-
- 
-
-
-There was no honeymoon for Larry and me after our early morning spring wedding. The guests had returned home, and our house was quiet after the festivities of the weekend. The baby pigs were nestled in their pens with their mothers’ providing them with meals on demand. The pregnant cows were feasting on their breakfast of ground corn. We headed up to the home place that Lyle and Delma Harris established in 1949, to prepare the machinery for planting oats. They are sown in March, the first seedlings of the growing season. They can germinate in 40 degree soil. The corn and beans that follow require warmer temperatures. 
-
-
- “You’ll be close by, right?” I anxiously asked as we started the daily checklist on the tractor and equipment. My hands were the happy recipients of new, soft leather gloves that protected me from the grease and grime I would encounter. The loud, whiny air compressor demanded that air be released as the tank filled. Larry and his father, Lyle, were there to teach me how to get machinery ready for the field. Lyle owned the equipment and his supervision was necessary to launch me on my first outing as a new farmer.
-
-
- Larry instructed me to twist the tab on the dipstick to check the appearance and quantity of the oil that lubricated the engine. Next, I took the caps off the valve stems of the tires and used an air pressure-gauge to determine if the tires were properly inflated. Tires are expensive and it was important to make sure they were well inflated for fieldwork. I walked around the large, red metal frame of the tractor with all its moving parts, absorbed in memorizing each detail. I was surprised that, despite all the pedals on the platform, I could not see an accelerator 
-
-
-“Where’s the gas pedal?” I asked. 
-
-
-“There isn’t one, the throttle is on the steering column,” Larry replied, pointing to a rod sticking out from under the driving wheel. “You have to pull the throttle down to increase the gas to the engine and push up to slow down.”
-
-
-Two days after our wedding, it was time to plant the oats. The festivities of the past week quickly vanished from my mind as I set out to learn to farm the land; to turn the soil in preparation for planting the seed. Blood coursed through my veins in anticipation of what I was about to do. I could hardly contain either my excitement or my apprehension. Today, I would be on my own, my first field experience as an apprentice farmer.
-
-
-I followed Larry closely and listened to his instructions. I breathed in the surrounding smells of the machine shed Larry’s brother Steve had built. The tall shed was constructed with used telephone poles, lumber, and galvanized tin he had torn down from other buildings. It had four bays where two tractors, a planter, and a wagon were parked.
-
-
- The Harris family equipment was red, signifying their allegiance to the International Harvester brand. 
-
-
-“Farmers like to stay loyal to a brand of machinery that has served them well”, Lyle, a former International Harvester salesman, told me. “Green and yellow are John Deere people, blue are Ford folks, and orange are Allis Chalmers enthusiasts.”
-
-
- Even though old and tarnished, daily maintenance had kept them in good working order. Resourcefulness was a strong virtue in the farming world and today I was learning from the best. The Harris’ lived by the rule that you take care of what you have; treat machinery with respect and they will do the job for you.
-
-
- The tractor I learned on was an IH 560 model, a two-wheel drive, standard-tread, with 6-cylinder, 72.5 horsepower engine. It was manufactured from 1958 to 1963 and cost $5,500 brand new. I named it the Red Beast. 
-
-
- “Our tractors are pretty old but powerful,” Larry said. “The oldest is a Farmall H built in 1946 and the next, a 1949 Super M. Our newest model is a 504 IH from the 1960s. The fleet has been easy to fix and does the job we need done.”
-
-
- I would come to love the Super M, manufactured the year I was born. It steered easily and was my favorite to rake hay and haul wagons. The seat had a large coil spring underneath that provided a fun, squeaky, bouncy ride.
-
-
- The preparation made me impatient. I just wanted to jump on the tractor and drive to the field where I could finally work the land. I contained my eagerness while I helped the men work through the routine they knew so well. I was their student, and I had to learn from them. Larry understood far better than I the importance of teaching how safety was critical to a good job. What I learned prepared me for the days and years ahead. 
-
-
- “Okay, it’s time to attach the disk,” Larry said. He took a deep breath and watched me climb up onto the tractor.
-
-
- “This must be scary for you to trust me on this machine,” I said. “I think I’ll do okay if I can just remember everything that you and your dad have taught me.” 
-
-
- A large contraption, called the disk, sat ominously behind the tractor. The silver, slightly rusted, round disk blades looked like monster teeth, intimidating me. It seemed like they could easily slice off a finger or body part. It was my task to back up the Red Beast and hook on to that piece of machinery.
-
-
- I pulled out the choke lever and pushed the black-rubber button to start the engine. Reaching down between my knees, I put the gear shift lever in reverse and backed up slowly and cautiously. The knot in my stomach tightened as I tried to align the tractor bar with the disk. Missed! I tried again. My hands turned white as they grasped the steering wheel so tightly my arms ached. My foot slipped off the clutch and the tractor jumped backward so quickly that my body would have gone airborne if I had not gripped the steering wheel. The transmission gears ground loudly as the tractor rocked back and forth while I shifted between first and reverse. I concentrated my whole being to get that tiny hole on the hitch aligned with that tiny hole on the tongue of the disk.
-
-
- “Always shift gears using the straight direction of an H,” Larry instructed me.”Push or pull the shift lever straight to neutral and feel it snap in before moving on to the next gear. This practice will help you from grinding the transmission and getting stuck between gears.” 
-
-
- The third time I backed up was a charm. The tractor aligned perfectly as Larry dropped in the large hitch pin that held the pieces of machinery together. With the hook-up successful, I was on to the next item of business—attaching the hydraulic hoses to the proper female couplers on the tractor. Connecting the hoses made it possible for the oil in the tractor to raise and lower the wheels of the disk. Surprised that gender was used to identify equipment parts, I was taught to put the male end of the hose into the female coupler. I felt uncomfortable using those terms that accurately described the process. 
-
-
- Two black, slinky, oily, serpentine hoses lay in wait, teasing, laughing, as if they knew I was a novice. Connecting these culprits was a challenge. My left hand held the stationery connection on the back of the tractor while my right hand attempted to push the hose with the silver ball into place. I did not win the battle in the first round. The pressure behind the ball was so great that the hose blasted out of my hand and sprayed thick gooey oil all over me. The pressure in the hose was too high and had to be released. I gathered all the strength I had to fulfill the task, finally this human won over the stubborn machine.
-
-
- “Farming has its own language, I’ll help you get through that learning process,” Larry told me. “The word ‘zerk’ refers to the grease fittings on machinery. The fitting needs lubrication to reduce friction wear on moving metal parts. It’s extremely important to grease the disk daily and in fact, a couple of times a day if it is used for long periods of time. Well oiled equipment makes farming easier with fewer breakdowns and less time and money spent on repairs.”
-
-
- “This grease gun will be your best friend,” Larry told me. “It’s kept right here on the tractor next to your foot. If you hear a loud, screeching noise behind you, put the tractor in neutral, raise the disk up and check out where the noise is coming from. Be sure to grab the grease gun as you jump off the tractor.”
-
-
- I bent over and slipped the tip of the grease gun onto zerk. These were located on the disk where the most wear and tear would happen. It was excruciating work. I leaned over the sharp edges of the frame and sometimes had to contort my body just to reach the fitting.
-
-
- “I didn’t realize how much work there is before sitting on the tractor and driving through the field. It’s not just a matter of jumping on the Red Beast and heading out.” Larry laughed, “Prepping to go to the field is as important as the field work itself.”
-
-
- I wondered how in the world I would be able to manage all the tasks of machine maintenance. I took a deep breath and concentrated on what my teacher was saying. I tried not to think about the consequences of going out to the field with no experience. Larry had prepared me well, but could I remember what to do? He assured me that he would stay in the field for a while to make sure things were going well. But when he left, would I be able to do the job on my own? 
-
-
- Finally, everything was ready to go. We decided that it would be best if Larry drove to the field. I stood on the platform on the side of the tractor as Larry pulled out of the drive and took off down the road. My hands gripped the handle on the fender and gravel spewed out from under the wheels. The wind blew across my face as we made our way to the entrance of the field. I hung on hoping not to lose my grip and fall underneath the wheel. We turned into the field at the bottom of the hill, next to a creek Larry named Little Buck in his childhood. I had arrived at my first job as a farmer. Could I do this? Would I crash into the trees or roll down the steep bank?
-
-
- Larry stopped at the edge of the field where corn had grown the previous year. Pale, old stalks of corn stuck up through the earth where they had partially decomposed over the winter. Disking turned them into the earth, creating a welcoming place for the oats we would be planting.
-
-
- “The tractor needs to be lined up on this edge,” he instructed me. “And because the disk is wider than the tractor you have to be careful to keep the furrows straight.” 
-
-
- My farmer-teacher made the first couple of rounds to show me how the process worked. The long, narrow field ran along Little Buck. It was a beautiful field that sloped uphill to the east. It would become the pallet from which my artistry of farming would emerge.
-
-
- With trepidation I moved onto the tractor seat and Larry moved to the platform. My chest swelled with the importance of the job I was about to do. I reached behind me to the right and pulled the lever that engaged the hydraulic system. The oil pumped through the hose. Whoosh! The wheels on the disk popped up like referees signaling a touchdown and the disc blades hit the ground. 
-
-
- Larry jumped to the ground and put me in charge. My mind focused on the pedals and throttle, trying to remember my instructions. What happens first, engaging the clutch or accelerating? Both hands and feet had to be ready to meet the demands of steering the tractor through the field. My whole body was on full on alert.
-
-
- My left arm pulled on the torque amplifier that geared down the transmission to accommodate the heavy load. I lifted my left foot slowly and let up on the clutch. With my right foot poised over the brake, I flew off across the field. 
-
-
- A strong, musty, moist smell from the earth tantalized my nose as the disk blades churned. I loved it. The field was a half-mile long, so I had plenty of time to absorb the rhythm of the tractor and the disk. I looked back to see the pattern of freshly tilled soil created with the guidance of my hand on the steering wheel. 
-
-
- Worms suddenly appeared on the dark soil surface, unintentionally offering themselves to the birds that gathered for a morning meal. Suddenly, several red-tailed hawks circled above me, their keen eyes focused on the small rodents fleeing for their lives. I began to feel comfortable and less frightened. I disked the field in the noisy environment of a roaring engine and clanking machinery. I knew this was where I was supposed to be. I was a town girl, but I was becoming a farmer. With the wind in my face and the sun shining brightly, I was a woman on a tractor. A job that I had thought was only for men.
-
-
- Lost in my thoughts about how wonderful it was to be farming, the fence line suddenly appeared in front of me. Panicked, my mind went into overdrive as I recalled Larry’s instructions. I heard his voice in my head say slow down! I grabbed the throttle and shoved it up, slowing the tractor down. My left and right feet simultaneously slammed down on the clutch and the brake. I held on for dear life. The adrenalin pumped through my veins until my heart nearly exploded. The Red Beast ground to a stop. My hands clutched the wheel, unable to release their hold. I shifted the gear into neutral and jumped down, my feet gratefully touched the earth. I was okay.
-
-
- “You’ve got to leave enough room to turn the tractor and the disk!” Larry shouted as he ran up behind me. “You can’t daydream at this job, especially when you get to the end of the field.” 
-
-
- Deftly, he swung his body up onto the platform, sat in the seat, and performed the rescue operation. He had driven a tractor since the age of eight and knew exactly how to maneuver out of the problem I had created. 
-
-
- “I guess I should have paid more attention rather than watching the birds and the worms,” I said sheepishly. “Thanks for the lesson in getting out of a tight situation.”
-
-
- The rest of the morning went without incident. Larry and Lyle got the Farmall H tractor ready for planting. They greased and oiled the power take-off driven broadcast seeder mounted on its draw bar. This piece of equipment had two hoppers, a large one to hold the oats and a smaller one to hold the pinhead sized alfalfa or clover seed. 
-
-
- I finished disking and the guys arrived at the field with planting implements. The H with a broadcast seeder attached, a wagon of oats to refill it, a couple of scoop shovels and a strong back were all the equipment needed to accomplish this spring ritual. Larry filled the seeder, a dusty, itchy job that required a shower afterward. 
-
-
- “Early season grains, like oats, wheat or rye, are considered a nurse crop for the tiny legume seeds,” Lyle explained as they filled the hoppers. “When the big seeds germinate, they suppress the weeds and give the slower-growing legumes a better chance to survive.” The legumes, I learned, would become hay for the livestock and provide nitrogen to the soil. 
-
-
-“Every year in July when we harvest oats, a wagon-load of the grain is set aside for the next season,” Larry told me as he shoveled the seed into the hopper. “It’s a way to save money on seed costs. Every three or four years we buy a new variety to keep our seed stock healthy.” 
-
-
-Lyle pushed down on the clutch, engaged the gears, pulled the throttle down and started across the field spreading the seed. The grain flew out of the seeder in a wide arc, covering the ground with a light beige blanket. Soon it would turn to a rich color of green, a feast for eyes seeking color at this time of year.
-
-
-Our first day ended with the oats planted, the equipment cleaned, parked, and ready to go the next day. A ritualistic cadence developed that spring—get up in the morning, do livestock chores, come in to eat breakfast, and go out to prepare for work that was determined by the season. Spring planting, summer cultivating, fall harvesting, winter rest, and getting ready for the next go around. 
-
-
-Larry and I headed home to do the evening chores. I reflected on the day’s events. 
-
-
-This was the beginning of my transformation. I was becoming a woman of the land—a farmer.![](2023-spring-web-resources/image/1.png)
-
-
-
-
-
-![](2023-spring-web-resources/image/O'Brien-2-volume-viii-issue-1.jpg)
-
-
-
-Denise and Larry
-
-
-
-
-
-
-
-
-“A strong, musty, moist smell from the earth tantalized my nose as the disk blades churned. I loved it. The field was a half-mile long, so I had plenty of time to absorb the rhythm of the tractor and the disk.”
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/O'Brien-3-volume-viii-issue-1.jpg)
-
-
-
-
-
-
-
-Photo courtesy of Jeremy chen
-
-
-
-
-
-![](2023-spring-web-resources/image/Chen_headshot.jpg)
-
-
-
-Jeremy Chen is an artist and educator based in Grinnell, Iowa. He holds an MFA in Printmaking with area specialization in Sculpture from the The University of Iowa. (https://uiowa.edu). He currently teaches at Grinnell College (https://grinnell.edu)where he is a Senior Lecturer in Studio Art and chair of American Studies.
-
-
-
-
-\*All references appear in Endnotes in the back of the issue.
-
-
-
-
-Grow Finish Unit 
-
-
-Takes on “Ruthless and Insatiable” 
-
-
-Industrial Ag\* 
-
-
-
-
-by Jeremy Chen
-
-
-
-
-On June 24, 2020, from my house in rural Grinnell, Iowa, I saw a billowing plume of dark smoke rising nine miles away. I later learned that the smoke came from a farmstead where an enormous fire was raging. There, the county sheriff and his deputies were in the midst of a seven-hour stand-off with Dwaine Bauman, a U.S. Army veteran armed with a shotgun, who was upset that a Concentrated Animal Feeding Operation—a CAFO—had been issued a permit to move into his neighborhood. 
-
-
-CAFOs, according to the Sierra Club, are industrial-sized livestock operations which house anywhere from hundreds to millions of animals. The animals in CAFOs are most often dairy cows, hogs, or chickens. Most often in our region CAFOs are massive, windowless buildings where livestock are confined in boxes or stalls for at least 45 days or more per year, in an area without vegetation. The quantity of urine and feces from even the smallest CAFO is equivalent to the urine and feces produced by 16,000 humans. 
-
-
-In Iowa, the state’s Department of Natural Resources (DNR; https://iowadnr.gov) freely issues CAFO permits—for operations housing fewer than 2,500 hogs—without site visits, input from neighbors, or any say from the county supervisors (who can only deny permission if the farm operation’s Manure Management Plan does not meet the requirements). This is what had set Mr. Bauman off. One of his neighbors, seeking the extra income a CAFO would bring in, had decided to build one in Mr. Bauman’s neighborhood, despite the adverse effects this was likely to have on the neighbors’ property values and quality of life, as well as the damage it could potentially cause to the ecosystem.
-
-
-Mr. Bauman launched his protest by setting fire to two vehicles, 100 bales of hay, and the rental house he was living in. The county sheriff’s department got involved after one of Mr. Bauman’s family members reported that he was acting strangely with a gun. The sheriff and deputies arrived and tried to talk to him, but when he discharged his shotgun into the ground the sheriff backed off, blocked roads, and waited out of sight. Friends implored the sheriff to let them speak to Bauman in person and de-escalate the situation but, intending to protect them, the sheriff didn’t allow this. Law enforcement later arrived in force with an armored vehicle and tactical gear. 
-
-
-While one might argue with his methods, at bottom Dwaine Bauman simply wanted to have a voice in what was happening around him. His protest has inevitably brought back to my mind an artwork titled Grow Finish Unit by Irish-born artist John Gerrard (https://johngerrard.net), which Grinnell College’s Faulconer Gallery (https://www.grinnell.edu/campus-life/arts-cul-ture/museum) hosted in 2015, the year Rootstalk began publication. Today the issue of industrial-scale agriculture—with CAFOs providing one of the most egregious examples of its effects–is as big as it ever was, making this call-back examination of Gerrard’s work appropriate.
-
-
-Using software simulations, Gerrard creates meticulously crafted generations of reality that are astonishingly real as they elapse over time. His works document the agri-industrial landscapes of the American Great Plains, in recent years examining such subjects as the Dust Bowl, our dependence on petroleum, and the overuse of nitrogen in agriculture. 
-
-
-With Grow Finish Unit, Gerrard invites us to contemplate a ruthless and insatiable system that industrial agriculture has become, prioritizing profits over people and the environment, constantly creating more waste, and demanding more land, more hogs, more feed, and more sacrifices from those living in proximity to CAFOs. The work might protest with resignation, the system’s exploitation and alienation of the essential workers who process (slaughter, cut, pack, and distribute) the meat, eggs, and milk these facilities produce.
-
-
-Gerrard’s visually stunning simulation depicts a confined animal feeding operation (CAFO) near Elkhart, Kansas, functioning in real time. The CAFO depicted in Grow Finish Unit is designed to contain thousands of hogs. The simulation, which was started in 2008 and has been running ever since, displays a computer-generated sun faithfully rising and setting in real time on a functioning CAFO, and follows relationships between humans, architecture, hogs and a landscape that is deceptively invisible. 
-
-
-Grinnell College’s Faulconer Gallery was an appropriate venue for Grow Finish Unit. When Gerrard was researching the project, he visited a Polk County Facebook server farm in Altoona and a Poweshiek County liquid egg production CAFO unit near Malcom with a capacity of nearly 20 million chickens. Like many other rural locales, Poweshiek County—where the College is located--has been impacted by the exponential growth of CAFOs. Gerrard became fascinated by these contemporary monumental production systems, made visible in the rural landscape by their unassuming architecture. 
-
-
-The visually hypnotizing effects of Grow Finish Unit are generated on a video monitor screen by gaming software on hard drives. The entire artwork, like the system it depicts, seems sealed. But Gerrard’s constructed reality simulation and the lived reality in Poweshiek County are terrifying shadows of each other. Gerrard’s compelling virtual reality focuses on, yet segregates, the relationships that tie a small rural community to its land and ways of life and the world economy. The simulation describes a nearly lifeless and inhumane system devoid of sustainable ways of living. Eventually, in this system, even profit will not be sustainable. In Grow Finish Unit sustainability doesn’t matter; the virtual sun will rise and set over the banal CAFO building in perpetuity, as long as the computer functions and there is electricity to run it.
-
-
-It’s possible to think of the industrialized rural landscape around me as a late reflection of a misguided utopian idea that seamless market efficiency, production, and profit ought to be the goals of our farming system. However, these utopian economic goals ignore the real costs and dystopian impacts on life and land. Inside Gerrard’s gleaming CAFO building, the piglets grow into hogs that magically turn into meat for global tables— but primarily in America and China. Through “vertical integration” the local farmers don’t own the animals or the buildings, but maintain both for the absent global corporation, which sets their compensation with thin margins. Farmers who sign on with these corporations to host CAFOs are caught in a conundrum. Pressed by corporations with their eye on the bottom line and consumers who have become accustomed to low prices, they are forced into making decisions that negatively impact the local land, air, water, real estate, economy, culture, and community. Huge global corporations like Smithfield or Tyson drive the local land use, the labor and work conditions, and the profits that largely leave any state from which they extract resources, leaving behind lasting negative environmental and human impacts for local communities to reckon with in the future.
-
-
-Dwaine Bauman inflicted his physical damage on property. Thankfully, no human life was lost, and no one was seriously hurt during the incident.. As the fires burned, Bauman was eventually taken into custody by the sheriff’s office and charged with second-degree arson and intimidation with a dangerous weapon. He was held in the Poweshiek County jail on a $250,000 bond. 
-
-
-The landowner, despite his loss, did not intend to press charges. Bauman’s friends regret that a different law enforcement intervention and de-escalation didn’t occur for a usually peaceful man who reached a tipping point of frustration and anger that drove him into uncommon actions in order to be heard.
-
-
-Of course, Dwaine Bauman’s violent actions were ineffective. The larger system continues undisturbed with the backing of the state, corporations, Iowa Farm Bureau, Iowa Pork Producers, and other big players in the food and farming system. Perhaps, to them, Bauman is an outlier, just an unstable war veteran who needs mental health services or prison time. Bauman’s voice and the voices of others who protest civilly against the inevitable remain sealed off by systems that collude in the destruction of Iowa’s natural resources and quality of life. CAFO production and exponential expansion continues unabated across Iowa and the Midwest. Likewise, Gerrard’s simulation quietly continues undisturbed in perpetuity. While a simulation may be sustainable, the reality is not. ![](2023-spring-web-resources/image/1.png)
-
-
-
-
-
-![](2023-spring-web-resources/image/Chen-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Image from Grow Finish Unit courtesy of John Gerrard. To view a website that includes the artist’s simulation, Enter this URL in your browser: http://www.johngerrard.net/grow-finish-unit-elkhart.html
-
-
-
-
-
-
-
-
-“With Grow Finish Unit, Gerrard set out to comment on the ruthless and insatiable system that industrial agriculture has become, prioritizing profits over people and the environment, constantly creating more waste, and demanding more land, more hogs, more feed, and more sacrifices from those living in proximity to CAFOs.”
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/chen-2-volume-viii-issue-1-spring-2022.png)
-
-
-
-
-
-
-
-Image courtesy of Wikimedia Commons
-
-
-
-
-
-
-
-
-Rootstalk | Volume VIII, Issue 1, Spring 2022
-
-
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Trissel-1-volume-viii-issue-1-spring-2022.png)
-
-
-
-
-
-Photo courtesy of Mikayla Trissell
-
-
-
-
-Associate Editor Mikayla Trissell ‘22 is a Spanish and Gender, Women’s, & Sexuality Studies major in their last semester at Grinnell College. They were born and raised in Texas, then moved to Colorado when they were twelve, so they have spent their whole life in the United States prairie region. In their free time, Mikayla enjoys reading, painting, hiking with their partner, and playing with their dogs, Scout and Scrappy, and pet reptiles, Sanjay and Snakey. 
-
-
-
-
-Food Deserts in the Midst of Plenty
-
-
-
-
-by Mikayla Trissell
-
-
-
-
-Living in the prairie region of the United States surrounded by endless fields of crops, I am struck by the irony of the lack of healthy, reliable sources of food available to low-income individuals. In fact, this problem has been widely recognized as a food desert, characterized by a large population of low-income households who have inadequate access to transportation or other resources that would allow them to gain access to fresh produce and healthy groceries that they can afford. Nutritious food is imperative to maintaining a vital community and overall well-being. Its lack–– particularly in rural and low-income communities–– is a huge problem that is only beginning to be addressed. I am currently working at a non-profit organization based in Des Moines, Iowa, that serves low-income households in several of the state’s counties. IMPACT Community Action Partnership’s (https://www.impactcap.org/) mission is to help lessen the burden of poverty by providing funds to help pay bills and access food pantries or gift cards for groceries. However, these resources only cover a portion of the need, and even then, people needing federal and state-provided funding must jump through several hoops to access it. To illustrate this problem, I have examined food inaccessibility in Kellogg, a small town in Jasper County in central Iowa. 
-
-
-Each year, IMPACT surveys families they serve in order to determine what programs are most beneficial to them. The infographic on the next page, taken from the IMPACT needs assessment, shows how 243 families responded when asked “Which food and nutrition needs could you or your family use help with?”
-
-
-The Jasper County Health Department also released an overview of the needs assessment (https://idph.iowa.gov/Portals/1/userfiles/91/CHNA%26HIP/2019%20CHNA%26HIPs/Jasper%20County%20CHNA%202019.pdf) it administered to its citizens. According to this report, “obesity (nutrition and exercise)” is a significant issue that needs to be addressed in the community. 
-
-
-Jasper County is one of the areas that IMPACT serves. IMPACT provides resources to low-income families in the county, including grocery allowances to spend at local stores. Typically, families have access to IMPACT’s food pantries; however, Jasper County lacks a food pantry, so families there must find grocery stores where they can spend their gift cards. This makes things especially difficult for low-income families in the county’s more rural areas, including Kellogg. 
-
-
-The 2020 Census reported Kellogg’s population to be just 606, a population that has been fairly stable since the 1970s. Currently, there is only one store in town–– a combination gas station and convenience store named Kellogg Country Store. The nearest full-sized grocery stores are found eight miles west of Kellogg, in Newton, and ten miles east, in Grinnell. This means that any time a family needs more groceries or items than are available at the convenience store, they must travel to one of those two towns. Access to transportation sometimes poses a problem.
-
-
-I made the trip to Kellogg to see what the town is like and to get a feel for the selection of items sold at the Kellogg Country Store. The images accompanying this article are meant to give some notion of the food items offered there.
-
-
-What may not be obvious from the images is the lack of a complete array of healthy foods. There were no fresh fruits, vegetables, or meat. Instead, there was a large variety of canned goods and microwavable instant noodles. The only category of healthy foods being sold were eggs and dairy products. Interestingly, there was a more expansive selection of these than is typically offered at convenience stores. Beyond the foods, there was a larger presence of condiments, cutlery, bags of pet food, laundry soap, and cleaning supplies. This could show the convenience store serves as a means of rectifying the inaccessibility to a local grocery store, or that it takes economic advantage of the situation being that the Kellogg citizens have no choice to make purchases from there if they cannot make a trip to Newton or Grinnell. 
-
-
-Even the signage outside of the gas station communicates that they carry products that somebody could need when they are not able to get out of the town.
-
-
-As this makes obvious, the Kellogg Country Store does offer a larger variety of items than most other convenience stores, but does not provide local, low-income families who have limited transportation options access to a reliable supply of nutritious food. It is clear that the lack of a grocery store in rural Kellogg is a problem for the local population. Beyond this simple fact is an unanswered question: Why can’t the people of the region just live off of the food grown nearby? 
-
-
-To further contextualize the issue of food inaccessibility and discuss the reasons why, in an area with so much land under agricultural production, food accessibility is a critical issue, it is useful to look more deeply into demographic information. There are three main types pf farming: livestock, crop, and horticulture. In central Iowa, a majority of the land is dedicated to crop farming, whereas food fit for direct human consumption is classified as horticulture farming. According to the 2020 census, the total population of Jasper county is 37,813. An analysis of the “County Summary Highlight” section of the 2017 agricultural census ( https://www.nass.usda.gov/Publications/AgCensus/2017/Full\_Report/Volume\_1,\_Chapter\_2\_County\_Level/Iowa/st19\_2\_0001\_0001.pdf) shows that Jasper County has a total of 986 farms, with a total of 378,175 acres of farmland. However, and the key point, most of the land is allocated to crops that cannot be directly consumed by humans. The crops primarily harvested in Jasper County are soybeans, corn for grain, corn for silage or green chop, and oats for grain. Little land in central Iowa is allocated to horticultural farming. This accounts in large part for why low-income people are not able to easily access nutritious foods. 
-
-
-Access to nutritious food is vital to maintaining a community and ensuring all members of the community are well-taken care of. Gaining access to reliable food sources should not fall on the shoulders of the consumers, nor on the local food producers. Solving this problem will take more than small overnight changes; there will have to be larger systemic changes before we can see a difference. ![](2023-spring-web-resources/image/1.png)
-
-
-
-
-
-![](2023-spring-web-resources/image/Trissel-3-volume-viii-issue-1-spring-2022.png)
-
-
-
-The small town of Kellog, Iowa, is roughly equidistant from Newton in the West and Grinnell in the east. Image courtesy of Alltrails.com (https://www.alltrails.com/us/iowa/kellogg) 
-
-
-
-
-
-![](2023-spring-web-resources/image/Trissel-4-volume-viii-issue-1-spring-2022.png)
-
-
-
-Image from the IMPACT Communnity Action Partnership Needs Assessment for 2019
-
-
-
-
-
-![](2023-spring-web-resources/image/Trissel-5-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-The Kellogg Country Store on March 15, 2022. The store offers gas, access to an ATM, liquor, bait, ice, and--finally--hot food and groceries. Note where food items are on the list. Image courtesy of the author
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Trissel-6-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-
-
-
-
-Food choices inside the Kellogg Country Store mostly consist of prepackaged food items with limited nutritional value. Image courtesy of the author
-
-
-
-
-
-![](2023-spring-web-resources/image/Trissel-2-volume-viii-issue-1-spring-2022.png)
-
-
-
-Kellogg is located in Jasper County, Iowa. Image courtesy of Wikimedia Commons.
-
-
-
-
-
-![](2023-spring-web-resources/image/Trissel-6-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-
-
-
-
-
-
-
-
-Some people have proposed that backing away from the industrial food production system and moving towards more local food sources could solve this problem. To gain insight into this possibility, I reached out to Suzanne Castello and Barney Bahrenfuse, whose farm operation near Kellogg, Iowa is largely dedicated to raising livestock. 
-
-
-Castello and Bahrenfuse primarily raise beef, sheep, pork, and chickens on their farm. They farm on the entire 450 acres they own, and also farm on an additional 40 acres that they rent. Castello said they have equal amounts of crop ground and grazing pasture for their animals, and they are currently trying to integrate grazing into their land dedicated to crops as well. A majority of the crops grown on Castello and Bahrenfuse’s farm are fed to their livestock, but they also grow organic soybeans to sell on the market. Their family farm is especially unique in that they do not use pesticides when growing their crops, and they practice regenerative farming. Castello said that each year, they try to increase the number of acres on their farm that are certified organic. Right now, they have 142 acres of certified organic crops. Castello’s and Bahernfuse’s farming strategies allow them to regenerate the soil and the surrounding environment, so the land can be advantageously managed in order to prioritize healing the earth as well as providing for themselves and their livestock. 
-
-
-This is a balance that each farmer is forced to navigate—maintaining an economically sustainable farm and caring for the earth so that its resources can be used for generations to come. Trying to walk the line between making a living and prioritizing regenerative farming practices proves to be an issue for all farmers interested in sustainable farm management, not just for Castello and Bahrenfuse. More sustainable farming practices require much more time and financial investment, and can sometimes lead to smaller profit margins for the farmers. Through no fault of the food growers and producers, locally-sourced and organic food is typically more expensive, and therefore still remains inaccessible to low-income families who are experiencing the phenomenon of food deserts. This means that low-income families are then forced to buy the cheapest, and often least sustainably grown, food from larger corporations that can afford to lower the market prices. 
-
-
-As Castello pointed out, addressing the issue must start with larger systemic changes such as increasing the wages that low-income families are paid or creating more opportunities for local food to be distributed. Another issue concerns the knowledge that farming requires. Traditionally, such knowledge is passed on from one generation to the next and applies to particular parcels of land. In other words, the knowledge is local. As Iowa agriculture becomes increasingly industrialized and corporatized, the local knowledge becomes less relevant and with it the possibility of a more local food system.
-
-
-
-
-
-![](2023-spring-web-resources/image/Trissel-8-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-What Do Iowa Farmers Think about Food 
-
-
-Deserts in Their Area?
-
-
-
-
-Barney Bahrenfuse and Suzanne Castello on their land outside of Kellogg, Iowa, where they raise livestock including beef cattle, sheep, pork and chickens. In their estimation, solving the food desert problem will take more than planting human-consumable food crops. It will take low-income families being paid a living wage, expanded opportunities for local food distribution, and the preservation of farming wisdom that should be passed on from one generation to the next.
-
-
-
-
-
-
-
-
-To listen to the vocalization of a downy woodpecker, and to learn more about the bird, go to Cornell University's Ornithology Lab and its "All About Birds" site at https://www.allaboutbirds.org/guide/Downy\_Woodpecker.
-
-
-
-
-
-![](2023-spring-web-resources/image/Villatoro-3-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-photo taken May 19th, 2019, in Poweshiek County, Iowa, courtesy of Sandy Moffett
-
-
-
-
-![](2023-spring-web-resources/image/audio-bug-volume-viii-issue-1-spring-20221.jpg)
-
-
-The Downy woodpecker is the smallest native woodpecker to North America, with a length of five to seven inches. They are mostly black and white, with white stripes and spots throughout their entire body. They are a monogamous species with a life expectancy of 143 months.
-
-
- The downy is non-migratory and can be found throughout North America, from southeastern Alaska east to Newfoundland, Canada. Their range extends south to southern California and Florida. In the northern part of their habitat range, downy woodpeckers mostly reside in forests and woodlands. They’re also common in cultivated areas such as orchards, and can even be found in urban and suburban areas. In the southern region of the U. S., they prefer the woods or moist, aspen-willow stands. Their diet consists of insects and other arthropods, fruits, seeds, sap, beetles, weevils, ants, plant lice, caterpillars, scale insects, spiders, and suet from backyard feeders.
-
-
-
-
-Woodpeckers of the Prairie:
-
-
-Downy Woodpecker
-
-
-
-
-Picoides pubescens
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Villatoro-4-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-photo taken March 3,2013, in Poweshiek County, Iowa, courtesy of Sandy Moffett 
-
-
-
-
-![](2023-spring-web-resources/image/audio-bug-volume-viii-issue-1-spring-2022.png)
-
-
-To listen to the vocalization of a red-
-
-
-bellied woodpecker, and to learn more about the bird, go to Cornell University's Ornithology Lab and its "All About Birds" site at https://www.allaboutbirds.org/guide/Red-bellied\_Woodpecker.
-
-
-
-
-Woodpeckers of the Prairie:
-
-
- 
-
-
-Red-Bellied 
-
-
-Woodpecker
-
-
-
-
-Melanerpes carolinus
-
-
-
-
-Red-bellied woodpeckers are characterized by the bold black-and-white zebra patterns on their backs and—of course, given their name—some red on the abdomen, as well as bright, distinctive red coloring on the crown and nape of the neck. They also have long, chisel-shaped beaks. They are monogamous and have an average life expectancy of 145 months. 
-
-
-Red-bellied woodpeckers are non-migratory and can be found in the eastern half of the United States, including the prairie region. They are adaptable to various temperate forested habitats, but typically reside below 600 meter elevations in mature hardwood forests, mixed pine-hardwood forests, mesic pine flatwoods, heavily timbered bottomlands, swampy woods, and riparian forests. Their diet includes a wide variety of fruits, nuts, seeds, berries and tree sap, as well as ants, flies, grasshoppers, beetle larvae, caterpillars, brown and green anole lizards, tree frogs, small fish, nestling birds, and bird eggs. 
-
-
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Hootstein-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Associate Editor Avery Hootstein ’23 is currently a third-year Political Science major and football player at Grinnell College. Hootstein grew up in New York City. In his free time, he enjoys street photography, playing sports, and watching movies. 
-
-
-
-
-Photo courtesy of Avery Hootstein
-
-
-
-
-The Streets of 
-
-
-Dallas: A Look Into The Minds of 
-
-
-Three Photographers
-
-
-
-
-by Avery Hootstein
-
-
-
-
-One doesn’t just pick up a camera for the first time and immediately begin taking great pictures. Like other crafts, photography takes practice, but that shouldn’t ever stop one from jumping in, particularly if one is passionate about learning to create. My interview with a trio of Dallas, Texas-area photographers—Omar Gonzalez, Jarrod Oram and Ivan Zapien —provides support for this claim.
-
-
-For many people these days, a photograph is something they take with their smartphone to provide a visual element for their next social media post. For others, though, photography is their response to an inner drive to make art. Photography is a visual artform that allows storytelling to take place in an extremely intimate and authentic way. 
-
-
-There are almost as many approaches to photography as there are photographers. Gonzales, Oram and Zapien are practitioners of street photography (https://photographylife.com/what-is-street-photography). In street photography one captures the world around oneself as it happens. Street photographers produce images that are extremely accessible, intimate and immediate, with no need for a studio. In fact, the world itself functions as their studio. While street photographers do sometimes stage their shots the way studio phographers do, most working in this genre use their cameras to capture a seemingly unmediated image of their environment. At its best, photography allows the artist to show others exactly what the photographer is seeing. While this sometimes appears to produce images in their rawest, most basic form, in reality framing artful street photography requires the same skills: an understanding of proper camera set-up, shot-composition, and lens choice appropriate to the situation. Held in balance, these elements come together to transform a snapshot into a work of art. 
-
-
-The three Dallas photographers I spoke with have each achieved their own versions of this understanding. For Zapien it’s showing off the people who he sees everyday who might go unnoticed by most other people, Oram finds value in bringing fresh eyes to the “old and rad stuff” he finds in his photo-taking expeditions, while Gonzalez uses the foundations that doing street photography had laid for him to frame more artful compositions. By sharing their idiosyncratic perception of the world around them, they make it possible for us to have a real and uniquely intimate glimpse into places we might not otherwise have seen. 
-
-
-Omar Gonzalez 
-
-
-Omar Gonzalez is a photographer and video- grapher who started taking pictures at a very young age with an $80 camera from Radio Shack. He dabbled in other forms of art too, but realized none of them were for him. When he joined a photography club in middle school, it ignited his enduring passion for photography. In college at the University of North Texas in Denton he majored in journalism and minored in photography. Currently he works for a dietary supplement company and helps coordinate its digital content while freelancing on the side. Gonzalez started working in photography during college when a friend got him a job at a night club called Citizen (https://citizendallas.com). The first night he shot there he saw some of the players from the Dallas Mavericks but was told to focus on the other aspects of the club. “It’s definitely just something that happened by accident,” he said. “And I really didn’t want to do it for [the friend who got Gonzalez the job].” Since he was only a college student, he wasn’t sure if he would be able to deliver a high-quality product. 
-
-
-Photography offered Gonzalez a unique medium that allowed people looking at his work to see the world the same way he did. 
-
-
-“Street photography was something big for me,” he said. “It really intrigued me, so I started doing a lot of [it]. I didn’t really have a style [at that point].” These early experiences, including the work he was able to do at Citizen, helped him to develop his styles. 
-
-
-While Gonzalez resists identifying a favorite place to shoot “because [he’s] always in a different spot,” there is a certain place that’s tied to his best memory of photography: the top of Dallas’s Sheraton Hotel. “Seeing the city in all its greatness…you feel like Batman or Spider Man,” he says. “The best feeling I ever had was being on that rooftop with my camera and just enjoying the moment.”
-
-
-These days, because he’s working a lot, that view from the Sheraton’s rooftop is not one he often gets to have. “I haven’t been on a rooftop in years,” he says. Still, the feeling that he had on top of the Sheraton has contributed massively to why he loves photography. 
-
-
- Jarrod Oram 
-
-
-Jarrod Oram is, a “lifelong creative” who describes himself as an “Old Stuff and Rad Things Fine Art Photographer.” He started his career working on rap music videos in New York City before moving back to Dallas, and he currently works as a freelancer, developing digital content for a few companies. Oram doesn’t limit himself to Dallas’s confines. He travels to wherever he can find what he calls “beauty in decay.” His favorite things to shoot are “run-down buildings, old signs, things with history…[Dallas] is a city where a lot of things with historical significance go away.” 
-
-
-Preserving history is very important to Oram because, as Dallas modernizes, he sees the “Old Stuff” he loves so much beginning to fall out of quaintness and into active disintegration. When it comes to finding the “rad things” which remain, Oram follows his eye into fertile visual ground. Oram adds his own flare to what he finds by using the rule of thirds (https://digital-photography-school.com/rule-of-thirds), a compositional technique that places a subject on the left or right third of an image while leaving the remaining two thirds of the image more open, to help fill the frame as well as employing the natural light of the scene to create a certain mood. 
-
-
-Oram emphasizes that photography is more than just a side hustle to him, and also more than a passion. It is a way of filling a void. He said: “Something wasn’t ‘right’ inside me and I thought I was depressed, you know, so I would go to therapy or take medication to ease my depression, but what was really happening was there were areas of unmet needs inside me. So, the thing that I discovered early to numb the pain was alcohol. [For a while] it actually worked, if that makes sense. It calmed my nerves and it eased my tensions. But what happened was there was no solution to anything. All I was doing was stuffing it down and not addressing it, and the only thing I knew to do, the only thing I knew that worked, was [more] alcohol. And so that’s the whole thing with alcoholism it’s that you keep going back to it expecting a different result. 
-
-
-“Eventually it stopped working. I had no idea about unprocessed childhood trauma; I had no idea about any of those things. I would go to people that didn’t have the answers to [becoming sober], they’d ask me ‘Well, Jarrod, why don’t you just quit?’ And I would tell people ‘You don’t get it; I can’t,’ and they didn’t understand that.” 
-
-
-In 2007 Oram finally realized that it was time to get sober. When he did, he found that the problems of the past persisted, except now he was without the solace of alcohol. Eight years into being sober he found he was still in a lot of pain, and he realized that dealing with that pain was the real work. He began working with a therapist to untangle the pain of the past. “I was feeling empty… my therapist was talking about abundance and ‘filling abundance,’ and I’m like how the f\*\*k do you fill abundance? What does that even mean?”
-
-
-For Oram photography became an answer. It became something that was therapeutic, evolving into a way for him to see things differently and to see himself differently. In what he has realized is the lifelong process of “filling abundance,” photography has given him a path to be a more complete version of himself. 
-
-
- Ivan Zapien 
-
-
-Ivan Zapien is a 35-year-old amateur photographer who was raised in Dallas and began taking photos in high school, but nothing beyond simple snapshots. Like Gonzalez, he explored other art mediums such as drawing and music as well, but he found his passion when he returned to photography. In the last few months his interest in photography has spiked. When I asked him why, he told me about a conversation with his wife. 
-
-
-“[I told her], ‘I kinda want to get into this photography thing and see where it goes.’” His wife responded with, “‘Why don’t you do it?’” He replied that “photography’s expensive!’’ But she ended the discussion saying: “Well go buy a camera!” 
-
-
-So, he did. Having no formal photography training, he built his skills as so many others do these days: by watching videos on YouTube. One of the photographers who inspired Zapien was Faizal Westcott (https://faizalwestcott.com), a street photographer from Boston. Zapien took inspiration from Westcott’s work, because, as Zapien puts it, “You just go out, walk, take pictures of things, people, dogs, like whatever, I just… you know, something clicked.” 
-
-
-Zapien’s photography style is influenced by film, and he often decides what to photograph by asking himself: “Could this be in a movie scene?” When discussing his style Zapien mentioned that he tries to avoid editing his photos like Peter McKinnon (https://www.petermckinnon.com) or Pierre Lambert (https://pierretlambert.com), two photographers with large YouTube channels. Their style generally involves an image that is incredibly sharp while also included very vibrant colors that make an image really pop. Zapien prefers to use cooler, bluer tones in his edits. This allows him to create a more cinematic feel. 
-
-
-When asked about how shooting in Dallas has impacted his perception of the city he said: “I like going out to streets where most people wouldn’t even think about going. I live in a part of town where it’s not so good. I’ve even tried to venture out and go out with a camera where it’s not so safe and kinda get that side of Dallas; most people think that’s horrible, but there’s so many good things, even in neighborhoods that people think are dangerous that no one sees, and I want to bring that out.” ![](2023-spring-web-resources/image/1.png)
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-![](2023-spring-web-resources/image/Hootstein-2-gonzalez-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-“Trinity River” by Omar Gonzalez
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Hootstein-3-gonzalez-2-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-“Bridge” by Omar Gonzalez
-
-
-
-
-
-![](2023-spring-web-resources/image/hootstein-4-gonzalez-3-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Untitled photo by Omar Gonzalez
-
-
-
-
-
-![](2023-spring-web-resources/image/hootstein-5-Oram-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-“I’ll Be Your Mirror” by Jarrod Oram 
-
-
-
-
-
-![](2023-spring-web-resources/image/hootstein-6-oram-2-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-“To Live is To Fly” by Jarrod Oram
-
-
-
-
-
-![](2023-spring-web-resources/image/IKnowtheEnd_JarrodOram.jpg)
-
-
-
-“I Know The End” by Jarrod Oram
-
-
-
-
-
-![](2023-spring-web-resources/image/zapien_photos-3.jpg)
-
-
-
-Untitled photo by Ivan Zapien
-
-
-
-
-
-![](2023-spring-web-resources/image/zapien_photos-5.jpg)
-
-
-
-Untitled photo by Ivan Zapien
-
-
-
-
-Untitled photo by Ivan Zapien
-
-
-
-
-
-![](2023-spring-web-resources/image/zapien_photos-1.jpg)
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/kessel-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Photo courtesy of Katie Kregal. All other photos by the author unless otherwise noted
-
-
-
-
-Associate editor Harrison Kessel is a third-year political science major at Grinnell College. He was born and raised in Phoenix, Arizona, where he often visited jobsites with his father, a general contractor. After Grinnell, he hopes to combine his passions for design and helping others by becoming an architect practicing community design. In his free time, he enjoys playing basketball, hiking, and sketching.
-
-
-
-
-\*All references appear in Endnotes in the back of the issue.
-
-
-
-
-Prairie Style: Wright, the Griffins, Sullivan, and Their Impact on Iowa Architecture\*
-
-
-
-
-by Harrison Kessel
-
-
-
-
-This spring, I went on a wildflower walk at the Conard Environmental Research Area (CERA; https://www.grinnell.edu/academics/majors-concentrations/biology/facilities/cera), a prairie reserve owned and managed by Grinnell College about 10 miles southwest of Grinnell, Iowa. It had just rained, and the wind was blowing dark storm clouds towards us from the west. Surrounded by the sound of swaying trees, we hiked through a forested section of CERA where bunches of newly green plants were sprouting delicate, white flowers. I was reminded of a statement from the famed architect Louis H. Sullivan (https://www.architecture.org/learn/resources/architecture-dictionary/entry/louis-sullivan): “observe how rhythmically the seasons follow the sun. Note their unfailing spontaneous logic, their exquisite analyses and synthesis, their vital, inevitable balance”1 (emphasis original). He was telling architects to imbue their design with abstract characteristics such as beauty, rhythm, and balance—characteristics which make real contributions to the way we feel when we are in nature. Following Sullivan’s urging, a group of American architects that included Frank Lloyd Wright (https://franklloydwright.org), Walter Burley Griffin (http://www.wbgriffinsociety.org/griffins-bio.html), and Marion Mahony Griffin (Walter’s wife; https://pioneeringwomen.bwaf.org/marion-mahony-griffin) would introduce the long, horizontal lines that characterize much of the prairie environment throughout the American Midwest into their design. Iowa, close to the movement’s epicenter in Chicago, Illinois, would become home to numerous examples of Prairie Style (https://en.wikipedia.org/wiki/Prairie\_School#Prairie\_School\_architects) buildings which would form an important part of the state’s architectural history. 
-
-
-I was first exposed to Prairie Style in a place not known for its prairie: my hometown of Phoenix, Arizona. My father was a general contractor, and our family lived in a home he built in north Phoenix when I was young. My parents were both fans of Frank Lloyd Wright, so they asked their architect to design a Wright-inspired home. They had another request, though, which was that the house not feel “cold,” a side effect of modern designs which employ a large amount of steel and concrete or maintain the monotone colors of industrial materials. A “warm” modern house could be described as mixture of a modern house and a traditionally styled house; instead of steel and concrete, it employs materials like wood, stucco, and brick. Instead of flat roofs with no chimneys, it employs peaked roofs with broad chimneys. In Frank Lloyd Wright’s body of work, his Prairie Style houses most fit this description, so my parents essentially built a Prairie Style house in the desert. They told me I was living in a Prairie Style house even though I had no conception of what a prairie looked like. 
-
-
-When I moved to Grinnell, Iowa, for college, I did not realize I would be within walking distance of two important Prairie Style buildings: the Merchants’ National Bank (https://www.youtube.com/watch?v=J6vo2QW\_Bdc), designed by Sullivan, and the B. J. Ricker House (https://www.youtube.com/watch?v=i7TVcR7t2v8), designed by Walter Burley and Marion Mahoney Griffin. Only after I discovered these buildings did I realize that, since I was now in the prairie region, I could expect to see more Prairie Style architecture. Yet, aside from the examples built in the early 20th century, around the time Frank Lloyd Wright was practicing in his Oak Park, Illinois, studio, Prairie Style architecture is relatively rare in Iowa. This raised an interesting question: why is a style named after the prairie no longer popular in a state practically defined by its prairie? To find the answer, I examined three Iowa buildings designed by three different Prairie Style architects: the City National Bank and Park Inn Hotel by Frank Lloyd Wright in Mason City, Iowa (https://visitmasoncityiowa.com/places/united-states/iowa/mason-city/culturalhistoric/frank-lloyd-wrights-historic-park-inn-hotel), and the B. J. Ricker House and Merchants’ National Bank Building, both in Grinnell. 
-
-
-The City National Bank and Park Inn Hotel 
-
-
-In 1972, H. Allen Brooks (https://en.wikipedia.org/wiki/H.\_Allen\_Brooks) published one of the definitive histories of Prairie Style architecture, The Prairie School: Frank Lloyd Wright and his Midwest Contemporaries (https://www.amazon.com/Prairie-School-Wright-Midwest-Contemporaries/dp/039373191X). According to Brooks, Frank Lloyd Wright designed this unique combination of a hotel, bank, and law office in Mason City, Iowa, in 1908. J. E. E. Markley, a bank director and attorney, commissioned Wright after he visited his eldest daughter at the school she attended in Spring Green, Wisconsin. Her school, the Hillside Home School (https://flwright.org/researchexplore/wrightbuildings/hillsidehomeschool), had been designed by Wright, and Markley was impressed by it.2 Wright faced a challenge when designing the City National Bank and Park Inn Hotel, however: he had been commissioned to design in one building three separate spaces whose purposes sometimes conflicted with one another. For example, a hotel should appear inviting to potential guests, but banks at the time were meant to be imposing to convey a sense of security. The building is therefore a balancing act, but in masterfully striking this balance 
-
-
-Viewed from Mason City’s Central Park, the left side contained the City National Bank; the lower, middle section housed the law offices of Blythe, Markley, Rule and Smith, while the right side housed the Park Inn Hotel. Today, the Park Inn Hotel takes up the entire building, with the City National Bank side converted to a ballroom and the law offices now housing hotel management. Immediately visible are characteristics which defined the Prairie Style: the roof is long and low, extending off the building to create large eaves. Bands or ribbons of windows characterize the facade and are complemented by geometric ornamentation in the form of colorful tilework. The roof line, windows, windowsills, and even the brickwork all emphasize the horizontal, while vertical elements such as pillars or broad, anchoring chimneys create contrast. These characteristics define the Prairie Style: using horizontal, simple forms, they create a sense of monumentality and rootedness within the site. 
-
-
-The Prairie Style also entailed innovations in interior design, as architects such as Wright and Griffin began to open up the compartmentalized interior spaces that were common in older architectural styles. The interior of the City National Bank and Park Inn Hotel offers a Wright masterclass in manipulation of light and space. A ribbon of geometric stained-glass windows beckons potential guests off the street into the hotel. Once inside, I was immediately greeted by the imposing wall forming the balcony of the second-floor mezzanine. Underneath the mezzanine is the check-in desk, which is intentionally cramped by the mezzanine ceiling. Through a set of folding doors behind the check-in desk is a two-story room lit by the soft light of geometric stained-glass skylights, a scene that stunned me when I first walked into the building. Wright designed the stained glass to reflect the colors of autumn, and, combined with the natural colors of the Arts and Crafts style (https://www.theartstory.org/movement/arts-and-crafts/history-and-concepts) furniture, the light in the room had a pleasantly warm effect, a startling contrast to the cold Iowa weather of that day. 
-
-
-I would be remiss not to mention the restoration of the building by the Wright on the Park Foundation (https://wrightonthepark.org), which was formed to restore the City National Bank and Park Inn Hotel following considerable alterations and deterioration that occurred over its history.3 A contributor to this restoration was Scott Borcherding, an interior designer with the Mason City architecture firm Bergland + Cram (http://www.berglandandcram.com). I interviewed him about the restoration and his thoughts on the Prairie Style, and he described an exhaustive restoration process that took place over several years involving multiple stakeholders, including the National Park Service and the community of Mason City. Preparations for the restoration included interviews conducted with former hotel guests and construction crews that had worked at the building, while restorers poured over Wright’s original plans and determined the evolution of the building over its history. Many parts of the design had been cannibalized over the years: security bars originally installed over the bank window had been used as a fence for a home in Clear Lake, Iowa, and one of the statues of the Roman god Mercury that had stood in the bank is rumored to have ended up in California. Scott said the core of the restoration effort from the beginning was a conviction that “we didn’t want to be the ones who tore [the City National Bank and Park Inn Hotel] down. We had to save it.” 
-
-
-Both Scott and the docent of my tour at the City National Bank and Park Inn Hotel, Jim Collison, told me that one of the most exciting moments of the restoration involved the beautiful art glass in the skylight room. Almost immediately after the hotel opened, the skylight panels began to leak, so they were taken down and essentially lost to history. They were rediscovered, however, in a Prairie Style building in Mason City: the Walter Burley Griffin-designed Blythe House (https://www.iowaarchitecture.org/discover/project-details/james-blythe-house/c463927703fb3a5e). An expert in the Prairie Style who stayed in the home (which is still a private residence) was meditating in the sunroom, looked up, and realized they were looking at a priceless collection of Frank Lloyd Wright original art glass! The homeowner, also a Prairie Style expert, then donated the glass to the Wright on the Park Foundation, and it was restored to its original position in the skylight room. 
-
-
-Scott said that there were many in Mason City at the beginning of the restoration who were worried about the price tag and the potential involvement of taxpayer dollars. The group went ahead with the project regardless, and when they opened the building to the community, a line of hundreds stretched into Central Park. Scott said that “we changed a lot of minds that day. People came up to me and said, ‘I thought you were crazy, but I was wrong.’” 
-
-
- 
-
-
-The B. J. Ricker House 
-
-
- Nestled on the corner of a residential neighborhood at 10th Avenue and Broad Street in Grinnell, Iowa, stands a home designed by Walter Burley and Marion Mahoney Griffin in late 1910 or early 1911 for B. J. Ricker.4 Walter Burley Griffin was a pivotal contributor to the Prairie Style movement, and the B. J. Ricker House amounts to a departure from the influence of Wright, with whom Griffin had worked at Wright’s Oak Park, Illinois, studio. The house bears the hallmarks of the Prairie Style: the Broad Street facade had two ribbons of windows, with windowsills, roof line, and brickwork forming long horizontals, as well as wide, anchoring chimneys. Burley Griffin, in contrast to Wright, employed gabled instead of hipped roofs. His work, including the Ricker House, also has a greater sense of monumentality. The roof seems to rest on four great pillars, one to each corner, and the house rests on a wide concrete foundation, a relatively new building practice in the era. 
-
-
-The decorative panels between the windows on the second floor are tile, brick, and plaster, and were designed by Marion Mahony Griffin, an excellent architect and draftswoman who helped define the Prairie Style. She also designed a centerpiece Japanese-motif tile mosaic above the fireplace as well as the geometric ornamentation of the windows.5 Determining the exact contributions of either Griffin to the designs the couple produced is a difficult task, as “Mahony Griffin was such a fierce cheerleader of her husband…that she happily painted herself in his background.”6 Before she worked with Walter, Marion maintained an impressive solo career. When Wright abruptly left for Europe in 1909, it was Marion who finished most of his remaining projects, culminating in a design for Henry Ford in 1912.7 Eventually, she would produce the renderings for Griffin’s winning submission for the design of Australia’s capital city of Canberra. Her renderings of the B. J. Ricker House are at the Grinnell College Museum of Art. Despite her architectural training and impressive design portfolio, architectural historians dismissed her design work, focusing instead on her renderings and relationship with Walter. For example, historian Allen H. Brooks hypothesized that “she lacked the imaginative mind to create a wide and rich variety of outstanding designs.”8 In reality she was a pioneer in a traditionally male-dominated field and a gifted architect whose contributions to the design of the B. J. Ricker House are illustrative of her talent. 
-
-
-The interior of the home employed an L-shaped plan, an innovation of Walter’s, who was a master at laying out interior space. By organizing the kitchen, dining room, and living room around the fireplace, Walter created a natural flow between rooms while still maintaining their separate functions.9 You can walk into the dining room from the kitchen, and from the dining room you walk around a fireplace (forming the L) to get to the living room, the natural location for the hearth. Walter also fit five bedrooms and three bathrooms onto the second floor, with the tops of each corner pillar forming sleeping porches. A garage addition designed by Prairie Style architect Barry Byrne (https://www.oakpark.com/2013/09/10/who-was-barry-byrne) was added later. 
-
-
-The Griffins would go on to design Rock Crest Rock Glen (https://wrightonthepark.org/product/prairie-school-walking-tour), a neighborhood development in Mason City that rests on bluffs flanking Willow Creek. It was while they were completing their work there that Walter won the Canberra competition and was hired by the Australian government to oversee construction. Had he stayed in America, his body of work might have gone on to rival Wright’s in terms of its significance to American architecture. His career was tragically cut short when he died at the age of 60 of peritonitis while in India working on another commission. 
-
-
-Like the homes of Rock Crest Rock Glen, the B. J. Ricker House--formerly owned by Grinnell College but now the home of Ryan Ferguson and his family. I took pictures of the B.J. Ricker House at Ryan Ferguson’s gracious invitation, and I had the chance to talk to him about his thoughts on living in a Griffin designed home. He also sent me an essay he wrote about the experience for the Walter Burley Griffin Society of America (http://www.wbgriffinsociety.org). In his essay, he writes that “Walter Burley Griffin is noted for designing wonderful floorplans, which perhaps can best be appreciated by active children.”10 Ferguson and his family face the unique situation of living in a piece of architectural history. Their home is furnished with period-correct Stickley furniture, but Ferguson worries about the hard wooden edges his kids keep running into, and the family purchased a more comfortable Ikea couch for their living room. He faces a constant stream of projects to maintain the home, so he has to balance his desire for preservation with the rest of life’s demands, including spending time with his family. Despite these and other challenges (they’ve done lots of insulation work to keep heating bills manageable for a home built in a time without modern insulation), Ferguson’s family enjoys living in the B.J. Ricker House, a testament to the strength and beauty of Griffin’s design, as well as the passion and patience of the family. 
-
-
-The Merchant’s National Bank 
-
-
-Titan of architecture Louis H. Sullivan designed the Merchants’ National Bank in Grinnell in 1914.11 Located on the corner of Broad Street and 4th Avenue, the building is essentially a cube which Sullivan lined with art glass windows to introduce light into the interior. The 4th Avenue facade contains a rose window, while the facade facing Broad Street contains a ribbon of art windows separated by tall, narrow columns. The roof of the bank has a stained-glass skylight colored in a brilliant blue. The result is an imposing exterior that hides an ethereal interior, providing authority and a sense of wealth like that of a cathedral. It is a beautiful composition of form and light that characterizes the work of Sullivan and so many other Prairie Style architects. 
-
-
-The bank’s exterior emphasizes authority and opulence, similar to Wright’s National Bank in Mason City. In contrast to the simplified geometric designs of Wright, however, Sullivan employed his signature terracotta ornamentation of swirling leaves and organic forms to surround the entrance and the rose window. Two winged lions flank the embedded columns framing the front door, further establishing the prestige of the bank. The narrow columns which intersperse the art glass windows on the Broad Street facade emphasize the verticality of the building and the thinness of the brick walls. The facade is capped by more terracotta decoration, which form spike-like clusters against the sky. For Sullivan, this intricately detailed exterior sculpture was a way to integrate natural forms into his architecture, a philosophical idea he would articulate for the Prairie School in writings and speeches like the one I quoted at the beginning of this essay. He believed nature was characterized by “the beauty, the exquisite spontaneity, with which life seeks and takes on its forms in an accord perfectly responsive to its needs.”12 It was from this belief that he derived the famous axiom, “form ever follows function”13—meaning the design of a building should reflect its purpose, as the forms of nature reflect the needs of organic life. The adornment of the Merchants’ National Bank, therefore, celebrates the role of the bank in facilitating commerce, and enshrines this function as occurring on the same level as the fundamental processes of nature. 
-
-
-The interior is marked by diffuse light from the art glass windows and more of Sullivan’s ornamentation. Oak trim and blackish-green marble counters recall natural colors and provide richness, while organic terracotta forms and two planters placed at the rear of the bank frame the entrance to the vault. When one walks from the rear of the bank towards the front entrance, the intricate rose window above the door comes into view, sitting above the oak trim of the entrance hall as if on a pedestal. Entering the Merchants’ National Bank was the second time during my research that I entered a space and was astounded by the light and color it contained. Like the first time I walked into the skylight room of the City National Bank and Park Inn Hotel, it was a cold day, and after feeling a sense of compression due to a low ceiling in the entry way, I suddenly found myself in an ethereal space full of warm colors and bathed in richly colored light. 
-
-
-The Merchants’ National Bank was one of the last commissions Louis H. Sullivan would receive in his life. The pinnacle of his career was in Chicago, where he pioneered the architecture of skyscrapers with his partner Dankmar Adler (http://www.shapell.org/roster/stories/dankmar-adler-courage-architecture-and-the-american-dream). Following Adler’s departure, an economic crash, and a revival of interest in older, more traditional styles of architecture following the 1893 Columbian Exposition (https://www.architecture.org/learn/resources/architecture-dictionary/entry/world-s-columbian-exposition-of-1893), Sullivan’s career went into decline. His autobiography (The Autobiography of an Idea; http://brothersjudd.com/index.cfm/fuseaction/reviews.detail/book\_id/1929/Autobiograph.htm) ended with a denunciation of traditional architectural styles, and he died impoverished in 1924, with former associates contributing funds to pay for his funeral.14 His legacy was that of his work in Chicago and his philosophical influence on the field of architecture. Many monumental architects, including both Wright and Griffin, cited their work with him and his views of architecture as being formative. The Merchants’ National Bank, though it was designed at the nadir of his career, is a breathtaking building in which Sullivan’s ideal of form following function is eloquently expressed. 
-
-
- 
-
-
-The Prairie Style in the Modern Day 
-
-
-The City National Bank and Park Inn Hotel, B.J. Ricker House, and Merchants’ National Bank all illustrate the primary characteristics of the Prairie Style. They draw inspiration from nature and prioritize function over form, though in the end they weave function and form together. These architects brought natural light into innovatively designed interiors through ribbon and stained-glass windows. Their design was rooted in an appreciation of nature and a philosophical belief in the importance of artistic innovation. Their buildings also had a lasting impact on the communities they were built in. The official branding of both Mason City and the town of Grinnell employ Prairie Style motifs, and Prairie Style buildings serve as anchors for their respective downtowns. 
-
-
-Given the artistic significance of Prairie Style buildings, why is the style not more popular in Iowa today? First, it should be noted that the Prairie Style originated in Chicago, and what Jim Collison told me after our tour at the City National Bank and Park Inn Hotel is true: “the Prairie Style name is a misnomer.” Yes, Prairie Style architects cited the prairie as inspiration for the long horizontal lines of their architecture, and most of their buildings were in the American Midwest. But Brooks says that they thought of their movement as the Chicago School [https://en.wikipedia.org/wiki/Chicago\_school\_(architecture)], as that is where it had formed and been perfected. The term “Prairie Style” was only applied later by art historians to distinguish the style from a preceding movement in Chicago commercial architecture which is best known for the birth of the modern-day skyscraper.15 So, despite the word “Prairie” being in the name, outside of its higher integration with nature compared to preceding traditional architecture, Prairie Style architects were designing for the prairie simply because it was where they were receiving commissions. 
-
-
-Second, the Prairie Style abruptly lost popularity around 1914. Brooks claims the sources of the style’s demise were “cultural [and] sociological changes that culminated with the 1914-18 war”16 that changed client preferences: a revival in traditional styles dried up Prairie Style work. The Prairie Style could not coexist with traditional styles, like Victorian or Colonial Revival, which were antithetical to the design philosophy articulated by architects such as Sullivan and Wright. Scott Borcherding described the Prairie Style as “kind of a reaction to Victorian design—[which, in comparison, was] very opulent, decadent, and layered, with surfaced things applied to make things pretty. A lot of those things had no function, only aesthetic, and they were honestly a little competitive with your neighbors.” When traditional styles experienced a resurgence of popularity before World War I, many Prairie Style architects had to return to the older styles or stop practicing—they could not adapt their style to the changing times. 
-
-
-Third, while the style as it existed in the early 20th century is not widespread in Iowa, many of its characteristics would go on to influence modernist and contemporary architecture, which is currently popular across the state. Modernism (https://www.designingbuildings.co.uk/wiki/Modernist\_architecture) developed in Europe following World War I, but it was influenced by Wright’s pre-war work. Prairie Style cast off the rigid rules and opulence of traditional European styles and instead drew inspiration from nature, which allowed Prairie Style architects to simplify the designs for their buildings. This simplicity would be expanded upon in Modernism, with architects such as Mies van der Rohe (https://www.miessociety.org) simplifying residential architecture to essentially steel and glass boxes in projects like the Farnsworth House (https://edithfarnsworthhouse.org). Most current contemporary architecture is not this extreme, but it does integrate itself with nature and employ the simplified forms first experimented with by Prairie Style architects such as Wright, Griffin, and Sullivan. 
-
-
-An example of contemporary Iowa architecture which integrates elements from the Prairie Style is the Integrity in Thornton Project (http://www.berglandandcram.com/portfolio/residential/integrity-in-thornton), a residence designed by Bergland + Cram Senior Project Manager Joe Anderson (http://www.berglandandcram.com/about-us/people/joe-anderson-assoc-aia). The house employs hipped roofs, ribbon windows, and is integrated with its site by occupying the crest of a small hill. Natural light pours into the home from ribbon and clerestory (above eye level) windows, both used extensively by Prairie Style architects. Natural materials including warm woods and stone are used, a broad chimney anchors the home, and there is no superfluous decoration. The home’s beauty comes from the home’s structure and materials. The interior is logically designed and flows throughout rather than being compartmentalized. The Integrity in Thornton Project, like much of cutting-edge architecture across Iowa, employs design characteristics that were first employed by Prairie Style architects—characteristics, however, which transcended the style, becoming critical components of modernist and contemporary architecture as well. 
-
-
-I talked with Joe Anderson about his thoughts on the Prairie Style and the role it plays in his work. He told me that Iowa punches above its weight for creating cutting edge architecture, and that energy codes and sustainability concerns are driving architects to design region-specific buildings, which means the built environment in Iowa is increasingly responding to its prairie surroundings. He also said that “just like any good architecture, the Prairie Style was a snapshot in time that provided a look into how we wanted to live, not how we were living.” Those words perfectly describe the Prairie Style: a step forward in our relationship with the built environment that would help define modern architecture, an important part of which took place in Iowa.![](2023-spring-web-resources/image/1.png)
-
-
-
-
-
-![](2023-spring-web-resources/image/kessel-2-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-The City National Bank and Park Inn Hotel. 
-
-
-
-
-
-![](2023-spring-web-resources/image/kessel-3-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-The City National Bank and Park Inn Hotel skylight room
-
-
-
-
-
-![](2023-spring-web-resources/image/Kessel-4-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-B. J. Ricker House in Grinnell, Iowa
-
-
-
-
-
-![](2023-spring-web-resources/image/Kessel-5-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-An exterior decorative panel designed by Marion Mahony Griffin
-
-
-
-
-
-![](2023-spring-web-resources/image/kessel-6-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-The Merchants’ National Bank 4th Avenue Facade
-
-
-
-
-
-![](2023-spring-web-resources/image/kessel-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-The Merchants’ National Bank skylight
-
-
-
-
-
-![](2023-spring-web-resources/image/kessel-8-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Intregrity in Thornton. Photos courtesy of AJ Brown Imaging
-
-
-
-
-
-![](2023-spring-web-resources/image/kessel-9-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-
-
-
-
-Kay Henry is a writer with roots in the American Midwest who now lives with her husband in the Catalunya region of northern Spain. She holds her MFA from Vermont College of Fine Arts (https://vcfa.edu/programs/mfa-in-writing).  Her nonfiction work has appeared in The Writer’s Chronicle (https://www.awpwriter.org/magazine\_media/writers\_chronicle\_overview), Numéro Cinq (http://numerocinqmagazine.com), and Collateral Journal (Collateral Journal), and her essays have been selected as finalists for prizes including Ruminate Magazine’s VanderMey Nonfiction Prize (https://www.ruminatemagazine.com) and the Orison (https://www.orisonbooks.com) Anthology Award in Non-Fiction. She is currently working on an essay collection whose topics include why Catalunya reminds her of Kansas.
-
-
-
-
-
-![](2023-spring-web-resources/image/Henry-7-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Photo by Oscar Lanau. All other photos courtesy of Kay Henry
-
-
-
-
-Havensville
-
-
-
-
-by Kay Henry
-
-
-
-
-My father has left me 118 acres of pastureland, just north of the once-prosperous town of Havensville, Kansas, (https://en.wikipedia.org/wiki/Havensville,\_Kansas) where my parents met and courted. I am not sure what to do with my new holdings. I never thought much about what I would inherit from my parents, though I knew they owned their own home as well as a farm in Missouri, plus two properties in Kansas. I’ve known most of my adult life that when they died, I would own half of their land and my sister, Kit, would own the other half. In my parents’ wills, the Missouri properties were to be transferred on death to Kit and me in 50 percent shares, whereas the Kansas farms were deeded separately. Kit’s name is on the beneficiary deed to the farm my father inherited near Goff, where he was born in 1919. My name is on the deed to the Havensville property. 
-
-
-Though I view my inheritance through the blurring scrim of grief, I gratefully welcome the farm’s economic value. I came to modest prosperity late in life and do not take money for granted. Yet the land’s material worth does nothing to untangle my confused emotions about being its new owner. I am grateful for my father’s bequest to me after a lifetime of his careful attention to the land that is now mine. I am sorrowful that he and my mother are no longer here to act as a bridge between my present-day life and our family’s long history. Most of all, I am perplexed about how to manage both the emotional significance of my new land and the functional operation of a farm I can’t find on a map and until recently was not sure I had ever set foot on.
-
-
-My first visit to Havensville after inheriting the land brought to light long-dormant memories. It had been over forty years since I had last made that journey. Had you asked me to recall the way the Kansas hills roll away off Highway 63 south of town, I could not have remembered. I could not have recalled the pond nestled two-thirds of the way to the horizon off to the left, nor the chunks of pale flint erupting from the spring grass on certain hillsides. Yet when I turn north off Highway 16 from Holton towards the faded buildings that still line Main Street I think, “There’s that pond,” and “I remember those rocky hills.” I feel light, joyous, like I used to as a child when we spent every vacation in Kansas and the sight of that pond and those pale stones meant that the long drive from our Arizona home was over. I would soon be eating one of Aunt Minnie’s sweet rolls and running through the yard with my cousins. 
-
-
-I could not have recalled the fact that when Highway 16 jogs a little and continues to Onaga, Ellis Road stems straight ahead at the intersection with Route 63. Yet I know I could find the site of the old farmhouse where my mother’s oldest brother, Bo Ellis, lived for seventy years with his wife Edna and a dozen dogs, generations of chihuahuas and spitz. Bo’s son Larry tore the old house down and built a modern one for him and Connie, his second wife. I don’t mind too much until I remember the walnut stairway that used to ascend from the dark living room, how beautiful the wood was and how my great-grandfather had harvested it from that very land when he first built the old farmhouse at the beginning of his marriage. But Larry and Connie have worked hard in their lives and deserve a comfortable home, especially now that Larry is dying of cancer and Connie, with bitter and desperate humor, is trying to imagine life without him. 
-
-
-I remember precisely, though, the way my Uncle Doo and Aunt Min’s house sat on a slight rise next to the white clapboard Christian church with its modest steeple. When I was a child, that rounded hilltop seemed tall as a mountain. My uncle had dug out a dark cellar smelling of damp stone whose door conformed to the hill’s incline, making it even more mysterious, a magic portal that concealed worlds deep under the earth. My cousins and I would sometimes hide there among the musty jars and scare ourselves in the darkness. In reality, the cave’s dark shelves held little besides home-canned peaches, green beans, corn salad, and pickles. 
-
-
-After Doo and Minnie died, their daughter R.Meta sold their house and with it, I thought at the time, my deepest memories of Kansas. The new owners demolished the old house and built a new one, leveling the hill in the process. They used the dirt from the hill to fill in the cellar. 
-
-
-R.Meta’s unusual name combines “R” from Russell, her father, and “Meta” from her mother, whose full name was the rather ponderous Wilhelmina Katerina Meta Blasky Ellis. R.Meta lived her whole adult life with her husband, Don, across the street from her parents. Don died a few months ago, and she and their daughter Debbie have taken over his small cattle operation. R.Meta is twelve years older than I am. When we were growing up, she seemed like a different generation, more aunt than cousin. She married Don at age eighteen. I used to stare at her wedding picture in Doo and Min’s living room and wonder what it would be like to be a bride. She stared back at me through thick, heavily framed glasses that did nothing to detract from the allure of the white brocade dress that clung to her curvaceous figure. For the duration of my childhood she embodied glamour for me. 
-
-
-R.Meta and Don adopted their two children, who left home once they were grown but got no farther than Kansas City, less than a hundred miles away. Debbie came back to Havensville after nursing school to work and raise a family. Her brother Kenny stayed in the city. I haven’t seen Debbie since 1976, when I, in my early twenties, returned from a year of studying in France and visited Kansas with my parents. Debbie would have been about eleven then. Now, we’re both middle-aged, and I’m her landlord. 
-
-
- I use the term “landlord” because I can’t bring myself to say that I am a “landlady.” That word is too slight, connoting a meddling fussbudget or else an unkempt soap opera addict whose grey roots show at the part in her fake-auburn hair. A landlady is disorganized, lets things fall to ruin. A landlady of this sort is what I fear I will become. A landlord, though, knows her responsibilities. She treats her tenants with respect, never condescension. She maintains her property and charges a fair price. When I realize the sexist turn my thinking has taken, I remind myself that “actor” has become gender-neutral, as has “author.” “Landlord” could, and should, be next – at least the kind of landlord I want to become, if I want to become one at all. But I am one, I remind myself with trepidation. I inherited that role along with the farm. 
-
-
-As with so many other parts of my life, I’m convinced that my father was much better at this business of land-owning than I will ever be. He would be astounded to hear this. Modest to the point of self-doubt, he sought excellence in all he did, from stringing fence to, in later years, carving wood and weaving white-oak baskets. If he saw his children as imperfect creations, as he surely did, he never let us know. Owning land brought him the peace he sought during his Navy service in World War II, when after surviving the bombs at Pearl Harbor he spent three straight years in the Pacific Theatre without once returning home to the Kansas he loved, nor to the woman from Havensville who would become his bride and lifelong companion. 
-
-
-The Kansas hills and the dark bottomland along the creek, the peaceful world he had left behind in 1938 to join the Navy, became an imagined refuge during his twenty years at sea. He dreamed, he told me once, of returning there to farm, to spend his days with the cattle and the crops and his evenings playing pitch with my mother’s raucous family. He must have envisaged a life as distant as the salt-laden air of the South Pacific. 
-
-
-He retired from the Navy in 1957 when I was four years old. I can imagine that my parents felt a new freedom then, unconstrained by his various deployments which had structured their entire marriage. Instead of returning to the Kansas of his boyhood, though, he moved with our family to Arizona. From the day I was born, I had suffered from asthma. Doctors offered hope that the dry desert air of Tucson would help my breathing. It did. Our family grew to love the Southwest over the twelve years we lived there before moving to Missouri for my father’s work. But we always knew that Kansas was our true heritage. In 1967, a decade after he retired from the Navy, my father had the opportunity to buy the Havensville acreage from the estate of his father’s brother Jack, who with his wife Bonnie partly raised my father after his parents’ divorce. After 30 years away, he still cherished his homeland and dreamed of returning, but he never did. Instead, he took a job in Missouri, close enough to drive to Kansas in half a day if he needed to, as he put it, “check on things.”
-
-
-My father rented his Havensville pastureland to various friends and neighbors until the early 1980’s, when he began renting it to R.Meta and Don. They grazed their cattle there every summer. Though they paid way less than the going rental rate for Nemaha County, they took good care of the place and never asked my father to pay to put in new fence or spray for thistles. They sent my father a check twice a year and included a newsy letter about the land’s condition and the price of cattle and feed. The letters bragged about Debbie’s children and Kenny’s successful banking career. In the years just before my parents’ death, the letters turned darker, documenting R.Meta’s hip surgeries and Don’s lengthy chemotherapy treatments for lymphoma. I was sad to get such news when my mother would bring me up to date on our Kansas relatives. It seemed to me as if their drama was playing out in a distant place, one at once deeply familiar to me and completely foreign. I was connected to their family by blood and memory. Yet Havensville was too far away, emotionally if not geographically, for me to feel anything other than a distant pity for my Kansas cousins. 
-
-
-Now, as I prepare to see those same cousins for the first time since my early twenties, I follow the highway down a slight incline and see a familiar sign: Havensville, Population 142. 
-
-
-Even though, or perhaps because, my parents lived long and full lives that spanned nine decades, I’ve had trouble defining myself now that they are gone. The Kansas inheritance is a new puzzle piece. Previous generations of my family on both my father’s and my mother’s side were Kansas farmers. My parents’ grandparents had settled in northeastern Kansas in the late nineteenth century. They were drawn to the fertile bottomland near Havensville and Goff, towns created a century and a half ago as a safe haven in a still-wild territory, towns that offered both services and companionship. Farmers could gather there to forge a broader community, fall in love, create and educate children, buy and sell goods and land. I grew up knowing that these strong-willed people were my people, with all their hidden tragedies and modest victories. I am like them in ways that have nothing to do with geography. My parents, while they were living, maintained those connections and reminded my siblings and me that we had come from Kansas stock and were, in truth, Kansans. I would not wholly define myself that way today. With my parents gone, my self-concept has become more nebulous. 
-
-
-As I drive into Havensville, I consider what it will mean to care for my inherited land in a way that honors my Kansas ancestors. At first, I think—with some despair—that it will mean living there or visiting frequently. That option does not fit into the shape my life has taken. My husband and I have moved from St. Louis to a retirement property in Spain, a small farmhouse on eleven acres. Yet, I reason now, my father found ways to care for the land from a distance; maybe I can, too. I have to make sure someone is keeping the brush down and the pasture full of silky, thistle-free grass for the cattle, the fences mended, and the pond clean and stocked with bass. Debbie and her dad did a good job with all these things while my father was alive. He knew what needed doing, and so did they, without being asked. Will it fall to me now to oversee these tasks? I fear it will not take long for my cousins to spot me as a novice. I will have to trust them to be my proxy. 
-
-
-I remember my father coming home from work on weeknights and clearing undergrowth on the Missouri farm until it got too dark to see. He spent his weekends lopping cedars, felling dead trees, hauling brush to sink-holes, and doing battle against encroaching Rosa rugosa. He knew what to do to make the woods and fields beautiful and the land valuable. I appreciated the beauty he created, but I didn’t understand how much work went into it, how nature had to be bent to his designs. I loved the briar rose for their blossoms, but he saw them as a thorny enemy that, if left unchecked, would clog his open pasture. I have neither the skills nor the will to work on my property as hard as he did on his. Yet the path of neglect is not an option. 
-
-
-In addition to managing the land, I am uncomfortable with managing tenants, especially tenants who are relatives. I want to get fair rent for the pasture, but I don’t want to boot my own family off the land in the process, nor do I feel good about increasing their rent to meet the market rate. I am also tempted to sell while land prices are high and invest the proceeds for my retirement. It would make sense, I tell myself, since I have no intention of living in Kansas. My financial advisor agrees. 
-
-
-Since my parents died, though, it has become clear that emotional as well as economic factors will drive the decisions I make about my Havensville inheritance. I have now become the custodian not only of a piece of land, but of a nearly vanished way of life, a history that is as much a part of me as my name, but which I will never live out for myself. 
-
-
-My cousins, on the other hand, live in much the same way that our parents’ generation did. They have made their home in the town they grew up in, and it seems they don’t want to change, though I realize that what I see from the outside may not be the whole truth. I am their opposite, I tell myself. I’ve travelled internationally since I was in high school, finding something of a home everywhere I went, though I admit I never really felt that I belonged. One learns to live with this paradox; being a stranger isn’t all bad. I have thrived on experiencing new cultures with their unfamiliar people, food, and customs. I have learned foreign languages. I am married to an Algerian. Still, when people ask me where I’m from, I don’t know how to answer. My cousins do. 
-
-
-On the day of my visit to Havensville, I drive slowly down Commercial Street past the old tavern that Don and R.Meta ran when they were still young and beautiful. Back then, they served up beer and hamburgers and joked with customers they had known all their lives. Now, the tavern sits empty. Across the street and down a block, I recognize the red brick post office, now closed, where the postmistress used to steam open everyone’s mail and read each letter before resealing and distributing it. She also, in a perfect confluence of careers, wrote the gossip column for the town paper. On my left are the vacant windows of what used to be Harley’s drug store. When I was a kid, you could still get an ice cream cone at Harley’s for a nickel. My sister, Kit, opened a charge account there when she was four, and caught hell from my mother when the bill arrived at the end of the first week. Or maybe old Harley caught hell for letting her do it. 
-
-
-I detour to the left so I can see the old schoolhouse, solidly built of hewn stone, whose boarded windows have succumbed to ruin and whose yard is a tangle of weeds. When they bloom, we’ll call them wildflowers, I remind myself. I circle past the Christian church and the corner where Aunt Minnie and Uncle Doo’s house once stood. The new house disorients me, even though it is a surprisingly close copy of the old one. I pull my father’s white Toyota parallel to the sidewalk across the street. 
-
-
-I hesitate briefly before deciding that the neater and less-decayed of the two houses at the end of the block has to be R.Meta’s. As I mount a rickety step to the porch, I see a slender, serious woman slide down from the driver’s seat of a dented white pickup truck. Unsmiling, she walks toward me. I know she is my cousin Debbie, but I am taken aback by her haggard beauty: her wide grey eyes, her high cheekbones and proud nose, the long, straight, white ponytail, the easy fit to her jeans. She wears a flannel shirt and rubber-toed work boots. I think: this is her uniform. This is what she wears every day. We hug and I feel myself tearing up. She looks at me without blinking and I can’t tell whether she is crying, too, or not. I decide that she is. 
-
-
-On the porch of her mother’s house, within sight of the corner where we played as kids, Debbie introduces me to her boyfriend. Rowan is built like a block of wood, rectangular and solid. His mouth remains unsmiling beneath his thick brush of white mustache, but his eyes meet mine in welcome. Then R.Meta opens the screen door and walks out onto the porch to give me a hug. When I last saw her, she wasn’t yet forty, and still resembled the young woman she had been when I visited Havensville as a child. Now, she has morphed into her mother or any one of my other aunts--short, with permed grey hair and a softness about her body that belies her strong character. After not quite enough of the small talk I had counted on to ease us into our new reality, she invites me in and sits me down on the cloth-covered couch. She looks at me hard through her thick-lensed glasses. “Don’t you sell that land,” she says. It is more a threat than a plea.
-
-
-On the drive to Havensville, I had felt prepared for any conversation with my cousins. I had imagined myself benevolent and thoughtful, getting to know them again, building a relationship, as they say in business. I would make them feel that they were my partners in stewarding the land. I might even suggest that I had much to learn from them. Later, much later, I had thought, I would gently inform them of the land’s true worth and hint that it might make sense to sell. Or at least raise the rent. But faced with R.Meta’s blunt command, I drop my eyes and stammer. 
-
-
-“Oh, no, I have no intention of selling, not now,” I say, my voice too shrill. I mentally grab onto the “not now” as evidence I’m not really lying, or worse, making a commitment I cannot keep. “It’s too soon,” I continue. That last part is true, at least. My father’s recent death has unmoored me, and I see the wisdom in the common advice not to make major decisions for a year after such a loss. R.Meta continues to glare. I turn to Debbie. 
-
-
-“My father was glad to hear you like raising cattle,” I tell her. Another true statement. “He said you and your dad always took good care of the pasture.” Debbie nods and gives me a wistful half-smile, acknowledging our shared grief. From the corner of my eye I can see that R.Meta is softening. 
-
-
-“Well, make sure that if you ever do sell you give Debbie the first chance at it,” R.Meta says, her tone still brusque. This is just the way she talks, whispers a small voice in my head. She’s always talked this way. Now I remember. 
-
-
-I rearrange myself on the sofa and face R.Meta. “You must be feeling lost without Don,” I say. I speak the word she had used on the phone when I called to give my condolences: “I’m just lost without him,” she had said then. I can see now that it is true. 
-
-
-“He always did everything around here,” she says. “I never even had to write a check.” The four of us sit in silence. I look over at Rowan. He has only been with Debbie a few months, and they have been hard ones. First, Don learned he had lymphoma and underwent a series of debilitating treatments. No longer tall and strong, he spent most days at home tethered to an oxygen machine even after his cancer was in remission. Then, just before Christmas, he and Debbie both broke their necks in a car accident. Debbie still hasn’t quite healed. 
-
-
-R.Meta takes and releases a deep breath and focuses on an empty recliner in the corner. 
-
-
-“He got over his cancer,” she says. “It’s that damn C.O.P.D. that ruined his lungs and killed him.” She pauses. “I heard him get up in the night, and I asked if he was ok. He said he couldn’t sleep and was going to sit up in his chair for a while, see if he could get to breathing better. I found him right there the next morning.” We all stare at the recliner. I can see him slumped there, his weakened frame still too big for the chair. I notice a photo on a nearby shelf. Don, as handsome as I remember him, stands behind his wife giving the camera a lecherous grin. R.Meta leans into his arms. Her glance is coquettish behind her glasses, and she stretches out a shapely leg adorned with a garter. I can almost hear their laughter. 
-
-
-The present-day R.Meta follows my eyes to the photo. “That was when we had the tavern,” she says. “We’d had a couple of drinks that night.” She smiles at the memory. I cannot speak. 
-
-
-Debbie asks if I’m ready to go see the farm. She must think it’s incredible that I don’t even know how to locate the property she loves. I tend to agree with her. I’m lucky enough to own a piece of prime pasture and I can’t say what side of the highway it’s on, let alone drive there. I have no idea what the land even looks like. Why, I wonder, did I not visit the property while my parents were alive? I must have gone there at some point, but I can conjure no memories. A month before he died, my father and I opened up Google Earth on his computer and located the land my sister now owns. I recorded our conversation as we labeled each landmark: his father’s pond, Uncle Buck’s house, Grandpa Henry’s truck garden, the road to Fostoria, the property lines. I saved the map, pleased at having captured all that knowledge. We agreed to map the Havensville property next time. His illness worsened quickly, and there was no next time. 
-
-
-Rowan says goodbye and drives away. R.Meta and I squeeze into the cab of Debbie’s old truck – her Dad’s, I learn – and we drive north out of town and take the second left. I tell myself to pay attention, to remember each turn so I can drive there on my own. We follow a stretch of road and turn right after half a mile or so. Debbie points out an old boxcar on the corner, a landmark. We take a few more corners and I lose track. Instead, I look at the rolling landscape and think how my father would have known every hill, draw, and fencepost, as well as all the neighbors and their stories and how much land they had and when they had last added onto their house. For me, by contrast, the plots of land blur together into a single expanse of green, and the houses are peopled by strangers. 
-
-
-A car approaches and Debbie raises her index finger in greeting without removing her hand from the steering wheel. The other driver does the same. I remember this from childhood as a sort of secret Kansas handshake. Sometimes, as a joke, my father would raise his middle finger instead, but the gesture was without venom. His hand faced forward on the wheel, mitigating any obscene reference. We kids thought the finger wave was hilarious in all its forms, and we urged our father to try it on city streets where cars passed in a constant stream instead of a few times a day. Now, seeing my cousin make the same familiar gesture gives a strange comfort. 
-
-
-Debbie stops the truck, gets out, and swings open a gate. She slides back behind the wheel and drives west toward a ribbon of trees. “It’s all pasture,” she tells me. “Except for that draw there.” On our right is a hedgerow of Osage orange. The draw is to our left, a couple of dozen trees I can’t identify growing out of a shallow, meandering ravine. She points out a new fence. 
-
-
-“Dad and I put that in last year.” 
-
-
-I nod. “Pop sure appreciated it.” 
-
-
-“The neighbor’s going to replace that fence over to the south.” She indicates other sections, half-sections, boundaries. I don’t even speak this language. 
-
-
-R.Meta is quiet. Debbie pulls up beside a pond. As soon as I see it, I remember fishing there as a little girl. I must have been with my father, or with one of my uncles, my mother’s brothers, most likely Uncle Doo, Debbie’s grandfather. I remember sitting quietly on the bank holding the pole with great patience and anticipation. I might have caught a sunfish. My father or uncle would have thrown it back, and that would have been all right with me. The process of doing something as important as fishing with a grown man far eclipsed the mundane product, the day’s catch. I recall lying back against the bank and watching clouds gather overhead. The clouds quickly took the form of a giant hand spreading across the sky. Looking back nearly six decades, I’m sure I didn’t know whether the hand would protect or destroy me. Years later, my mother would tell me that she once saw the same formation as she rested in a Kansas field, pregnant for the first time, feeling the earth turn below her and watching the clouds above her form into gentle fingers. 
-
-
-Relieved that I had at least once walked on this land I now own, I follow Debbie around the pond’s western edge. It has been a drought year and the water level is low. Debbie picks up a handful of dry earth and lets it flow through her fingers. I do the same. We look like we’re in a movie, I think. I don’t know what I am looking for in the dirt I hold, but it is important to look, to touch, to feel. I want to understand this place. 
-
-
-Debbie says, “If you come back this summer, we can go fishing.” She looks toward the far bank. “Have a barbecue right here by the pond.” Her invitation both moves and frightens me. What about me, I wonder, made her think I could fish? I had said nothing about my sudden recollection from childhood. I worry that I won’t be able to bait a hook. My husband has to remind me how to operate a reel every time we go surfcasting at the beach during our annual South Carolina vacations. He strings shrimp or sardines along the hooks of his seven-foot poles, casts out, and puts the butt-ends of the poles in pieces of PVC pipe he’s twisted into the sand. If we get a bite and I’m closer to the pole than he is, I’m supposed to flip back the reel’s wire trap, give the pole a yank, and bring in the fish. Mostly, though, I walk on the beach or keep my nose in a book. As to cleaning the fish we catch, forget it. I’m not squeamish but I have no experience in slitting open bellies and removing guts black with offal. I’m betting Debbie does. 
-
-
-But what I say is, “I would enjoy that.” Then I add as a hedge, “My husband does most of the fishing these days.” 
-
-
-We see R.Meta watching us from the truck and we walk towards her. I own this land, I think. It’s mine, and my father, before he died, gave me permission to sell it if I wished. We had been sitting out by the woodstove in the narrow room where he had slept every night since my mother died three years earlier. “I don’t feel attached to that place in Havensville,” he told me. “It never hurts a fellow to have some land, but if you decide you want to sell it, you go right ahead.” 
-
-
-“You told Kit to sell to Gold if she ever sold her piece,” I reminded him. The Gold family owned the land adjacent to the Goff property and had been renting it since the forties. I needed to know my father’s wishes for the Havensville farm. I waited for him to say, “Sell yours to Debbie.” Instead, he said, “Sell it to whoever’ll give you the best price.” 
-
-
-My father always appreciated Don, I remember as Debbie and I walk back to the truck, but their relationship was not without complications. For a while, Don sublet the pasture, renting part of it out to another farmer. It irked my father that his nephew, who was already paying below-market rent, was actually making money off the property. Don also left a light on in the barn at the old Ellis family place where my mother grew up, and the barn caught fire and burnt down. But he was good with cattle and he was nice enough to R.Meta’s folks. He seemed to have done a good job raising Debbie and her brother. He stayed married. He never left Kansas, and he lived a life my father might have chosen for himself had things worked out differently. 
-
-
-Debbie and I climb back in the truck, and we drive silently away. 
-
-
-“I thought I’d take you by the old place,” Debbie says after a few minutes. 
-
-
-“She wants to see her cows,” says her mother. “That girl is nuts about them cows. Treats ’em like pets.” Debbie smiles and looks sideways at R.Meta. The “old place” is the Ellis family farm, where my mother and R.Meta’s father and their siblings, six in all, were raised. The house is gone now, along with the barn that Don burnt down. I haven’t seen the farm since I was in my twenties, but I do own the bed that came out of the upstairs bedroom where my mother and her brothers and sisters were born. Through the bed, I feel tied to the place and to my mother’s family. The bed is made of iron, gilded over with flaking paint. I’ve taken it along wherever I’ve lived. Once, I thought it had been stolen from a storage container in my parents’ small Missouri town. I was heartbroken: all that family history lost, and the bed would have no value to anyone outside our clan. A few months later, to my great joy, it turned up in our attic in St. Louis. 
-
-
-We pull off to the right and Debbie parks under a stand of oak trees dense with foliage. I can almost sense that these trees do talk, as my mother believed they could. I can see where the barn stood before it burned. I can trace the foundations of the house. My mother’s parents had moved into the town well before I was born, and yet their old farm seems familiar to me, more familiar than the land we just left. 
-
-
-The cattle, twenty head or so, amble toward the fence. Debbie is already out of the truck, walking toward her animals. R.Meta and I slide out and follow. Most of the cattle are black Angus, with a couple of red-and-white-faced calves. Debbie pulls up handfuls of grass and holds them out to the wet noses pushing between the wires. I bend down to the grass and pull up a fistful and let the cattle’s huge, black-spotted tongues wrap themselves around the blades as if accepting an offering. Their liquid eyes gaze at me obliquely as they chew. I pull up more grass, and more. “Hey, forty-two,” I call to one cow, reading off the number on her ear-tag. My father used to call his cattle by their tag numbers. “Come on over here, seventy-four.” Debbie leaned on a post and looked content. “Forty-two had trouble during calving season this year,” she tells me, “But she’s ok now. That’s her baby over there.” She points to a calf that to me is indistinguishable from the others. As if it had heard its name, it walks toward us, stopping to nuzzle its mother. 
-
-
-R.Meta joins us beside the fence and we all stand and watch the cattle. “I’ll take them up to pasture next week,” Debbie says. The unspoken truth is that things will go on as before. I won’t sell. Debbie will mail me a check every six months. She’ll pasture her cattle on my land this year and next year and thereafter until something changes. Debbie, maybe with Rowan’s help, will repair the fences and keep a watchful eye out for thistles. In the fall, she’ll take some cattle to the slaughterhouse, and she’ll rent the neighbor’s bull to sire another round of calves. R.Meta will grow old watching her daughter do the chores. 
-
-
- In a few months I’ll probably make another trip to Havensville. Maybe this time I’ll drive Debbie and R.Meta out to the pasture that used to be my father’s, and I’ll know that the gate is on the left just past the old boxcar. Maybe we’ll bring a picnic and build a cooking fire, and Debbie and I’ll pull bluegills out of the pond while her mother tends the coals. I’ll lie back on the grassy bank. Clouds will reach toward me with airy hands.![](2023-spring-web-resources/image/1.png)
-
-
-
-
-
-![](2023-spring-web-resources/image/Henry-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Havensville’s watertower 
-
-
-
-
-
-![](2023-spring-web-resources/image/Henry-2-volume-viii-issue-1-spring-2022.jpg)
-
-
-
- “I have to make sure someone is keeping the brush down and the pasture full of silky, thistle-free grass for the cattle...” The 118-acre Havensville acreage Kay Henry inherited from her parents.
-
-
-
-
-
-
-
-
-“After 30 years away, he still cherished his homeland and dreamed of returning, but he never did. Instead, he took a job in Missouri, close enough to drive to Kansas in half a day if he needed to, as he put it, ‘check on things.’”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-“I grew up knowing that these strong-willed people were my people, with all their hidden tragedies and modest victories. I am like them in ways that have nothing to do with geography.” 
-
-
-
-
-
-![](2023-spring-web-resources/image/Henry-3-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-“Debbie pulls up beside a pond. As soon as I see it, I remember fishing there as a little girl.”
-
-
-
-
-
-
-
-
-“‘My father was glad to hear you like raising cattle,’ I tell [Debbie]... ‘He said you and your dad always took good care of the pasture.’ Debbie nods and gives me a wistful half-smile, acknowledging our shared grief. 
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Henry-4-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-“[R.Meta] looks at me hard through her thick-lensed glasses. ‘Don’t you sell that land,’ she says. It is more a threat than a plea.” 
-
-
-
-
-
-![](2023-spring-web-resources/image/Henry-5-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-“...I look at the rolling landscape and think how my father would have known every hill, draw, and fencepost...” 
-
-
-
-
-
-
-
-
-“Debbie picks up a handful of dry earth and lets it flow through her fingers. I do the same. We look like we’re in a movie, I think. I don’t know what I am looking for in the dirt I hold, but it is important to look, to touch, to feel. I want to understand this place.” 
-
-
-
-
-
-
-
-
-
-
-
-
-“The unspoken truth is that things will go on as before. I won’t sell. Debbie will mail me a check every six months. She’ll pasture her cattle on my land this year and next year and thereafter until something changes.” 
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Villatoro-5-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-photo taken Febuarary 21st, 2013, in Poweshiek County, Iowa, courtesy of Sandy Moffett
-
-
-
-
-![](2023-spring-web-resources/image/audio-bug-volume-viii-issue-1-spring-20222.jpg)
-
-
-To listen to the vocalization of a hairy woodpecker, and to learn more about the bird, go to Cornell University's Ornithology Lab and its "All About Birds" site at https://www.allaboutbirds.org/guide/Hairy\_Woodpecker.
-
-
-
-
-Woodpeckers of the Prairie:
-
-
-Hairy Woodpecker
-
-
-
-
-Picoides villosus
-
-
-
-
-The hairy woodpecker has black and white streakings on the wings, with white outer tail feathers. The males have a red patch on the back of the head, a black crown, and black eye mask and nape of the neck.
-
-
-The hairy woodpecker can be found throughout most of North America, ranging from Alaska to Newfoundland, Canada, and southern Mexico to Florida. In the eastern United States, they can be found in all types of forests. They can be found in forested areas and gather socially where dead trees stand. In the northwestern region, they can be found in western hemlock forests, open juniper woodlands, and in riparian forests. They can also be found in gardens and residential areas. 
-
-
-Some northern residents migrate south during the winter to Guatemala, Costa Rica, and Panama. 
-
-
-
-
-
-
-
-
-photo taken May 30, 2017, in Poweshiek County, Iowa, courtesy of Sandy Moffett
-
-
-
-
-![](2023-spring-web-resources/image/audio-bug-volume-viii-issue-1-spring-20223.jpg)
-
-
-To listen to the vocalization of a northern flicker, and to learn more about the bird, go to Cornell University's Ornithology Lab and its "All About Birds" site at https://www.allaboutbirds.org/guide/Northern\_Flicker/sounds
-
-
-
-
-
-![](2023-spring-web-resources/image/Villatoro-6-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Woodpeckers of the Prairie:
-
-
-Northern Flicker
-
-
-
-
-Colaptes auratus
-
-
-
-
-The northern flicker is identifiable by its unique gray-brown barred back and white rump. They are a monogamous species with a life expectancy of 110 months. 
-
-
-The northern flicker is a migratory species, with habitats ranging from Alaska eastward to Quebec, then south throughout the United States to northern Mexico. They can also be found in Cuba and range as far as Nicaragua. During winter they prefer the southern part of this range and northern Mexico because of warmer climates. They live in wooded areas that have stands of dead trees, open areas, forest edges, burnt areas, agricultural lands, and residential areas. Their diet consists primarily of ants, however, they also consume grasshoppers, crickets, termites, wasps, aphids, beetles and their larvae, caterpillars, spiders, cherries, the berries of dogwood, Virgina creeper, poison ivy, sumac, hackberry, blackgum, weed seeds, acorns, and other types of nut kernels.
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/audio-bug-volume-viii-issue-1-spring-20224.jpg)
-
-
-To listen to the vocalization of a Pileated woodpecker, and to learn more about the bird, go to Cornell University's Ornithology Lab and its "All About Birds" site at https://www.allaboutbirds.org/guide/Pileated\_Woodpecker.
-
-
-
-
-
-![](2023-spring-web-resources/image/Villatoro-7-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-photo taken November 4th, 2021 in Mahaska County, Iowa, courtesy of Sandy Moffett
-
-
-
-
-Woodpeckers of the Prairie:
-
-
-Pileated Woodpecker
-
-
-
-
-Dryocopus pileatus 
-
-
-
-
-The pileated woodpecker is the largest woodpecker in North America, with a wingspan of up to 30 inches, which makes it comparable in size to the crow. They’re distinguishable by their large, dull black body and red crest. The life expectancy of this species is approximately 155 months.
-
-
-The prefered habitat of this non-migratory bird is mature deciduous woodlands of nearly every type. You can find them across Canada and the U.S., from the Northwest to forests in New England, to the swamps of the Southeast. They prefer nesting close to streams and in hollow trees with multiple entrances. Their primary food source is carpenter ants, but they also feed on other insects as well as fruits and nuts. 
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Villatoro-8-moffett-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-
-![](2023-spring-web-resources/image/villatoro-9-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-The one that got away. The yellow-bellied sapsucker is the only woodpecker native to the prairie that has thus far eluded Sandy Moffett's lens. Photo captured at a bird-banding event by Chelsea Steinbrecher-Hoffmann (https://www.linkedin.com/in/chelsea-steinbrecher-hoffmann-82723755), biologist with the U.S. Geological Survey's Eastern Ecological Science Center (https://www.usgs.gov/centers/eesc) 
-
-
-
-
-Sandy Moffett, Professor Emeritus of Theatre at Grinnell College, joined the faculty in 1971 and continues to teach and direct plays on campus on occasion. Currently he spends most of his time restoring prairie, writing songs and stories, performing with The Too Many String Band, and catering to the whims of his grandchildren. His writing has appeared in The Wapsipinicon Almanac (http://www.wapsialmanac.com) and Salt Water Sportsman (https://www.saltwatersportsman.com), and he has frequently published his writing, photography and music in Rootstalk, in Volume VI, Issue 1 (Spring 2020, https://rootstalk.grinnell.edu/past-issues/volume-vi-issue-1); Volume V, Issue 2 (Spring 2019); Volume III, Issue 2(Spring 2017, https://rootstalk.grinnell.edu/past-issues/volume-iii-issue-2); Volume III, Issue 1 (Fall 2016, https://rootstalk-archive.grinnell.edu/issue/4); and Volume II, Issue 1 (Fall 2015, https://rootstalk-archive.grinnell.edu/issue/2). 
-
-
-
-
-
-
-
-
-Iowa City writer Mike Lewis-Beck has work appearing in Alexandria Quarterly (http://www.alexandriaquarterlymag.com), Apalachee Review (http://apalacheereview.org), Cortland Review (http://www.cortlandreview.com), Chariton Review (http://charitonreview.truman.edu), Pure Slush (https://pureslush.com), Pilgrimage (http://www.pilgrimagepress.org), Seminary Ridge Review (http://seminaryridgereview.org), Taos Journal of International Poetry and Art (http://www.taosjournalofpoetry.com), Writers’ Café (http://www.writerscafe.org) and Wapsipinicon Almanac (http://www.wapsialmanac.com), among other venues. His previous contributions to Rootstalk include poems (Volume IV, Issue 1, https://rootstalk.grinnell.edu/article/two-poems), and a review (Volume VI, Issue 1). His book of poems, Rural Routes, recently came out from Alexandria Quarterly Press. His short story, “Delivery in Göteborg,” received a Finalist prize from Chariton Review in 2015.
-
-
-
-
-
-![](2023-spring-web-resources/image/Lewis-beck-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Photo courtesy of Mike Lewis-Beck
-
-
-
-
-Born to Fly 
-
-
- —for AUR\*
-
-
- 
-
-
- 
-
-
-
-
-by Mike Lewis-Beck
-
-
-
-
-My name’s Chester Whitcomb Riley, named after our state poet, who wrote ‘’Little Orphant Annie” and “Waitin’ fer the Cat to Die,” my favorite, though I lack the knack fer pencilin out poems myself. My pals call me ‘Wick,’ short fer Whitcomb, say it like in a burnin candle ‘wick,’ guess cause I’m fired up fer the ladies. But this story’s not only about me, it’s about me and my best buddy Ulysses, leastways I called him Ulysses. Well, actually, I called him ‘U,’ as in ‘Hey You,’ that’s how ya say it, ‘You,’ just plain letter ‘U.’ But his full name when he come into this world—the eighth day of August 1880—in a long sorry labor on a 120-acre hog farm outside tiny Poling Town, Indiana, was Alexander Ulysses Kidd, christened so by his lovin mother, Myrtle May. She give him, she told me, the name Ulysses cause he come into the light at dawn, and she membered the schoolmarm’s homeroom recitation of the Odyssey, where Ulysses set out from dawn’s ‘rosy fingers’—way she membered it. 
-
-
-Then, too, Ulysses was General Grant’s known name, and Myrtle May’s own dad, Cletus O’Toole, had served under him—First Sergeant in the Battle of Shiloh— where he caught a minniball in his right leg, right above the kneecap. The ball stuck there fer all to see, she said, and he took sick and went to heaven, even though they had sawed the green part off. They buried him, along with his missin leg part, in high ground overlookin the White River, water’s edge fer Indianapolis back then. That monument there in Indy, fer the Union vets, she said she wants her dad’s name cut into it, cause he was a good pa—woulda been a great soldier, only he’d had more chance. She knowed, she said, her son Alexander Ulysses would be great, like Alexander the Great, since they was both born with one brown eye and one blue, difference bein one conquered the earth but her Alexander would conquer the sky. So there you have it, a Hoosier boy headed fer greatness, headed fer the stars— to fly like no man had ever done.
-
-
-U studied hard in high school, just three of us in the whole class, seven in the whole Poling High School, that’s a fact. Me and U was the oldest, so we had duties. In winter, I’d stoke the stove with dry hickory, four-way splits about a foot-length out, and U would warsh the blackboard with bucket rags, makin sure at least one long length of chalk hid in the tray, fer the teacher to find. Before the lesson Miss Hearn, our teacher, would turn her backside to us, fiddle her gray bun, and square the overhead George Warshington pitcher. I reckoned that where President Warshington, the father of our country, was hung, that direction pointed north. Anyways, U studied birds and triangles whenever he could, I studied gettin up mornins in time to rob eggs from the hen nests in the hen house, then slow-footed it to school. Next to the school, a one-room house, was a water pump and a cherry tree, planted by the class of 1892, to honor George Warshington. 
-
-
-One May day, right when that cherry tree decided to blossom, a new student showed up, a girl, makin fer a class of four. Her dad did only popcorn, farmed the fields next to the schoolhouse, so it was easy fer her to get to school. Just hiked up her skirt, shinnied over the wire fence, careful not to catch her calico. Name of Beatrice, Beatrice Bettendorf. Bee—what we named her—was made to do the daily verse. U liked her versifyin, I liked her looks. She had the prettiest pigtails, blacker’en dirt. Her work apron fit her real nice. She helped teacher put out the lunch, too, skillet biscuits and fresh milk (from my dad’s cows).
-
-
-The other girl in our class, Hazel Wilt, her dad did dairy, too—Holsteins. She griped the school didn’t serve up her pa’s milk. I said cause we had Guernsey’s, what give out better butter. Her pa come over to our dairy barn to poke our cows. Hazel come along but got bored lookin at udders. That’s when I walked her to our pig pond, to show her my prize porker, called General Sherman. “Why’d ya name him that?” she asked.
-
-
-“Cause he eats up everthing in sight,” I said. That’s when she took my hand, over to the shade of the willow tree by the wallow. I give her a kiss, on the lips. She let me. I told U.
-
-
-“Hazel cannot do long division,” said U. Both his eyes looked like clay marbles, the blue one more glazed. It drilled right into me.
-
-
-“Might be, “I said, “but she looks made for milkin.”
-
-
-Pretty soon, the township shut our high school down, eight students not bein sufficient. That made U mad, since he reckoned on doin higher sums. He knowed he really needed more rithmetic fer his flyin projects, so he went back with the eighth-graders to do-over the drills. He liked do-overs, said it left the lessons in your noggin, like a photo-somethin, it was. He did that Greek theory over and over on his chalkboard. After school he bagged birds with his squirrel rifle, a handy one-shot .22 Remington. Pigeons it was, shot them off the beam over the hayloft. Once he had hold of a dead pigeon he’d chop it up with his jackknife, turnin over drawins in a bird book, pickin at its guts, measurin its wings. Saturday mornins he watched white pigeons waddle around the chicken coop, peckin at bits of gravel, just gettin off the ground after a wobble, barely clearin the barn or not, when they got brained. He liked to look at the white ones, he said, cause he supposed angels had white wings, too.
-
-
-“Why do pigeons fly so badly?” U asked me.
-
-
-“They ain’t angels,” I said. 
-
-
-“Don’t make a joke.” U’s face went red.
-
-
-“Why ya wanna know?” U always had to ask me trick questions.
-
-
-“You know why, Wick.” He pushed out his knobby chin, his signal for wrasslin.
-
-
-“Ya wanna fly like a bird?” I flapped my arms like a goose.
-
-
-“I want to fly high and mighty,” he said, as he tossed me one of his Flyin Eagle pennies he kept around.
-
-
-With no high schoolin left, we had time to loaf, leastwise after chores. But when you’re goin on eighteen years of age you got lots of vinegar, so our loafin kept us movin. We’d go to my dad’s barn, unhitch the big Belgians and race ‘em, slow as they was. On scorchers we’d swim in the crick, below the barn, just before the stand of sycamores. Sometimes we’d rig sulkies and go all the eleven miles to the county seat, Portland, where we shot eight-ball penny a rack at Klemmer’s Pool Hall. Myrtle May got in a stitch over that, specially since she smelled tobacco on us. U didn’t take tobacco but I did, chewed Mail Pouch, just like my dad. I liked this loafin around, but mostly I liked girls. I’d roam farm-to-farm askin to help with the plantin and such, farms with daughters not in school no more, daughters who heaped up the mashed potatas, piled the fried chicken, set out the pies—rhubarb fer me cause it bit.
-
-
-Another way I’d meet girls was durin detasslin corn time, July, maybe August. Once me and Priscilla Gablehanger went to pull the same tassle top and one thing led to another. Like I told U, “Before I knowed what fer she had her hand on my dogwood.”
-
-
-“What did you do then, farm boy?” asked U. He never did take to such tales.
-
-
-“Not ’nuff. The corn rows was all scratchy, no layin down.”
-
-
-“I do not have time for girls,” U said. Truth told, he didn’t have time for farmin, neither. Walkin the beans in late summer fer pocket money was about it. Most of all he hated to slop the hogs out by the horse tank, the bristly red Durocs he had to feed the kitchen scraps, keep their pen shoveled clean. When I tell my brother Jake he keeps our sleepin porch like a pigpen, I know what I’m sayin. Pig shit, now that’s somethin U knowed he didn’t like. Who wouldn’ta knowed that? 
-
-
-But he also knowed somethin peculiar. He wanted to fly. He had to fly. He sent away fer an advanced study course—Engine Mechanicals—from Anthony Wayne Technical Correspondence School, out of Fort Wayne, some fifty miles from here. 
-
-
-He was puffed up about the course one day and we went to tell his ma. Myrtle May stood over a tin tub in the kitchen, a barlow knife in her hand, diggin caterpillars out of a head of cabbage. We sat on the edge of the table, chompin corn bread and strawberry jam. All at once, U swallered his corn bread hard then declared, “Ma, I want to build a machine that flies, beat those Wright boys to it.” The cords in his neck got tighter, like he was reinin in his words.
-
-
-“Machines don’t fly, son, they run,” said Myrtle May. Then she snapped shut the jam lid before she spoke. “But yer blue birth eye has got you lookin at the sky.”
-
-
-“Got to make the right engine, Ma.” U had his peepers on the flypaper danglin from the ceilin.
-
-
-“Ya was born to greatness, Alexander.” She put her hand over her heart.
-
-
-Ulysses dropped his towhead, his big curls bobbin. Then he stood dumb, like a statue. 
-
-
-“My Eastern star,” she said, studyin the jam mess we made and thinkin, I reckon, about his tomorrow.
-
-
-“I’ll fly you to the sky, Ma,” he said, sightin a fat summer cloud with his thumb. 
-
-
-“Just mind ya don’t come to harm, son.”
-
-
-Startin June first 1902, I daily drove U in a two-seater buggy—sometimes his dad’s, sometimes his own— over to Berne to the postal station, seven miles by the markers, so’s to see if the worksheets from his study course had come. On the twentieth of June, with red clover full in the culverts, the clover smell smotherin the smell of the horse turds, the worksheets got delivered from Fort Wayne, wrapped in gray pulp paper, all covered in green George Warshington two-cent stamps. On the buggy ride back to Poling Town, I said, “U, ya goin on the hayride this evenin?”
-
-
-“No. You go.” He lifted his heavy head up from fussin with the worksheets.
-
-
-“Bee wants ya to go with.”
-
-
-“She knows Latin. We do declensions together. You go with Bee.”
-
-
-“I take to Bee but she don’t take to me. She likes the great Ulysses.” I shouldn’ta said it sharp like that, but I did. “Sides, I’m goin with Sadie Yoder.”
-
-
- “The Amish girl?” 
-
-
- “Yeah, heard tell they dance bare-nekked in the rain.”
-
-
- “That all you care about?”
-
-
- I cared considerable about Bee, but I didn’t say so. “Bee’s got the eye fer ya, U.”
-
-
- “I have got to build an engine, a flying engine.” He lost himself starin over toward the sun, settin just then.
-
-
-U begun his flight trainin for real. His engine studies showed him stuff the Wright brothers were workin on. Ah course, since Wilbur was born in the next county, that got his competitive blood goin. He wanted to be first, Hoosier first. In his attic room, on his bed quilt, he dumped out the study package, saw a leather lesson book and its ‘question pages,’ each startin with a commandment, like “Think. Do not simply recollect or repeat.” U saw the wherefer of that, saw that memorizin weren’t ‘nuff. He spread out the first-week packet, thinkin on new words: fasteners, sealants, gaskets; magnetism, cycles and components. The next week, he thunk on fuel lines, air induction, ignition. The third week, it were engine disassembly, cylinders, valves. Before long, he started goin to Smitty’s, the blacksmith shop on Boundary Pike, and buildin small gasoline engines for bike pumps, butter churns, and ringer warshers. After that, he made a thrashin machine engine, not small a’tall. Engine exercises, he called ‘em.
-
-
-Engines was the cat’s whiskers in these Hoosier parts—the gas boom in Gas City, backyard strikes of oil, Elwood Haynes the inventor of the first automobile nearby in Portland. But U didn’t care about any kind of engines except winged engines. He turned his brain to the workins of how to fly, called, aerodynam-somethin. He hammered together kites that got tore up in Myrtle May’s clothes line. She made him stop that. Then, he did model airplanes out of horse glue and balin wire, stretches of shaved hickory for wings. He’d hurdle through the waves of green timothy, pullin eight-foot wings with binder twine. The tall grass cut his arms but it didn’t matter to U. Once one of these model planes caught a hot air patch and shot up, landin after twenty-seven seconds ‘without incident’ as U bragged to the neighbors watchin from the Back Forty. On a fencepost next to me sat Bee, purty as a picture and payin me no mind. She was all out for U, hollerin and hollerin. He heard her voice and froze her face when he shot her a wink. 
-
-
-That was a big day fer U, but it liked to make me feel small. All I had was a stockboy job stackin boxes at Ross’s Dry Goods in Bryant. Well, it weren’t all I had. I could eat penny candy till my dad’s cows come home. Tootsie Rolls mornin, night, and noon. They busted my gut. I et lots of licorice twists fer that. Plus, the owner’s daughter, Crystal Caster, took a shine to me. She worked the yard table, rollin out bolts of cloth, markin em for dresses. Like I told U, pretty soon she got hold of my bolt, back where they stored the feed sacks. U thought I shoulda been more of a gentleman. Maybe he preached that way cause he’d started with Bee, a lady I’d give my own heart.
-
-
-U was her hero. She baked him cherry pies—gold lard crust laid on like a picket fence—and made a pine box fer his draftin pencils. She took piano lessons from Widow Jones, best teacher in the county, so’s to play keyboard fer him, even sing Saturdays. U fancied her, but he didn’t do nothin much about it cause of his dream. That give me a try with Bee, when U wudn’t lookin, him busy makin a bigger plane, a bigger engine, to lift him to the sky. He went on and on about wings of angle iron, ribs of steel, billy goat skin. 
-
-
-One hot sticky mornin, of a Sunday when the church bells was clangin, he was ready, and so was I. We took a hay rope, hooked it to the flying contraption—named ‘Blind Pig’— then latched the other end to his uncle Earl’s car fender. U drove the car, clutched it to top thirty-five miles per, when it stopped dead. U cut loose the rope and the glider flew up over the pasture like from a slingshot, waggin its wings like Taft’s top hat, before comin down buryin its wheels into the mud. U jumped out the car and pushed hard on a stuck wheel. He had nature’s own strength, like he was born a bear. It got unstuck sorta, then fell back, right on his left foot. Four toes crushed. Bee was there, standin tall and fine in the alfalfa, and saw it all.
-
-
-Luck saved his big toe, the others didn’t wiggle no more. Bee cried like a bobcat caught in a mole trap. She cycled over to his home place ever night after fer days and days, to rub his foot and soak his toes in Epsom salts. Didn’t make no difference. She wanted him whole. One night I was there whittlin on the front porch swing, heard ’em wooin in the parlor, after she had sung to him about pickin violets in spring. It tore me up.
-
-
-“Ulysses,” said Bee.
-
-
-“Yes?” said U.
-
-
-“Your toes. I prayed. I’m prayin yet.” 
-
-
-“Well, the big one works.” U never let on his pain.
-
-
-“You are brave. They have to hurt.” She whimpered.
-
-
-“Best get back to Smitty’s.” 
-
-
-“You’re my flyboy, Ulysses— all the way to the moon.” I heard Bee move, like her dress was swishin. Then the rocker rocked more. I tried not to listen.
-
-
- Bee kept her faith, in U and the Lord Almighty. At the Church Social, she showed strong, sipped her lemonade. I watched her paint a valentine on the cool wet of the pitcher, put in it ‘B + U.’ Then she went all still. U’s ma, Myrtle May, had went gray with worry over the harm he could come to. She turned poorly, took too many nips of Mrs. Winslow’s Soothing Syrup. U told me she kept the syrup on that walnut chest-o’-drawers in the pantry, next to them cans of lard. He told Bee and Myrtle May he knowed it would all work out cause—like he said—he could do what had to be done. He rose up like a gladiator, ready for the lions.
-
-
-The rest of the summer, U pounded and banged. He built a gliding plane, wide as twenty farmhands standin side by side. Also, he hammered on a big engine, six cylinders. Winter settled in, frost froze its fuel. He parked that whopper of a flyin machine in Cheever Tate’s main storage barn, covered the engine in sheep’s wool. With spring a thaw come on. The bog sprouted lily pads, the toads hopped out their holes. Once the dandelions yellowed up, he knowed he could try again. When the wind was right, he could try his glider. It would fly high, then he would mount the engine and shoot for the stars.
-
-
-The Weekly Commercial Review put out a broadside—“Poling Man to Fly”—advertisin over three Indiana counties—Jay, Blackford, and Randolph—not to mention nearby Ohio counties, includin Dayton. Lots of folks puttin money down, talkin about an “airplane.” One late May day of 1903, circled by young’uns playin Ring-Around-The-Rosie, me and U hitched four two-thousand-pound Clydesdales to the Blind Pig II, in Laff Lybarger’s high-ground field, where we’d been practicin. Word went out the township, and spectators, eighty-seven by one count, showed up, ready to roar fer U. They hooted and hooted, louder and louder, once the horses started jinglin and snortin. The team, the finest in Eastern Indiana, belonged to Harry Hardroe from out Winchester way. 
-
-
-Harry shooed the ornery kids with the flat end of his whip. At ten o’clock on the dot, the sun breakin full over the last daffodils, Harry slapped the lead horse on his haunches, makin ’em all thunder acrost the rotted fall cornstalks. These broad beasts, chestnut chests full of pant, did not fall, did not falter, hoofs rising and falling in a rural reel. The Blind Pig II did rise, too, U riding 
-
-
-
-
-
-
-
-
-\*Author’s note: This story, a work of historical fiction, was inspired by the life and aeronautical innovations of Albert Ulysses Rupel, born in 1880 in Jay County, Indiana. He achieved much, including the building of an airplane in 1903, which flew successfully as a glider. He was working on its engine when he died young, from tetanus. (For a fuller account, see Eugene Gillum, “From the Ground Up,” Jay County Historical Society (https://www.jaycountyhistory.org), Portland, Indiana, 2011.) There are many facts that could be underlined, such as the truth that the Wright brothers attended his funeral. However, my construction of his social life with neighbors, family and friends is, as far as I can know, fictional. 
-
-
-
-
-“She knowed, she said, her son Alexander 
-
-
-Ulysses would be great, like Alexander the Great, since they was both born with one brown eye and one blue, difference bein one conquered the earth but her Alexander would conquer the sky.”
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Lewis-beck-3-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Franco-American aviator Octave Chanute (https://en.wikipedia.org/wiki/Octave\_Chanute) prepares to launch his “Katydid,” a twelve-wing glider of his own design, near Gary, Indiana in the summer of 1896. Photo courtesy of Wikimedia Commons
-
-
-
-
-
-
-
-
-
-
-
-
-“He wanted to fly. He had to fly. He sent away fer an advanced study course—Engine Mechanicals—from Anthony Wayne Technical Correspondence School, out of Fort Wayne.”
-
-
-
-
-
-![](2023-spring-web-resources/image/Lewis-beck-2-volume-viii-issue-1-spring-2022.png)
-
-
-
-German aviation pioneer Otto Lillienthal (https://en.wikipedia.org/wiki/Otto\_Lilienthal) makes a flight attempt in 1895. Photo courtesy of Wikimedia Commons
-
-
-
-
-
-
-
-
-“T]he rest of the summer, U pounded and banged. He built a gliding plane, wide as twenty farmhands standin side by side. Also, he hammered on a big 
-
-
-engine, six Cylinders. ”
-
-
-
-
-
-
-
-
-the glider as it got hauled along. When it climbed high as the cottonwood tops he waved to Bee, who fixed a love look on him. I couldn’t see much of it cause of her parasol. Then the glider lost the pocket and it drifted down just past County Road 47, missin a silo, missin the gravel pit, but finally stopped, twistin in the Gibsons’ bramble bushes.
-
-
-Fer no reason, when the plane plowed into the brambles, the crowd rose up a hymn, a hymn everbody knowed. U’s aunt Marthy, most particular, belted it out: ‘Oh come, come, come, come, come to the church by the wildwood….’ After she took a breath, Norval Reidenbach, U’s neighbor from the farm over, said, “Guess U was right, people fly better’n pigeons.” Everbody got a laugh. Next thing I knowed, a bunch of young fellas yanked U’s red bandana off his neck, hoisted him out of the plane, heaved him on a wagon bed, where the Clydesdales was hitched. Harry beat his belly like a drum, drove his team and U all the way to the Lob Lolly General Store, everbody yellin and throwin cattails and cow pies at U from the ditch. At the Lob Lolly, Issac Brown—the proprietor— give him free pickles, many as he could eat. Bee had been waitin for him in the store, over by the laundry soap. When U waved her over to the pickle barrel, she went all pink. I coulda done with some of that color.
-
-
-The way back home on my buckboard I felt grouchy as a bull with a pug ass, like dad would say. I was plumb wore out from handlin the glider and the horses, and my butt was plain sore. U was full of hisself. “That crate flies, Wick. I can fly! The people cheered me. You see Bee’s face?!”
-
-
-“I did,” I said. “She’s moonstruck fer her man.” I didn’t say that no one wasted a word or a wink my direction, cept when Bee yelped at me fer steppin on her Sunday shoes.
-
-
-We bounced the rest of the way, keepin to ourselves, till the smell of a dead skunk hit us at Gallager’s Swamp. “Pee-yew!” said U. “Worse than your farts.” I’d never heard U talk like that before.
-
-
-U knowed now the contraption was sky-worthy, would fly fine. All it needed was his guidin hand, him at the helm, with the right engine at his fingertips, to power the propellers. He set about finishin the engine— just a four-banger for better size, with air-holes, to fit tight under his seat. Time was runnin out. I heard tell Sarah Worth, the Wright boys’ cousin in Bryant, had wrote’m about U and his flyin notions. So U had to double up. Slavin long hours, mostly by kerosene, forgettin his farm chores, he bunked out at Smitty’s on an army cot, up at dawn. U told me Bee would bring him bacon and egg sandwiches at noon, then split an apple with him, before he walked her back to the gate. He didn’t tell me what they did there. 
-
-
-The mornin of the eighth day of August 1903, his twenty-third birthday, hammerin away to finish the pilot seat, he turned to grab a board from the wood bin. He slid out a slat had a nail in it, halfway. His left-hand, his workin hand, gripped into the nail. He yelled out and Smitty come, wrapped a piece of burlap around it, and trotted him to Doc Gillum. Smitty collared me to go over to Doc’s place and wait with U.
-
-
-Doc pulled the board up and the nail come with it, out of U’s hand. U turned white, a white stone. Somethin to watch. He doctored U, I bundled him home. A few days later, when I went to his attic hideout, it was 99 degrees fairinhight. “I can’t get him downstairs,” Myrtle May said, as she warshed his face with cool well water. “Feel his forehead, hotter’n this attic.” I put my palm on his temple. It liked to burn me. I heard Bee’s voice, comin up the steps, wailin like a widow-woman.
-
-
-When she swung open the door, she changed. “Wick, get out of the way. Myrtle, please fetch me some washrags and that bottle of witch hazel. Let me take out that attic window.” She knocked loose the window jam and air come in. 
-
-
-“I’ll ride over get the Doc back,” I said. 
-
-
-Doc Gillum diagnosed, “tetanus—incurable.” That learned me two words I’d never forget. I confess I could hardly hold up. Ever day I went over and rubbed U’s arms, told him how we was gonna go up again, get them gas gliders goin. Sometimes he didn’t know me, would cuss me out. He was better with Bee. She cooed and warshed his eyes with cold water, one at a time, first blue then brown, back and forth. A true special lady. Next thing, afer we knowed it, his neck don’t turn, his face twisted up like a Halloween mask, couldn’t even keep down Myrtle May’s special chicken soup. His jaw locked like a vise, and he’d have crazy man fits. U died a week later. Without U to horse around with, I was a blank slug. Mostly, I just swigged Old Crow.
-
-
-The funeral service, held at Bear Creek Methodist, brought folks from five Indiana counties, and next door—Ohio— counties. Even the Wright brothers made the trip. They’d been meanin to get to Poling Town ever since cousin Sarah had wrote about her neighbor—the boy ‘Born to Fly,’ she’d put it. Now they come, Orville and Wilbur, as pallbearers, sad to say. Their testimony got to the mourners and the church choir salved ‘em by repeated rounds of “Rock of Ages.” ‘Rock of ages, cleft for me/Let me hide myself in Thee…’ During everthin, Bee kept a distance, upright under the shade of an old oak, in a black dress. She didn’t have nothin on her head or face. I wanted to talk to her but I couldn’t.
-
-
-  After the mourners had gone, I stood over the grave. I took off my itchy collar, rolled up my sleeves, reached in my tote and pulled out a pigeon, a dead white one, put it on the grave dirt. U had finally flown better’n a pigeon, just as he was born to. My best buddy winged his way to the Pearly Gates. I wandered off into a field of corn, summer sweet, like U and I had done ever August, before start of school. U never got sick from it, I always did. I et one ear raw, then shucked another and et it, and another, till I got a powerful bellyache.
-
-
- At Christmastime, the August heat made for a distant memory. The ground froze, the cornstalks hard stubble, the fields dusted with snow. I stumbled over clods of soil, crost a field onto the Kidd place, went to a grove of pines, chopped one down with my axe, tied it to my buggy, and took it over to Bee’s. She saw me tetherin my pony by the root cellar and waved me up to the house. I dragged the tree to the parlor, stuck it in a warsh tub next to the wide window overlookin the road. She put a tinsel star on the top, one she’d made for U. She cried till she couldn’t cry no more. I felt too low to cry. I had felt too low to even come see Bee, to my shame. Here I was now, to make a try.
-
-
- “Bee, our U’s gone, gone almost six months,” I said.
-
-
-“Yes, over the moon, he is. More like four months. One-hundred-and-thirteen days, actually,” said Bee.
-
-
-“Seems longer.”
-
-
- “Seems like my lifetime.” With bony fingers, she tugged at her gingham dress, liked to wipe off the black-and-white checks. She said nothin else, just stroked her dress.
-
-
-“When ya lost U, Bee, ya lost yer world. I lost mine, too. Now we got nothin left but our feelins for U. A candle still burnin.” I got up out my straight-backed chair and went down on one knee. “Will you marry me?” . 
-
-
-Bee went back to her scissors and thread, her thimble, went to the davenport, returned to the string of popcorn she had been workin on.
-
-
-“No, Chester. Thank you. No.”
-
-
-Day after New Year’s I left the farm and Poling Town, moved into Portland, got a room over Klofenstein’s Hardware, paid the rent by sweepin the store. Didn’t feel much like chasin the ladies, not since Bee. I did run into her at Stabler’s Drug. She said she’d quit the farm to work at the county courthouse, acrost the alley. Put up a museum there—stuffed owls, arrowheads, gas lights, old maps, carved canes, soldier medals, toads in jars. I visited it once. They was bird wings, all sorts, wings from hawks, pheasants, larks, robins, jays, crows, chickens—you name it, except for pigeons. A piece, too, of wooden wing from the Blind Pig II, with a label she sewed on. It said, Alexander Ulysses: Conqueror of the Sky. Myrtle May never did see it. She did tell me once that on U’s birthday she read aloud over his grave, from the Dayton Daily News, the big story about Orville and Wilbur Wright. “The headline says ‘First in Flight.’ We know better.” I didn’t have the heart to say otherwise.![](2023-spring-web-resources/image/1.png)
-
-
-
-
-
-
-
-
-“The Blind Pig II did rise, too, U riding the glider as it got hauled along. When it climbed high as the cottonwood tops he waved to Bee, who fixed a love look on him.”
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Lewis-beck-4-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Orville Wright crashes one of the early Wright Flyers at Kitty Hawk, NC, in 1911. Photo courtesy of 
-
-
-Wikimedia Commons
-
-
-
-
-
-![](2023-spring-web-resources/image/Lewis-beck-5-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-The Wright Brothers’ first successful flight, December 17, 1903. Photo courtesy of Wikimedia Commons
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Burt-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-All images courtesy of the author unless otherwise noted
-
-
-
-
-Michael Burt recently retired from Grinnell College after working nearly 33 years in Facilities Management as Associate Director for Grounds, Landscaping, and Hauling. Mike received his BS degree in Horticulture from Iowa State University in 1983 and MS from ISU in 1989. Mike has been married to Diane for 40 years, and their four children, Bailey, Ben, Hannah, and Sam, all attended Grinnell College. Since retiring, Mike is finding more time to walk his golden retriever, Rosie; keep up the yard, garden, and 110-year-old house; hunt waterfowl and turkeys; and fish—mostly for trout! 
-
-
-
-
-\*All references appear in Endnotes in the back of the issue.
-
-
-
-
-Fly Fishing in the Driftless Region
-
-
-
-
-by Michael Burt
-
-
-
-
-I am obsessed with fly fishing for trout. In Iowa, trout are only found in far northeastern Iowa streams. When weather and water conditions are favorable for catching fish, I make every effort to get to one of my favorite Iowa trout waters, tolerating the 340-mile round trip for a day of fishing. I will fish long hours in the heat or cold any time of year; I will walk far and work hard for the chance to catch trout. I target unstocked sections of streams or tough areas with difficult access to find water with limited pressure, which often improves my chances for success. I’ve only fished trout for ten years, using spinning tackle and artificial lures for four years before taking up fly fishing. During this time, I’ve worked diligently to improve my trout angling skills, dedicating countless hours to bettering myself. It has been a labor of love to pursue trout in this beautiful part of the state.  
-
-
-Nymphs imitate the immature larval stage of aquatic insects, like caddisflies and mayflies, and subaquatic species, like worms, scuds, and leeches.  Nymphs can be drifted to fish with a tight line presentation using “sighter” line to detect strikes or with any form of strike indicator attached to the line functioning like a bobber. This aids the fisherman in determining if a fish is interested in the bait and, if lucky, if a fish has taken the bait. Dry flies imitate mature adult insects, including many kinds of stream flies and terrestrial insects, like grasshoppers and beetles. Dry flies are cast directly to the surface-feeding fish or drifted to fish using stream current. Streamers imitate small baitfish and crawfish and are fished with an active retrieve by pulling line in quickly. 
-
-
-Fly fishing requires a myriad of gear and accessories, and between fishing trips it is critical to spend time at home keeping it all in good working condition and organized. Quality waders and wading boots, fly rods and reels, and nets are essential. A good vest or pack is required to hold everything within easy reach that could possibly be needed streamside. The weather dictates clothing needed, and a change of clothes is a good idea, as wading accidents will occur. I stay connected to fly fishing by reading and rereading classic fly fishing literature, with a book always open on the nightstand. Indeed, it is virtually my only reading done for pleasure. YouTube provides me with hours and hours of fly-tying instruction, fly fishing how-tos, and awesome fly fishing adventures from around the world. I have always liked to fish. It seems now I live to fish. 
-
-
-To stay connected to fly fishing when at home, I tie all my own flies: nymphs, dry flies, and streamers. Additionally, I make all my own leaders, which primarily protect the main fishing line from damage and breaking, by fastening 20-pound test camouflaged monofilament to my fly line. And, tying progressively smaller diameter camo monofilament together forms the taper to a short section of brightly colored or bicolored monofilament that makes strike detection visible to the wielder. To finish it off, the tippet then connects to this “sighter” line, allowing flies to be attached to the leader. Because in Iowa we are allowed to fish two flies per line, I tie a new two fly tippet and prepare some spares at home prior to the next fishing trip. 
-
-
-Driving into northeast Iowa, one sees and begins to feel a change come over the landscape. The land is more rugged and roads are no longer oriented north to south and east to west as is common in the rest of Iowa. They switch back and snake along stream valleys and over ridgetops. Agricultural fields of northeast Iowa often are contour farmed, and the large, rectangular farm fields common to much of the state are replaced by fields in seemingly limitless shapes and sizes. The timber thickens and the steep, inaccessible ridgetops create a sense of remoteness and ancientness. Even driving, you imagine yourself in a remote ridgetop timber beneath the dense canopy, planted on the sun-starved forest floor. In appearance, the contrast that this area provides to the rest of Iowa is remarkable.  
-
-
-During this drive to Decorah’s Pulpit Rock Campground (https://parks.decorahia.org/pulpit-rock-campground) for a three-day fishing and camping trip with Diane, my wife, and our friends Steve and Lisa, I think about why this particular trip seems so important to me. Perhaps I just need to get away and try to forget about things. It has been hard not to dwell on our country’s intensely polarized political climate fueled by rampant misinformation, our resulting dysfunctional government, and the ongoing threat to our democracy. The long-lasting pandemic, with so many in our nation more concerned about their individual rights rather than for the greater good of others, provides little hope for the immediate future. Affecting my family very directly, the death of my mother to pancreatic cancer in summer 2020, and my father’s terminal liver cancer diagnosis in summer 2021 has taken an emotional toll on my sisters and me. We are nearly two weeks into Hospice home care for dad, and he isn’t doing well. I have been apprehensive about what lay ahead for him and the end-of-life decisions we will again be facing.  
-
-
-The past two years have been difficult for me. I find myself regularly distracted, anxious, and impatient. I’ve often commented that it seems the only thing that has gone well for me during this time is fly fishing. Maybe this trip is important because I am just looking forward to fishing. I get completely absorbed in the moment, clearing my mind and focusing only on the task at hand—catching the next fish. For me, trout fishing is peaceful and calming, and I am grateful for the solace found on trout waters. Between dad’s health and my work, I have had little opportunity to fish since mid-summer, but I am thankful for the time spent over the past few months with dad and my sisters and hope to return home with at least some renewed faith and optimism for the future.  
-
-
-I began fishing with my dad as a very young boy. Dad taught me about fishing equipment, how to find and use live bait and what to use for artificial bait, how to locate and catch fish, and how to clean fish and prepare them for the table. We fished ponds, Big Creek Lake (https://www.iowadnr.gov/Fishing/Where-to-Fish/Lakes-Ponds-Reservoirs/LakeDetails/lakeCode/BIC77), and the Des Moines River (https://en.wikipedia.org/wiki/Des\_Moines\_River) catching bluegill, bass, crappie, and catfish near our home in central Iowa. Dad would often share helpful insight when I couldn’t get fish to bite, telling me I wasn’t holding my mouth right. Or, when a fish would strike and I couldn’t hook it, he would tell me that I really missed that one. He seldom fished as he got older, and Dad never fished for trout.  
-
-
-Trout fishing in northeast Iowa is excellent, and anglers can fish year-round with no closed season. The Iowa Department of Natural Resources keeps the streams well stocked with ten to thirteen inch put-and-take rainbow trout. The spring-spawning “Rainbows” don’t reproduce naturally here. However, rainbow trout tolerate the hatchery conditions far better than brown and brook trout and thus are much easier and more economical to produce. In Iowa streams, fall-spawning brown trout are now reproducing naturally, providing self-sustaining populations that produce good numbers of fish. Because of this sustainability, there are no plans to continue to stock brown trout in Iowa streams. Brook trout also are fall-spawners and the state’s only native trout. Due to their more specific spawning and habitat requirements, particularly cold, clean, high-quality water, “Brookies” reproduce and thrive only in a select few streams. Brook trout are stocked only as two-inch fingerlings in area streams with habitats conducive to their reproduction and survival.  
-
-
-The Driftless Area (https://eaglebluffmn.org/resources/driftless), which people there simply refer to as the Driftless, comprises southwest Wisconsin, southeast Minnesota, northeast Iowa and a small section of far northwest Illinois. Approximately, 85 percent of the Driftless is found in the southwest quarter of Wisconsin. This area was not covered by ice sheets during the fourth, final Pleistocene glaciation called the Wisconsin Glacial Advance. Because of this isolation, the Driftless lacks drift: the clay, silt, sand, gravel, and boulders left behind by the receding glaciers. Common landscape features of the Driftless include steep hills and bluffs, called Coulees in Wisconsin, thickly forested ridges, deeply gouged streams and river valleys, karst topography, and the heavily fractured bedrock of limestone that surface water flows through to erode and form caves, disappearing streams, surface water sinks called sinkholes, shallow ground aquifers, and underground streams that often resurface as cold-water springs. These springs supply the cold, clear, oxygenated water to area streams. This high-quality water combined with the limestone dominated stream beds and their variable stream bed composition, flow gradients, and water depths provide the habitat trout need and the support for plant and insect life that trout depend on. Trout live in beautiful places, and the Driftless is a beautiful land of diverse habitats: a topographical island in the otherwise flattened Midwest landscape.  
-
-
-On Sunday, the last day of our three-day camping and fishing trip, Steve and I leave the campground well before sunrise on a gorgeous mid-October morning in the Driftless. It is warm with a light breeze and the many visible stars tell us that we will be seeing the sun at sunrise. We are heading to Waterloo Creek to fish the restrictive, regulated stream section that mandates catch and release of all fish and only artificial lures. Catch and release angling usually eliminates the need for put-and-take stream stocking programs, and results in larger, “wilder” trout better adapted for long term survival in the streams. I practice catch and release when trout fishing, releasing all brown and brook trout netted and only occasionally taking for the table put-and-take rainbow trout. The use of artificial lures is much safer for the trout than fishing with live bait. Fish tend to swallow live bait, and the hooks are usually impossible to remove without injuring or killing the fish. I always use barbless hooks on the flies I hand tie. They are much easier to remove and thus inflict little damage to fish.  
-
-
-We were hoping to be the first anglers to the parking lot, but a wrong turn ended up taking us well out of the way and cutting into our precious angling time. Checkout time at the campground would be 1:00 p.m., and Steve and I figured we would need to be off the stream and heading for my truck by 10 a.m. We got to the stream parking lot as the sun below the horizon began to illuminate the eastern sky. The parking lot was empty, thankfully, and Steve and I rigged up our fly rods and put on our waders and boots.  
-
-
-We crossed the stream near the parking lot and found the water to be very clear and at normal level. The dry summer and fall had led to reduced stream flows and very clear water that had made fishing challenging. Despite these conditions, Steve and I had enjoyed the usual good fishing on South Bear Creek (https://www.iowadnr.gov/idnr/Fishing/Where-to-Fish/Trout-Streams/Stream-Details?lakeCode=TSB96) on Friday, catching a mix of brown and rainbow trout in good numbers, but nothing big. We found the fishing at Coon Creek (https://www.iowadnr.gov/idnr/Fishing/Where-to-Fish/Trout-Streams/Stream-Details?lakeCode=TCN96) Saturday morning slow, catching only several rainbow trout and many very small brown trout. I fished Twin Springs Creek (https://www.iowadnr.gov/idnr/Fishing/Where-to-Fish/Trout-Streams/Stream-Details?lakeCode=TTS96) right behind our campsite Saturday afternoon and had great fun catching many rainbow trout from the shallow, clear water. As Steve and I hiked downstream at Waterloo Creek (https://www.iowadnr.gov/idnr/Fishing/Where-to-Fish/Trout-Streams/Stream-Details/lakeCode/TWA03), two bald eagles flew upstream, apparently also starting their fishing day. Bald eagles are commonly seen in the Driftless, often trying to catch trout. Just as we got to the stream, the sun topped the bluffs to the southeast, and the morning’s first golden sunlight danced on the stream’s broken surface.  
-
-
-Steve and I had been catching fish all morning, including a nice 15-inch brown trout just hooked and landed. I consider any Driftless trout 15 inches or larger a good fish, and we remained optimistic that we may yet find a big fish in the great looking water upstream. I checked my phone, and it would soon be 10 a.m. and time for us to head to the truck. Steve stayed to fish just downstream of the deep corner pool fed by a fast, shallow riffle with the fastest water flowing closer to the far bank and hard around the corner. The deepest, darkest water of the pool was between the faster water and the shallow gravel bar where I positioned myself. Because of the bright sunlight and gin-clear water, I expected the best fish in the pool to be holding in the deepest water and where the current moved food directly to them.  
-
-
-I cast my hand-tied, tungsten bead-headed pine squirrel leech fly (https://www.youtube.com/watch?v=MMIHeu7DP54) upstream and across into the faster water and let it drift downstream. The fly stayed in the shallower, faster water along the far bank and around the corner—not the drift I or a hungry fish wanted. I placed the next cast upstream right at the inside seam between faster and slower water. The fly rode the current downstream, but this time found the slower water at the top of the pool and sank quickly into deep water. I fished the fly slowly, felt a slight tap, set the hook, but no fish. The next cast repeated the same drift and as the fly again settled into the slower, deep water, I felt a solid take and responded quickly with a downstream hookset. I instantly found myself fast to a good, heavy fish that took line easily even though swimming upstream into fast current. Not liking the shallow water it found there, the big trout turned back downstream making for the deep corner pool, content to settle this fight in the deepest water with violent head shakes and short runs.  
-
-
-My heart pounded from excitement during the difficult, lengthy battle with the fish and from the fear of potentially losing it. I remember last year in this same stream section, when I broke off a very large brown trout. That memory haunts me. Though my angling skills continue to improve, and I’ve become a more confident angler and have netted progressively larger trout with each fly fishing season, I wasn’t certain I’d net this fish. Keeping steady pressure on it by slowly backing downstream, I took line when possible and allowed line to be pulled off the reel during the fish’s frequent runs. Eventually, I worked the big fish close enough to determine it was a large, male brown trout, and it appeared to be hooked solidly in one corner of its mouth. After making it to a shallow spot to net the fish, I held my ground and slowly worked the big brown trout towards me. My first attempt to net the fish was a failure. It spooked as I extended my net and made its last long run to the far bank, tiring as I worked him ever so slowly back towards me. The second net attempt was successful, and with the great brown trout in hand, I was an elated fisherman. After a few hollers and high fives, I easily removed the barbless hook, and Steve and I worked quickly to get a few more photos, measure its length, and release the great brown trout unharmed back to the stream, perhaps one day again to be caught by another lucky Driftless angler. 
-
-
-The beautiful male brown trout (https://www.iowadnr.gov/Fishing/Iowa-Fish-Species/Fish-Details/speciescode/brt) measured twenty-one inches long, and due to the thickness and height of its body, I estimated that it weighed well over four pounds. The photos show its big square tail and huge, bright sunflower yellow fins, a distinctive kyped jaw, and a stunningly beautiful, dark olive spotted back and bright golden spotted sides that transitioned to its amber underbelly. I am thankful to have had the chance to hook, land, and release such a wonderful Iowa Driftless brown trout, and to have shared this experience with my fishing buddy. The pictures he took really capture the beauty of that fish and the stream that is its home. My goal over the past three fishing seasons has been to land a twenty-inch brown trout because I hadn’t caught one previously, and fish that size are not all that common in Iowa’s Driftless streams. During this quest for the twenty-inch brown trout, I caught several dozen fish over sixteen inches with a few fish topping nineteen inches. However, all those fish paled in comparison to the size and beauty of the brown trout in this story. My next fly fishing goal will simply be to catch a larger Driftless brown trout and to enjoy every moment in pursuit of it. I will fish as often as possible when weather and stream conditions are favorable especially during the spring and fall, fish the better Driftless streams that can support large fish, continue to improve my angling skills, and hope to have good luck on my side. 
-
-
-Diane and I packed up the truck, said and hugged our goodbyes with Steve and Lisa. Once we were back on the road and without the excitement of fishing, camping, and friends, my mind wandered back to my dad and his terminal liver cancer diagnosis: the man who taught me to fish, starting me on a fishing life that is now an obsession for catching trout with flies. An obsession that leads me to sanctuary, solitude, and great sport in this beautiful, distinctive Driftless Iowa landscape. I called my sister to see how dad was doing. She said he had continued to decline and would be moved from home to the nearby Johnston Hospice facility the next day, Monday. As we continued the drive towards home, I thought about the amazingly unique, limestone dominated landscape that is the Driftless, the great time we had with our old friends, the battle I was lucky to win with that great brown trout, and how I value this wonderful cold-water fishery and the serenity and solace I find there. But mostly, I thought about my dad.  
-
-
-My father, Gene Goode Burt, would pass away peacefully on Friday October 15, 2021, with our family and the Johnston, Iowa, Hospice staff by his side. He is missed.![](2023-spring-web-resources/image/1.png)
-
-
-
-
-1911 map of the Driftless region1 of Iowa and Wisconsin.1 
-
-
-
-
-
-![](2023-spring-web-resources/image/Burt-2-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-
-
-
-
-“Dad would often share helpful insight when I couldn’t get fish to bit, telling me I wasn’t holding my mouth right.”
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Burt-3-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-
-![](2023-spring-web-resources/image/1ABA1274-C956-44F1-97E5-CE719B078133.jpg)
-
-
-
-
-![](2023-spring-web-resources/image/67721C9C-2C12-4FD0-9807-B42CCAEE94B3.jpg)
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/gaddis-1-volume-viii-issue-1-spring-2022.png)
-
-
-
-Photo courtesy of Xonzy Gaddis
-
-
-
-
-Associate Editor Xonzy Gaddis ‘22 is a native Venezuelan who has lived in Texas for nearly two decades. She is a graduate of Grinnell College, where she earned her degree in Political Science and Latin American Studies. Over the past year, she served as a Data and Policy Intern for the Justice Administration Department for Harris County, Texas, through the Leadership, Experience, & Employment Program and the Texas Legislative Internship Program as well as a Project Associate for the Texas Center for Justice & Equity (https://texascje.org).
-
-
-
-
-To watch Xonzy Gaddis’s full video interview with Blossom Aloe, enter this URL in your browser: https://youtu.be/3z74fFCLoU8. 
+Associate editor Saul Chan Htoo Sang (right) recently graduated from Grinnell College with an independent major in Ethnographic & Media Studies. Upon graduation, he plans to go back to Myanmar/Burma to create documentary films and work at his parents’ ethnographic textile gallery, Yoyamay (https://www.yoyamay.com).
 
 
 
@@ -3657,436 +1152,260 @@ To watch Xonzy Gaddis’s full video interview with Blossom Aloe, enter this URL
 Interview:
 
 
-Blossom Aloe Extends Roots Across Texas
+New Lives in 
+
+
+the Midwest
 
 
 
 
-by Xonzy Gaddis
+by Peter Chan Min Sang &
+
+
+Saul Chan Htoo Sang 
 
 
 
 
-Blossom Aloe (https://www.instagram.com/blossomaloeband/?hl=en) is a Texas band from the Houston area that has been making a name for itself on the indie music scene. Associate Editor Xonzy Gaddis conducted an extended interview with the group this spring to find out about its history and inspirations. The following transcript was edited for readability. 
+On the last day of March 2023, I was able to interview my older brother, Peter Chan Min Sang, about his experience working as an ESL teacher, with immigrant and refugee students in St. Paul, Minnesota. I recognized that my brother was in a unique position because many of his students—most of whom are Karen people (https://en.wikipedia.org/wiki/Karen\_people)—are also from Myanmar/Burma. In this interview, we talked about the histories and experiences that led the Karen people, as well as Peter, to the land of 10,000 lakes.  
+ Myanmar/Burma is a heterogeneous country with more than 135 ethnic groups, who are assigned to seven states and divisions administratively. My family belongs to one of the smaller ethnic groups, the Chin (https://en.wikipedia.org/wiki/Chin\_people), who traditionally reside along the northeastern mountains of Myanmar/Burma, near India and Bangladesh. The Karen people are constitutionally given a state at the western borders of Myanmar/Burma, next to Thailand. Despite the distance between the Karen and the Chin States, our ethnic communities live close to one another in Yangon (https://en.wikipedia.org/wiki/Yangon), the largest city of Myanmar/Burma, where my brother and I grew up.   
+ On February 1st of 2021, the military took over the central government of Myanmar/Burma in a coup d’état. Since then, the civil war in our country has become more violent and devastating. Many more people have begun to seek for asylum in neighboring countries, hoping to find better lives elsewhere in the world. However, this interview taught me that the refugees who end up in the first world still struggle to thrive due to language and culture barriers. 
 
 
-I grew up swimming and going to school with Jafet Lujan, Aaron Ruiz and Henry Huelskamp--all members of the musical group Blossom Aloe. I knew Henry played guitar, but when I saw he was in a band with Jafet and Aaron, and that they had been featured on NPR’s World Cafe(https://www.npr.org/sections/world-cafe) playlist, I dug around on Spotify (https://www.spotify.com/us) and found one of their top songs, titled “Holding On,” and found myself listening to the rest of their discography. Their music features tranquil synths and a sound that rivals that of Tame Impala (https://official.tameimpala.com/#). For me, it’s a perfect soundtrack for a soothing drive through the rolling hills of central Texas. 
+  
 
 
-Blossom Aloe is an indie band comprising five members, including Jafet Lujan (lead singer), Josh Vargas (producer), Ian Morales (drummer), Aaron Ruiz (bassist), and Henry Huelskamp (lead guitarist). The band members all hail from Houston, Texas, but have continued to expand their range, building a following in central Texas and beyond. 
 
-
-The band started out nearly a year ago when lead singer Jafet pulled in Josh’s production talent and Aaron’s bass skills, and Ian and Henry joined along the way. Now the group is celebrating the completion of their first album called A Place We Used to Be (https://open.spotify.com/album/36Wm5HxoJI6aIM8ux54HuI). The rising fame the album brought them in Texas won them a spot in the lineup at the annual Float Fest (https://floatfest.net/?) in Gonzales, Texas, right next to big names such as Chance the Rapper (https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) and Cage the Elephant (https://www.cagetheelephant.com/home).
-
-
-I conducted a video interview (https://youtu.be/3z74ffclou8) with the group to learn more about their growth in the world of music. This is Blossom Aloe. 
-
-
-Rootstalk: Tell me a bit about yourselves and your roles in the band. 
-
-
-Josh Vargas: I’m Josh and I play guitar, sing, and I also play keys in Blossom Aloe. And I’m also the producer for the band. 
-
-
-Ian Morales: I’m Ian, and I play drums for the band. And yeah, I do all sorts of things in my free time, but I never thought I’d be a drummer. So here we are. 
-
-
-Henry Huelskamp: I play lead guitar in Blossom Aloe, but I also do like drums and bass at home, and I play with a lot of pedals in my alone time. That’s kind of what I do. And I try to bring the pedals and the songs to life in the live setting. 
-
-
-Aaron Alejandro Ruiz Davila: My favorite place to play is in the comfort of my room, just feeling whatever music I’m trying to play or am listening to. I’m the bass player. The reason I play is because I love playing alongside my best friend, Jafet, and I also love playing the bass.  
-
-
-Jafet David Lujan (aka Bluff): My favorite place to perform so far would have to be The Concert Pub (https://www.theconcertpub.com/TCP-North.html) north of Houston. I have many positions in the band, for example, I play the guitar, I play the congas, but then I also write the lyrics and song structure to most of the songs I sing in, but I also let the band help as well. Then last but not least, I perform because I love seeing people actually enjoy the music we play/created and also it’s just so freaking fun.  
+SCHS: Could you introduce yourself? 
 
 
  
 
 
-Rootstalk: How did Blossom Aloe start out? What are the band’s roots? 
+PCMS: My name is Peter Chan Min Sang. Currently, I teach English as a second language to mostly immigrant students at a high school in St. Paul. I’ve been doing this for four years. I was born and raised in Myanmar/Burma. I came to the United States in 2013 for college. I went back home to teach for a year before I came back here in 2018. I did my Master’s in teaching at the University of Minnesota. I’ve been teaching in the St. Paul Public Schools since then.
 
 
-Vargas: Actually, on the album, there’s a little Easter egg at the end of “Lost in My Dreams” (https://www.youtube.com/watch?v=kCUodk8\_Sfw), where it was a sample. And that’s the first song that we made together because [Jafet] brought in the song and [Jafet] only had a verse and a chorus, there wasn’t really like a bridge or [anything]. And he said that he had the song complete, but when he came through, he only had a few chords. So, he wanted me to help him out to finish a song. And we finished the song that day; we took five or six hours and completed [it] right then and there. And [Jafet] was like, “Dude, this song’s so good. I never thought it would sound like this. We should work together again.” 
-
-
-You know, sometimes there’s, like, a [hindrance] on creative freedom, at least [with]the bands that I’ve been in. So that’s why I was put off [about] being in a band. So whenever [Jafet] asked me that, I was like, “Yeah, I don’t know. We’ll see, whatever.” So [Jafet says] “Dude, I know this drummer,” or “I know a bassist. He’s my buddy, Aaron. He could play bass for us.” And that’s when Aaron came in the picture. And [Jafet] also says that Aaron knows this guy that could play drums for us, and that’s how we ended up getting Ian. And it was going well. The chemistry was just working, and we ended up completing that song in about a day or two, and [Jafet] puts out that song and, once we completed the recording process, he said “Dude, you got to be in a band with me. It’s going to be great. You’re so good at what you do, and you [really] know how to play guitar and I really like your style and....” And at the time I really appreciated that. And I also liked working with Jafet and Aaron. 
-
-
-It felt like something. It had [something] that I never really felt before when working with other musicians. And then at that point, I was, like, “You know what? Yeah, like, I’ll be in a band with you guys. Let’s do it.”
-
-
-[At first] we were going to be called “Pocket Animals” or something. I don’t know, like “Eucalyptus Daydreams” or something like that. [O]ne of [the names that we thought of] was Blossom Aloe. And that was just kind of a random name. But it just rolled off the tongue just a little better than the other ones. And [the other band members] voted on it. Like, “Yeah, we love this name. Let’s do it.” So that’s how Blossom Aloe became Blossom Aloe. 
-
-
-Rootstalk: What does the rehearsal set-up look and feel like, especially during COVID-19? 
-
-
-Morales: It’s just very interesting to finally get together with other people and do something. I think a lot of us [just thought] “Oh, I just do this for myself and I’m just in my room.” So it was fun to just interact, feeding off somebody else’s energy. It [was] a stress reliever, just playing, and sweating, and everybody having a good time. 
-
-
-Then Henry [joined the band] with all his pedals. And that blew my mind, the noises that he was making, I was like, “How did you do that with that?” And then we started playing at Aaron’s house, outside, which was a whole different vibe... There’s a little pond and it was mostly super-nice [to be outside until] it got cold. And [even] then we were still out there. Looking back, that’s respectable, because I don’t like to hang out in the cold just for no reason. [But] we were [still] all out there just doing it, and it was just really fun. 
-
-
-[So we have] fun though sometimes it can be very serious, and we usually just go through the set a few times. I think it sounds better in practice. [But] then we get out there and we play a show and I’m like, damn.” 
-
-
-Rootstalk: How have you seen the band’s reach grow and change demographically? How do you see yourselves inspiring others? 
-
-
-Huelskamp: I’m noticing that now we’re getting more shows in the inner city, whereas before we were playing North Houston. And I’m noticing a huge demographic change. The audiences are more diverse. And to me, that’s way better than what we were doing before, where [we were playing] in some of these hard rock bars, where it was just white people. I want to play to all kinds of people: young, old, people of color and just everybody. And I feel like Houston is the perfect place to do that. 
-
-
-Personally, I don’t really get stage anxiety just two minutes before the show. I get pumped. But I’ll feel it a week before, or the day before. When I wake up on the morning of the show, something inside of me is, like, “Let’s go. You’re ready.” 
-
-
-Morales: Actually, just recently, after they announced the Float Fest lineup, one of my friends from [when I went] to Texas State [got in touch and he] was like, “Yo, we’re proud of you. It’s awesome that you’re really trying to do what you love.” [Back then] I just had Garage Band [software] and a guitar. And I would make something, and I would show the guys there and they’d be like, “Oh, that’s so cool. Like, that’s really cool.” They were very supportive. And then I came back [to Houston] and we still talked, but not as much as...when I lived there. 
-
-
-[But when my friend contacted me he said]: “Ever since you showed us your first stuff...like, your very first demo thing, it inspired me, someone who doesn’t really like to put themselves out there. [It showed me that you can] influence people without even knowing them. 
-
-
- I believe that anybody can do what we do. And it’s not about getting this awesome line up or having to do extravagant shows. I think it’s more [about] people getting together and just making stuff and just hanging out. And that’s what I found to love. 
-
-
-When we first started, it was just like ”Okay, I had a shitty week. [But then we’d] get together and just hang out. And that would be the highlight of my week. So, I think to anybody who is looking to us for inspiration, I [would say] “Just do it. You can do anything, and it’s not about getting famous or getting streams. It’s about playing and just doing what you like to do. 
-
-
-Rootstalk: What has inspired each of you to be musicians? 
-
-
-Huelskamp: [For a while] I tried to market myself and join other bands and there were some obstacles. [For instance] one dude didn’t show up to a Craigslist meeting. We were supposed to meet one day and he straight up didn’t show. So, there were some challenges at first. If you’re posting videos of yourself online playing music, just keep doing it. Especially if you’re doing it because you love it. You’ll catch someone’s attention, and you could join a band like Blossom Aloe. 
-
-
- Vargas: I was really into this solo artist named Dayglow (https://dayglowband.com), and this guy puts out this song “Can I Call You Tonight?” (https://dayglowband.bandcamp.com/track/can-i-call-you-tonight) in 2018 before we even had a full-length album. And he instantly blows up. He is also from Austin, Texas, and he just mixes and produces all these songs by himself. Now, a year later, he’s already playing festivals and headlining. He did what he loved, and he blew up from it so quick. Considering that he’s from Texas, you know, just like all of us, I feel like I can be like that guy or I feel like we can make something and, you know, get some kind of traction like he did. Because he had a bunch of supporters from his family and friends that pretty much helped him make music videos and his music, and look where he’s at now. 
-
-
-Morales: Back when I was in kindergarten, I [forgot] my baseball cards for show and tell, and everyone said, well, sing a song. So I did a Beatles song. That’s the first time I ever thought, “Okay, this is cool,” because people were clapping and I thought, “Okay, nice.” But yeah, I just always wanted to make music. And I did. I made a little solo project, just me, and I did all kinds of [stuff] to it. It was just experimenting. And I love bands like Modest Mouse and I like Mac Miller a lot and indie bands, [I could] just list a bunch. But…these guys [in Blossom Aloe] inspired me as well. Josh is a good producer. Henry is, like, f\*\*\*ing amazing at guitar. Aaron is just a god at bass, and Jafet has this energy that, you know, Jafet, he’s just very outgoing and it’s like, okay, I can be that as well. Josh challenges me [and I ask myself], okay, can I play this beat? Can I keep up? So it’s things like that. I’m just very grateful to be part of it. 
-
-
-Huelskamp: [In my] first musical memory I was riding in the car with my dad, listening to Incubus, which is like some band from the nineties. I owe a lot to that, just listening to music with my dad and going to shows with him when I was a kid. Just growing up around music. I’m grateful that my parents got me lessons when I was eight years old and got me an electric guitar when I was ten. So, things like that contributed to [what I’m doing today]. 
+SCHS: Let’s start way back. Could you tell me about your early experience of education? 
 
 
  
 
 
- Roostalk: What are you looking forward to as the band’s roots continue to spread? 
+PCMS: I went to a public school in [Insein township in] Yangon. It’s a government-run Kindergarten to Eighth Grade school. It’s a bit outside of the city, but it’s still a decent sized school. I think there were about 2,000 students. It’s a very, I want to say, traditional Burmese school. We had a uniform that was white and green. 
 
 
-Huelskamp: Float Fest. I’m definitely looking forward to that. It’s already such a milestone, just even being on the artist list. I wasn’t in the group when [Blossom Aloe] made the album, so I haven’t had that experience yet and I’m super excited to do that. I guess a long-term goal would be to go on tour and play in a bunch of cities around the United States. That’s a lifelong dream of mine, for sure. And I’m sure it’s also a dream of everyone else in this group. And yeah, maybe score a record deal along the way. You never know. I’m definitely remaining optimistic about everything but, you know, enjoying it day by day, remaining conscious that you need to enjoy the journey and not the end result. So I’ve got to enjoy where we are right now. I can’t just always focus on what’s next. 
-
-
-Rootstalk: Leave us with a final message to your fans! 
-
-
-Vargas: Do what you think is right. Follow your heart. Follow your dreams. If you think it can’t be done, it can be done. Nothing is impossible. 
-
-
- Morales: Do what you want to do, but make sure that there’s some good that comes out of it and come hang out with us sometime and everybody just be safe out there. Thank you. 
-
-
-Huelskamp: I’d say no matter what skill level you are, always make time for your creative outlet. Whether it’s music, art, theatre, put some time away to do those things because you never know where it’s going to go. 
-
-
-Be sure to check Blossom Aloe out on Spotify, Apple Music, and all other music streaming platforms. Enter this URL (https://open.spotify.com/playlist/6alHG9nqV5BBXVTa9fyQ62?si=cfeed586d5a04fff) to link to Blossom Aloe’s setlist, featured at Axelrad in Houston.
-
-
-You can catch the group at Float Fest in July and keep up with them on Instagram, Twitter and all other platforms through their Linktree (https://linktr.ee/blossomaloeband). Also, make sure to check out the full video on YouTube at https://youtu.be/3z74fFCLoU8.![](2023-spring-web-resources/image/1.png) ![](2023-spring-web-resources/image/14.png)e time away to do those things because you never know where it’s going to go. 
-
-
-Make sure to check Blossom Aloe out on Spotify, Apple Music, and all other music streaming platforms. Linked here is Blossom Aloe’s setlist featured at Axelrad in Houston. 
-
-
-Catch them at Float Fest in July and keep up with them on Instagram, Twitter and all other platforms through their Linktree. Also, make sure to check out the full video linked above on YouTube. 
-
-
-
-
-
-![](2023-spring-web-resources/image/gaddis-2-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Blossom Aloe (L to R) are: Jafet Lujan, Ian Morales, Henry Huelskamp, Josh Vargas and Aaron Ruiz. Photo courtesy of Micahl wyckoff
-
-
-
-
-
-![](2023-spring-web-resources/image/gaddis-3-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Photo by Mark C. Austin 
-
-
-
-
-
-
-
-
-“ I want to play to all kinds of people: young, old. People of color and, like, just everybody. And I feel like Houston is the perfect place to do that.” 
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/gaddis-4-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Photo Courtesy of Blossom Aloe 
-
-
-
-
-
-![](2023-spring-web-resources/image/gaddis-5-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Screen grab from the author’s interview with Blossom Aloe, courtesy of the author and the band. Enter this URL (https://youtu.be/3z74fFCLoU8) in your browser to listen in on the conversation. 
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Bradley-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Photo courtesy of Kendra Bradley
-
-
-
-
-Associate editor Kendra Bradley ‘22 (they/them) is a queer Psychology major with Neuroscience and Linguistics concentrations. They were raised in south Mississippi and currently live in Grinnell, Iowa. They mostly like to research language acquisition and processing, especially in the context of disparity. 
-
-
-
-
-Looking for 
-
-
-Community: Queer Scientists’ Search 
-
-
-for Connection in 
-
-
-the Midwest 
-
-
-
-
-by Kendra Bradley
-
-
-
-
-When I was asked to create content for a multimedia online journal about the prairie region, as a STEM major through-and-through with little to no experience with non-academic writing, I knew immediately I was a fish out of water. However, it is a central tenet for Rootstalk that too-often-unheard voices have a place on its pages. As a queer scientist myself, I realized that this was a perfect opportunity for me to collect and tell the stories of queer scientists in the Midwest. 
-
-
-For context, I am a queer person from Mississippi, and as I write this I am in my last semester as a Psychology major with concentrations in Neuroscience and Linguistics. Most of my stress dreams these days are focused on the question of my future as an aspirational scientist. Additionally, when I began this article I had just passed six months since I started medically transitioning, so navigating that was another thing to consider as I began searching every job that seemed tolerable. As any overeager about-to-be-grad would do, I began to scour Reddit for anyone with with professional and personal experience even remotely comparable to mine, thinking I would ask them for advice. I came up completely short in just about every regard, though, further emphasizing the need for stories like mine. 
-
-
- My original idea was to cast a wide net, mostly using social media, and thinking I would highlight the experience of as many queer scientists from or in the Midwest as I could find. I immediately ran into trouble. Turns out, finding openly queer scientists is difficult anywhere, and even more so in the Midwest. I got a couple of responses to my queries, but in the event I could only arrange interviews with two scientists—Alex Keyes, a fifth-year graduate student in the pharmacology program at the University of Iowa, and Asia Perkins, a third-year PhD student in the clinical psychology program at the University of Connecticut. I continued to reach out even more openly to other queer scientists and was even less successful in arranging meetings. 
-
-
-I next thought about reaching out to undergraduate students as a different demographic. I searched for which Midwestern universities had an active chapter of oSTEM(“out in STEM,” an LGBT STEM organization; https://www.ostem.org) to contact students directly. However, oSTEM couldn’t really provide contact information, since insuring that everyone remains safe and in control of their own identities means discretion is a priority. From there, I individually contacted LGBT groups at major Midwestern universities to gauge interest in my project. Still, I got no responses. 
-
-
-I considered a couple other options: cast yet another even wider net with professors and other scientists to whom I hadn’t reached out to before, hoping that my luck would turn. Unfortunately, as my emails continued to go unanswered, I was reminded just how hard the next couple years would be as I continued through my daunting life transitions without the comfort of people who knew what I was going through. Furthermore, what could I write about? I began to consider giving up on the concept entirely. But then I realized that the difficulty of gathering the stories of LGBT scientists in the Midwest was, in fact, the story. 
-
-
-Asia Perkins is a queer woman of color who grew up in Oklahoma. She earned her undergraduate degree in 2015 at the University of Oklahoma (https://www.ou.edu) in Psychology and English Language and Literature. There, she noticed a lack of mental health resources, a lack of support for diverse populations, and general bigotry. Currently, she focuses primarily on the cause and identification of disruptive behavior disorders generally and how those disorders interact with psychopathic traits to impact development more specifically. Additionally, she studies the factors that influence racial and ethnic diagnostic disparities apparent in these disruptive behavior disorders, and how provider and teacher biases contribute to inaccurate and ineffective treatment recommendations. 
-
-
-When I asked about the most rewarding parts of her work with the children in her research and advocacy work struggling with these disorders, Perkins said, “I used to hear, ‘There’s nothing we can do for you. You’re always going to be this way. You’re probably going to end up in prison.’” Because this attitude was being imposed on impressionable children, Perkins felt called to find the intersection of her clinical and research work and childhood development. She uses her position as a queer woman of color to empathize with the position these children often from minority groups are put in and to intervene with appropriate support. Her empathy, informed by her own experiences with bigotry in the Midwest, shows these children that they are not lost causes, and that someone is willing to sit down and say, “Hey, I really care about you. I want to learn about you as an individual.” It’s this work that Perkins feels can make a huge difference. Perkins also helps these groups by working with the Connecticut Psychological Association(https://connpsych.org) and the American Psychological Association (https://www.apa.org) on behalf of high school kids. This work connects them with psychologists of color to support their growth in the classroom as well as potentially connecting them with psychology as a potential field of research. 
-
-
-Alex Keyes grew up in Tucson, then attended college at Linfield University (https://www.linfield.edu) in Oregon, where they studied Chemistry and Biology. Keyes then moved to Iowa to attend graduate school in pharmacology at the University of Iowa. 
-
-
-Keyes’ research is in determining the role of neuro-immune interactions within the spinal cord in pain sensitization. This line of research has been a consistent interest of Keyes since they were 15. “I knew people that had severe chronic pain that current therapeutics couldn’t treat,” Keyes says, “There are people with chronic pain out there; approximately a third of the population has some form of chronic pain, and it needs a lot of addressing because there really isn’t a lot of good treatment out there.” As a disabled trans person, Keyes’ firmly believes that science should always be done at the guidance, and for the benefit, of those most affected by the subject being studies. They endeavor to support marginalized scientists and marginalized community voices in every area of science. This goal drives their passion in science communication online, as this mode of communication allows for those outside the field to have access to the information as well as furthering representation of their minority identities. 
-
-
-One of Keyes’s notable experiences was working informally on a YouTube video that was debunking the Wakefield vaccine hypothesis (which posits that vaccines lead to autism). “One of the things that I really want to work on is [promoting] science communication,” Keyes said. “Especially to people that have don’t have as much science background, got pushed out of the sciences, or, for whatever reason, didn’t have access to good science, education, anything like that.” 
-
-
-A common theme when I asked Perkins and Keyes about community and its importance was just how difficult it is to find and situate yourself in the queer science community or to find diverse representation. As Perkins said, “I hadn’t really noticed any decent representation until I got to grad school. I don’t think I had a single queer or, like, racially or ethnically minoritized psychology professor, or anyone to look up to when I was in college or younger.” 
-
-
-Coming from the Deep South, I had the impression that “at least the Midwest isn’t as conservative as the South,” so I was frankly surprised about what I was hearing as well as what I was not hearing. My top choice graduate program is at the University of Iowa, and I felt so excited at the prospect of joining that community. However, I was hearing that even in a place that has a progressive reputation, at least in terms of LGBT+ rights, there still isn’t a community. 
-
-
-One possible explanation is that the Midwest has a unique brand of bigotry. While places in the South are much more obvious about their bigotry, a lot of the problems in the Midwest are more covert. From vague comments about length of hair to assumptions about the gender of an alluded partner based on perceived gender of the speaker, it’s much smaller things that clue you in to the covert judgments constantly being made. Compared to slurs yelled out of pick-up trucks and overt violence that can be suffered merely walking down the street, these examples seem minor and not exactly newsworthy; however, these examples still make those impacted feel alienated and unsupported. So, the next question is why, in this supposedly progressive area, are people so bad at accepting LGBT+ identities? 
-
-
-Keyes made an excellent point about this problem: the Midwest is incredibly rural and spread apart. Even most of our metropolitan areas would barely be considered notable towns in the more populated coastal regions, and the space between the cities is almost entirely empty. Keyes says, “A lot of it out here in Iowa is genuinely just visibility, because most of the time, I’m the first trans grad student that people have come across.” Queer youth are not used to enough openly queer people being around to even begin to create a community. Add the STEM aspect, in which anything other than cisgender heterosexual, wealthy white men is still considered a minority, the possible community is even smaller. Even worse, those that have these queer identities may choose to “just stay in the closet” (which is painful in its own right), which even further lessens the visible community. This lack of visibility of your own identities makes it easy to feel like you just don’t belong in this space. 
-
-
-In response to Keyes’s point about this lack of representation, Perkins said, “I got to grad school, and it’s still not necessarily very diverse, but I know where to look now. I know who to talk to. And I know how to network, how to get connected and find the people who do share different aspects of my identities now. It’s just difficult because you have to find them and search for them.” Keyes further echoed this, noting that “it took until this year to work with an openly queer professor.” 
-
-
-Are Keyes and Perkins saying that I’m doomed to constantly search for a community which may or may not even stick? No, in fact they both have a lot of advice about how to find that community. 
-
-
- Both emphasized how important student connections are: senior peers, graduate students from interesting labs, even random students on social media. Peer connections are invaluable for finding others in the community. Both said how exciting it is to interact with those interested in their field. Keyes advised emailing current graduate students. “If there’s research you’re really interested in, email us,” they said. “We’d love to talk about our research. We’re generally open to cold emails.” Those connections more easily help find others that share identities, as, anecdotally, it only takes one person to introduce you to a community. Additionally, Perkins highlighted the task forces -- nationally, regionally, and locally -- that specialize in minority populations where you can find community. 
-
-
-Finding such a community may take work, but it is worth the effort. These communities are vital for combatting imposter syndrome, as minoritized populations much more often than others are more susceptible to believing they are not good enough and don’t belong in their space. As Perkins said, “if I didn’t find people who look like me and have been in the program or in the field, then it would have been rougher than it is. It is very, very important to find your people and find a sense of community. I cannot say or talk about that highly enough.” As she found her community related to both her racial and queer identities, she said “I found several communities where it feels so safe, it feels so warm.” 
-
-
-Minoritized populations in science aren’t important just for community. As Keyes said, “you realize that pain affects predominantly minoritized people… And usually, the more marginalized identities you hold, the higher risk you are for developing chronic pain. And so being able to find scholars that even look at that, or are part of those communities themselves, it helps in terms of advocacy work and what we are able to push for.” Further, Perkins said, “whatever background you have, if there’s research you’re passionate about, you can do it. Sometimes coming from a background of either your marginalized identities or just the classes you’ve taken, your education can really inform a perspective that is potentially course-changing for the research that you do.” 
-
-
-Despite the challenges I have described above, I want to emphasize that the effort it takes to make it into the science field is worth it. There are many obstacles, and we must support each other. Add in the imposter syndrome that many minority populations struggle with, and it truly is something to celebrate how we succeed despite the challenges finding our community. We may have to put a bit more elbow grease into it, and that can be discouraging, so I will end with a quote from Keyes on pushing through the discouragement: 
-
-
-“You are worthy of being there.” ![](2023-spring-web-resources/image/1.png)
-
-
-
-
-
-![](2023-spring-web-resources/image/Bradley-2-volume-viii-issue-1-spring-2022.png)
-
-
-
-oSTEM (which stands for “out in Science, Technology, Engineering and Math”) is a non-profit professional society focused on supporting LGBT people in STEM careers. oSTEM has over 100 active chapters at colleges and universities, as well as in professional settings in both the U.S. and abroad. Logo courtesy of oSTEM.
-
-
-
-
-
-![](2023-spring-web-resources/image/Bradley-3-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Asia Perkins, from Oklahoma, now a third-year PhD candidate at the University of Connecticut
-
-
-
-
-
-![](2023-spring-web-resources/image/Bradley-4-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Alex Keyes, from Arizona, now a fifth-year PhD candidate at the University of Iowa
-
-
-
-
-
-![](2023-spring-web-resources/image/Bradley-5-volume-viii.jpg)
-
-
-
-The combined laboratory, classroom and greenhouse at the Conard Environmental Research Area (CERA), Grinnell College’s state-of-the-art teaching facility for the environmental sciences, is the centerpiece of the College’s multi-year prairie restoration project
-
-
-
-
-
-
-
-
-
-![](2023-spring-web-resources/image/Burchit-1-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-All photos courtesy of Robby Burchit
-
-
-
-
-Associate Editor Robby Burchit ‘23 is a third-year sociology major at Grinnell College. Robby considers himself both a Midwestern and Southern boy, as he is originally from the small town of Waverly, Iowa, but relocated to Bentonville, Arkansas as a child. Beside being a full-time student, Robby is also the Student Government Association Concerts Chair at Grinnell College and is involved in numerous other extracurricular activities such as Mbira Ensemble. Outside of school, Robby enjoys cooking, travelling, making music, and roller-skating. 
-
-
-
-
-Warped Cherubs 
-
-
-and Tasmanian 
-
-
-Devils: A Tattoo 
-
-
-Artist in Fairfield
-
-
-
-
-by Robby Burchit
-
-
-
-
-As I walk into Arrowhead Tattoo studio (https://www.arrowheadtattoo.com) in Faifield, Iowa (https://cityoffairfieldiowa.com), I’m immediately struck by Dom Rabalais’ bold personal style. The 32-year-old multimedia artist, tattooer, and Fairfield native (http://www.domrabalais.com) is sporting tight leopard print leggings, a cropped Chippendales t-shirt and a platinum bleached hairdo. His style matches his bright and extroverted demeanor as he greets me and introduces me to the studio. He hands me a thick binder bursting with sketches of tattoos, and although the purpose of my visit to the studio is simply to talk to him, I find myself curiously flipping through his sketch-book. Rabalais’ tattoo work is vibrant and playful, with a childlike sense of wonder and mischief that emanates from each design. After surveying his sketches of flower chains, small scarab beetles, and wolves, I remember one of his designs that I had liked that I saw online: a small jester. I mention this to him and before I know it, he’s furiously scribbling at his desk, rendering the vintage Halloween-inspired design, ready to tranfer it from the page to my skin. Next thing I know, I’m sprawled out on a table in the studio getting prepped for a spontaneous tattoo as we discuss his work. 
-
-
-Rabalais’ tattoo work and paintings have gained significant traction online lately, largely through platforms such as Instagram, where he posts his work for thousands of followers that include other notable and emerging artists. His colorful, cartoony work feels fresh and of-the-moment, and it’s clearly resonating with people in the Fairfield area, as he has been booked and busy since his return to Fairfield in 2020. Despite his growing following, however, Rabalais didn’t set out specifically to become a “tattoo artist.” 
-
-
-“I never thought ‘and someday I’ll be a tattooer being interviewed about tattooing’ or something like that. I was kind of like, ‘Well, my friends want tattoos and I shall give them some.’” 
-
-
-Rabalais’ tattoo journey began when he was a teenager in the 2000s, when he discovered stick and poke tattooing (https://sticknpoke.com/how-to-stick-and-poke) through a feature titled “The DIY Guide to Everything” in the punk ‘zine Razor Cake (https://razorcake.org). A “stick-and-poke” is a type of tattoo that’s created by spreading ink on the skin and then using needle-sticks to introduce the ink beneath the surface of the skin. Because the equipment is relatively inexpensive and the technique requires less precision, it’s often seen as the go-to tattooing method for beginners. From there, Rabalais began tattooing in what he calls an “evil manner,” using safety pins to scrawl designs on himself. “Occasionally, my friends would want something abhorrent tattooed on them, and I could do it in a very rudimentary way.” 
-
-
-Later in his 20s, Rabalais developed his tattoo skills further while living as a touring musician. He recounts the story of his former bandmate and late friend who bought him his first tattoo gun. Stick-and-poke tattoos can be time consuming, and since he wanted lots of tattoos done quickly, he ordered Rabalais what he referred to as a beginner’s “Baby’s First Tattoo Gun.” Rabalais would then use this gun to tattoo his friends, bandmates, and the owners of whatever house they were crashing at that night during their tour. “As a result, I gave a lot of tattoos that were not the world’s best , but were very much the kind of tattoos that one gives and receives in a punk house.” In those days, punk houses were spaces where members of a given punk scene lived, performed to packed local audiences, and partied. It was through the trial and error process of rendering these punk house tattoos that Rabalais refined his craft, learning things about the process that he could only learn b giving a lot of tattoos. 
-
-
-“There’s a bond between the tattoo-er and the machine, the wielder of the tool and the tool itself, that can only be built through experience,” he says. 
-
-
-One can see the youthful, rebellious energy of DIY music channeled into Rabalais’ designs like his series of warped cherubs or his offbeat sketches of the Tasmanian Devil from Looney Tunes. Later, he explains that music was and in many ways still is his primary artistic outlet. “My main thing is playing music and going on tour all the time.” He explained that before the pandemic, his plan was to be on tour indefinitely, and it wasn’t until recently that he was able to dive deeper into tattooing and painting as other outlets for artistic expression. He explains that music, art, and tattooing are often tied together through the imagery they feature. He describes the “dialectical back and forth” between his paintings and tattoos, with each borrowing designs from the other. When I ask Rabalais how his focus shifted largely to tattooing, he jokingly admits that it’s all about attention. 
-
-
- “OK, I’m not trying to be like, ‘Oh, no one likes the music,’ but as far as things that I have been successful at doing, I feel just in general, people seem to respond really well to the paintings and tattoos, which is great because I mean, in the end, all I want is validation and attention.” 
-
-
- He says this last part with a smirk and a chuckle, but the attention he has received for his visual art and tattooing is no joke. From residencies and shows in galleries in Ohio and Washington to becoming a regular tattoo artist at Arrowhead Studios in Fairfield, Rabalais has managed to build a successful career out of his visuartwork, allowinl g him to quit his indexing job and pursue his art full time. Rabalais’ major shift in focus toward tattoo art came after returning home to Fairfield after living in New York City for several years. 
-
-
-He was born and raised in Fairfield, a small college town located in southeast Iowa. At first glance, the town might appear to be like many other small towns in Iowa: sleepy, unassuming, conservative. However, Fairfield boasts a unique history as the home of the Maharishi International University (https://www.miu.edu), a private college centered around the practice of transcendental meditation where Rabalais’ mother worked during his upbringing. The college, founded in 1973 by Indian yoga guru Maharishi Mahesh Yogi (https://en.wikipedia.org/wiki/Maharishi\_Mahesh\_Yogi), has gained a sort of cult following known locally as “the Movement,” and has created the small Iowa town’s singularly offbeat culture. This unique, non-conformist culture has influenced him in many ways. 
-
-
-When I ask him if growing up in Fairfield has affected his art or style, Rabalais replies with “Well, definitely in the way that my mom was very supportive.” “I acknowledge and am aware that growing up in Fairfield was unconventional. It was also the kind of thing where ‘I don’t really know what I don’t know.’ I have no baseline to compare it to. My perspective on it has changed a lot over the years.” Growing up, he attended what he describes as the Maharishi equivalent of Catholic school run by the Movement. After graduation, he later attended the university’s art school where he began to develop his artistic chops. It was during his time in school that Rabalais began to pick up on “the secret history of America.” 
-
-
-“Just to go full tinfoil hat here, there are things about the Movement that I find to be kind of buck wild. I wouldn’t even say these are conspiracy theories. It’s history. It’s fact that people don’t generally talk about.” 
-
-
-From here, the two of us both go “full tinfoil hat” as we dive into a long and winding conversation surrounding the Movement’s connections to geopolitics and culture, its alleged ties to COINTELPRO (an FBI backed program run from the ‘50s-70s, designed to surveil, infiltrate, and disrupt leftist political organizing in the US; https://en.wikipedia.org/wiki/COINTELPRO), and its relationship to ‘60s counterculture and LSD. The conversation was fascinating—albeit, a little off topic—but more than anything it lent context to Dom Rabalais as a man and artist. While his upbringing in Fairfield might not play an explicit role in his art, I could see how these components of his past—the Maharishi schooling, the punk house life, the constant touring—all come together to influence Rabalais’ wonderfully zany and unconventional signature style. 
-
-
-While returning home after living in New York City has brought Rabalais lots of new opportunities, his move back wasn’t under the best of circumstances. It was the passing away of his father during the pandemic that prompted him to return to Fairfield where he could take care of his mother. “It was hard to be like, ‘Ok, Mom, just deal with that.’” Rabalais tells me about how he moved himself and his partner out of New York and across the country, back to Fairfield, with his partner eventually relocating to Minneapolis. While his plan isn’t to live in Fairfield for the long term (he already splits his time relatively evenly between Minneapolis and Iowa), he has found comfort and solace in returning to the prairie. 
-
-
-“I can come back and spend time with my mom and help to fix things around the house. I mean, in a more existential/emotional way, I need to figure out being alone and experiencing solitude without having a mental breakdown at the same time. I feel like now I have to confront that part of myself that is so afraid of solitude. And yeah, small-town Iowa is a great place to [do that].” 
-
-
-In between bouts of Iowa solitude, you can catch him traveling all over the country working on projects from an arts festival in northwest Arkansas to doing tattoo residencies in Portland to painting fences in Nashville and putting on his own visual art shows in Ohio. 
-
-
-Rabalais finishes the final touches on my tattoo and snaps a few pictures to post on his Instagram account. I admire the new piece of art on my leg: a playful ode to my birthday being on April Fools’ Day. As we exchange goodbyes, I find myself already craving another tattoo and make a mental plan to return one day for another new piece.![](2023-spring-web-resources/image/1.png)
+SCHS: I also attended that school. And what I remember is that a lot of our schoolmates were, in a sense, immigrants to the lowland because a lot of them are Karen [people]. 
 
 
  
+
+
+PCMS: [The Karen people whom we grew up with] are actually from the [Irrawaddy River] Delta. There’s a huge Karen population in the Delta. 
+
+
+SCHS: I did not know that. I think that there is something to be critical about assigning certain land to an ethnic group. Because that gives a false perception that the people that live on that land will only be from that ethnic community or that an ethnic community will only reside on the land assigned to them. In reality, ethnicity is so fluid and mixed [and the state borders are arbitrarily created for the central government to rule the people easily.] 
+
+
+PCMS: Yes, another strange thing is that Insein [became a warzone] right after World War II. [During the British occupation of Myanmar/Burma from 1824 to 1948], the British-Burma army has different battalions based on ethnic groups, and the Karen battalion was one of the strongest military battalions that they had. Right after [Myanmar/Burma gained] independence [from the British in 1948], the Karen battalion tried to take over lower Myanmar. There was a huge battle in Insein, and the Karen almost won. But at that time, the Chin Battalion sided with the regular Burma Army, which is one of the reasons why the Karen Army failed to take over lower Myanmar. 
+
+
+So, it’s kind of weird growing up as a [Chin], and they know we’re Chin. I mean, our classmates are too young to know the importance of this history, and it’s not taught in school. So, our classmates are not aware of it, and they didn’t really treat us differently. But I remember requesting a friend’s parents to study at their house one time, but they weren’t big fans of that. I didn’t know why. In retrospect, I think it’s because of that history, but it could also be something else. I don’t know.
+
+
+SCHS: When did you decide to become a teacher? 
+
+
+ 
+
+
+PCMS: The summer between my junior and senior year [of college in 2016], I went to teach in Falam, in Chin State. Joe Decker, my former teacher at the Pre-Collegiate Program of Yangon (or PCP for short), was leading a school there. And after that summer, I knew for sure I wanted to be a teacher. 
+
+
+And I wanted to teach at PCP. So, right after I graduated [in 2017], I reached out. Helen Waller was the academic director then, and she was super excited to have me. But she was also leaving. So, as I became a teacher at PCP, she was no longer in Myanmar/Burma. But, I had so much fun. I was teaching sociology. Basically, based on everything I learned in college, and all the good things that I enjoyed, I get to create my own class. I did a unit on economic justice. I did a unit on identity. I took my students to a labor union office in Hlaing Thar Yar [which is the main working-class neighborhood in Yangon]. I mean, it was one of those things where I worked long hours, but it never felt like working, because I was really enjoying it.
+
+
+ SCHS: How did you become a public-school teacher in St. Paul, Minnesota?
+
+
+PCMS: While I was teaching at PCP back in Yangon, Zara [who is now my wife] was here [in the US]; we were in a long-distance relationship and I knew that I wanted to be with her. So, in 2018, I left PCP and applied for the teaching program at the MU [University of Minnesota]. I was excited, though, because there were a lot of Karen students here. Even before starting the program, I looked up which schools had the most Karen students. I also reached out to my adviser, and they told me that the public school they worked with has students from Myanmar. So, I joined the program. It was a one-year master’s program, which was also very appealing. It’d cost less money, and I could make money right away afterwards. 
+
+
+But, it was intense. Academically, it was still okay, and I felt like I knew what I was doing. But as soon as I started student-teaching, it felt hard because then I was expected to do everything by myself. And for me, I was still new to the public school system in the U.S. So, it was a completely different ballgame for me. And when I started student-teaching, there wasn’t much curriculum. So, I had to create everything from scratch. But, because a lot of my students were either born here or they started in kindergarten, I couldn’t even tell if they were English language learners or not. Things got really blurred.
+
+
+SCHS: Why are your students still in the English as Second Language (ESL) program then? 
+
+
+PCMS: They are mainly still in the ESL program because every year they have to take a test, and only if they get a certain score in the test can they exit the ESL program. But even a native English speaker will not pass it. It’s too hard. So, a lot of our students are still in [the ESL program] because the test is too hard for them.
+
+
+SCHS: So, the system is kind of rigged. 
+
+
+PCMS: Yes, and it’s so weird. There is this vested interest in the school district to not let the students exit the program, because funding is based on the headcount of students who are labeled ESL. But also, in a way, if there is more funding, it does help everyone because we get more teachers in what we call the Language Academy [also known as the ESL programs]. But I always feel kind of icky about it, though.
+
+
+SCHS: Okay. Let’s switch back to your teaching experience. So, you were telling me about your student-teaching days when you were still in the Master’s program. What was your experience like when you became a full-time teacher? 
+
+
+PCMS: I graduated in 2019, and I started my full-time job as an ESL teacher at the school where I’m still working. St. Paul Public Schools have what they called the Co-taught Model. Basically, there are two teachers in one classroom for English as Second Language Learners. There’s a content teacher, and then there’s an ESL teacher. Technically, we’re supposed to be co-teaching, co-planning, co-grading but a lot of the time there’s an [imbalanced] power dynamic. As an ESL teacher, I was going into [the content teachers’] classroom. Sometimes, I was considered this glorified assistant. I was paid as a teacher, but I was in the classroom just helping. I mean, my co-teachers did respect me. They allowed me to grade. They allowed me to do small group work, but on their terms. I was doing everything based on what they wanted me to do. And the curriculum already exists. So, even if I tried to come up with new things, I was only modifying the content a bit. Basically, they have the full creative control. And I have very little. 
+
+
+SCHS: For some context, could you talk about the school where you currently work and your students’ demographics? 
+
+
+PCMS: I teach at a sixth through twelfth grade school—middle and high school combined—in St. Paul. It’s one of the two schools that has a sixth through twelfth program. It’s a huge building. By building size, it’s the biggest. We have the biggest square foot in the district. And we have about 1700 students. 
+
+
+Half of my students are Karen (from Myanmar/Burma). And I have a couple students from Rwanda. Three Somali students. Six Latino students. And some of them I now have in my senior year class. But it’s a bit sad. A lot of my female students got pregnant, and they’ve either dropped out or they’re in a school for pregnant women and moms. But I have about five students who made it all the way to senior year. And one of them got into St. Olaf College (https://wp.stolaf.edu). 
+
+
+SCHS: How did the immigrant communities end up in the Twin Cities?
+
+
+PCMS: The Hmong came here in the late ‘80s. I don’t know if you’ve heard about this. During the American-Vietnam War, a lot of Hmong served as interpreters for the American military. After the war a lot of them were targeted by the Viet Cong soldiers. Many fled to Thailand and sought asylum there. Then many of them got resettled in the US. And it was a policy back then that [the U.S. Government] wanted new immigrants to be as far away from existing immigrant communities as possible so that they would assimilate. So, they put them in places like Minnesota, where there were no former immigrant communities from Asia. So, the Hmong are the biggest Asian immigrant community in St. Paul. 
+
+
+The same thing happened with the Karen refugees later in the late 1990s. I have students who came here when they were in middle school. 
+
+
+There are also a few Ethiopian and Somali students. But more of them are in Minneapolis, so we don’t have as many of them [in St. Paul]. But even then, there’s a good ten to fifteen percent of Somali and Ethiopian students; there are also students from other African countries like Rwanda, Congo, and Kenya. But now, the more recent students in the newcomers’ program are immigrants from Latin America -- El Salvador, Guatemala, and Honduras.
+
+
+SCHS: Could you talk about how your Karen students and the Karen people in general got resettled in the Twin Cities? 
+
+
+PCMS: Many of our Karen students were refugees in Thailand. A lot of them were born in the refugee camps. Some of them had schools, some of them didn’t. So, it’s a mix. A lot of them fled to Thailand because of the civil war in Myanmar/Burma. And they call their homeland, Kaw Htoo Lei. They don’t refer to it as Karen State. Currently, there’s an active war there. [Editor’s note: The fighting is between the central government’s military, known as the Tatmadaw, and the Karen resistance armies. This conflict, which began in 1949, is considered the longest civil war in the world.] 
+
+
+All of them literally had to flee because there were bombs being dropped on their villages. For many of them, Thailand was home because the [refugee] camps are where they grew up. We might think camp is like this place where it’s fenced in, but it’s more like a village. There are checkpoints, but it’s not necessarily fenced in. If you want to go into a city or go through the main road, you will have to go through a checkpoint and you need paperwork. And you get support from the U.N. in terms of food, because you can’t really grow food. Some people have small farms, but it’s a different land from where they are used to [farming]. 
+
+
+I know a lot of my students have family members who had left the camp and now are working in either Chiang Mai or Bangkok. And they decided to stay there. Also, not everyone who signed up got resettled in developed countries. I don’t know what the system is like—it might be some sort of a lottery system. But even then, some family members decided not to go because they’ve been [in the refugee camps] for like five to ten years and they have become familiar with life there. Many of them are long term residents now, although they have no official paperwork that says they’re Thai citizens or Myanmar citizens.
+
+
+SCHS: It’s a problem of statelessness. I took a class called Migrants, Refugees, and Diaspora with Sharon Quinsaat, a Sociology professor at Grinnell College. We read a lot about how these camps in the borders become very dystopian-like villages. But getting back to the new immigrants coming to Minnesota, what are some of the challenges and the struggles that you see your students facing as they are making their lives in the Twin Cities?
+
+
+PCMS: For most of them, they don’t know the system here well enough. I mean, they know the things that they need to know. They know how to apply for Supplemental Nutrition Assistance Program (SNAP). Their parents have figured out how to file taxes. But when it comes to college planning, a lot of the students struggle with that. Also, because their parents never went to college, when you ask them things like, “Do you want to go to college?” They don’t know. They don’t know if it’s the right thing or not. Because there aren’t that many role models for them. They don’t know what options are out there after high school. They’ll just say, “I’ll work in a grocery store.” There’s nothing wrong with working in a grocery store, except for not being paid enough to have a family. And that makes me worried. Because I want them to be healthy, happy, and be able to spend quality time with their family.
+
+
+SCHS: What happens to your students when they don’t go to school anymore? What do they do?
+
+
+PCMS: A lot of them enter service jobs like shops, restaurants, Uber. And because their parents don’t speak English, they’ll work at meat-packing factories. A few who are fortunate enough to figure out how to do college, they work for nonprofits, in the city, the government. There are some people who work for private companies, too, but not that many. The vast majority works at these odd jobs. 
+
+
+SCHS: As a teacher, how do you see your own teaching career going?
+
+
+PCMS: Well, I’m going to quit this year. I’m taking at least a year off, because my wife and I are expecting a baby in June, I want to stay home with my baby. But part of me is also done with the teaching career. We get paid, okay, if we’re single. But as soon as you get a baby, or you want to have more than one kid, all these health insurance expenses go up. We will still be able to afford it, but we won’t be able to save any money as soon as we have one kid. And if we have two kids, it’s even going to be more costly. And my wife’s also a teacher. So, it’s not sustainable for both of us to be teaching. And I’ve always thought about doing something else. So right now, I’m thinking of just quitting and getting hopefully a stay-at-home job, or hybrid jobs so that I can be home more often. But part of me, I know, I love teaching enough that I see myself going back to the classroom; maybe five years down the road, if we only have one kid. If we have more than one, it might be a bit longer. That’s my plan for the next few years. And if this career transition works out well, the other thing I really want to do is teach at PCP again at night. 
+
+
+SCHS: Is there anything that you want to add?
+
+
+PCMS: I feel worried about the teaching career profession in the U.S. Because I know I’m not the only one who’s quitting. A lot of people I know have quit, and [not many] newer people are not signing up to become teachers. So, I think it’s something that the U.S. must reckon with. Especially in the south, where the teachers are paid like fifteen to sixteen dollars an hour, and they make more working somewhere else. Even at our school, if you are an educational assistant, where you work with challenging kids, one-on-one, you’re getting paid like sixteen dollars an hour to be yelled at, you know. So, they’re choosing not to work in the school anymore. And they’re the ones that keep the school going, right? Because as a teacher, I have like two hundred fifty kids. But for educational assistants and teaching assistants, they work with students one-on-one, for kids who really need the support. But right now, we don’t have enough of those because they’re not being paid enough to do their job. And because of that, teachers can’t do their jobs either. Because the kids who really need the most help are not getting the help. So, they’re now just either wandering in the classroom or disrupting other kids. Or like acting out. So, it’s not good.![](2023-spring-web-resources/image/1.png)
+
+
+
+
+New Lives in the Midwest |  Chan Htoo Sang
+
+
+
+
+
+
+
+
+“There is this vested interest in the school district to not let the students exit the ESL program, because funding is based on the headcount of students who are labeled ESL.”
+
+
+
+
+
+
+
+
+New Lives in the Midwest |  Chan Htoo Sang
+
+
+
+
+
+![](2023-spring-web-resources/image/Saul-2-volume-ix-issue-1-spring-2023.png)
+
+
+
+
+
+
+
+Washington Technology Magnet School in St. Paul, Minnesota. Photo Courtesy of Saul Chan Htoo Sang.
+
+
+
+
+
+
+
+
+
+
+
+
+“All of them literally had to flee because there were bombs being dropped on their villages. For many of them, Thailand was home because the [refugee] camps are where they grew up.”
+
+
+
+
+New Lives in the Midwest |  Chan Htoo Sang
+
+
+
+
+
+![](2023-spring-web-resources/image/saul-3-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Poster Wall with Children’s Drawings with Caption: “I’m A Scientist.” Photo Courtesy of Saul Chan Htoo Sang
+
+
+
+
+
+![](2023-spring-web-resources/image/saul-4-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Peter Chan Min Sang with a group of his students at their graduation.
+
+
+
+
+
+
+
+
+The Propaganda of Postcards |  Klassen
+
+
+
+
+
+![](2023-spring-web-resources/image/Klassen-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Eleanor Elliott-Rude
+
+
+
+
+Kylie Klassen is a second-year student at Grinnell College, where she is double majoring in English and Anthropology and concentrating in Peace and Conflict Studies. She grew up in Mesa, Arizona, with the help of her family of six and four pets. She plans to further her academic career in some sort of graduate program, ultimately ending up in a public service position. 
 
 
  
@@ -4094,11 +1413,170 @@ Rabalais finishes the final touches on my tattoo and snaps a few pictures to pos
 
 
 
+\*All references appear in Endnotes in the back of the issue.
 
 
 
 
-“[T]hrough the trial and error of these punk houses Rabalais refined his craft, learning things about the process that he could only learn by giving a lot of tattoos...” 
+The Propaganda of Postcards\* 
+
+
+
+
+by Kylie Klassen 
+
+
+
+
+The following is a criticism of three postcards from early 20th century Oklahoma that depict images of Native Americans. I recognize that my position as a white woman writing this piece is a privileged one, as people who have looked like me have historically been destructive to the livelihoods of people of color, especially those who are Natives of the land that is now known as the United States. The goal of my words is not to amplify my voice over others; it is instead to criticize specific postcards that stereotype Native Americans, explicitly the Pawnee as well as tribes that are left unlabeled on the cards. 
+
+
+To read more about the Pawnee Nation, visit their site: https://pawneenation.org/pawnee-history
+
+
+The Oklahoma Department of Libraries’ (https://oklahoma.gov/libraries.html) digital archive is home to a collection of a twentieth-century tourist staple: postcards. While postcards are often seen as promoting favorable feelings, some images from this archive cannot be seen in this same light. Of the 491 postcards in this collection, a handful of them portray images of Native Americans, and not in a positive manner. Three depictions of Native Americans in particular provide clear examples of exploitation. The pictures found on the three postcards present the stereotypical image of ‘the Native’, favoring the United States’ historically dominant view of Native Americans. The use of exploitative images on postcards allows white society to continually benefit from these images through profits from stamps, their contribution to erasure, and their enforcement of white society’s stereotypes. 
+
+
+ Postcards as an Entertainment Product 
+
+
+Postcards began their boom in the mid-1800’s when the United States Postal Service introduced them into circulation. However, these weren’t the same eye-catching pieces that you would expect; these early postcards did not feature a picture. This is because postcards were not originally intended for individual consumption, but instead were a means through which businesses could advertise themselves.1\* Rather than being the entertainment product that postcard collectors seem to view them as today, postcards were seen as an avenue through which businesses could make a profit. Around the 1890’s, these unique forms of communication would shift to the contemporary form of postcards: ones that have an image. These would become so popular that, in the year 1913 alone, the United States Postal Service documented that they had managed 968 million postcards.2 This means that if each stamp was worth at least one cent during this time, then the government would have made over $9 million from mailing postcards alone. 
+
+
+
+
+![](2023-spring-web-resources/image/klassen-2-volume-ix-issue-1-spring-2023.png)
+
+
+Postcards and People 
+
+
+Nowadays, postcards have completely shifted away from the 1800’s advertising medium, transforming into vacation-oriented tourist paraphernalia. During times when travelling was not commonplace, however, the United States Postal Service connected families and friends in ways vehicles could not. Postcards took on a variety of meanings, providing the flexibility needed to communicate messages of varying levels of importance. Cards predominantly offered well wishes, holiday greetings, baby announcements, or even news of a death. The addition of pictures raised the status of postcards above letters, establishing them as both a form of entertainment as well as a means of communication. In thinking of postcards as entertainment, though, it is important to note who was selling the pictures in these scenarios, and whose picture was being bought. 
+
+
+Depictions of Native Americans on Postcards 
+
+
+In trying to understand these three specific cards from Oklahoma, it helps to know how nations which were not native to this part of North America ended up in Oklahoma. This history of dispossession further illustrates postcards’ promotions of the United States’ stereotypes. 
+
+
+When Andrew Jackson signed the Indian Removal Act of 1830, “some 60,000 Native Americans were forced westward into ‘Indian Territory’”3. This dispossession removed nations including the Chickasaw, Seminole, Cherokee, Choctaw, and Muscogee from their native lands, into land supposedly set aside for them by the government4. These nations—known colloquially as “the Five Tribes of Oklahoma”—were forcibly moved to what became Oklahoma, the “final destination of the trail of tears”5. Despite their forced displacement, Native Americans took steps to preserve their identities. One example of this can be seen through the Cherokee Nation’s response to the Indian Removal Act. The Cherokee Nation established a newspaper as well as took their case to the Supreme Court where they eventually won. Unfortunately, Andrew Jackson disregarded the Supreme Court’s decision and “Cherokee people were forcibly taken from their homes.”6 Knowing this history of exploitation it becomes possible to see the images on the Oklahoman postcards as an extension of that history. The following three images can be seen as exemplifying three types of exploitation, all of which endorse negative stereotypes.
+
+
+ 
+
+
+Financial Exploitation 
+
+
+The first postcard (Figure 1) shows a group of eight Native Americans in Oklahoma with the generic title: ‘Indians on Miller Bros. 101 Ranch’. According to the Oklahoma Historical Society, this ranch was occupied by George Washington Miller and “earned most of its notoriety from the wild west shows that it staged.”7 Based on this information, as well as the clear staging of this image, it can be inferred that the people on this postcard were actors in these pageants. Moreover, the postcards were used as advertisements for such shows. This use harkens back to postcards’ original purpose in promoting different businesses, in this case, a wild west show. In these pageants, Native Americans were costumed to fit a certain generic look, one that affirmed the dominant stereotypes of the United States. 
+
+
+White people in power have historically profited by taking Native American’s land, and this postcard demonstrates that the exploitation extends to Native American images as well. Not only were white people directly profiting from the success of these wild west shows and the generic depictions of Native people in them, the government was indirectly profiting as well through the postage paid to mail the postcards. These varying levels of financial exploitation fostered negative stereotypes of Native Americans which upheld the United States’ dominant view.  
+
+
+ 
+
+
+Exploitation by Erasure 
+
+
+ The second postcard (Figure 2) also displays this same type of United States stereotype, this time promoting erasure. On this postcard, the picture shows a Native American woman carrying a child photographed at the same ranch as the previous postcards’ image. The title at the bottom of this specific postcard reads, “Indian Squaw and Papoose” on Miller Bros 101 Ranch”. The inclusion of such derogatory terms to describe a Native American mother and child are not only demeaning and inappropriate, but also a generalization. This is akin to the prior postcard which grouped eight individuals as ‘Indians’, as opposed to sharing any information about which tribe or nation they belonged to. Similarly, the second postcard also has no defining words in the title which describe who these people were or which nation they belonged to. This postcard contributes to the erasure of specific tribes in favor of universalizing the term “Indian” or, in this case, slurs for a Native American woman and her child. Since this woman was probably an actor on this ranch as well, it is important to note that these shows often perpetuated marginalizing depictions by casting them as showdowns between ‘cowboys vs Indians’. This theme seen throughout wild west films further subscribes to the erasure of individual groups and encourages this false idea of Native Americans not only being one group of people, but also being the enemy. Such enforcement of stereotypes endorsed white society’s views through postcards’ images, while at the same time aiding in erasure. 
+
+
+ 
+
+
+Exploitation through the White Gaze 
+
+
+In the third and final postcard (Figure 3), a group of Pawnee people are showcased. While their affiliation is included in the title, they are depicted in a way that conforms to white society and United States’ stereotypes. Despite this postcard not being set on the same ranch as the other two, it still looks staged in the way that people are posing. Presumably, the primary audience for this image would be white, as they would be the ones buying these postcards, and the images they bought would affirm white culture’s stereotypes concerning what a group of Native Americans should look like. Those encountering the photo would see the image postcard sellers know will make a profit: a group of stereotypically staged Native Americans. The commodification of images of the ‘generic Native’ through postcards endorsed United States’ stereotypes of Native American people, all while profiling one tribe or nation to be the same as all others. Despite the inclusion of the name Pawnee in the title, the commercialization of images of the Pawnee after they had been relocated from Nebraska displays the inherent exploitation of Native people, affirming the United States’ dominant stereotypes through the lens of white society on a postcard. 
+
+
+These three postcards depict Native Americans living in Oklahoma both as physically and literally one-dimensional, enforcing the stereotypes held by United States society. Postcards’ exploitative intentions to perpetuate these stereotypes contribute to erasure and enforce looking at Native Americans through a white perspective. For these reasons, these postcards exist as a specific form of propaganda, as they publicize damaging stereotypes of Native Americans through an entertainment beloved by United States’ society. 
+
+
+In contrast to the harmful ways in which these Oklahoman postcards depict Native Americans, the Pawnee Nation’s website includes galleries of their own images, which they deem to be representative of themselves. These pictures feature images from Pawnee Homecomings and community gatherings, as well as Pawnee City Council meetings. While the Oklahoma postcard’s supported white society’s stereotyping of Native American people, the Pawnee Nation’s website represents the nation’s lived reality. 
+
+
+Even now, the first sentence of the Oklahoma Historical Society page titled American Indians reads, “American Indians living in Oklahoma have a complicated, interesting, and unique history”8. These adjectives trivialize the plight of nations that were dispossessed of the places they had called home and forced to move to Oklahoma. Further, these three extremely vague adjectives do not mention that Native Americans persevere despite everything that has been wrongfully taken from them, including the control over their own images.![](2023-spring-web-resources/image/1.png)
+
+
+![](2023-spring-web-resources/image/Group.png)
+
+
+
+
+
+
+
+
+“[I]t is important to to note who was selling the pictures in these scenarios, and whose picture was being bought.”
+
+
+
+
+
+
+
+
+Postcard from 1910, with Seal of the Territory of Oklahoma
+
+
+
+
+The Propaganda of Postcards |  Klassen
+
+
+
+
+
+![](2023-spring-web-resources/image/klassen-3-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+(Figure 1) 1910 postcard displaying a group of Native Americans 
+
+
+
+
+
+![](2023-spring-web-resources/image/klassen-4-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+(Figure 2) Circa 1920 postcard Featuring a Native American 
+
+
+mother and child
+
+
+
+
+
+![](2023-spring-web-resources/image/klassen-5-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+(Figure 3). 1941 postcard depicting members of the 
+
+
+Pawnee Nation 
+
+
+
+
+Photography |  Andelson
+
+
+
+
+
+![](2023-spring-web-resources/image/klassen-6-andelson-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Resilience in motion. members of the Meskwaki Nation keep their culture alive--and authentic--at their Pow-Wow in 2020. Photograph by Jon Andelson
 
 
 
@@ -4108,35 +1586,281 @@ Rabalais finishes the final touches on my tattoo and snaps a few pictures to pos
 
 
 
-![](2023-spring-web-resources/image/Burchit-2-volume-viii-issue-1-spring-2022.png)
+![](2023-spring-web-resources/image/allen-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo by Katie Kriegel
 
 
 
 
-![](2023-spring-web-resources/image/Burchit-3-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-Dom Rabalais poses wth two of his canvses and, of course, the canvas he has made of his body
+Associate Editor Marty Allen ’23 is a native Grinnellian. He is a graduate of Grinnell College, where he earned his degree in Computer Science. Outside of school, Marty enjoys making and listening to rap music, playing jazz alto saxophone, and skateboarding. He is a black first-generation student and was the only Grinnell high school student in the ‘19 class year to attend Grinnell College. 
 
 
 
 
-
-![](2023-spring-web-resources/image/Burchit-4-volume-viii-issue-1-spring-2022.jpg)
-
-
-
-
-![](2023-spring-web-resources/image/Burchit-5-volume-viii-issue1-spring-2022.jpg)
-
-
-
-“There’s a bond between the tattoo-er and the machine, the wielder of the tool and the tool itself, that can only be built through experience.” 
+\*All sources for the information in this issue’s “...of the Prairie” feature appear in Endnotes in the back of the issue. Other entries in this issue’s “Technology on the Prairie” feature appear on pages 49, 62, 71, 86 & 104 .
 
 
 
 
+Technology 
+
+
+on the Prairie\*
+
+
+
+
+by Marty Allen
+
+
+
+
+The Midwest, which is often referred to as the “Heartland,” is celebrated for its scenic rolling prairies, rich farmland, and storied agricultural history. But beyond its pastoral charm, the Midwest has also been a cradle of innovation and a source of game-changing inventions that have transformed American and global society. From the steamboat to the telephone, the Midwest has long been a fertile ground for ingenuity and creativity. 
+
+
+This feature will showcase some of the most notable inventions that originated in the Midwest, but it’s important to note that this is just a small sampling of the technological contributions made by people living in this region. I was inspired to explore these inventions by a fascinating article on onlyinyourstate.com, which offers intriguing facts and insights about the diverse states that make up the U.S. By examining the impact of these inventions on society, we can gain a greater appreciation for the pivotal role the Midwest has played in shaping American culture and technology. 
+
+
+Technology on the Prairie
+
+
+The First Electronic Digital Computer
+
+
+Invented in 1941, the Atanasoff-Berry Computer (ABC), named after its inventors John Vincent Atanasoff (https://en.wikipedia.org/wiki/John\_Vincent\_Atanasoff) and Clifford Berry (https://en.wikipedia.org/wiki/Clifford\_Berry), is considered the first of its kind. Although some people believed the ENIAC computer (https://en.wikipedia.org/wiki/ENIAC) to be the first, it was later found that ENIAC used ideas that were originated by the creators of ABC. The ABC was designed for solving systems of linear equations. To do this, it used binary numbers, storing them as data through use of capacitors, which are devices used to store electrical energy. This concept of storing data in capacitors paved the way for modern computers. 
+
+
+The ABC was a bulky machine that weighed around 700 pounds and measured roughly six by three by three feet. The ABC could perform about 30 operations per second. In conrast, highlighting the vast difference in computational power between the ABC and modern computers, today’s machines are capable of performing billions, or even trillions of operations per second, making them able to handle complex tasks such as data analysis, machine learning, and artificial intelligence. ![](2023-spring-web-resources/image/1.png)
+
+
+
+
+
+
+
+
+Technology on the Prairie |  Allen
+
+
+
+
+
+![](2023-spring-web-resources/image/allen-2-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+A replica of the Atanasoff-Berry Computer at Iowa State University. Photo courtesy of Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Atanasoff-Berry\_Computer.jpg)
+
+
+
+
+
+
+
+
+\*All references appear in Endnotes in the back of the issue.
+
+
+
+
+Photo courtesy of Saul Chan Htoo Sang
+
+
+
+
+Emma Walsh recently graduated from Grinnell College with a Bachlor’s degree in Biology. She dreams of attending medical school to make a difference in people’s lives through medicine, art, and empathy. In her free time, she enjoys writing and reading creative poetry, playing with watercolors, and visiting animals at the local shelter. 
+
+
+
+
+
+![](2023-spring-web-resources/image/walsh-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Author photo
+
+
+
+
+Four-Legged People: Five Poems\*
+
+
+
+
+by Emma Walsh
+
+
+
+
+Let a man decide upon his favorite animal and make a study of it...let him learn to understand its sounds and motions. The animals want to communicate with man, but Wakan-Tanka does not intend they shall do so directly —man must do the greater part in securing an understanding. 
+
+
+  —Brave Buffalo of Standing Rock 
+
+
+  Reservation (Lakota)1
+
+
+Recently, I learned about the Oglala Lakota tribe’s history and relationship with bison, the largest land mammal in North America. In the mid-sixteenth century, the North American prairie was home to an estimated 40 million bison and tens of thousands of Lakota people. By the mid-nineteenth century, the bison had all but been eradicated and the Lakota population, greatly reduced, forced into reservations. For the Oglala and Lakota, bison are incredibly meaningful culturally and spiritually.2 To them, the bison are one with the Earth and represent all growing and living beings.3 In myth, the “White Buffalo Cow Woman”4 presented the Oglala with a sacred pipe and seven sacred rites, providing the Oglala with wisdom, survival, and power.5 While the buffalo, otherwise known as Wakan-Tanka, represent all beings, they are also equated specifically with women. I was inspired by the bison’s central role in Oglala Lakota understandings of the natural world and social relationships, and as a poet I wanted to express my thoughts and feelings about the bison in verse. In the poetry that follows, I combine my recent encounters with bison in central Iowa at the Neal Smith National Wildlife Refuge with what I’ve learned about the Oglala Lakota. I have learned about the Oglala Lakota’s relationship with bison from a mix of primary and secondary sources which I’ve included below. I have only begun to learn about the bison and the Oglala Lakota, and recognize how much I do not know. My learning and application of it is shaped by my experiences, which are not indigenous. 
+
+
+the prairie is a privilege 
+
+
+A friend’s water bottle sticker reads, the prairie is a privilege, and I ask what that means to him. 
+
+
+The prairie is a privilege, he says, with its mixed grasses, one of the most endangered 
+
+
+ecosystems in the world. 
+
+
+The prairie is a privilege, home to sixty million bison for ten thousand years, until mass killing 
+
+
+committed first by white hunters, who sold hides and meat, 
+
+
+then by travelers, shooting from trains for greed. 
+
+
+In eighteen eighty-three the 
+
+
+United States Army forced starving Native people deprived of their food and way of life 
+
+
+to live on reservations, bringing Native Americans under U.S. government (white men’s) control 
+
+
+ “minimizing
+
+
+conflict”
+
+
+between Native Americans and foreign settlers 
+
+
+ “encouraging” 
+
+
+ Native Americans to 
+
+
+ “take on the
+
+
+ ways of 
+
+
+ white men”7 
+
+
+The prairie is a privilege,
+
+
+ holding within its rich roots the bleached white bones of sacred beings,
+
+
+ once one of the most abundant large animals of all time.
+
+
+herds were stampeded by American military men
+
+
+ for land and for freedom. maimed masses at the bottom of cliffs for the 
+
+
+ repression 
+
+
+and
+
+
+ death
+
+
+ of fellow human beings. 
+
+
+
+
+Four-legged People |  Walsh
+
+
+
+
+watching the bison 
+
+
+do not come  too close to me, he says, with strong brown eyes that contain the world. 
+
+
+ 
+
+
+She stands atop 
+
+
+packed black dirt, 
+
+
+Facing me 
+
+
+as I forget my self, forget my name, feel my breath, feel hers too 
+
+
+ 
+
+
+Shadows cast by the afternoon sun. reflecting their sacred bodies, 
+
+
+moral behavior power survival entangled within their woolly dense fur 
+
+
+ 
+
+
+the tatanka,“buffalo,” are four-legged people, 6 
+
+
+ 
+
+
+who hold a mystery of sacred life, 
+
+
+which travels 
+
+
+ in dust 
+
+
+formed playfully wallowing, rubbing their backs 
+
+
+ with packs 
+
+
+of Earth’s colorful skin. 
+
+
+
+
+
+![](2023-spring-web-resources/image/walsh-2-Andelson-Buffalo-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Jon Andelson
 
 
 
@@ -4146,24 +1870,4210 @@ Dom Rabalais poses wth two of his canvses and, of course, the canvas he has made
 
 
 
-![](2023-spring-web-resources/image/Burchit-6-volume-viii-issue-1-spring-2022.jpg)
 
 
 
-The Evolution of an Artwork: After consulting with his client on the design, Dom Rabalais bdgins by outlining the figure (left, and left below) 
+“That animal was like a part of 
 
 
-A tatoo design sometimes requires several visits before a it is fully developed, particularly if—as here—Rabalais is working on several tatoos at once. During later sessions, the artist will add detail and color
+ourselves, a part of our souls.”
 
 
-
-
-
-![](2023-spring-web-resources/image/Burchit-7-volume-viii-issue-1-spring-2022.jpg)
+-Lakota medicine man Lame Deer8
 
 
 
-Rabalais seated at a workstation dedicated to another of his passions: music
+
+Four-legged People |  Walsh
+
+
+
+
+becoming a woman
+
+
+red smoke 
+
+
+ escapes into the sky from the buffalo cow
+
+
+  as a calf is born, 
+
+
+chokecherries and water are placed in a wooden bowl, 
+
+
+a new woman and medicine man drink the red liquid like buffalo. 
+
+
+She is painted red, sacred like her first menstrual flow. 
+
+
+She is now a buffalo Woman, one with the White Buffalo Cow Woman, who brought sacred ceremonies so 
+
+
+the Oglalas may live. 
+
+
+ Bison are one with the universe, naturally containing the
+
+
+ totality
+
+
+ of all manifest 
+
+
+ forms of 
+
+
+ life.9 
+
+
+
+
+
+![](2023-spring-web-resources/image/walsh-3-volume-ix-issue-1-spring-2023.png)
+
+
+
+Photo courtesy of Joan Van Gorp
+
+
+
+
+excerpts and notes from Where Have All the Bison Gone?10 
+
+
+ 
+
+
+without regular fire, 
+
+
+ woody plants
+
+
+invade 
+
+
+ the meadows, displacing 
+
+
+the grass. 
+
+
+more firearms than fire sent
+
+
+ eastern bison on a 
+
+
+ long
+
+
+ slow 
+
+
+ slide to 
+
+
+oblivion. 
+
+
+the bison do not run once hunters begin killing the herd. They do not flee the unknown cloud of black smoke
+
+
+ from Sharps rifles, boom! 
+
+
+Why does the herd stand for slaughter?
+
+
+was it because the boom sounded like a thunderclap? 
+
+
+or maybe, the bison were not scared of man. 
+
+
+ Bison are powerful animals, with 
+
+
+hooves sinking deep 
+
+
+into Earth.
+
+
+they turn directly to face
+
+
+ harsh winter winds, 
+
+
+ shake their heads in snow to find buried grass. 
+
+
+the Bison do not fear the human, but teach them to live well.
+
+
+
+
+
+![](2023-spring-web-resources/image/walsh-4-volume-ix-issue-1-spring-2023.png)
+
+
+
+Photo by Jun Taek Lee 
+
+
+
+
+Four-legged People |  Walsh
+
+
+
+
+Maka Ina, ‘Mother Earth’
+
+
+Unšike, ‘the pitiable,’11
+
+
+ some traditional Ogalala women believe in the pipe and the sacred rites.
+
+
+they pray to Wakantanka. Smoke the pipe and wait. 
+
+
+  they are concerned with unšike, the common people of the world. 
+
+
+ the white man is nothing more than a visitor to their world, one day destined to pass into oblivion. 
+
+
+ 
+
+
+ The buffalo and old Indigenous people will be born again. 
+
+
+They look longingly
+
+
+ out at the prairie, 
+
+
+and wake 
+
+
+from sleep with visions and
+
+
+premonitions, 
+
+
+ sometimes visited by loved ones long passed. 
+
+
+these Women are believed to be powerful because they are close to the spirit world.
+
+
+
+
+
+![](2023-spring-web-resources/image/walsh-5-volume-ix-issue-1-spring-2023.png)
+
+
+
+Photo courtesy of Joan Van Gorp
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Lucien Akira DeJule
+
+
+
+
+Lucien Akira DeJule (he/him) graduated from Grinnell College in May of 2023 with a degree in English. His passion lies in writing, specifically fiction writing. He loves to craft and create engaging stories and hopes to continue this journey post-grad. While he has no specific plans after college, he’ll be living in Colorado with his partner, excited to start reading for fun again. 
+
+
+
+
+\*All references appear in Endnotes in the back of the issue.
+
+
+
+
+Wolves Under Threat: A Deep Dive into the Endangered Species Act\*
+
+
+
+
+by Lucien Akira DeJule
+
+
+
+
+In early December 2020, the Wisconsin Department of Natural Resources (DNR; https://dnr.wisconsin.gov) announced a wolf hunt to take place in November of 2021, marking its first wolf hunting season in seven years.1 Under Wisconsin state law, the state is annually required to allow a wolf “harvest,” the official name of the hunts, from the first Saturday of November to the end of February.2 Mere weeks before this hunt, the American gray wolf (Canis lupis) was stripped of the protections it had enjoyed for 40 years under the Endangered Species Act (ESA; https://www.fws.gov/law/endangered-species-act). The removal of federal protections of the gray wolf enacted this law, which required the state to hold a hunt. However, the decision to remove gray wolves happened in the middle of its hunting season and some saw not holding a hunt while the state could hold one as a violation of its requirement. In response, Hunter Nation Inc., a Kansas based hunter-advocacy group, sued the Wisconsin DNR to expedite the season from beginning in November of 2021, to starting in February of 2021, only lasting until the end of that month3 The Courts found that the Wisconsin DNR failed its requirement as a state agency by refusing to establish an open hunting season until the end of February. Thus, the season began February 22nd at midnight and lasted until the end of the month. Wolf advocates and conservation groups opposed this hasty harvest, mainly due to the breeding season for the gray wolf, happening only once a year from late January to early March, beginning during this hunt. “[K]illing pregnant wolves generally eliminates any spring pup production in their respective packs,” and the risk of doing so was unreasonably high during this hunt.4 But they could do nothing as a quota of 200 wolves was set (119 for the state and 81 for the Ojibwa).5 From February 16th to the 20th, 18,503 people applied for a harvest license.6 And based on the 119 non-native hunter quota, 2,380 were approved, and 1,584 licenses (65 percent of those awarded) were sold.7 
+
+
+On February 24, 72 hours after the season started, the hunting season ended early due to the quota already being surpassed. Two-hundred-eighteen wolves were “harvested” over three days, exceeding the set quota.8 The number of wolves hunted over these three days, while similar to previous years, was normally reached over the course of four months. Moreover, these were all non-native hunter kills, since the Ojibwa chose not to participate in the late winter “harvest,” saying it was “especially wasteful and disrespectful.”9 That means that non-native hunters killed 99 more wolves than authorized. Sources also say that the quota was surpassed before the hunt even ended, as non-native hunters checked-in 182 wolves on February 19, 2021.10 Before the hunt, Wisconsin reportedly had around 1,195 wolves. However, Wisconsin’s wolf management goal is 350 wolves on non-reservation land, one-third of the estimated number. Even though the season was contentious, the Wisconsin DNR still saw it as successful, as it decreased the number of wolves, bringing it closer to the department’s preferred level.11 
+
+
+The American gray wolf was listed under the ESA for nearly 45 years before its removal. Only 54 species have ever been removed from the list successfully and 56 species downgraded from “endangered” to “threatened” status since the Act’s inception.12 The process is difficult, reflected in the small number of successful removals. However, this was not the first time the United States Fish and Wildlife Service (USFWS; https://www.fws.gov) has attempted to strip the protections on gray wolves. After four failures and one small win, most of the gray wolf population remains protected under the ESA. On every attempt, the Service claims that some part of the wolf population has recovered enough to be delisted. On this most recent attempt, the USFWS decided to delist all wolves across the United States, sparking major controversy due to the scale of its attempt. In response, national conservation groups sued the agency for, primarily, not adequately analyzing the remaining threat against wolves that still warrants their federal protections. As you will see, this attempt appeared hasty, seemingly skipping over many steps in the delisting (removing from a list, specifically when stripping security or protections) process. By inspecting the events closely, they illuminate ulterior motives that are potentially political, separate from the official listing process, which could be detrimental to the future of the American gray wolf and its status under the ESA.
+
+
+The Endangered Species Act
+
+
+In 1973, the Endangered Species Act (ESA) became law, providing legal protections for many plant and animal species, including the American Gray Wolf. There has never been an accurate count of gray wolves in the United States. At the beginning of European settlement of the future United States, estimates varied between 250,000 and two million wolves.13 By 1960, hunting, poisoning, shooting, and government-funded wolf-extermination efforts had caused gray wolf numbers to plummet as they were extirpated from nearly 90 percent of their original range.14 And by 1974, aside from a few scattered individuals and a larger population in Alaska, wolf numbers had dwindled to a shocking 1,000 total, far less than even one percent of their estimated original population, residing in northern parts of Minnesota and Isle Royal, Michigan.15 Following the listing of the gray wolf under the ESA, efforts were made to support an increase in their numbers through protections, sanctions for wolf hunting, and reintroduction programs. Over the next 40 years, their population rebounded to nearly 6,000 in the lower 48 United States and continues to grow.16 To help explain the history of the status of gray wolves under the ESA, this article includes a timeline of that information. It also includes maps that visualize the changing protections of wolves over the course of the listing. 
+
+
+This resurgence has not pleased everyone. During the decades since their listing, the USFWS has made five attempts to delist the gray wolf. According to the ESA, there are five requirements for a species to be listed: “(A) The present or threatened destruction, modification, or curtailment of its habitat or range; (B) Overutilization for commercial, recreational, scientific, or educational purposes; (C) Disease or predation; (D) The inadequacy of existing regulatory mechanisms; or (E) Other natural or manmade factors affecting its continued existence.”17 Of these five factors, a species can be listed based on one, more than one, or the cumulative effect of one or more of these factors.18 But, if a species does not or no longer meets these requirements, the Service “must remove the species from the Lists of Endangered and Threatened Wildlife and Plants”.19 Even though the USFWS claims its decisions are neutral and based on scientific evidence, continual USFWS attempts at delisting gray wolves raise suspicions about political influence. In 2015, a year before Donald Trump was elected president, a survey done by the Union of Concerned Scientists (https://www.ucsusa.org) found that 74 percent of the scientists working at the USFWS thought that “political interests” were considered too heavily in making policy and regulation decisions.20 Even though Congress managed to delist a population segment of gray wolves in the Northern Rocky Mountains in 2011, almost every other attempt at delisting failed due to lawsuits filed by various conservation groups like the Defenders of Wildlife (https://defenders.org) and the Humane Society of the United States (https://www.humanesociety.org). However, in 2020, the USFWS published a proposed rule that would return the wolf to peril.
+
+
+Delisting the Gray Wolf
+
+
+On November 3, 2020, USFWS wrote a proposal to delist the American gray wolf entirely from the ESA. On January 4, 2021, the USFWS acted on this proposal, removing all gray wolves listed as a threatened or endangered species in the lower 48 United States. Before this “Final Rule” came into law, gray wolves were listed as two entities: “C. lupus in Minnesota, listed as threatened; and C. lupus in all or portions of 44 U.S. States and Mexico, listed as endangered.”21 Originally, these two groups were listed as distinct and separate species due to the constraints on the statutory definition of “species” under the ESA in 1973. At the time they were listed, though, in order to better manage the dangerously low population in the lower 47 United States (sans Minnesota and before the Northern Rocky Mountain DPS was delisted), the USFWS had listed the two species together.22 
+
+
+However, due to this hasty listing, the Service attempted to argue that gray wolves could be delisted solely because they did not meet the statutory definition of “species.” Prior to 1978, the Endangered Species Act defined “species” as an overarching term that includes all subspecies of fish, wildlife, or plant and “any other group of fish and wildlife of the same species or smaller taxa in common spatial arrangement that interbreed when mature.”23 For clarity, “taxa” is a term that is used in the science of biological classification which, in this case, denotes variations of a species sharing a common ancestor. Then, in 1978, Congress amended the latter half of this definition, changing it from “any other group” to, “any distinct population segment of any species of vertebrate fish or wildlife which interbreeds when mature.”24 This revision restricted the application of this definition specifically to vertebrate populations, but because of this change, listing a certain group of a “species” is now not restricted to just formal taxonomic terms, but includes subspecies, and for vertebrates, distinct population segments. 
+
+
+A distinct population segment (DPS) is a statutory, jargonized phrase used only by the ESA to constitute a “species.” In essence, “this term allows population segments that are sufficiently discrete and significant to be considered their own ‘species’ within the context of the ESA, despite belonging to a larger taxonomical species.”25 In the case of the gray wolf, the only distinction between the two groups was their location (Minnesota versus the rest of the lower 48 United States). Because of that, if wolves were listed after Congress revised the definition of “species,” these two ‘species’ would be considered DPSs. In its argument, the USFWS conducted genetic research that illuminated the genetic similarity among the two groups of wolves due to their interbreeding.26 Specifically, the Service highlighted wolves in Michigan and Wisconsin as being genetically similar to those in Minnesota because of their proximity. Through that point, the USFWS concluded that under the current ESA, the two entities were unlikely to be listed as species. Thus, through an error that was never revised, the USFWS wanted to delist these two entities based on it. This was made possible by a 2019 revision of the ESA’s implementation policy. This revision states the Service must “distinguish between a ‘listed entity’ and a ‘species,’” and concluding that “an entity that is not a ‘species’ as defined under the Act” should be removed from the List.”27 However, this was not the only argument for delisting. And instead of just basing its argument on a technicality, the Service also provided more science-based evidence for the decision. 
+
+
+To accomplish this, the Service engaged in a bit of creative accounting. Since legally, gray wolves were listed as two entities (Minnesota and the lower 48 United States), the USFWS decided to use three different methods of assessment to determine the status of the American gray wolf. It assessed the gray wolf population in three ways: as separate groups (Minnesota and the other lower 48 United States), as combined into a single entity (without the Northern Rocky Mountain (NRM) wolves, which had already been delisted), and as a single gray wolf entity that includes all the gray wolves in the lower 48 states (including the NRM wolves).28 Based on its genetic analysis of all the wolf populations covered under the ESA, the USFWS concluded that the DPS designation wasn’t meaningful and that all gray wolves in the lower 48 United States should be combined into one entity. This method differed starkly from the USFWS’s previous attempts to delist the gray wolf. In previous attempts, the agency designated a certain DPS of the population in order to delist that group. Because this effort failed many times, the Service decided instead to lump all gray wolves into one big population whose numbers, it could then claim, were large enough to indicate that the wolf could safely be delisted. 
+
+
+The Service connected many dots in order to coalesce the population. The Service already genetically connected wolves from Minnesota to wolves from Michigan and Wisconsin—more commonly known as the Western Great Lakes (WGL) DPS. However, it provided similar evidence to support connections made between the West Coast States wolves and the North Rocky Mountains (NRM) wolves. Since the NRM DPS was previously removed from the List in 2011, through genetic analysis, the USFWS linked wolves in western Washington, western Oregon, and northern California with the NRM DPS to argue for their delisting.29 If the West Coast wolves and the NRM wolves were not distinct from each other, then their proximity would warrant their combination. Because of these genetic interrelations, the USFWS proposed that all these wolves be seen as one entity: the wolves of the lower 48 United States and Mexico which includes wolves from the NRM DPS even though they are already delisted. 
+
+
+The “Final Rule” from the Service concludes that the existence and recovery of the two largest meta-populations (spatially separate populations of species that interact, on some level, with the rest of the population) of wolves—the Western Great Lakes and the Northern Rocky Mountains—is proof that gray wolf populations can now sustain themselves.30 However, this analysis does not take into account all protected gray wolves across the entirety of their listed range—Minnesota and the other lower 48 United States and Mexico. Specifically, the Service’s determination highlights the WGL DPS and the NRM DPS as the basis for claiming their recovery. Although the WGL DPS contains over 4,000 wolves (two-thirds of the protected population), it does not account for every wolf protected under the ESA.31 The lack of research and analysis done on the rest of those states sparks suspicion, as it raises the question: how does someone determine if a species is “recovered?” The sheer scale of this delisting caused mixed reactions in the wider American community. On one hand, hunting, farming, and more rural communities, like the ones in Wisconsin, rejoiced at the opportunity to cull wolf populations to manageable levels for the safety of their livestock and families. However, this ruling did not last for long as conservation groups felt this “Final Rule” was unlawful and brought legal action to protect the wolves once again. 
+
+
+Re-listing the Gray Wolf
+
+
+In the aftermath of the Wisconsin wolf “harvests,” in 2021, the Defenders of Wildlife, Wildearth Guardians, and the Natural Resources Defense Council, conservation groups dedicated to the preservation of the Earth’s ecological resources, sued the U.S. Fish and Wildlife Service and the U.S. Department of the Interior over the “Final Rule” delisting the gray wolf. While not the primary motivator for this lawsuit, the premature hunting season shocked many Americans. Most of the news media at the time came out against the cull, highlighting the threat of extinction if such hunts continued. In line with most media, one argument made by the plaintiffs claimed that the USFWS “improperly relied on inadequate and outdated state plans for gray wolf management” when deciding to delist gray wolves both in and out of the Western Great Lakes DPS.32 However, the Court found the Service’s management plans to be sufficient and denied these claims. Thus, the threat of extinction after delisting was not the primary focus of the lawsuit. Rather, the suit highlighted both how the Service inadequately accounted for the loss of the gray wolf ‘s historical range and how it based a delisting argument on an insufficient statutory definition. Thus, the battle did not concern a determination of whether the gray wolf species would survive without protections, instead focusing on how the Service failed to provide sufficient reasoning to delist the species in the first place. The suit claimed the agency skipped steps and blindly jumped into loopholes instead of performing suitable analysis to back these claims. The Service’s claims appeared rushed, and many groups of wolf-advocates suggested ulterior motives due to this observation.
+
+
+ The District Court of the Northern District of California found that the USFWS’s use of statutory definitions of “species” to delist was dangerous, as Congress did not intend for these amendments “to remove protections for already-listed entities.”33 After reviewing that section of the “Final Rule,” the Court concluded that the argument was a type of “statutory dodge.”34 The USFWS had already made similar attempts before, trying to designate and delist distinct population segments of gray wolves in 2007 and 2014. This conclusion highlights the Service’s underhanded methods of delisting species, illuminating the ulterior political motives that may have driven this effort. The Service even tried to “ask the Court to disregard this analysis as unnecessary to its determination,” urging the court to redress this mistake.35 The request was denied. 
+
+
+The plaintiffs’ next argument focused on the USFWS’s failure to analyze gray wolves across the entire lower 48 states. They contended that the USFWS based its decision on “the purported recovery of wolves in the [Western] Great Lakes and Northern Rocky Mountains.”36 Plaintiffs stated that the actions of the Service here were no different from previous attempts to delist the gray wolf. Each time, the USFWS’s attempts failed because it focused solely on the larger meta-population of wolves, claiming their recovery reflected the entirety of the species. Specifically, the Courts looked closely at the West Coast wolves, previously listed as endangered, to determine whether there was adequate reasonable explanation for removal of protections. The 2020 rule claimed the genetic similarities between the West Coast and NRM wolves warranted their delisting, as the NRM wolves could support their population. However, the studies that the USFWS relied on to make its claims of genetic similarity also noted that “wolves with coastal ancestry ‘should be considered a priority for conservation given their unique evolutionary heritage and adaptations.’”37 Despite these genetic similarities, the USFWS decided to ignore this statement when writing its Final Rule, further illuminating its hasty and messy claims. The Court said the USFWS’s decision to combine these DPSs was “arbitrary and capricious,” granting victory to the defenders of the wolves. 
+
+
+Furthermore, the plaintiffs challenged the USFWS’s interpretation of the phrase “significant portion of its range”38 in reference to the gray wolf’s historical range. In order to delist a species, the Service must determine if it is “no longer threatened or endangered throughout all or a significant portion of its range.”39 The Endangered Species Act still does not define this phrase, keeping it “inherently ambiguous.”40 The USFWS tried to define it in 2014 but failed to do so. In that light, the Service explains in the Proposed Rule, the public draft before the Final Rule delisting wolves, how it has not officially determined the meaning of the phrase, but it “assessed ‘significant’ based on whether portions of the range contribute meaningfully to resiliency, redundancy, or representation of the gray wolf entity being evaluated without prescribing a specific ‘threshold.’”41 Basically, the decision to determine whether the population was significant was at the discretion of the Service, with the Service permitted to argue for “any reasonable definition of ‘significant.’”42 With a standard this flexible, there is no objective measure that can be used to define what is a “significant portion” of the wolves’ former range. For example, the Final Rule states that the NRM and West Coast states’ wolves could add to the resiliency, redundancy, and representation of the species.43 But in another part of the Rule, it concludes that wolves in these portions of the range are not significant to the redundancy or resiliency of the species as they occur in small numbers, having relatively few breeding pairs.44 Since it could not be defined, the Court found the phrase superfluous, which helped poke more holes in the validity of the “Final Rule.”
+
+
+The plaintiff’s last objection noted the USFWS’s failure to evaluate the impact of the loss of the gray wolf’s historical range. Plainly, the Court stated, “the Final Rule fails to adequately grapple with the causes and effects of historical range loss.”45 The Service argued that analyzing “the threat of human-caused mortality” was sufficient enough to wrestle with the loss of historical range, since human-threat was the primary cause for it.46 Moreover, the Service supported its argument by adding that since there are state laws already in place to protect wolves and that no active “eradication” program exists in their “current” range, “lost historical range does not threaten the species with extinction.”47 However, the Courts found that the analysis the USFWS referenced only accounted for the human-threat in the gray wolf’s “current” range, which covers only 15 percent of the historical range.48 Primarily, the Service didn’t adequately address the impact of this significant loss in historical range and its “possible enduring consequences” for the gray wolf.49 Thus, for all these reasons, the Court found this rule unlawful and vacated it. On February 10, 2022, wolves won again, gaining back their previous protections.
+
+
+Conclusion
+
+
+Seventy-four percent of scientists working for the USFWS believed that political interests were too influential in the making of policy and regulation decisions.50 The numerous failed attempts by the USFWS to delist wolves suggests political rather than scientific motives, especially considering the Service’s consistent failure to adequately analyze the gray wolf’s historical range. In addition, public opinion around wolf conservation has been favorable. A 2014 survey study found 61 percent of respondents had a positive attitude towards wolf conservation.51 Another recent study found that Colorado residents felt positively about wolf reintroduction and conservation.52 To further these findings, a 2021 study about politics and attitudes toward wolves noted that political affiliation strongly impacted opinions about wolf conservation and management.53 They found that Democrats consistently held positive views of wolf conservation while all other political categories had no notable positive or negative views.54 Another study found that in some specific areas of the country, political affiliation can actually determine perceptions on wolves, specifically identifying the Pacific Northwest as one of these areas.55 In aggregate, these studies suggest that wolf management has become a partisan issue. Because USFWS scientists believe the agency is heavily influenced by politics, and considering the aforementioned studies, these findings suggest connections between political affiliation and perceptions towards wolves. Whether these affiliations influence the USFWS decision is unclear.
+
+
+Rural communities and ranchers directly impacted by wolf management policies are more likely to hold negative attitudes toward wolves.56 Concerns about the potential danger to people and pets posed by wolves, the loss of hunting opportunities due to wolf predation, and potential wolf predation on livestock, all mean that wolf management legislation can directly impact rural communities.57 Opponents of wolf protection frequently cite livestock losses in media reports concerning wolf management. The economic threat to rural livelihood through these losses motivates much legislation against wolf conservation. However, these concerns may be anecdotal, as research show wolves have little impact on livestock loss.
+
+
+In 2019, for instance, the Humane Society investigated the reported numbers of cattle and sheep deaths due to wolves in the United States. Interestingly, the Society found stark differences between the statistics published by the U.S. Department of Agriculture-Animal and Plant Health Inspection Service (USDA-APHIS; https://www.aphis.usda.gov) and the USFWS. For instance, the USDA claims wolves killed 4,360 cattle in 2015, while the USFWS verified only 161 losses.58 According to the Humane Society, the USDA collected its data from a few, mostly unverified sources, “which the USDA then extrapolated statewide without calculating standard errors or using models to test relationships among various mortality factors.”59 USDA’s methods suggest it exaggerated livestock losses due to wolves, folding losses to all “native carnivores and dogs” into the total and inflating statistics far beyond predation solely due to wolves.60 Such misinformation informs public policy, “including helping to fuel countless legislative attacks on wolves… and the Endangered Species Act by Congress.”61 
+
+
+Astoundingly, even if the USDA’s wolf-predation statistics are given credence, the numbers pale in comparison to other causes of livestock loss. The USDA reported that in 2017 cattle and sheep killed by wolves only make up one percent of unwanted livestock deaths per state.62 Most unwanted livestock losses are due to “health, weather, theft and birthing problems.”63 Moreover, it also reported that domestic dogs kill “100 percent more cattle than wolves and 1,924 percent more sheep.”64 Thus, at best, even if the USDA’s statistics were correct, predation due specifically to wolves has a negligible impact on livestock. 
+
+
+As the proposal for delisting all wolves from the ESA was published on election day, it was one of the last regulatory measures the Trump administration enacted before the end of his term. However, even before this rule, the administration rolled back numerous environmental regulations, including making many changes to the ESA to weaken it, making delisting easier. One of these changes removed the phrase “without reference to possible economic or other impacts of such determination,” in reference to any decision made under the ESA.65 This introduced economic and “other impacts” in determining whether a species qualified to be listed. Moreover, the Service removed the practice of providing a future “threatened” species with the same protections as endangered species automatically, requiring that the protections to be determined by the species’ conservation needs.66 Due to the ESA defining “threatened” status as “any species that is likely to become an endangered species within the foreseeable future throughout all or a significant portion of its range,” this would require the USFWS to explain the extent of these threats in the “foreseeable future” as probable.67 In essence, these changes would make it more difficult to list future species, allow them to keep their protections, and make delisting easier by drawing more attention to the economic impacts of protecting a species. All the while, the Trump administration argued its incentive to “loosen regulations” was to reduce “the regulatory burden on the American people” while “providing the best conservation results.”68 The administration saw these changes as positive, while many critics and conservation groups said these revisions would “make it harder for the US government to safeguard a species that is found across a wide range of the country” and, furthermore, “handcuff regulators from protecting wildlife from the climate crisis.”69 While not concrete evidence, the trend in legislation on environmental policies predating the delisting of the gray wolf illuminates possible political influence threatening wolves’ protections. 
+
+
+Following the re-listing of the American gray wolf, multiple unhappy parties filed appeals which were in mediation until February 26, 2023. On that day, the Circuit Mediator of the Appeals Court ordered a temporary stay on appeals until February 2, 2024, for administrative purposes. The U.S. Fish and Wildlife Service intends to submit another proposed rule concerning the listing status of the gray wolf in the lower 48 states when the stay lifts.70 If history repeats itself, most likely another effort will be made to delist the gray wolf. Only time will tell whether the next ruling will favor them.![](2023-spring-web-resources/image/1.png)
+
+
+
+
+Wolves Under Threat |  Akira DeJule
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-2-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Gray Wolf (Canis Lupus). Image by Wikiimages from Pixabay
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-3-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-4-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+1978 Gray Wolf Protections Map 
+
+
+(Figure 1, above)
+
+
+1998 Gray Wolf Protections Map 
+
+
+(Figure 2, below)
+
+
+![](2023-spring-web-resources/image/1978_Gray_Wolf_Protection_(Fig._1).jpg)
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-5-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+2003 Gray Wolf Protections Map (Figure 3)
+
+
+![](2023-spring-web-resources/image/1978_Gray_Wolf_Protection_(Fig._1).jpg)
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-6-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wolves Under Threat |  Akira DeJule
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-7-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-8-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+![](2023-spring-web-resources/image/dejule-9-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+
+
+
+
+2007 Gray Wolf Protections Map (Figure 4)
+
+
+2009 Proposed Gray Wolf Protections Map 
+
+
+(Figure 5)
+
+
+![](2023-spring-web-resources/image/1978_Gray_Wolf_Protection_(Fig._1).jpg)
+
+
+
+
+2009 Reissued Gray Wolf Protections Map
+
+
+(Figure 6)
+
+
+![](2023-spring-web-resources/image/1978_Gray_Wolf_Protection_(Fig._1).jpg)
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-11-volume-ix-issue-1-spring-2023.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-10-volume-ix-issue-1-spring-2023.png)
+
+
+
+“A Brief History of Wolves Under the 
+
+
+Endangered Species Act” Inforgraphic 
+
+
+ Created by Lucien Akira DeJule
+
+
+![](2023-spring-web-resources/image/1978_Gray_Wolf_Protection_(Fig._1).jpg)
+
+
+
+
+2011 Gray Wolf Protection Map (Figure 7)
+
+
+2020 Gray Wolf Protection Map (Figure 8)
+
+
+![](2023-spring-web-resources/image/1978_Gray_Wolf_Protection_(Fig._1).jpg)
+
+
+
+
+All Wolf Protection Maps 
+
+
+ created by Lucien Akira DeJule
+
+
+![](2023-spring-web-resources/image/1978_Gray_Wolf_Protection_(Fig._1).jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“[B]y 1974, aside from a few scattered individuals and a larger population in Alaska, wolf numbers had dwindled to a shocking 1,000 total, far less than even one percent of their estimated original population...”
+
+
+
+
+
+
+
+
+Wolves Under Threat |  Akira DeJule
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-12-volume-ix-issue-1-spring-2023.png)
+
+
+
+Image by OpenClipart-Vectors from Pixabay
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-13-volume-ix-issue-1-spring-2023.png)
+
+
+
+Image by Mostafa Eltturkey from Pixabay
+
+
+
+
+
+
+
+
+“[H]ow does someone determine if a species is ‘recovered?’”
+
+
+
+
+
+
+
+
+Wolves Under Threat |  Akira DeJule
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-14-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Image by Rain Carnation from Pixabay
+
+
+
+
+“[T]he battle was not concerned with whether the gray wolf species would survive without protections, rather it criticized how the Service failed to provide sufficient reasoning to delist the species in the first place, as if the agency skipped steps and blindly jumped into loopholes instead of performing suitable analysis to back these claims.” 
+
+
+
+
+
+
+
+
+
+
+
+
+Wolves Under Threat |  Akira DeJule
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-15-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Image by 942784 from Pixabay
+
+
+
+
+
+
+
+
+“Astoundingly, even if the USDA’s wolf-predation statistics are given credence, the numbers pale in comparison to other causes of livestock loss. The USDA reported that in 2017 cattle and sheep killed by wolves only made up one percent of unwanted livestock deaths per state .”
+
+
+
+
+
+
+
+
+Wolves Under Threat |  Akira DeJule
+
+
+
+
+
+![](2023-spring-web-resources/image/dejule-16-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Image by Angela from Pixabay
+
+
+
+
+
+
+
+
+Technology on the Prairie
+
+
+The First Skyscraper
+
+
+When we think of skyscrapers, we often imagine towering structures in bustling cities like New York. However, the first skyscraper, the Home Insurance Building, was built in the Midwest, specifically in Chicago, Illinois, in 1885. The 10-story (138 feet tall) building was designed by William Le Baron Jenney (https://en.wikipedia.org/wiki/William\_Le\_Baron\_Jenney), who is credited with being the “father of the skyscraper.” In 1891, two more floors were added to the building, bringing it to 180 feet in height. What made this building unique was that it was constructed using a steel frame, which allowed it to be much taller and stronger than traditional masonry buildings. Its design featured a base that was wider than the top, which helped to evenly distribute the weight of the building. The exterior was made of brick and terra cotta, with large windows that provided ample natural light and ventilation. 
+
+
+Inside, the open floor plans were made possible by the steel frame. The building was also one of the first to use elevators. It was an instant success, setting the standard for future skyscraper designs. Its construction marked the beginning of a new era of tall buildings around the world, with many cities following in Chicago’s footsteps and adding other innovative construction techniques to the use of steel frames. Although the Home Insurance Building was demolished in 1931 to make way for another, larger skyscraper called the Field Building (https://en.wikipedia.org/wiki/Field\_Building\_(Chicago)), its legacy as the first true “skyscraper” lives on.![](2023-spring-web-resources/image/1.png)
+
+
+
+
+The Home Insurance Building, first skyscraper in the world. Photo courtesy of Wikimedia Commons (https://en.wikipedia.org/wiki/Home\_Insurance\_Building#/media/File:Home\_Insurance\_Building.JPG)
+
+
+
+
+
+![](2023-spring-web-resources/image/allen-3-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+Is Renewable Energy Enough? |  Enshayan
+
+
+
+
+
+![](2023-spring-web-resources/image/Enshayan-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photos courtesy of Kamyar Enshayan
+
+
+
+
+ Kamyar Enshayan works at the University of Northern Iowa’s Center for Energy & Environmental Education (https://ceee.uni.edu), and is involved in building a thriving food system as well as community energy initiatives. He has also served on the Cedar Falls City Council. His latest initiative at UNI involves what he calls a Homecoming education, where the students focus on addressing seemingly intractable local problems through research, planning, collaboration and action. 
+
+
+
+
+\*All references appear in Endnotes in the back of the issue.
+
+
+
+
+Is Renewable Energy Enough?\*
+
+
+
+
+by Kamyar Enshayan
+
+
+
+
+In our current energy culture, we feel entitled to unlimited and wasteful energy use, whenever and wherever we want it, and that it ought to be cheap too. A fantasy of limitlessness. We assume that we can have a 100 percent “clean” energy economy without making any changes in the way we live, do business, or conduct our daily lives. 
+
+
+A few years ago, when attending a conference on clean energy for climate stability, I heard presentations on plans for 100 percent renewable energy for each state, mostly through wind and solar electricity. Clearly, we do need to rapidly discontinue the use of oil, coal, and natural gas, and invest in renewable energy. The question, “What about the need for significant energy conservation?” yielded the response from the prominent engineer who was presenting: “With 100 percent of our energy needs met with wind and solar, there is no need to conserve energy!” 
+
+
+Discussions of the future of energy are often framed in terms of supply; what energy sources will we use to keep our economy going? The fossil fuel industry has an on-going and vigorous smoke-and-mirrors show offering numerous false energy solutions—algae, ethanol, carbon capture, nuclear, clean coal, clean gas—all of which involve more fossil energy, more toxic materials generated, and land degradation. The narrative of the environmental movement is that solar and wind energy will meet our unlimited energy demand without any fundamental changes in the way we live or use energy and materials. 
+
+
+As a nation, and as local communities, we need to frame our discussion of the future of energy (and climate) in terms of habits, community processes, and policies that lead to significant reduction in energy demand and material use for a livable future. It is not enough to “decarbonize,” but also necessary to detoxify (i.e., alternatives to daily materials in our lives that are derivates of fossil fuels) and use less material. How do we build a social movement that offers practical alternatives to a culture of extreme consumption? 
+
+
+ In Our Land, Ourselves, a book by the Trust for Public Land1, the authors ask a provocative question: “The conservation movement succeeds brilliantly in saving hundreds of thousands of acres of land each year, but somehow provides no broadly recognizable cultural counterpoint to America’s otherwise materialistic society. The conservation movement is largely silent on choices Americans make about how one should live. Is there no dissonance in saying that a movement is devoted to saving land but not devoted to fighting the consumption that destroys the land?” I keep thinking about this foundational question and what “a recognizable cultural counterpoint” might look like in practice. What are the key elements of such a culture, and what are some of its recognizable features? 
+
+
+In Our Only World,2 Wendell Berry offers insights related to these questions: “The long-term or permanent damage inflicted upon all life, by the extraction, transportation, and use of fossil fuels is certainly one of the most urgent public issues of our time, and of course it must be addressed politically. But responsibility for the better economy, better life, belongs to us individually and in our communities.” Berry suggests that we not only need renewable energy, but also less energy and material when he writes, “The unlimited use of any energy would be as destructive as unlimited economic growth, or any unlimited force. If we had a limitless supply of free, nonpolluting energy, we would use the world up even faster than we are using it up now.” 
+
+
+We need guidance! If you have a ton of credit card debt and need help addressing the situation, you go to a consumer credit counselor. Their advice: cut up your credit cards and develop a strict plan to get you back on track towards living within your means. Similarly, our continued and ruinous dependence on fossil energy and extreme material consumption are proving to be like the credit cards that we need to put aside. 
+
+
+The consensus is that human activities are at the root of the climate crisis, and yet there is so little said about what exact human activities we are going to change in our households, communities, and regions! We need to urgently develop a robust plan to use less, to live within our means, in this case, within the energy and material limits of our region and the planet. What might such plans look like? Well worth a community conversation. 
+
+
+Where might we draw inspiration that we are capable of impactful collective action to address a crisis? Naomi Klein (https://naomiklein.org) discusses this in This Changes Everything when she writes, “...we humans have shown ourselves willing to collectively sacrifice in the face of threats many times, most famously in the embrace of rationing, victory gardens, and victory bonds during WWI and WWII. Indeed, to support fuel conservation between 1938 and 1944, the use of public transit went up by 87 percent in the U.S. and 95 percent in Canada. Twenty million U.S. households–representing three fifth of the population–were growing victory gardens in 1943, and their yields accounted for 43 percent of the fresh vegetables consumed that year.” 
+
+
+And of course, back then, there was robust public transportation in place to depend on. I often share with my students an image of an electric trolley in operation in my neighborhood in Cedar Falls in 1890. Clearly, we have regressed in public transportation! As late as 1959, there were daily passenger trains all over Iowa in addition to electric trolleys in so many Iowa communities, taking away the need for car ownership, which is very costly and requires a vast quantity of materials. 
+
+
+Same with clotheslines! It is not that hard to estimate the length of a train carrying coal needed to dry clothes in a community if every household used a clothes dryer, and pretty much everyone does in the U.S. (For Cedar Falls, Iowa, the coal train would be roughly a mile long). Are we not even willing to start using less energy by doing the simplest of all carbon emission reduction, by simply hanging our clothes on clothes racks or clotheslines? We can do similar estimates of when the lights are left on unnecessarily, when spaces are air-conditioned unnecessarily, and the list of system-wide wasteful energy practices go on and on. It is much cheaper to cut energy waste than put up solar panels (which require energy and material to manufacture) to keep on wasting energy! 
+
+
+Public transportation, a local and regional food system, fresh-air clothes drying, and gardening are all very achievable; a lot less traveling is doable and not catastrophic like destructive storms, floods, or droughts. The sooner we adopt these personally and communally, the more options we will have as we make more significant progress towards less energy and more community. 
+
+
+Renewable energy, while necessary, is not enough, and is not the whole story. Community scale innovations and cultural approaches that result in energy and material down-sizing are going to be key to a livable future. Institutions of higher learning can be a force in clarifying the confusing false energy solutions, technological fundamentalism, and injustices of an extractive economy. They can also help greatly by demonstrating the multitude of ways people of a region can develop their cultural capacity to live within the limits of their region without inflicting damage to other regions. Furthermore, they can create opportunities for their students to be involved in turning what we already know into action at the community scale in their region. ![](2023-spring-web-resources/image/1.png)
+
+
+Sources: 
+
+
+
+
+
+
+
+
+ “Community scale innovations and cultural approaches that result in energy and material down-sizing are going to be key to a livable future” 
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/enshayan-2-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Sky in Cedar Falls, Iowa. January 23, 2023
+
+
+
+
+Is Renewable Energy Enough? |  Enshayan
+
+
+
+
+
+![](2023-spring-web-resources/image/enshayan-3-volume-ix-issue-1-spring-2023.png)
+
+
+
+Trolley tracks on the street with overhead electical lines at College Hill in Cedar Falls, Iowa. 
+
+
+
+
+
+![](2023-spring-web-resources/image/enshayan-4-volume-ix-issue-1-spring-2023.png)
+
+
+
+Trolley system on East 4th St. Waterloo, Iowa, 1957
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/Fieser-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Saul Chan Htoo Sang![](2023-spring-web-resources/image/Joanie's_headshot_(courtesy_of_Saul).jpg)Sang
+
+
+
+
+Joanie Fieser (she/her) graduated from Grinnell College in May 2023 with a degree in biology. She aims to restore ecosystems, connect people and nature, and pursue interesting stories-- especially through documentary film. Tommy Fieser, featured in this article, is one of Joanie’s two older brothers. Both of them inspire her in big ways. 
+
+
+
+
+This article uses vocabulary that may be unfamiliar to those not versed in natural building. For reference, a glossary of terms is provided at the end of the article. An asterisk (\*) indicates inclusion in the glossary. Interviews have been edited for brevity and clarity.
+
+
+
+
+\*All references appear in Endnotes in the back of the issue.
+
+
+
+
+Tight, Insulated, and Thermally Massive\*
+
+
+Rethinking Residential 
+
+
+Architecture in 
+
+
+Columbia, Missouri
+
+
+
+
+by Joanie Fieser
+
+
+
+
+A group of mid-Missourians are rethinking residential architecture for a more natural, affordable kind of urban home. Their favored building material? Straw. Now, this is not the easily huffed-puffed-and blown-down straw house of the three little pigs. Rather, these straw bale houses are exceptionally airtight, well-insulated, and thermally massive (see “Ask Tommy” sidebar), making them particularly energy efficient as well as carbon-sequestering\*. Columbia, Missouri, changemakers Adrienne Stolywk and Tommy Fieser (the author’s brother) are among this group of passionate people embarking on a journey to build these houses within city limits, though they are most often found in rural areas without building codes. Now that their first in-town natural building\* project (an accessory dwelling unit\* in Adrienne’s backyard) is operational, Adrienne and Tommy spoke with me about their natural building inspirations, experiences, and plans for the future. 
+
+
+Meet the Builders
+
+
+Adrienne Stolwyk (https://monarch-architecture.com/about-us/) is a licensed architect in Columbia, Missouri, who is at the forefront of natural building compliant with city code. She is especially interested in net zero\* buildings—that is, those built with carbon-sequestering materials and designed to consume minimal energy throughout their lifespans. Adrienne got her start with straw bale construction\*, a type of natural, carbon-sequestering architecture, during a summer internship with the Lama Foundation (www.lamafoundation.org) near Taos, New Mexico, overlooking the hazy bluish Sangre de Cristo Mountains. While she plastered rustic houses with the same reddish clay on which they stood, Adrienne began to wonder how the natural building techniques practiced at the remote Foundation could be applied in a city, where building codes must be followed. 
+
+
+That experience at the Lama Foundation sparked something in Adrienne that she carried into the final semesters of her 5-year architecture degree and beyond. During the conversation excerpted in this article, Adrienne remarked that, while straw bale is a legitimate building methodology, “it’s happening on the fringes and is going to stay on the fringes unless people try to construct these buildings in cities... If no one in a suburb ever sees [a straw bale house], then how will they ever know that it’s a possibility?” Also in her last year of study, Adrienne started researching accessory dwelling units (ADUs) as a method of increasing affordable housing units in cities. Carrying her creativity and inspiration with her, she graduated from Kansas State University with a Master of Architecture, moved to Columbia, and began working at a commercial architectural firm. 
+
+
+All the while, Adrienne’s interests in straw bale and ADUs persisted. In 2012, she quit her job and traveled across the U.S. for inspiration. Along the way, she was delighted to meet other people already doing the things she aspired to do. In Santa Cruz, California, Adrienne met David Foster, who lobbied his city government to pass an ADU ordinance and built a straw bale ADU in his backyard. In La Plata, Missouri, Adrienne honed her interior plastering skills alongside artistic builders at the Possibility Alliance (https://www.youtube.com/watch?v=RNal2GyIH\_g). In Moab, Utah, she worked with Community Rebuilds (www.communityrebuilds.org), a nonprofit motivated to “build [affordable] energy-efficient housing, provide education on sustainability, and improve the housing conditions of the workforce.” 
+
+
+After her travels, Adrienne returned to Columbia, got married, had a couple of kids, got her architect license, and started her firm, Monarch Architecture (https://monarch-architecture.com/). Along with her husband, Adam, and some friends, Adrienne formed a group called Enhancing Columbia’s Housing Options (ECHO), which successfully lobbied the City of Columbia to adopt an accessory dwelling unit ordinance in 2014. The ordinance was passed as a pilot program, making just two or three thousand lots in the city of Columbia eligible for backyard ADUs. Adrienne hopes this will be a first step towards a more widespread acceptance of ADUs. At last, in 2020, Adrienne and Adam broke ground on a straw cell\* ADU in their backyard. 
+
+
+ 
+
+
+Tommy Fieser (https://www.youtube.com/playlist?list=PLdWn1dZEGhFnxD6KPYt2fppMhpZefUIWX) is a natural builder in Columbia, Missouri. He was hired as the subcontractor for Adrienne’s ADU. Tommy was first introduced to natural building in an Expanding Environmental Consciousness course he took during his undergraduate studies at Truman State University. His class visited the Possibility Alliance, the same intentional community that Adrienne visited, then located near La Plata, Missouri. During his visit and subsequent volunteering in the community, Tommy began to ponder how natural architecture varied across the nation. Earthships\* and Pueblo-style homes populate the drier climates of the Southwest, while straw bale houses are more common in the Midwest, where cold winters and humid conditions demand robust insulation and breathable materials. He researched the varied building traditions of Native Americans. Like Adrienne, he traveled to various communities in the US known for their natural buildings. He marveled that, in every place he visited or read about, natural building styles differed according to climate and availability of resources. It happens that in Missouri, the place Tommy calls home, straw bale seems to be the most popular method, so that is what he has pursued most.
+
+
+JF: How does the ADU compare to other energy efficient architecture? 
+
+
+AS: In my commercial design experience, there was emphasis on air tightness, exterior insulation, different mechanical systems, building orientation, and other energy-efficient techniques. However, there was never much thought put into the types of materials selected. I have come to value safer, carbon-sequestering building materials that will some day decompose, in place of the carbon-demanding materials used in conventional buildings, like steel and cement. 
+
+
+JF: How has regulation regarding straw bale construction changed over the past several years? 
+
+
+AS: Ten years ago, people would have to find an architect or structural engineer who knew something about straw bale and prove to their city’s building department that straw bale construction was legitimate. However, as of 2015, the International Residential Code (https://codes.iccsafe.org/content/IRC2021P2/appendix-as-strawbale-construction) has included an appendix—Appendix AS—that says if you want to build with straw bale, here’s how you have to do it. In other words, if you meet all the criteria in the appendix, you’re good. That appendix was born of decades of research and legitimizing straw bale construction. Now, because of Appendix AS, anybody can lobby their local authorities to adopt its standards, making it easier than before to build a straw bale house within city limits. 
+
+
+JF: What kind of obstacles would a homeowner likely encounter in building a straw cell ADU? 
+
+
+AS: First of all, the financing is tricky. Banks lend money for single family homes all the time, but are more hesitant to do so for atypical constructions like straw cell ADUs. We did a lot of the work ourselves, and the total cost of our ADU with solar panels came out to be about $115,000. Even though it can be tricky, it isn’t impossible to finance this type of project. Second, in most cases, the homeowner essentially must become a general contractor for their ADU, and that is a huge undertaking. Sometimes, even if the homeowner has realized that their lot is eligible for an ADU, they might not be in a position to apply for financing. Between those two things –the difficulty of financing and the scale of the project—I’m not surprised that not that many ADUs have been constructed. 
+
+
+JF: How could your straw cell house be improved? 
+
+
+AS: I’m trying to figure out how to more easily maintain natural structures. In my backyard house, sometimes little bits of sand slough off. Better plastering methods could minimize this, but it’s not really a problem for me. Still, I imagine a situation in which young kids are hard on the walls, maybe coloring on them with crayon. In a conventional house, you can just spackle and paint over such damage and it’s fine. With a natural building, you can certainly fill gaps and holes, but finishing isn’t as easy as putting a coat of latex paint on it. Latex paint messes with the vapor profile, potentially trapping moisture in the wall and creating conditions prone to rot. Thus, I’m figuring out a way to combine straw cell construction with gypsum board or some other conventional inter- ior material that is easier to repair and paint. 
+
+
+JF: Why are you interested in net zero straw bale housing? 
+
+
+TF: The two main ways we impact and interact with our environment are our food and housing systems. I enjoy gardening, but I’m more drawn to the latter. I know a lot of people who farm and garden, so I feel as though natural housing is the least emphasized, at least in my community. There is a lot of work to be done to get natural buildings to a state fit for our urban Missouri environment. Specifically, more straw bale sample houses need to be built to increase awareness that they are a viable option for in-town building. 
+
+
+JF: Why build net zero straw bale houses? 
+
+
+TF: The net zero straw bale housing modelled in Adrienne’s ADU is desirable because it is tight, insulated, and thermally massive. These three characteristics work together to use energy very efficiently. If you have a good thermal shell from the outside environment, like you get when you combine airtightness, insulation, and thermal mass, then you don’t need to use your air conditioner or heater as much to maintain a comfortable living environment. (See the “Ask Tommy” sidebar for a deeper dive into these terms.) 
+
+
+JF: What is an energy recovery unit and how does it work? 
+
+
+TF: An energy recovery unit provides fresh air while making the most of energy used for heating and cooling. In Adrienne’s house, there are two energy recovery units, controlled by electricity and located in opposite walls. One brings air into the house while the other pushes air out, and they switch directions every five minutes. In essence, an energy recovery unit consists of a fan surrounded by rock. As the air that is conditioned inside (i.e., warmed or cooled by a heater, stove, or AC) moves outside, the rocks take on the temperature of the outgoing air. When the fans switch directions, fresh air from outside passes over these rocks that are conditioned to the house’s internal temperature. Thus, the house is filled with fresh air from outside that is conditioned by the air that was inside. In other words, the unit recovers the energy used by your heater or AC from outgoing air and uses it to condition incoming air. This cuts down on overall energy use.
+
+
+JF: Why build an ADU? 
+
+
+AS: ADUs aren’t the only solution for affordable/workforce housing, and they certainly aren’t the quickest solution, at least not yet. However, they are more of a grassroots solution. Compared to big housing complexes that people typically don’t like in their neighborhoods, ADUs are necessarily smaller, less conspicuous, and don’t drastically change the character of the neighborhood. Relatedly, ADUs create affordable housing in the areas it is needed most. While it’s easier to build on the periphery of a city— fewer constraints, fewer neighbors to complain— affordable housing on the outskirts of a city is not very helpful unless you have a car. If the housing isn’t accessible via public transit or within walking distance of an employer, then it’s not that useful for the people who really need workforce housing. 
+
+
+Additionally, ADUs better enable intergenerational living. Nursing homes and childcare are not affordable for many families in the US. As the “silver tsunami” of baby boomers reaches retirement age, backyard houses may become homes for elderly family members, and those elderly members may offer childcare to busy parents. This system of intergenerational living could offer refreshing social dynamics, especially given the social isolation often experienced in retirement homes. To that end, ADUs lend themselves to ADA accessibility. It is often easier to build a new house than to retrofit an old house to be accessible. 
+
+
+Lastly, ADUs allow more opportunity to experiment with different types of architecture, like straw bale or other forms of natural building. It’s less of a commitment and financial challenge to build a small straw bale house in your backyard than to build a full-sized straw bale house and have it be the only structure on your property. 
+
+
+JF: What other ideas do you have on increasing housing accessibility and limiting environmental impact?
+
+
+ 
+
+
+AS: I think we need to build more houses, but I don’t think that’s the only solution. In the US, we have a lot of land that’s already been developed, and lots of houses with lots of bedrooms, but we are not using them efficiently, or sometimes even at all. To address the housing shortage, we could better distribute people into the housing stock that already exists.
+
+
+JF: What are your plans for the future? 
+
+
+AS: Oregon-based ADU expert Kol Peterson (https://www.buildinganadu.com/about) said that the next step after constructing some ADUs in your town is to show that ADUs can be a good thing: Parking isn’t creating all sorts of problems, and the character of the neighborhood isn’t ruined by a couple of little backyard houses that aren’t even visible from the street. After you get some good press, then you can push the regulations a bit more. With this advice in mind, I’m hosting an open house next month. It will include my house and four other ADUs in the area. In the long term, I would like to advocate for a Missouri state law allowing accessory dwelling units to be built in any residential zone. In 2020, California passed a similar law. I think that that could be a really powerful thing in Missouri. 
+
+
+I think the key to getting more naturally built accessory dwelling units installed on the face of the planet is prefabrication. To my knowledge, few people have attempted straw bale prefabrication on a large scale. I’m excited about prefabrication, but as of now, I can’t see an investor being convinced that I could do ten straw bale houses in a given time frame. We’ll have to start with one prefabricated house, just to show that it is possible. Then, hopefully that will convince people to support more prefabricated straw bale houses. 
+
+
+Another obstacle in prefabrication is labor. Straw bale construction is very time-consuming and requires many hands. I’m brainstorming ways to hire people for short periods of time to prepare prefabricated walls—maybe we could rent a large, climate-controlled indoor space and hire seasonal workers for a few weeks in the winter, when other work is hard to come by. 
+
+
+TF: Right now, I am focused on another building project with my dad and on running my handyman business. Nonetheless, I continue preparation for my own straw bale house. I’ve been preparing for about four years now, but each year has brought a lot of helpful knowledge. I have a lot in Columbia that I plan to build on, and have already planted some pawpaws, elderberries, and persimmons there. I want to use as many repurposed materials as possible, so that is an ongoing collection. I’ll be documenting the whole process on my YouTube channel, Tommy Tommy Fieser (www.youtube.com/@tommytommyfieser), because I think it is important to share my knowledge and process with people. Straw bale is something worth talking about! ![](2023-spring-web-resources/image/1.png)
+
+
+
+
+Tight, Insulated, and Thermally Massive |  Fieser
+
+
+
+
+
+
+
+
+“It’s happening on the fringes and is going to stay on the fringes unless people try to construct these buildings in cities.”
+
+
+
+
+
+
+
+
+Adrienne and Adam’s accessory dwelling unit (ADU) in Columbia, Missouri. The more conventional aesthetic of the ADU helps it blends into the neighborhood. Just looking at it, you wouldn’t guess what lies within! Photo courtesy of Adrienne Stolwyk.![](2023-spring-web-resources/image/Joanie's_headshot_(courtesy_of_Saul).jpg)Sang
+
+
+
+
+
+![](2023-spring-web-resources/image/fieser-2-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/fieser-3-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+![](2023-spring-web-resources/image/fieser-4-volume-ix-issue-1-spring-2023.png)
+
+
+
+
+![](2023-spring-web-resources/image/fieser-5-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+![](2023-spring-web-resources/image/fieser-6-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Progress over time. After the ADU’s exterior was complete, work began inside on straw bale installation and plastering. Photos courtesy of Adrienne Stolwyk. 
+
+
+
+
+Tight, Insulated, and Thermally Massive |  Fieser
+
+
+
+
+
+![](2023-spring-web-resources/image/fieser-7-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+A look inside: the interior of Adrienne and Adam’s straw cell ADU. The house consists of a bathroom, open kitchen/dining room/office space, bedroom, and storage loft. Photo courtesy of Adrienne Stolwyk. 
+
+
+
+
+
+![](2023-spring-web-resources/image/fieser-8-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Cross-sectional diagram of the exterior of the straw cell ADU. The pressure-treated toe-up protects the straw bales from moisture and rot. Courtesy of Monarch Architecture.
+
+
+
+
+
+![](2023-spring-web-resources/image/fieser-9-volume-ix-issue-1-spring-2023.png)
+
+
+
+A close-up of the dining area. Note the insulative, thermally massive straw bale walls, most apparent in the window well. Photo courtesy of Adrienne Stolwyk. 
+
+
+
+
+
+![](2023-spring-web-resources/image/fieser-10-volume-ix-issue-1-spring-2023.png)
+
+
+
+Tight, Insulated, and Thermally Massive |  Fieser
+
+
+
+
+Cross-sectional diagram of the interior of the straw cell ADU. Courtesy of Monarch Architecture.
+
+
+
+
+
+
+
+
+Ask Tommy: What Does “Tight, Insulated and Thermallly Massive” Mean?
+
+
+By tight, I mean airtight. Imagine you build an igloo with plenty of insulation and thermal mass, but you don’t fill in the cracks. It will be drafty, not airtight. All that insulation is worth little if cold air can seep in through the cracks. In a straw bale house, airtightness must be balanced with the necessity of the straw bales in the wall to “breathe”. If you cover a straw bale in a vapor impermeable material, like plastic or concrete, it will mold and ruin the wall. Rather, you must cover the bales in a breathable material like clay plaster. Moisture can still go in, but it can also go out. If a bale gets wet, it’s okay because it can dry. Airtightness saves energy because unconditioned outside air is forced through the thermally massive insulation or energy recovery unit instead of just seeping through the cracks. 
+
+
+Insulation is important for obvious reasons, especially here in the Midwest where the temperature swings can be large. For example, 30 degrees to 70 degrees over the course of a day is fairly common. Insulation creates an internal environment that is buffered from the outside, making it so the temperature inside remains stable despite changes outside. The building code requires walls with an R-value\* of 13 or 15. For reference, a blow-up camping mattress is typically around R-4. If you put three or four of those camping mattresses together, you would get the equivalent insulation of a conventional wall. By contrast, straw bale walls are often at least 17 inches thick and have an R-value of around 30. Furthermore, straw bales serve as a natural insulator that stores carbon in the form of organic matter. Thermally broken\* slabs are also useful.
+
+
+Thermal mass has to do with the heat capacity\* of a material. In a variable environment like the Midwest, you want high heat capacity insulation. Dense materials like clay, rock, and water have high heat capacities and thermal mass, maintaining their temperature even as conditions change. If you open the door of your cozy house in winter, you’ll let all your warm air escape. But, if you build with thermally massive materials, your walls and floor will store heat, which will diffuse into the room even after you open the door and thus rebalance the internal temperature of the house without extra energy use.
+
+
+
+
+
+![](2023-spring-web-resources/image/fieser-11-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+“I think we need to build more houses, but I don’t think that’s the only solution.”
+
+
+
+
+
+
+
+
+The ADU features a full kitchen with storage. Photo courtesy of Adrienne Stolwyk.
+
+
+
+
+The bathroom in the ADU. Photo courtesy of Adrienne Stolwyk.
+
+
+
+
+Tight, Insulated, and Thermally Massive |  Fieser
+
+
+
+
+
+![](2023-spring-web-resources/image/fieser-12-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Straw bale is something worth talking about!”
+
+
+
+
+Note the tadelakt\* shower wall in the bathroom.Photo courtesy of Adrienne Stolwyk.
+
+
+
+
+
+![](2023-spring-web-resources/image/fieser-13-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+Glossary
+
+
+Accessory Dwelling Unit (ADU): Independent housing units created within single-family homes or on their lots. Also referred to as a mother-in-law house or backyard house1 
+
+
+Carbon-sequestering: A term to describe materials (such as plant tissue) that store carbon captured from the atmosphere. Carbon dioxide in the atmosphere is a major culprit of the greenhouse effect and climate change. Like all plants, members of the grass family assimilate carbon as they grow. Therefore, when that straw made from grasses is used in straw bale construction, the carbon is stored within the walls for the lifetime of the building. In this way, straw bale construction sequesters carbon and thereby helps to reduce the amount of carbon in the atmosphere that contributes to climate change.2
+
+
+Earthship: Any of several passive solar\* houses based on the designs of New Mexican architect Michael Reynolds3
+
+
+ 
+
+
+Heat capacity: The amount of energy it takes to raise the temperature of a substance by 1°C . In other words, heat capacity is the substance’s ability to resist change in temperature upon exposure to a heat source. A substance with a small heat capacity cannot hold much heat energy and thus warms up quickly. On the other hand, a substance with a high heat capacity can absorb much more heat without its temperature drastically increasing.4 
+
+
+Natural building: Alternative building methodology that uses natural materials in place of conventional man-made materials like cement and steel
+
+
+
+
+Net zero home: A residential structure with an annual net-energy consumption of zero; a home that produces (e.g. with solar panels) as much energy as it uses annually5
+
+
+Passive solar: An architectural design that uses the sun’s energy for heating and light without energy6 
+
+
+R-value: A unit of thermal resistance used for comparing insulating values of different materials; the higher the R-value, the greater its insulating properties2
+
+
+Straw-bale construction: Natural building method featuring bales of straw in place of standard construction materials for structural elements and/or insulation7
+
+
+Straw cell: A type of straw bale construction featuring conventionally framed walls with cellulose insulation in the stud cavity and plastered straw bales on the interior8
+
+
+Tadelakt: A decorative, seamless, waterproof, lime-based plastering surface used as an alternative to tile and often used in bathrooms. Sometimes called Moroccan plaster, this is a traditional technique in the Marrakesh region of Morocco.9
+
+
+Thermally broken: A construction featuring thermal breaks; that is, materials that conduct energy poorly, thereby reducing the flow of thermal energy between conductive materials. Thermal breaks help prevent heat from escaping a building.10
+
+
+
+
+
+
+
+
+Technology on the Praire |  Allen
+
+
+
+
+Technology on the Prairie
+
+
+The Discovery of 
+
+
+Helium in America
+
+
+Helium is an important gas for a wide range of applications, useful in nuclear reactors, MRI machines, welding, and scientific research. It was first observed in 1868 by French astronomer Pierre Janssen and English astronomer Joseph Norman Lockyer when they noticed a particular yellow light being emitted from the sun’s atmosphere during a solar eclipse. Lockyer decided to call this new element helium, named after the Greek word for sun, “helios”. 
+
+
+However, it was believed to be rare on Earth and wasn’t extracted in the United States until 1905 when a geologist named Hamilton Cady and a mining engineer named David McFarland were drilling for natural gas in Dexter, Kansas. They noticed that some of the gas samples contained an unknown gas that did not behave like any of the other gases they were familiar with. After many months of careful experimentation and analysis, Cady and McFarland were able to determine that the unknown gas was, in fact, helium. By 1907, Cady stated that helium was in fact quite common. To illustrate the significance of this fact: before Cady’s discovery, the amount of helium sufficient to fill a small blimp (roughly 40,000 cubic feet of the gas) would have cost $100 million. After Cady’s discovery that amount only cost $1,200. ![](2023-spring-web-resources/image/1.png)
+
+
+
+
+
+![](2023-spring-web-resources/image/allen-4-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+a helium-filled tube shaped like the element’s atomic symbol Photo courtesy of Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HeTube.jpg/640px-HeTube.jpg)
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/clotfelter-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Beryl Clotfelter
+
+
+
+
+Born in Oklahoma in 1926, Beryl Clot-
+
+
+felter moved to Kansas at the age of two
+
+
+and lived in southern Kansas until he en-tered college in 1944. After college, he did graduate work in and received a PhD in physics. After two years as a research physcist for Phillips Petroleum company, Beryl chose to return to academia, and he taugh in universities in Idaho and Oklahoma. In 1963, he moved to Grinnell College, where he is now Professor Emeritus of Physics.
+
+
+
+
+Tornadoes in Kansas
+
+
+
+
+by Beryl Clotfelter
+
+
+
+
+Each year, tornadoes cause billions of dollars in damage in the U.S.1, cause 1,500 injuries, and claim 80 lives2. Though tornadoes have been recorded in all fifty U.S. states, some states definitely have more than others. When I was a boy, my family lived for eight years in “Tornado Alley,” that part of the Great Plains that experiences frequent tornadoes. Our home was on the west edge of Coats, Kansas, in the central part of the state. According to the National Weather Service, Kansas averages 96 tornadoes per year.3 The most was in 2008, when over 180 tornadoes struck.4 
+
+
+Where my family lived the land was sufficiently flat that we could stand in our yard and see farmhouses two or three miles away. In tornado season, we could see tornadoes even farther away—rotating funnels hanging from clouds, with their lower tip in the air or on the ground. Whenever we’d spot one, we had to decide whether it threatened us. If it didn’t, we watched the show. If it did, immediate precautions were in order. 
+
+
+The drama would begin on a warm afternoon in the spring or summer when thunderclouds began to form. At first, they would be mostly white, but as they grew and rose upward their color darkened to a point that we had to turn the lights on in the house. Within a few minutes the clouds moved over us and soon rain began to fall and drove us inside. Rain began falling in sheets, lightning flashed, and thunder crashed and rumbled. Someone in the family began to scan the roiling and churning clouds for signs of tornadic activity. 
+
+
+There was no television to tell us that tornadoes were in the area, and there was no radar to let a met- eorologist see a tornado from afar. It was every man for himself, and one estimated the danger from the appearance of the sky and the sounds that the storm made. It was generally understood that there would be a roaring sound before a tornado struck, but that might be a very short-time warning. More important was the intensity of the rain and the appearance of the sky, whether it was boiling with strong winds within the clouds. A decision to take the family to the storm cellar had to be based almost entirely on what one could see, and at night, we had to depend on observations made possible when lightning flashes provided glimpses of the night sky. 
+
+
+Usually, of course, there were no tornadoes to be seen, but occasionally one could spot what appeared to be a funnel hanging down from the cloud and possibly, eventually, reaching the ground. If it touched the ground, it began to pick up dust and small debris and lift them into the air. The tornado might be so small as to be almost insignificant, but it could also develop into something large enough to be highly destructive. 
+
+
+Like many Kansans, we had a storm cellar at our home. It was about 20 feet to the northeast of the house, a fact that worried my mother because she feared that a tornado, which was most likely to come from the southwest, might blow the house over onto the storm cellar and block the door so that we would be trapped inside. The cellar was of a traditional design, with a slanted door that hid a set of steps going down into a small room. I think the walls and floor were concrete, and I suppose that the slightly domed roof was concrete with dirt over it. Grass grew on top of the storm cellar. The room was not large, and it certainly was not equipped to be a comfortable place to spend the night. The walls were lined with shelves that were loaded with glass jars of canned food, and whenever we were down there, we were sharing the space with various critters that like a damp and cool environment. I suspect that anyone interested in studying varieties of spiders and other animals with more than four legs, or perhaps with no legs, could have had a field day there. 
+
+
+I remember several nights when I was roused from a sound sleep and told that we were going to the storm cellar. I put on shoes, pulled a raincoat over my pajamas, and dashed from the house to the cellar through the rain. The way was illuminated by lightning flashes and a flashlight. I think we had a kerosene lamp in the cellar itself so that we had some light there, but I do not remember whether we had anything to sit on or whether we simply stood. After everyone was safely inside, my father stood at the door, holding it open enough to see the sky and perhaps spot a tornado if one approached, although the house blocked much of his view of the relevant part of the sky. After the storm had lightened, or at least he thought that the danger had passed, we returned to the house and went back to bed. I do not remember how difficult it was to get back to sleep after such excitement. 
+
+
+All the tornadoes that I remember seeing were relatively narrow, and their path of destruction when they were on the ground was on the order of 100 yards wide. I knew nothing of the tornadoes that we read about today, which are half a mile or even a mile wide, and which devastate large areas. I saw farmhouses and barns that had been struck by tornadoes and completely destroyed, but the tips of the funnels that touched the ground were usually slender enough that some buildings on a farm might be destroyed while others remained relatively untouched. Surprisingly, we never experienced any tornado damage to our own place, but I saw enough destroyed buildings and farmsteads in our neighborhood to develop great respect for tornadoes’ power. Tornadoes can do freakish things, but many of the seemingly improbable stories that are told are truly incredible – more fiction than fact. For example, a resident of Tornado Alley is likely to hear that the wind can drive straws into tree trunks or fence posts, but attempts to verify that in the laboratory have been unsuccessful, and it almost certainly is not true. 
+
+
+One Sunday afternoon we had a severe thunderstorm with rain, wind, thunder and lightning. Sometimes the rain came down in buckets, but whenever it became lighter my family stood in the yard and watched multiple tornadoes moving around to the west of us. They were enough to make anyone nervous. However, as evening approached, the storm cell moved away, the rain almost stopped, and the sky grew much lighter. 
+
+
+The church that my father pastored always had a Sunday evening service, but on that particular afternoon he said he was sure that no one would come after such a stormy day, so we did not go to the church. Shortly after the time when the service would normally have begun, someone came looking for us and reported that the church was full! The congregation had spent the afternoon poised to go into their storm cellars, like prairie dogs sitting beside their burrows ready to dive underground at first sign of immediate danger; once the threat had passed people turned their thoughts to the church, and more than the usual number came for the Sunday evening service. 
+
+
+I can only speculate about the thought processes that caused so many people to come to the church that evening. I doubt that any of them believed that going to church would protect them from storms. But a sense of thankfulness that they had been spared during a time when danger was visible in the air may have motivated them. Perhaps seeing a severe thunderstorm and so many tornadoes simply made people feel that it was appropriate to acknowledge that we are part of something larger than ourselves that we do not control. The church building is a place dedicated to proclaiming that fact and wrestling with its implications.![](2023-spring-web-resources/image/1.png) 
+
+
+
+
+Tornadoes in Kansas |  Clotfelter
+
+
+
+
+
+![](2023-spring-web-resources/image/clotfelter-2-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo from Wikimedia Commons
+
+
+
+
+
+![](2023-spring-web-resources/image/clotfelter-3-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo from Wikimedia Commons
+
+
+
+
+
+
+
+
+Researching Corn in Iowa and Beyond |  Schrager
+
+
+
+
+
+![](2023-spring-web-resources/image/schrager-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Author photo
+
+
+
+
+Photo courtesy of Benjamin Schrager
+
+
+
+
+Benjamin Schrager is from Olympia, Washington. He graduated from Grinnell College in 2008. With a PhD in Geography from the University of Hawai‘i at Mānoa (https://manoa.hawaii.edu), he researches food systems with an emphasis on corn and livestock. He’s currently working as an Assistant Professor in Utsunomiya University’s Department of Agriculture (https://agri.mine.utsunomiya-u.ac.jp/hpe/index.html). 
+
+
+
+
+Before my third-year at Grinnell College, I spent the summer of 2006 studying everything I could about corn in Iowa. After two years of living in Iowa, I was familiar with its rolling fields. This familiarity, however, did not mean that I understood corn any better than when I first arrived from the Pacific Northwest. I knew corn like I’d known the Columbia River – as a nearby thing that changed with the seasons. In the bustle of daily life, we know lots of things through proximity without ever digging into their complex ecologies and economies.
+
+
+As economies grow increasingly interconnected and reliant on each other, the connections also grow so complex that they prove harder to understand. Iowa’s cornfields fit into global industrial food systems like a heart that circulates corn and capital upstream and downstream to disparate locations around the world. Corn’s prominence within global food systems also attracts outside investors to Iowa’s cornfields.
+
+
+When I think about food systems on such a massive scale, I’m inclined to turn towards similarly massive concepts and categories. Into my head pops ideas like the Anthropocene, the corporate food regime, food sovereignty, alternative food networks, political ecology, sustainability, resilience, and justice. These ideas help me to make sense of the tumult that I encounter in food systems. But for those who are privileged enough to spend time researching about agriculture and food, we also have so much to learn by talking to people, listening to them with care, and getting to know a place.
+
+
+My first significant encounter with researching food took place in Grinnell over the summer of 2006, a chance that provided the foundation for my career as a critical food scholar. The sprawling 50-page output from that research, “The Failure of Economic Authority,” (https://www.grinnell.edu/sites/default/files/documents/schrager\_ben.pdf) is still hosted on grinnell.edu servers. Over that summer, my mentor was Dr. Jonathan Andelson, the long-serving Director of the Center for Prairie Studies and Publisher of Rootstalk. In this essay, I’ll share about my experiences of researching aspects of corn in Iowa and beyond to Hawai‘i and Japan. 
+
+
+Researching Corn in Iowa
+
+
+I’m embarrassed to go back and listen to my initial interviews with Iowa corn farmers. I had a list of questions and bulldozed through them. “What brought you to farming?” “When did your family acquire the land you farm?” “How old are you?” The corn farmers whom I spoke with generously answered these questions, but their answers begged for follow-up questions and more space to talk. Instead, I marched on like a miner bent on mapping a cave but oblivious to the half-revealed gems I hurried past.
+
+
+Despite its flaws, my reliance on a set of questions to compare between farms provided an anchor for me as I naively waded out into the bewildering world of corn. At times, I sounded like a farmer fanboy excited to speak with someone who wakes up early, drives a tractor, and handles large animals. In interviews, I exclaimed “Wow!” so often that I eventually stopped transcribing it.
+
+
+Here’s part of an early interview with a corn farmer from June 2006:
+
+
+Ben: So once you harvested your corn what did you do with it?
+
+
+Farmer: Well, I generally store it and then sell it later. Lots of times I have my grains sold before I plant it. It’ll be for December or January or March delivery, and I have always had enough storage for my crop because I don’t like to wait in line to go to the elevator. And once you have it in the elevator your options are limited. You almost have to sell it through them. You don’t have the flexibility of selling to some other processor. See, when you sell crops early you still have the option of buying that contract back and doing something different with it. If you have the grain stored at an elevator you don’t have that option without it costing you a lot of money.
+
+
+Ben: Wow. I’ve never heard that about grain elevators.
+
+
+Farmer: The board of trade, are you familiar with that?
+
+
+Ben: No.
+
+
+Farmer: So the commodities, any of your grains or livestock, can be sold two years in advance.
+
+
+Ben: Wow.
+
+
+As much as I cringe to read this transcript, a lot of good things were happening. Foremost, I was honest about my ignorance, and the farmer graciously responded by heaping bushels of knowledge on me. As a result, I learned a lot. Once I became more familiar with the basics of corn farming, I could fumble my way towards better questions like, “How do you decide what type of seeds to use?” By the end of the summer, I could hold a decent conversation with a corn farmer. No small feat.
+
+
+Some aspects of corn farming are boring. For example, subsidies are akin to taxes, but I still persisted in asking farmers about subsidies. Rather than trying to explain this tedious paperwork to me, one farmer provided the mental shortcut he uses: subsidies basically provide him with an additional $20 per acre of corn. Little by little, I gained an incomplete but working understanding of the key forces shaping Iowa’s cornfields. 
+
+
+The number of corn farmers in Iowa continues to decrease as the remaining farms grow in size. This trend is generally true not just for Iowa corn farmers but for all conventional agricultural industries in capitalist economies. Farms decrease and the remaining farms grow increasingly massive. Scholars often explain these trends as aspects of larger concepts such as neoliberalism, financialization, and the corporate food regime.
+
+
+Today, most Americans accept tenets of “productionism,” the idea that farmers should increase production to feed the world, but this idea was anything but commonsense in 1930. Back during the Great Depression, poverty was of far greater concern. If farmers produced too much then they undermined the value of their products. These fears of overproduction abated in 1933 when the Roosevelt administration enacted price support subsidies for grains like corn and soybeans. Under this new policy, Iowa emerged as a proving ground for unrestrained production, and hybrid corn starred as a key catalyst.
+
+
+Iowa corn farmers have a special connection to capital-intensive agriculture, because hybrid corn first took hold in Iowa. Before hybrid corn, most farmers saved seed from their “open-pollinated” corn to replant the following year. Although some companies sold open-pollinated corn seeds, it wasn’t a big business. In the mid-1930s, crop scientists in Iowa made “hybrid” corn available to the state’s farmers for a nominal fee. Compared to open-pollinated corn, hybrid corn is uniform, higher-yielding, and more receptive to synthetic fertilizer. By 1940, most farmers in Iowa used hybrid corn. From Iowa, hybrid corn spread to the rest of the US and eventually the world. Hybrid corn proved to be the key that enabled some corn farms to grow massive and gobble up surrounding farmland.
+
+
+Statistics from the agricultural census reflect these trends. In 1935, Iowa had 200,000 corn farmers cultivating nearly 10 million acres. Four decades later in 1978, the number of farms halved to 104,000, but the area cultivated increased by 3.4 million acres (34 percent). Tack on another four decades to reach 2007, and the number of Iowa corn farms halved again, dropping to 50,000. Between 1935 and 2017, the average acreage harvested by a corn farm in Iowa increased six times over from 49 acres to 295 acres.
+
+
+Perhaps no agricultural technology has been as divisive as genetically modified (GM) seeds. In the late 1990s, seed corporations introduced genetically modified corn, and when I researched Iowa corn farmers in 2006, stacked trait GM corn had recently become available. By stacking traits, GM corn could be modified not just to produce its own Bacillus thuringiensis (Bt) insecticide but also to resist Monsanto’s glyphosate herbicide, otherwise known as Round-up. Seed corporations like Monsanto and Pioneer acquired smaller competitors and launched an arms race for a competitive advantage that continues to this day. Eventually, Monsanto and Pioneer were subsumed by still larger corporations. Regardless of the controversy, 95% of the corn grown in Iowa is genetically modified.
+
+
+My research in the summer of 2006 occurred amidst a steady trend towards more industrial-style corn and soybean production. As much as corn and soybeans saturate Iowa, the number of people who toil in these fields continues to dwindle. With corn and soybean production occurring increasingly on a massive scale, a divide deepens between those who are too familiar with corn economies and consumers who grow increasingly alienated from food. Thanks to the generosity of corn farmers with whom I spoke during the summer of 2006, I gained insights into the dynamics they face. Thorny questions about corn farming, rural communities, and Grinnell College’s role in this mix — all without easy answers — still needle me to this day.
+
+
+Although seed corporations control a staggering share of the global market, I encountered glimmers of resistance from people who understood the idea of productionism but stood firmly for other approaches. Practical Farmers of Iowa remains an organization that seeks to balance farm incomes with better social and environmental outcomes. In Wisconsin, the Mandaamin Institute endeavors to introduce corn varieties better suited to sustainable farming. Many of the farmers I interviewed rejected the industrial model and developed their own practices based on local knowledge and experiences.
+
+
+Upstream to Hawai‘i, then downstream to Japan
+
+
+My research on Iowa corn farmers gave me an abiding interest in seeds that enabled my next forays into the dizzying labyrinth of corn’s economies to take me upstream of Iowa’s cornfields to Hawai‘i’s seed corn industries and downstream to Japan’s livestock industries. Despite having never taken a geography course at Grinnell College, human geography emerged as the best fit for me to continue exploring the intersections between place, ecology, and culture. In Fall 2011, I enrolled in the University of Hawai‘i at Mānoa’s graduate program in geography.
+
+
+As a budding researcher, I serendipitously transitioned from Iowa, the epicenter of global corn production, to Hawai‘i, the epicenter of global seed corn production. Heeding the advice of prescient mentors, I adapted to this opportunity and studied Hawai‘i’s seed corn industry for my MA thesis. At the time, the seed corn industry was one of the most controversial issues in the state. Much of this controversy centered on disputes over the safety of GM seeds and agrochemicals. Instead of focusing on these scientific disputes, I explored the economic and geographic factors that caused the seed corn industry to grow in Hawai‘i. Doing so required me to delve into crop breeding by interviewing industry insiders. This research enabled me to explain the process of seed corn improvement and how innovations such as Marker Assisted Selection changed Hawaii’s role within seed corporation’s R&D strategies.
+
+
+After my MA thesis, which explored corn-breeding upstream of Iowa corn farmers, I turned downstream to Japan. I know that in this essay Japan seems a surprising transition, but among other experiences I lived in Kobe with my family when I was twelve, studied abroad at Sophia University in Tokyo while enrolled at Grinnell, and attended a Japanese language school called IUC in Yokohama as a part of my UH Mānoa graduate program. For my PhD, I received funding from the Crown Prince Akihito Scholarship Foundation that supported two years of ethnographic research based in Miyazaki Prefecture in Southern Kyushu, a major producer of both industrial broiler chicken and artisan “jidori” chicken.
+
+
+For Japan’s agricultural industries, rice generates the most revenue, but the next five top sources of agricultural revenue come from animal industries that rely on imported grains: dairy, beef, pork, chicken eggs, and chicken meat. The precise route through which corn might travel upstream from Hawai’i to Iowa and then downstream to Japan is fuzzy. It’s hard to know how much corn from Iowa is directly exported to Japan. That fuzziness is characteristic of international agricultural commodity markets, but even if we are limiting our focus to markets, Iowa still influences animal industries in Japan, because Iowa is such an important part of global corn markets.
+
+
+My PhD dissertation explored the industrialization of Japan’s chicken production, the emergence of a category of artisan heirloom chicken called jidori, the role of avian influenza in tightening biosecurity restrictions, and the high-risk practice of eating raw chicken. I also created a YouTube video series that shared stories about jidori farms and restaurants from Miyazaki Prefecture with the broader public. Drawing insights from these different aspects of chicken meat, my dissertation considered how social trust and anxiety respond to the growing chasm between upstream conditions of production and downstream consumer practices.
+
+
+After completing my PhD, I received a postdoctoral fellowship from the Japanese Society for the Promotion of Science to research local food and rural revitalization initiatives while based at Kyoto University. Even though Covid-19 upended my research plans, I could still work on whipping my data into article-shape and then cajoling the proto-articles through the peer-review process.
+
+
+I’ve shared links to some of my published work here – my happy successes – but I’ve endured far more letters of rejection than acceptance. This is typical, especially for early-career academics. Key ingredients for my publication record include that I learned to persist through the peer-review process, conducted original research, and engaged with ongoing scholarly debates. I was also lucky that I received funding for my graduate and post-graduate positions and enjoyed supportive communities along the way, communities like the East-West Center in Hawai‘i. This support allowed me to focus on the journey of research and learning while mostly avoiding the ominous maw of the academic job market. 
+
+
+Even with my language ability and research experience, I count myself very fortunate to have landed an academic position in Japan. I became an Assistant Professor at Utsunomiya University in the School of Agriculture’s Department of Agricultural Economics in October 2021. This position should provide me with a long-term base to teach and research about food systems in Japan and beyond. I hope that before too long I have a chance to return to Grinnell and share some of what I’ve learned and see how the school, farmers, and cornfields continue to change. ![](2023-spring-web-resources/image/1.png)
+
+
+
+
+Researching Corn in Iowa and Beyond
+
+
+
+
+by Benjamin Schrager
+
+
+
+
+
+![](2023-spring-web-resources/image/schrager-2-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Benjamin Schrager. View from inside an industrial broiler chicken structure, Miyazaki Prefecture, Japan
+
+
+
+
+Researching Corn in Iowa and Beyond |  Schrager
+
+
+
+
+
+![](2023-spring-web-resources/image/schrager-3-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo Courtesy of Benjamin Schrager, 2006. Picture of a lone corn plant, possibly Round-up resistant, in a field of soybeans in Iowa 
+
+
+
+
+
+
+
+
+“Although seed corporations control a staggering share of the global market, I encountered glimmers of resistance from people who understood the idea of productionism but stood firmly for other approaches.”
+
+
+
+
+
+
+
+
+Researching Corn in Iowa and Beyond |  Schrager
+
+
+
+
+
+![](2023-spring-web-resources/image/schrager-4-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Large grain barge in Shibushi harbor, Kagoshima Prefecture, Japan. Photo Courtesy of Benjamin Schrager.
+
+
+
+
+
+
+
+
+Technology on the Prairie
+
+
+The Liquid-Crystal Display
+
+
+James Fergason (https://en.wikipedia.org/wiki/James\_Fergason), an American inventor born in Wakenda, Missouri, is credited with the groundbreaking invention of liquid-crystal display (LCD) technology in the late 1960s. Fergason’s breakthrough came when he joined the Liquid Crystal Institute (https://www.kent.edu/amlci) at Kent State University and discovered that liquid crystals could be manipulated to control the passage of light, using the twisted nematic effect. This finding paved the way for this revolutionary display technology that would later become ubiquitous in many electronic devices. 
+
+
+Fergason’s idea was to leverage the unique properties of liquid crystals, a state of matter that exhibits characteristics of both liquids and crystals, to create a controllable medium for modulating light. He developed a device called the “Twisted Nematic Field Effect” (TNFE) that held a layer of liquid crystals sandwiched between two glass plates, with electrodes applied to the surfaces. By applying electrical voltage to the electrodes, Fergason was able to manipulate the orientation of the liquid crystals, causing them to twist and control the passage of light. 
+
+
+Fergason’s invention of LCD technology revolutionized the display industry, leading to the development of flat panel displays that are now commonly used in devices such as televisions, computer monitors, smartphones, and tablets. LCD displays offer numerous advantages, including high image quality, low power consumption, and compact size, making them an integral part of modern consumer electronics. James Fergason’s pioneering work in developing LCD technology has had a profound impact on the way we view and interact with digital information, and his invention continues to shape the world of displays today. ![](2023-spring-web-resources/image/1.png)
+
+
+(The Home Insurance Building, first skyscraper in the world.) 
+
+
+https://en.wikipedia.org/wiki/Home\_Insurance\_Building#/media/File:Home\_Insurance\_Building.JPG 
+
+
+ 
+
+
+Sources: 
+
+
+Bellis, M. (2020, January 10). Why the first skyscraper was only 10 stories tall. ThoughtCo. Retrieved May 4, 2023, from https://www.thoughtco.com/how-skyscrapers-became-possible-1991649 
+
+
+Editors, H. (2010). Home Insurance Building. History.com. Retrieved May 4, 2023, from https://www.history.com/topics/landmarks/home-insurance-building 
+
+
+ 
+
+
+Sources: 
+
+
+American Chemical Society. (n.d.). Discovery of helium in natural gas - National Historic Chemical Landmark. American Chemical Society. Retrieved May 5, 2023, from https://www.acs.org/education/whatischemistry/landmarks/heliumnaturalgas.html 
+
+
+Cady, H. P., & McFarland, D. F. (1906). Helium in Kansas Natural Gas. Transactions of the Kansas Academy of Science (1903-), 20, 80–81. https://doi.org/10.2307/3624645 
+
+
+Williams, M. (2016, March 15). Who discovered helium? Phys.org. Retrieved May 5, 2023, from https://phys.org/news/2016-03-helium.html
+
+
+
+
+
+![](2023-spring-web-resources/image/allen-5-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Diagram of a liquid-crystal display. When current is applied, the crystals align and are stopped at the second polarizer, creating a dark pixel. Photo courtesy of Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Liquid-crystal\_display.jpg)
+
+
+
+
+
+
+
+
+The Emptying of Rural Iowa |  Weeks
+
+
+
+
+
+![](2023-spring-web-resources/image/Weeks-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Dan Weeks
+
+
+
+
+Dan Weeks is a freelance writer, photographer, and magazine and nonfiction book editor. He has a BA in American Studies from Grinnell College, an MA in creative nonfiction writing from the Graduate Writing Program at the University of Iowa. His memoir “What I Learned at the White Horse Ranch” appeared in Volume II, Issue 2 (https://rootstalk.grinnell.edu/past-issues/volume-ii-issue-2/weeks) of ROOTSTALK. He lives in Des Moines. 
+
+
+
+
+The Emptying 
+
+
+of Rural Iowa
+
+
+
+
+by Dan Weeks
+
+
+
+
+The prairie has already lost many of its small farms. Now it’s losing its small towns as well. Sparsely staffed Confined Animal Feeding Operations (CAFOs) and ethanol refineries are taking their places. Dan Weeks, an occasional contributor and friend-of-the-journal, accompanies a fifth-generation rural Iowan who gives an elegiac tour. 
+
+
+“We used to have two grocery stores, one on each corner here,” says my host—let’s call him John—as we cross the central intersection in his town in north central Iowa. Both buildings were boarded up, their sidewalks cracked and grassy. We idle the six-block length of Main Street in his mud-spattered pickup. He points out more former storefronts: barber shop, hardware store, feed store, newspaper, law office. All empty. 
+
+
+We pass a big Lutheran church. “Barely enough of us left to pay the utilities,” John says. “And we need a new roof. Not going to happen.”
+
+
+The high school gets the longest obituary. “Graduated here in ’64. Won state. We consolidated four years ago.” The building—massive, brick, built in the nineteen-teens, with additions after the Second World War and again in the sixties—is abandoned. John crosses the parking lot’s faded stripes, weaves around vintage playground equipment. We end up on the cinder track that circles the former football field. The bleachers have been dismantled; the announcing box is absent, now a shed on someone’s farm. We round the track at three miles per hour. The headlights sweep the sagging backstop of a baseless ball field like a searchlight. 
+
+
+Field of Dreams this isn’t. 
+
+
+Generations ago, John’s family immigrated from Germany. They homesteaded when “the county was so wet you could canoe it from one end to the other.” His great-great grandfather tiled his fields with a spade and a strong back. When John took over the farm in the nineteen-seventies it was a huge operation. Hulks of nearly fifty-year-old equipment—a Deere combine, a big Steiger all-wheel drive articulated tractor, towering Harvestore silos—attest to that. The farm crisis finished him. He was lucky to get on as a rural mail contractor for the United States Postal Service. Driving his own pickup, he makes 515 stops a day, six days a week. 
+
+
+The Postal Service pays well enough to afford a remodel of the kitchen and to indulge his wife’s elaborate, country-themed landscaping schemes. Opening the house as a B & B helped. The couple lives in considerable material comfort: granite countertops, the latest appliances, new flooring. But everything else they had was gone. Land. Livestock. Independence. Calling. Community. 
+
+
+John seems taciturn, uncomplaining, pragmatic. My wife, Randi, and I, staying at their Bed & Breakfast, hadn’t asked for the tour of what was left of the town. Conducted at a dirge’s pace, it proved steeped in almost unbearable loss, all related in a slow, flat monolog: The neighbors had not only lost their farms, but their houses too—now bulldozed into more corn and bean ground and owned by the few big grain operations that had survived. 
+
+
+John’s son will inherit John’s farmhouse and barnyard, but not a farm. The son works for an international meat processing company, feeding thousands of confined hogs on John’s property in a massive shed with attached feed bins. Such arrangements are called CAFOs—Confined Animal Feeding Operations. The son is paid an hourly wage. No benefits, no equity, no profit share. 
+
+
+“I told him he could use this site for the confinement shed,” John says. “He needed a job and he didn’t want to leave. But I wasn’t going to work with him for that outfit. That ain’t farming.” He says it matter-of-factly but spit out the final three words with the banked rage of a serf who’d once been a lord. 
+
+
+The terms of his son’s contract prohibited John from showing us inside the shed. (“Too many animal activists,” he said.) There, he told us, hogs lay on a steel grid over a lagoon of their own manure. The lagoon is emptied once a year. 
+
+
+John speaks with a mixture of pride and resentment about the only new business in town, and perhaps the largest in the county: the corn ethanol plant. From his front yard, its bright lights, steaming stacks, and oil-refinery-like array of tanks and pipes were just barely visible, a bright glow on the dusky horizon. It covered as much ground as a good-sized, 1970s Iowa farm and towered higher than a grain elevator. “It kind of puts us on the map again,” he says. 
+
+
+The ethanol plant was enabled by subsidies and tax breaks introduced into national policy as the Renewable Fuels Standard (RFS) in 2005. Big agricultural lobbies seeking more markets for the country’s largest grain commodity had a lot to do with RFS’s enactment. The ethanol is blended with gasoline and sold at subsidized, below-market rates. The result is slightly cheaper auto fuel, but at the cost of billions of taxpayer dollars in tax revenue and more expensive groceries, as food producers now have to compete with ethanol plants for corn. 
+
+
+The plant “ate corn and pissed alcohol,” says John. The ethanol company had promised to bring high-paying local jobs to the area. But the refinery was built mostly by national and international construction firms specializing in such plants. These firms employ crews of highly skilled, highly paid workers who travel the continent building ethanol refineries. Many of the workers camped on the abandoned football field in 5th-wheel RVs nearly as big as semitrailers. They left when the plant was complete. We saw the ruts their rigs had made in the turf. Circumnavigating the field, John’s resentment of these transients squatting on his school’s patch of glory with their big fancy rigs was palpable. 
+
+
+“Now,” he says of the plant, “they can man the whole outfit with three, four guys a shift. They’re not from here either, most of ‘em.” 
+
+
+The refinery promised a market for corn stover—the corn shucks, leaves, and stalks that remain after harvesting—as well as the grain itself. That would have turned field waste into a paying crop for local farmers. “But they wanted everything harvested just so. You had to have a so-many-row combine head, a special type of baler,” John says. “You had to bale it to spec, transport it and deliver it to schedule. A fella would buy the equipment—huge investment—and then they’d change the rules. Not worth it. Some guys lost their shirts.” 
+
+
+Compared to them, John considers himself lucky. But the occupation and community his family had helped to create in Iowa for generations was gone, along with any semblance of a sustainable local economy. 
+
+
+A Wisconsin dairy farmer—quoted in “The Last Stand,” an article in the August 17, 2020 issue of The New Yorker—sums up the situation: “It’s not the farming that I was brought up with,” says Jerry Volence. “It’s not really even farming anymore. It’s mining. We’re extracting resources and shipping them away, and they’re not coming back. There’s no cyclical nature to it. It’s a straight line out.” 
+
+
+At the end of our tour, we returned to John’s house and sat with him and his wife on his porch as the sun set. We tried to think of an appreciative and encouraging response to what we’d just seen and heard, but there was an awkward silence while I pondered what that might be. Eventually I just thanked him for showing us around. Randi added that the town and his farm clearly had a proud history. That was the best we could do, and it didn’t feel good enough. 
+
+
+John just nodded, and looked down the highway leading south, past the ethanol plant and its rail rail siding. There a long line of tank cars waited to haul the ethanol to St. Louis, perhaps, or Chicago, where it would help fuel the urban commute. None of it will end up in John’s mail truck. It runs on diesel. ![](2023-spring-web-resources/image/1.png)
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+“‘That ain’t farming.’ He spit out the words with the banked rage of a serf who’d once been a lord.” 
+
+
+
+
+
+
+
+
+The Emptying of Rural Iowa |  Weeks
+
+
+
+
+
+![](2023-spring-web-resources/image/weeks-2-ottenstein-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo by David Ottenstein 
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/Edwards-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+All photos courtesy of Kate Edwards
+
+
+
+
+Kate Edwards owns Wild Woods Farm (https://wildwoodscsa.com), a Community Supported Agriculture vegetable operation. She started farming a dozen years ago on rented land, and now owns the ground she farms. Kate is involved in farm policy, particularly pertaining to beginning farmers and land access. She lives with her husband and two-year-old on their 100-year-old farmstead in rural Iowa.
+
+
+
+
+Finding A Home: 
+
+
+A Young Farmer’s 
+
+
+Journey
+
+
+
+
+by Kate Edwards
+
+
+
+
+I was covered in dirt from the field, wearing an old pair of shorts and a tank top, and I smelled like a mixture of dirt, sweat, and onions. It was a vegetable delivery day in July, and we had just run out of potato sacks. Looking for more bags, I drove my old gray pickup to town and walked through the sliding doors of our local grocery store. The cold air enveloped my sweaty body, hydrocooling me, causing me to shiver. I looked past the entry way to the produce section and saw an old neighbor who lived across the road from the first farm I had rented. He was holding an onion and examining it intently. I was a little embarrassed to be seen in field clothes and was in a hurry to get brown paper bags, a few aisles away. 
+
+
+My old neighbor lived on a 16-acre, 100-year-old farmstead, beautifully preserved, but no longer used for farming. He traveled a lot for his job, and his land and home stood empty the majority of the time. I had asked him a few times, years before, if he would sell me his land. I didn’t even know if I could afford it, so I inquired in a half-joking yet wishfully serious way. But his answer had always been no. I still dreamed of owning land someday, but finding land appropriately priced and sized was difficult. Land access is a perennial issue for farmers, one that has been a defining part of my life. By this time, I had been farming for nine years and was now on my second rental property. I was debating if I should stop and speak with him. I hadn’t seen him in four years, but then I heard his booming jovial voice from across the store. 
+
+
+“Kate! Haven’t seen you in forever!” He grinned at me with a boy-like, endearing smile.
+
+
+“You should buy my farm,” he added, a little extra spark in his eyes. 
+
+
+He was in his early 40’s and wore a cut-off t-shirt and jeans so ripped through with holes that they scarcely resembled their original form. The loudspeaker in the rafters above us boomed, “Checker to aisle five for price-check.” Square cardboard boxes mounded high with potatoes, bananas, tomatoes, garlic, squash, and sweet potatoes surrounded us. A cooler case full of greens and cucurbits and pre-cut vegetables faced us on the wall. With all this available food, I was reminded that convenience was everywhere. I really didn’t have time to chat, but I walked closer. 
+
+
+“So, you’ve finally decided to sell your place?” I asked. 
+
+
+“Yeah, my parents are getting older so I’m moving back home to be with them,” he replied.
+
+
+The blast of air-conditioning gave my tired body a boost of confidence. “How much are you asking?” 
+
+
+He shifted back and forth with anxious energy, rhythmically moving side to side. He named a figure for his farm.
+
+
+“Too high for me.” I said, and jokingly gave him a ridiculously lowball counteroffer. 
+
+
+He chuckled at my response. His shaggy, jet-black woodsman beard set off the twinkle in his eye. He grabbed an onion from beside him and tossed it in the air a few inches. I left the store and hurried back to the farm to finish preparing for the vegetable delivery. The importance of the moment eluded me at the time, but soon, it would prove to be life changing. 
+
+
+Ten years before this, walking one day to my engineering job from my apartment just outside the Twin Cities, I realized I’d rather be walking to a barn than to an office. Both my parents grew up on farms but, because of the 1980’s farm crisis that swept through the Midwest, they weren’t able to farm in their adult lives. Despite knowing the challenges involved, I made what felt like a radical decision to change my career and pursue my passion. 
+
+
+I called my Grandma right after I decided to leave my job. A familiar voice said, “He-llo.” 
+
+
+I knew Grandma was sitting in her mauve, rolling chair at the kitchen table, looking out over her farm, the fields and big hill at the top covered in a blanket of snow. She had short, curly brown hair, quarterly permed at the beauty parlor, and weekly re-rolled in curlers at home. Not a wisp of gray hair was noticeable, though she was well into her 70’s. She was a strong-but-short woman, her back slightly bent from years of farm work.
+
+
+I cared a lot about my grandparents and was worried about their disapproval. I knew how hard farm life had been for them. I knew she’d be disappointed with my decision, but I was determined to tell her anyway. After talking about the weather—it was snowing in Minnesota, icy in Iowa. I finally worked up my nerve and told her the real reason I was calling.
+
+
+“I am going to leave my engineering job. I want to farm.” I nervously announced.
+
+
+  She was silent. And after a breath, she spoke.
+
+
+“Katherine, are you sure? You’ll never make the money farming you can make now.” Her voice came through in a static, echoey tone, indicating she’d placed me on the speaker phone. I knew she’d be looking over to Grandpa for assurance. He’d be telling her with his eyes, “Now, Ma, it’s all right. It’s her life.” Quietly, in a disappointed and resolute tone, Grandma replied to me. 
+
+
+“We farmed so our children and grandchildren didn’t have to.” 
+
+
+Farming is an incredibly hard life. Many people, including my Grandma, believed their children deserved better. In 1935, a year before my grandmother was born, there were 6.8 million farms in the United States. But by the early 1950’s, when she started farming, the number decreased to 5.3 million. Ten years later- when my mother was five years old, it continued to dwindle to 3.7 million farms. And when I started farming in 2010, there were only 2.1 million farms. The US continues to lose farmers, and in 2022, there were only 2 million farms left. Fewer farms, means fewer farmers and I wanted to help change that trend. 
+
+
+ Growing up, I lived with my parents in the suburbs, but spent every moment I could during my childhood summers at my Grandparents’ farm. Almost twenty years before this conversation, I had sat in the passenger seat of the farm truck we called Old Red and worn bib overalls to match my grandpa’s. Didn’t she realize, it was because of her and Grandpa that I wanted to farm? 
+
+
+Two months after I called Grandma, I went to the office for the last day. And just under a year later I had found a place to farm. I rented a hayfield from a family friend near Iowa City. At 24 years old, in the fall of 2010, I shook hands with my first landlord and went from a young professional thinking about career advancement to a farmer wondering if I knew enough to grow food. 
+
+
+My newly rented field was nestled between a manicured lawn next to an event barn and a grand driveway, a gravel road, and a large, wooded area. I stood at the edge of the field on my first day on the farm and traced the outline of the potential plot with my gaze. Then, I walked the perimeter, counting my steps to calculate its size—one acre. I envisioned plowing up the rich green grass, turning it over and finding fertile soil underneath. With a nod to the woods that stood on the edge of my field, I named my farm Wild Woods Farm. 
+
+
+I grew 30 different types of vegetables my first year. I didn’t know what I was doing, but I sought advice from established farmers. I fed 11 families through my Community Supported Agriculture (CSA) initiative and had a stall at the local farmer’s market. I grew vegetables because I couldn’t afford to grow corn. I couldn’t compete with the low profit margins and high land investments of Iowa’s current traditional crops: corn and soybeans. I planted potatoes, trellised tomatoes, dug carrots, and completed a zillion other tasks to keep the small farm running. It was a lot of work, more than I thought it would be.
+
+
+I was a tenant farmer with dreams of owning my own place—like my grandparents. They were tenant farmers for 15 years before they purchased a farm.
+
+
+On this first rental farm, I operated with a year-to-year informal handshake agreement. My family friend, and now first landlord, also grew up on a farm and he delighted in having crops grown on his land. He connected me with the local-business community and built a deer fence around my field. His wife made delicious food from the produce, and for the first two years of the farm they let me live with them. I eventually found an apartment in town, commuting to the farm instead.
+
+
+I learned a lot from trial and error, but more importantly I became involved in the local farming community and found a mentor who taught me how to grow better vegetables and grow the CSA membership.
+
+
+In my fifth year of farming, we wrote and signed a one-year written lease. I was farming three acres and feeding over 150 families through a weekly veggie subscription. 
+
+
+I was trying to be proactive about longer-term land access, but in July of 2015, sixth months into our written lease period, my landlord came by the packing shed where I was working on bagging vegetables, and nonchalantly asked,
+
+
+“Do you have a minute for a chat?”
+
+
+We sat down at a white picnic table behind the barn.
+
+
+“This isn’t working Kate. I need you to be done farming here by the end of the year.” he said. 
+
+
+I looked at him stone faced, not twitching, but internally gasping for air. My thoughts raced. Wasn’t he just a few months before talking to me about selling me land? What had I missed? What had happened?
+
+
+ “Is there anything I can say to change your mind?” I asked.
+
+
+“No, my decision is final.” He replied.
+
+
+Suddenly, it felt hotter than the 85-degree temperature. I had known this man almost my entire life. I had learned to skate on the pond below where we sat. His wife was always so kind to me. I had learned so much from them both. What had I missed?
+
+
+I wanted to fight but froze. 
+
+
+After the longest awkward silence of my life, he turned and left without another word. Flight took over and I stood up from the picnic table, walked over to the new pack shed he had built for me to use, and conversed with one of my farm workers about the tasks that needed done that day.
+
+
+I had not left Iowa during the farming season in five years. I was so shocked that I hopped in my truck barefoot and drove to my parents’ place a few states away. They had recently moved to Ohio for my dad’s job. I was in Indiana before I even realized I didn’t have shoes on. I spent two days regrouping at my parents’ home and then drove back to the farm to face my future.
+
+
+On my return trip home, my pickup truck began to shake. I heard a pop and smelled burning rubber. I swerved to the shoulder and realized my tire had blown. Two hours later, I found myself signing up for a Sam’s Club membership, the only tire store open on a Sunday. 
+
+
+As I waited for four new tires to be put on my truck so I could continue the trek home, I roamed the Sam’s Club. I felt culture shock walking the aisles of the temperature-controlled building. The farm had been my life, every waking minute paying attention to it: what my crops might need, thinking about irrigation, payroll, employee management, the effects of rain, cold, heat. I didn’t go into box stores often. I was overwhelmed with the pallet displays of fruit roll ups, socks, headphones and as Nancy Griffith says in one of my favorite songs, ``unnecessary plastic items.” Yeast and caramelized sugar from the bakery mixed with savory smells from the rotisserie chicken display wafted through the air inside. Country music blared on the loudspeakers. The singer’s words rung with a nostalgia for farming, a life that always consisted of male farmers with ‘pretty little ladies’ to come home to. 
+
+
+The reality of farming and the nostalgia for it are completely different. The singers crooned about fried chicken, mudding on backroads, and guys whose girlfriends thought their tractors were sexy. Meanwhile I wondered if I’d have a place to park my tractor by the end of the year. How would I find land? My garlic needed to be planted in just a few short months! I had built up my CSA to serve hundreds of families over the years. I felt immense pressure not to let them down.
+
+
+I later learned that after I left my first rental farm, the land was rented to another grower. After another few years, the land was sold. Landowners often change their minds about wanting beginner farmers on their land. Small farming is labor intensive, smelly from manure applications, potentially weedy in a wet year, and takes a lot of people to succeed. But sometimes landowners don’t realize what it takes for a young farmer to succeed.
+
+
+After returning, I spent the next month farming during the day and looking at every farm for sale in the area at night. I followed every lead on rental properties during the evening. We live in a hilly county with pricy land, and the farmers here have to compete with development prices. Vegetables don’t require a lot of land compared to row crops, but they do require flat land. Everything I looked at for sale was too hilly or too costly.
+
+
+In August of 2015, a month after I received the news that my lease would be terminated by the end of the year, I stood in a convenience store on the edge of town. I was grabbing a snack after touring rental farms with a man who farmed lots of land around the area. Nothing we looked at would work. All he could find were small plots, which were basically big gardens. The larger fields were used for industrial row crop operations, and the homesteads were occupied by folks that worked in town. He was kind and offered what he could, but I needed more acres.
+
+
+I walked the aisles of the small store looking for a snack that wasn’t too egregious. I settled on a pack of peanuts and a bottle of water but continued to browse to give myself time to think. All the land I looked at that afternoon wasn’t quite right, either too vulnerable to spray drift, had no water access, or was only available for a short-term lease. I was stuck again. It was late summer, and time was running out. I’d already come to realize that I couldn’t plant a garlic crop that fall. Another loss, five years of seed saving wasted. 
+
+
+I racked my brain as I looked at the rows of processed food, listened to the chatter of old men drinking coffee by the windows in the background. The smell of popcorn wafted through the air. Who else did I know who had land? 
+
+
+ As I picked out a granola bar to add to my snacks, I realized I had one more option. I called an acquaintance who owned land nearby and asked if I could come talk with her. Amazingly, she said yes. Ten minutes later, we sat at a yellow picnic table next to her garden on the land she’d grown up on and recently purchased from her mother. The entrance to the land was off the main road, following a short makeshift driveway of wood chips. White electrified netting surrounded her garden, protecting it from deer. North of the garden, a small section of trees hid a nearby subdivision of land. To the west was a large field of alfalfa bordered by trees. 
+
+
+As we sat on the yellow wood, she offered her land to me. She offered me hope. She assured me we’d create a lease quickly enough so I could plant the garlic I’d been thinking I’d lose. I looked around, the land was full of green, luscious fields, surrounded by mature woods with tall, dense verdant canopies. A perfect place for Wild Woods Farm, I thought to myself. Most of the farms I visited earlier in the day didn’t even have a tree in sight. It was an unusually pleasant summer day, my tired shoulders relaxed, maybe there would be a solution after all. 
+
+
+Beginner farmers often don’t get everything they need in a lease, either because they don’t know what they need or because they’re scared of losing access, even if these things are required for success. Sometimes, if a farmer asks for what they need after the lease begins, they can lose long term access. But the lessons I learned from my first farm emboldened me. 
+
+
+So, I told her, “there are a few things I need in order to rent this land. I need fencing, water, barn space and ideally, a place to live.” There were no structures on the site, no water access, and no substantial fencing. I knew my request was a tall order. 
+
+
+ We met every week until October, talking through what I would need. By fall, we decided that I would take out a loan to construct a building on the property and the landowners would buy the building back from me at the end of a five-year lease term. And to cut my expenses, I would build an apartment into the building. Owning it would help me build equity, so that in five years I could hopefully buy a farm. She agreed to pay for a water well and hydrants, and to provide some fencing, for an additional fee added on to the rent. Three months after I first approached her, we had a lease signed. I finally had a place to farm again! It was bare ground with nothing on it but a promise that together, we would rebuild a farm. 
+
+
+In November of 2015, I sat in the field of alfalfa on my new rental farm, its green tendrils soft against my skin. It overlooked the pole barn building site, and seeing it all filled me with a sense of calm. It was the place of my future home, machine shed, and pack shed, in one carefully designed, rectangular red barn. The blue sky enveloped me. I felt reconnected to my passion. It was a healing moment. My dreams renewed, confidence restored, and my ambition restarted. Pop. Pop. Pop. The sound of the construction workers swiftly attaching boards together with their air-driven nail guns. Like children with tinker toys, their shouts volleyed back and forth, some good-natured teasing, and others, instructions for the next job. 
+
+
+I sat back on the hill to think and watch the building crew for a while longer. I knew the ground I sat on was Kickapoo, Sac and Fox, Ioway, and Sioux land. No one really owns the land, I thought, we are all but temporary caretakers. 
+
+
+I was investing extensive labor on rental farms, building infrastructure, and improving soil health. In the long term, I knew I needed to buy land so I could have stable land access. But at the time, I couldn’t find a farm to buy. At least this second rental farm was a solution that moved me forward. 
+
+
+Farming as a tenant involves a lot of emotional labor. No matter how wonderful a landlord is, there is always a power dynamic. The fear of losing land access looms over the relationship, and a farmer longs to have secure tenancy on the land they tend and have come to love so much. But at the end of the day, it’s still someone else’s land. Even if you can find a farm to purchase, you still have to make it work economically. Farming requires long hours, little time off, and is one of the lowest paying jobs.
+
+
+ At the end of my eighth year of farming alone, I got married. Derek, my husband, was not a farmer, but I enjoyed teaching him to drive a tractor and he’d help me occasionally on nights and weekends. He moved into my barn apartment and was only mildly shocked by the furnace room full of sweet potatoes, the living room filled with winter squash, and the garage area filled with onions. My operation was quickly outgrowing the rental property. We needed to buy a farm.
+
+
+ It felt impossible. I had already been looking on my own before Derek and I got together. Now that we were married and knew we wanted to have kids, the stakes felt even higher. We wanted to find a place we could make our forever home. The equity that I had built in the barn would help us with a down payment. But we still had a small budget compared to the casual homesteaders with town jobs and the developers encroaching on our area. 
+
+
+In the summer of 2019, Derek and I looked at every single farm that came up for sale in our area, a full-time project after the farm work was done. It was a long journey of looking at farms that were either too big, too small, too old, too expensive, or with soil too poor to grow vegetables. I searched everywhere—land sites online, rural grocery store bulletin boards, auctions, realtors—and talked to everyone I knew. I hunted within a 30-mile radius of my market, scouring ads in three counties. We looked at a farmhouse with cinder blocks and old chains in the basement, smoke so thick on the walls of the house, it would have to be peeled off. I considered the property, but it came with more land than I could afford. Another farmhouse had been overrun by various animals that used to be pets, something I could potentially deal with, but it came with too little land—not enough to make a living with vegetables. Then, there were the farms with the fields that were too hilly, too rocky, too sandy, or too expensive. 
+
+
+I searched for funding options and determined the USDA Direct Farm Loans (https://www.fsa.usda.gov/programs-and-services/farm-loan-programs/index) would be my best option for purchasing a farm. I asked my loan officer if I could purchase an open field and build a house and barns but was told the program was only set up for purchasing land with existing infrastructure. Yet, all the farm infrastructure we found was aging, some even falling apart. 
+
+
+One evening, two months after the impromptu meeting in the produce department with my old neighbor in the grocery store, my husband and I had just finished looking at yet another farm that didn’t fit our needs. Like many others, this one was not going to work. It only had five acres of land, not enough to make a living on, and a house too expensive for us. Fancy acreage, more suited to a nonfarmer.
+
+
+Derek said, “Isn’t your old neighbor’s farm near here? The one who tried to sell it to you in the grocery store?”
+
+
+I replied, “Yes, it is, just over that way a mile. But it’s too expensive; my loan officer would never go for it.”
+
+
+“Let’s just drive by,” Derek replied.
+
+
+We drove our red pickup truck slowly down the gravel lane in front of the farm. The setting sun basked the 100-year-old farmstead in a golden hue. The farm was a small, only 16 acres—all that was left of the 160-acre farm platted in the 1800’s. The infrastructure was well-kept, having been owned for 30 years by non-farmers who had money to keep up the house and buildings. It was admittedly smaller than ideal, but on the way home I looked up the soil maps on my phone and determined the soil was better than the land I was renting. Through careful crop planning and building soil health, I determined I could make it work.
+
+
+The farm was not listed with a realtor but was for sale “by owner.” I called my old neighbor, and he was eager to talk. We set up a time to see the place, and one evening a few days later Derek and I drove over to the farm to discuss the property with him. 
+
+
+We parked between a 100-year-old haymow-barn and a newer, red-pole building. We walked the circle drive towards the house, passing a century-old granary on our left. 
+
+
+I thought about the many uses of the buildings. The granary would have held oats during the Great Depression but some time in the past twenty years it had been retrofitted to be a chicken coop. Currently, no feathers remained, and it now served as a dog kennel. The progression of the farming world, summed up in one building. 
+
+
+We approached the house, a tall two-story structure, with a gabled, red metal roof. The house was painted white with intricate red trim. We stepped up on the porch, a large, covered area with wide floorboards and a swing. I squeezed Derek’s hand and then knocked on the door. 
+
+
+The door opened. 
+
+
+“Kate, great to see you! Come inside.” My old neighbor said. 
+
+
+I introduced Derek and we toured the house, through the living room with diagonal wooden floorboards, past the woodstove in the parlor, and into the bright kitchen, sitting down at the table. Out of the south window, I saw my first rental farm across the road and momentarily relived the heartache of losing it.
+
+
+Eventually, we began to negotiate. He was delighted to possibly be selling his place to a farmer, since all the other prospective buyers had been developers. Negotiations began and in classic rural fashion, my old neighbor looked at my husband instead of me, despite having just met him. 
+
+
+Derek, who worked at a job in town, redirected his look back to me. “She’s the farmer,” he said. When we left, we had the beginnings of a deal.
+
+
+I called my USDA Loan Officer later that week while weeding fall cabbage. She was delighted I had found a potential farm to purchase. But the budget she set for me was $100,000 less than the listing price of the farm. 
+
+
+It was difficult, but I negotiated a lower price for the farm and a higher loan amount. And in September of 2019, on our first wedding anniversary, a month after we sat at the kitchen table negotiating, Derek and I electronically signed a purchase agreement for the farm, in the field, on my phone. We were on a break from digging potatoes in some ground I’d recently expanded to, on a neighboring farm. A year later, that potato field became a housing development. 
+
+
+The story of land access is an ancient one. We stand in the gap between the indigenous peoples—the original famers who cared for this land—the early settlers who cleared it for agriculture, and the developers encroaching on our area. 
+
+
+Today, after two tenant farms, I finally own the ground that I cultivate. I also rent a few acres from a neighbor. Last summer, we fed over 300 families through our CSA. Derek and I have a two-year-old. She learned to walk on the hardwood floors of our 100-year-old house, and now she runs out the door to the farm with me each morning. Grandpa passed away a few years ago, but I knew how proud he was of me before he died, another generation farming. I miss him every day. He would have delighted in watching my daughter in her pin-striped blue overalls just like he wore. My Grandma comes to play with our little farm girl while I work in the field. She gets it now, I think. Although, she still believes I don’t make enough money to work this hard. 
+
+
+Land access continues to be part of my story, a journey that has challenged me mentally and physically, but I stand in the center of my passion. And I get to share that joy with my husband and my daughter. For now, we farm this ground and grow food for our community, one harvest at time.![](2023-spring-web-resources/image/1.png)
+
+
+
+
+Finding A Home |  Edwards
+
+
+
+
+
+![](2023-spring-web-resources/image/Edwards-2-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+“[W]alking one day to my engineering job from my apartment just outside the Twin Cities, I realized I’d rather be walking to a barn than to an office.”
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/edwards-3-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Finding A Home |  Edwards
+
+
+
+
+
+![](2023-spring-web-resources/image/edwards-4-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+![](2023-spring-web-resources/image/edwards-5-volume-ix-issue-1-spring-2023.png)
+
+
+
+Finding A Home |  Edwards
+
+
+
+
+
+![](2023-spring-web-resources/image/edwards-6-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+![](2023-spring-web-resources/image/edwards-7-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Finding A Home |  Edwards
+
+
+
+
+
+
+
+
+“It was bare ground with nothing on it but a promise that together, we would rebuild a farm.”
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/edwards-8-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Kate Edwards, husband Derek, and their daughter
+
+
+
+
+Finding A Home |  Edwards
+
+
+
+
+
+![](2023-spring-web-resources/image/edwards-9-_volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/podcast-connerly-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Charles Connerly
+
+
+
+
+Chuck Connerly is a professor emeritus of planning and public affairs (https://sppa.uiowa.edu) at the University of Iowa. Prior to arriving at Iowa in 2008, he was a professor of urban and regional planning at Florida State University for 27 years. He is founder of the Iowa Initiative for Sustainable Communities (https://iisc.uiowa.edu), which has partnered with over 50 Iowa communities to complete over 320 community-based projects involving students and faculty across the University of Iowa. His most recent book (reviewed in Jon Andelson’s Publisher’s Note in this issue) is Green, Fair, and Prosperous: Paths to a Sustainable Iowa (https://uipress.uiowa.edu/books/green-fair-and-prosperous), published in 2020.
+
+
+
+
+RootsTalk! Podcast #7: 
+
+
+Sustainability in Iowa: An Interview with Charles Connerly
+
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/3_inch_audio.png)
+
+
+
+To listen to Professor Connerly’s conversation with Rootstalk associate editors Dechen Kangkyil and Alexandra Natalie, go to the Spring 2023 issue of Rootstalk at https://rootstalk.grinnell.edu/ and click on the article link or enter “podcast” in the search bar, then navigate to RootsTalk! Episode #7. Past Rootstalk Associate Editor Emma Kieran composed and played the intro and outro music for this episode
+
+
+
+
+
+
+
+
+Technology on the Prairie |  Allen
+
+
+
+
+Technology on the Prairie
+
+
+First American 
+
+
+Gasoline Automobile
+
+
+John William Lambert, a renowned American inventor and engineer, is widely recognized as the mastermind behind the first successful gasoline-powered automobile in the United States. Hailing from Mechanicsburg, Ohio, Lambert constructed this groundbreaking vehicle in 1890 and has since been revered as the “Father of the American Automobile.” 
+
+
+Lambert’s gasoline-powered three-wheeled buggy featured a single-cylinder, two-stroke engine. He eventually opted to discontinue the original design in favor of the more dependable and widely adopted four-wheel configuration that remains in use to this day. With a modest 3/4 horsepower, it could reach a top speed of around 5 miles per hour. The engine featured a carburetor, a device that created a combustible mixture of air and fuel that powered the engine. Additionally, Lambert’s automobile incorporated a mechanical transmission system and a chain-drive to rotate the wheels. 
+
+
+A distinct feature of Lambert’s invention was its innovative fuel system. Unlike conventional gravity-fed fuel tanks, Lambert’s vehicle boasted a pressurized fuel tank that utilized air pressure to force gasoline into the carburetor. This pressurized fuel system ensured a consistent and reliable supply of fuel to the engine, which greatly improved its performance. 
+
+
+In early 1891, Lambert’s gasoline automobile made history as it hit the roads of Ohio City, becoming the first successful gasoline-powered automobile to be built and driven in the United States. Lambert continued to refine his designs and build more automobiles, making significant contributions to the fast-growing American automobile industry. His revolutionary invention laid the foundation for the rapid growth and advancement of the automobile industry in the United States in the years to come. 
+
+
+ 
+
+
+Sources: 
+
+
+American Chemical Society. (n.d.). Discovery of helium in natural gas - National Historic Chemical Landmark. American Chemical Society. Retrieved May 5, 2023, from https://www.acs.org/education/whatischemistry/landmarks/heliumnaturalgas.html 
+
+
+Cady, H. P., & McFarland, D. F. (1906). Helium in Kansas Natural Gas. Transactions of the Kansas Academy of Science (1903-), 20, 80–81. https://doi.org/10.2307/3624645 
+
+
+Williams, M. (2016, March 15). Who discovered helium? Phys.org. Retrieved May 5, 2023, from https://phys.org/news/2016-03-helium.html
+
+
+
+
+
+![](2023-spring-web-resources/image/allen-6-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Above left: the first working American gasoline car, 1891. (https://en.wikipedia.org/wiki/John\_William\_Lambert#/media/File:First\_American\_Gasoline\_Automobile.jpg) Above right: The new and improved four-wheel car produced by the Lambert Automobile Company in1908 (https://en.wikipedia.org/wiki/File:Lambert\_Automobile\_Company\_1908.png) Photos courtesy of Wikimedia Commons
+
+
+Photos courtesy of Wikimedia Commons 
+
+
+
+
+
+![](2023-spring-web-resources/image/allen-7-volume-ix-issue-1-spring-2023(1).jpg)
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/larson-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Rustin Larson
+
+
+
+
+Rustin Larson’s writing appears in the anthologies Wild Gods (New Rivers Press, 2021; https://www.newriverspress.com/shop/anthologies/wild-gods) and Wapsipinicon Almanac: Selections from Thirty Years (University of Iowa Press, 2023; https://uipress.uiowa.edu/books/wapsipinicon-almanac). Recent poems have appeared in London Grip (https://londongrip.co.uk), Poetry East (https://www.poetryeast.org), The Lake (http://www.thelakepoetry.co.uk), Poetryspace (https://www.poetryspace.co.uk), Pirene’s Fountain (http://glasslyrepress.com/pf.html), and Lothlorien Poetry Journal (https://lothlorienpoetryjournal.blogspot.com). His chapbook The Cottage on the Hill (https://rustinlarson.wordpress.com/2022/04/20/the-cottage-on-the-hill) was published by Cyberwit.net in April of 2022. He is on faculty in Maharishi International University’s MFA in Creative Writing program (https://www.miu.edu/mfa-in-creative-writing). 
+
+
+
+
+Three Poems
+
+
+
+
+by Rustin Larson
+
+
+
+
+Beethoven  
+
+
+  
+
+
+Beethoven dances in my living room and knocks  
+
+
+over towers of cardboard boxes full  
+
+
+of shoes, mixing bowls, and silver-  
+
+
+ware. He pounds on the walls with   
+
+
+fists covered in blood and the   
+
+
+juice of tomatoes and cherries.  
+
+
+He collapses into a heap  
+
+
+of dirty laundry and sobs like a  
+
+
+lonely young woman with blue cumulus hair.  
+
+
+I take to the streets, friendless.  
+
+
+The clerk at the hardware store   
+
+
+says it ain’t gonna happen when  
+
+
+I try to buy a can of white   
+
+
+fence paint. All the cafes are closed.  
+
+
+Where did the world go when I wasn’t   
+
+
+looking? A surrealist ballet called   
+
+
+“Bull on the Roof.” No plot. What  
+
+
+does Charlie Chaplin know, anyway?  
+
+
+Beethoven has recovered and has  
+
+
+made himself a BLT. The wall-  
+
+
+paper still holds his splattered  
+
+
+hand prints, but they, the hand prints,  
+
+
+have transformed into  
+
+
+full-blown peonies complete with  
+
+
+curious black ants wandering in the petals. 
+
+
+Anniversary  
+
+
+  
+
+
+Monarchs and Viceroys  
+
+
+fluttering over   
+
+
+the zinnias   
+
+
+air molecules swimming  
+
+
+gray tuxedo kitten sleeping  
+
+
+on the kitchen floor  
+
+
+  
+
+
+the tunnel of the moonlight  
+
+
+only a memory  
+
+
+take this object  
+
+
+and grip it really tightly  
+
+
+with your hand  
+
+
+turn everything upside down  
+
+
+laugh often  
+
+
+  
+
+
+I remember Nickerson’s Farms  
+
+
+don’t you  
+
+
+I remember when gas was 25 cents a gallon  
+
+
+Gas War! the signs would say  
+
+
+my bicycle required no gasoline  
+
+
+but I did take advantage  
+
+
+of the free tire pump  
+
+
+  
+
+
+white gray pigeons flying overhead  
+
+
+like in a commercial for canned spaghetti  
+
+
+they served in school lunches  
+
+
+  
+
+
+could I allow myself this memory  
+
+
+the tomatoes growing in the garden  
+
+
+don’t know about sauce  
+
+
+  
+
+
+in this moment are my shoes walking away  
+
+
+the smell of hot tar is everywhere  
+
+
+let’s do this one more time  
+
+
+everything is reversed inside my head   
+
+
+  
+
+
+the lasagna the chicken  
+
+
+the woman who strolled room to room  
+
+
+playing flute when my life opened up  
+
+
+I saw that my thoughts weren’t mine  
+
+
+anyway if everyone sitting at the lunch table  
+
+
+was Edgar Allan Poe  
+
+
+would it make any difference  
+
+
+  
+
+
+Finnegan strolled into the next room  
+
+
+if you have in you have out   
+
+
+  
+
+
+broadcast this on the crystal radio  
+
+
+a lawnmower or a boat is flying over the house  
+
+
+like a whirling piece of cardboard  
+
+
+  
+
+
+we will celebrate tonight  
+
+
+the anniversary of our wedding  
+
+
+  
+
+
+did we run away  
+
+
+I was content  
+
+
+I had no clues  
+
+
+water seeks its own level  
+
+
+  
+
+
+we have flowed together  
+
+
+down many streams  
+
+
+in the sky blue country 
+
+
+The Light  
+
+
+  
+
+
+through the blinds  
+
+
+slashes across the page  
+
+
+like stripes  
+
+
+of a shadow flag  
+
+
+  
+
+
+this is the elfin art camp  
+
+
+with liberty and justice  
+
+
+for owls  
+
+
+  
+
+
+meanwhile that ocean  
+
+
+that ocean  
+
+
+how about that ocean  
+
+
+  
+
+
+my friends from California  
+
+
+used to stare at me  
+
+
+like amazed gophers  
+
+
+I can’t explain this  
+
+
+  
+
+
+I rode home on a Boeing  
+
+
+but that was a billion years ago  
+
+
+when the birds were chirping  
+
+
+so now we have failed to make every place America  
+
+
+although we sure gave it a go  
+
+
+  
+
+
+I can barely remember eating pancakes at Sambo’s  
+
+
+before the Michigan-Iowa game  
+
+
+in 1969  
+
+
+landslide people walked to get an armload  
+
+
+of medicine  
+
+
+in the park  
+
+
+it was an animal planet  
+
+
+and I’m not saying I was in favor of any of it  
+
+
+though you can develop a nostalgia  
+
+
+for macaroni and cheese  
+
+
+  
+
+
+and that it is just super weird  
+
+
+by the way   
+
+
+none of this is factual okay  
+
+
+stay calm  
+
+
+they are not coming to arrest you  
+
+
+yet   
+
+
+  
+
+
+gold roaster and goldfish  
+
+
+and I have bad news   
+
+
+the house didn’t sell  
+
+
+and what do I have to say  
+
+
+that isn’t another windmill to attack  
+
+
+with a jousting lance   
+
+
+on horseback  
+
+
+  
+
+
+volunteer mulberries weld their shadows  
+
+
+to the side of the next hovel  
+
+
+  
+
+
+we made a Mount Rushmore of mud   
+
+
+complete with our tired faces 
+
+
+
+
+Three Poems |  Larson
+
+
+
+
+
+![](2023-spring-web-resources/image/larson-2-jun-taek-lee-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo taken at the Conard Environmental Research Area in September 2016 by Jun Taek Lee
+
+
+
+
+
+![](2023-spring-web-resources/image/larson-3-jun-taek-lee-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo taken at the Conard Environmental Research Area in September 2016 by Jun Taek Lee
+
+
+
+
+
+
+
+
+Iowa’s Lichens |  Colbert
+
+
+
+
+
+![](2023-spring-web-resources/image/colbert-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of James Colbert
+
+
+
+
+Jim Colbert grew up in Cedar Rapids, Iowa, and graduated in Biology from Iowa State University.  After graduate school at the University of Wisconsin-Madison and a three-year stint on the faculty at Colorado State University, he returned to Iowa State University.  Dr. Colbert did research on various aspects of plant and fungal biology and taught introductory biology to thousands of students over his 33 years as a faculty member at Iowa State. During his many wilderness canoe trips to the Boundary Waters Canoe Area Wilderness (https://www.fs.usda.gov/visit/destination/boundary-waters-canoe-area-wilderness ) Dr. Colbert became fascinated by lichens, which are more prominent in the boreal forest than in Iowa, leading to research projects on the lichens of Iowa over the past 15 years.
+
+
+
+
+\*All references appear in Endnotes in the back of the issue.
+
+
+
+
+Iowa’s Lichens: 
+
+
+Found and Lost\*
+
+
+
+
+by James Colbert
+
+
+
+
+Lichens are a lovely part of Iowa’s native biodiversity, but are easily overlooked and often misunderstood. When noticed by the casual observer, lichens are often thought be a type of “moss.” True mosses are actually a type of plant, but lichens are not plants at all. Lichens are fungi that have an intimate symbiotic relationship with a photosynthetic organism, either a green alga or a cyanobacterium1. The fungus is almost always an “ascomycete” (“sac fungus”) the same group of fungi to which morels and truffles belong. Recently, we have learned that many lichens are more complex than had been previously understood. and they can have additional fungal components.2 Lichens play various roles in ecosystems. Many lichens are used for food and shelter by numerous species of smaller insects and other arthropods. Some birds use lichens as nest material. Those lichens with cyanobacteria can fix nitrogen from the air, thereby increasing the amount of nitrogen available to plants in their local ecosystem. 
+
+
+Lichens in Iowa can be found on a wide range of substrates, including soil, rocks, wood, and even human-made materials such as concrete, plastic, rubber, and metal. The most common substrate for Iowa lichens is probably bark (Fig. 1). Taking a close look at the bark of virtually any tree in Iowa is likely to reveal the presence of one type—and usually more—of lichen. Physcia stellaris (Fig. 1), and the very similar Physcia aipolia are amongst the most common “foliose” (i.e., leaf-like) bark lichens in Iowa. Candelaria concolor (Fig. 1) is also commonly found on the bark of trees in Iowa. Teloschistes chrysophthalmus (Fig. 1) is a lovely, but much less common, “fruticose” (i.e., shrub-like) lichen found on the bark of Iowa trees. Overall, a surprising diversity of lichens has been recorded in the state. There have been 478 distinct lichens recorded in Iowa,3 which is almost 10 times more than the number of mammal species currently found in the state and about the same as the number of bird species. 
+
+
+Although nearly 500 different types of lichens have been recorded here, at one time or another, it seems fair to ask whether all of these lichens are here now and whether settlement by Europeans had any effect. To put the answer to this question in its proper context, it is important to examine the effect of European settlement on Iowa’s biodiversity as a whole. Two-hundred years ago, in 1823 prior to European settlement, Iowa was a very different place. The Lewis and Clark expedition had passed by the state’s western border while headed upstream on the Missouri River only 19 years previously. The first official settlers of European descent wouldn’t arrive for another decade, though indigenous peoples such as the Ioway and the Dakota had long been thriving in the region. 
+
+
+Iowa in 1823 was also very different from today with respect to its non-human biodiversity.4 Most of the state was covered by millions of acres of fire-dependent tallgrass prairie. Large portions of eastern Iowa were part of the western border of the great eastern temperate deciduous forest. Much of north-central Iowa was dotted with pothole lakes and innumerable wetlands of every size. The land was teeming with animals.5 There were herds of bison and elk. Large predators roamed the state, including mountain lions, gray wolves, and black bears. The rivers and streams were home to large populations of beavers, river otters, and many less obvious species, including a wide array of freshwater mussel species.6 The deciduous forests of eastern Iowa had plentiful turkeys, ruffed grouse, and phenomenal numbers of passenger pigeons. Prairie chickens were found throughout the state, and during the fall and spring migrations many species of ducks and geese darkened the skies. 
+
+
+The populations of many species that were common in Iowa in 1823 have been dramatically reduced since then. Perhaps the most obvious would be any of the common tallgrass prairie plant species that once blanketed most of the state. These have been replaced in large part by corn, soybeans, and non-native pasture grasses. Remnant tallgrass prairie has been reduced to a tiny fraction of its former extent. Early on many of the larger and economically important animal species were extirpated from the state. There are no longer free-ranging reproducing populations of mountain lions, gray wolves, black bears, bison, or elk in Iowa. The last known wild elk in Iowa was seen in 1871—a mere 25 years after Iowa achieved statehood. Other species, including river otters and turkeys, were extirpated from the state, but subsequently reintroduced by the Iowa Department of Natural Resources, and currently these species have healthy populations throughout the state. The prairie chicken was also extirpated and has been reintroduced, but the lack of suitable habitat allows only a small resident population, primarily at Kellerton Grassland in Ringgold County. At least one native Iowa species, the passenger pigeon, will never return. It was driven to extinction by overharvesting and habitat loss due to the activities of settlers of European descent, with the last known individual dying in 1914. 
+
+
+Our knowledge of native Iowa species that have been dramatically reduced in population size, extirpated, or driven to extinction over the last two centuries depends on the historical records that allow us to know what species were present in, for example, 1823. Unfortunately, those records typically reflect only the most common, the largest, and/or the most economically important species. Smaller native species with no obvious economic importance were given very little attention. Consequently, little information is available from the early years of European settlement of Iowa, so we know very little about these native species and are dependent on records kept by early Iowa residents who were self-styled naturalists and who paid attention to some of the state’s less obvious native species. Even with these sources taken into account, it wasn’t until the latter half of the 1800s that these species began to be recorded and preserved. It’s impossible to know what diversity might have been diminished or lost in these early years. 
+
+
+Lichens certainly fit into the category of “small species with no obvious economic importance,” and it’s highly unlikely they would have been considered noteworthy by early Iowa settlers. The first lichen recorded in Iowa was collected in 1870 by Dr. Charles Bessey who, at the time, was a faculty member at the institution destined to become Iowa State University. The lichen was Parmotrema crinitum, and the specimen currently resides in the University of Wisconsin-Madison Herbarium.7 This lichen likely still persists in Iowa as a recent population was recorded in 2013.8 That is not, however, necessarily the case for all of the other lichens recorded for Iowa. By our estimate, at least 33 of Iowa’s recorded lichens are currently quite rare in— or potentially extirpated from—Iowa.9 It is also possible, perhaps even likely, that there are other native lichens that may have been extirpated from Iowa—some having been lost before anyone recognized that they were ever present here. 
+
+
+It is impossible to know with certainty that a lichen has been extirpated from a region in which it was previously known. However, extensive searching of suitable habitat without finding a population of a particular lichen provides strong evidence for extirpation. 
+
+
+The best example of a native Iowa lichen that has likely been lost is Lobaria pulmonaria (Figure 2). This lichen is a rather large and prominent bright green foliose lichen that grows on tree bark. It is easy to find and identify. Still, it has been recorded only four times in Iowa, between 1894 and 1901, in three northeast Iowa counties (Clayton, Dubuque, and Fayette), where it was collected by two of Iowa’s early naturalists—Dr. Bruce Fink and Dr. Bohumil Shimek. One of Fink’s Lobaria pulmonaria specimens resides in the Iowa State University Ada Hayden Herbarium (Fig. 3). Without these scientists’ efforts we might never have known Lobaria pulmonaria was native to Iowa. Given its size and prominence it seems likely that this lichen was rare in the late 1800s. Its abundance 200 years ago in 1823 is impossible to determine. An extensive search (a total of roughly 92 miles of search effort10,11) in suitable habitat was carried out in Dubuque and Clayton Counties, as well as in neighboring Allamakee, Delaware, and Winneshiek Counties between 2008 and 2017. No populations of this native Iowa lichen were discovered. Lobaria pulmonaria is very likely a lichen that is no longer part of Iowa’s native biodiversity. Lobaria pulmonaria is known to be an old growth forest lichen that is also sensitive to air pollution.12 Due to human activities, Iowa has very little, if any, remaining old growth forest, and the state has air quality issues of various kinds as well. 
+
+
+Some might argue that the extirpation of Lobaria pulmonaria from Iowa is no great loss. It is, after all, quite abundant in some other parts of the world, including northern Minnesota. One could get in a vehicle, drive about 500 miles north, find suitable habitat, and have a reasonable chance of seeing Lobaria pulmonaria in the wild. Still, it is sad to have a lovely lichen that was formerly present in “our own backyard” disappear, very likely as a result of our own activities. Perhaps we should consider reintroducing Lobaria pulmonaria to Iowa. It worked for turkeys and river otters. ![](2023-spring-web-resources/image/1.png)
+
+
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/colbert-2-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Figure 1. Lichens growing on the bark of a wild plum (Prunus americana) branch. The orange lichen is Teloschistes chrysophthalmus (“golden eye lichen”), the gray lichen is Physcia stellaris, and the yellow lichen is Candelaria concolor. Image taken in Adair County, Iowa in 2020. All photos courtesy of James Colbert
+
+
+
+
+Iowa’s Lichens |  Colbert
+
+
+
+
+
+
+
+
+“The population of many species [of lichen]that were common in Iowa in 1823 have been dramatically reduced...”
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/colbert-3-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+![](2023-spring-web-resources/image/colbert-4-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Figure 2: (left) Lobaria pulmonaria growing on the bark of a sugar maple (Acer saccharum) tree. Image taken in the state of Maine in 2011. The same species grows in Iowa.
+
+
+Figure 3 (above): Specimen of Lobaria pulmonaria collected by Dr. Bruce Fink in 1894. From the Ada Hayden Herbarium Lichen Collection, Accession # 25303
+
+
+
+
+
+
+
+
+A Spirited Land |  Spindler-Krage
+
+
+
+
+
+![](2023-spring-web-resources/image/spindler-krage1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Zach spindler-krage
+
+
+
+
+Zach Spindler-Krage ‘25 is a native Minnesotan who feels an immense amount of state pride. He has always loved writing, history, and photography, and he enjoys finding ways to combine them to tell stories about people and places. Aside from studying political science and policy studies, Zach spends his time playing cello, singing in choir, advocating for environmental and political issues, camping, and enjoying time with family. At Grinnell College, he is involved in the Rosenfield Program and writes for the Scarlet & Black  (https://thesandb.com) and Grinnell Press (https://grinnellcollegepress.com/archive/index.html). His freelance writing about the Boundary Waters has appeared in MinnPost (https://www.minnpost.com), Minnesota Reformer (https://minnesotareformer.com), the Post Bulletin (https://www.postbulletin.com), and Duluth News Tribune (https://www.duluthnewstribune.com). Zach published a book of nature photography and poetry entitled Whispers from the Wilderness: Dictionary of Latent Contemplation with Grinnell Press in the spring 2023. 
+
+
+
+
+A Spirited Land: 
+
+
+Indigenous Tribes’ Fight to Protect the Boundary Waters\* 
+
+
+
+
+By Zach Spindler-krage
+
+
+
+
+The Boundary Waters Canoe Area Wilderness (BWCAW) and Superior National Forest are traditionally known as Anishinaabe land. The story of the Anishinaabe peoples—also known as Ojibwe or Chippewa—is one of resilience, persistence, and hope. The interconnected waterways winding across the Superior National Forest have been critical travel routes for the Anishinaabe for thousands of years, since long before fur traders from Europe began displacing Indigenous tribes. The fight to protect these lands has endured for centuries, and it continues in full force today in response to proposed sulfide-ore copper mining in the headwaters of the Wilderness. The preservation of this land is not only a matter of environmental preservation but also a matter of upholding Ojibwe treaty rights. The recent success of the Boundary Waters protection movement in mitigating mining threats is due in part to legal action and advocacy by the Minnesota Chippewa Tribe (MCT), and if permanent protection is achievable it will likely require continued Indigenous initiative. In order to fully appreciate the modern efforts of the MCT to protect the BWCAW, we must first consider the history of land treaties between the federal government and these tribes in some detail. 
+
+
+Indigenous History in Northeastern Minnesota 
+
+
+ The Boundary Waters Canoe Area Wilderness is a vast expanse of interconnected lakes, streams, and forests that spans 1.1 million acres of unspoiled natural landscape in northeastern Minnesota. It is the most-visited Wilderness in the country and holds 1,100 lakes within its boundary. Here, the air is crisp and the water is clear, reflecting the majestic sunrise each daybreak. Loon calls echo across the lakes, cutting through the meditative sound of waves lapping against the rocky shoreline. The dense forests of spruce and pine trees seem infinite, sheltering the swaths of wild blueberry patches and the wildlife that devour their fruit. At dusk, bald eagles are replaced in the sky by countless stars that shimmer off the glassy water. When Mother Nature is feeling generous, the northern lights illuminate the darkness with a flickering green light that dances behind the tree line. 
+
+
+ This region, with its inexpressible beauty and abundant natural resources, has been home to Indigenous peoples for roughly 10,000 years. When Paleo-Indians first entered North America during the late glacial episodes of the Late Pleistocene period, Minnesota was still covered by glacial ice and large melt-water lakes. Areas of northern Minnesota did not become ice-free until 11,500 B.C.E, with lake formation beginning between10,000 and 9,500 B.C.E. By 9,200 B.C.E, archeologists estimate that northeastern Minnesota was likely habitable; the newly uncovered land was rapidly revegetated with spruce forest and tundra grassland, providing food for woodland animals like mastodon and grassland species like mammoth and caribou. However, the rugged terrain and thick vegetation make archeological surveying difficult, and archaeological evidence for Early Paleo-Indian occupation in this area is sparse. Most available evidence places the first significant growth in Indigenous inhabitants of the area in the Late Paleo-Indian period (8500 - 7900 B.C.E).1 
+
+
+  In roughly 1000 C.E., ancestors of the Anishinaabe people began to move into northeastern Minnesota from the northeast coast of North America. The migration was likely driven by the region’s abundance of natural resources. The Anishinaabe are skilled hunters, fishers, and gatherers, and the Boundary Waters area provided a wealth of fish, game, wild rice, and medicinal plants. 
+
+
+  Yet, the Boundary Waters are not just a source of physical sustenance for the Anishinaabe, but also of spiritual nourishment. The area is filled with sacred sites, including ancestral burial sites, rock formations, and islands believed to be inhabited by spirits.2 Furthermore, the lakes, rivers, and forests of the region are seen as living entities, imbued with their own spirits and personalities. Anishinaabe stories charge members of the tribe with protecting the natural world and honoring the spirits of the land and waterways. 
+
+
+  In the mid-17th century, French traders made first contact with Ojibwe tribes, a subgroup of Anishinaabe, along the west shore of Lake Superior. Between 1680 and 1761, French traders and Ojibwe engaged in a period of intricate fur trade. The Ojibwe provided animal pelts, winter food supplies, canoes, and snowshoes, while the French provided guns, cloth, clothing, copper kettles, and tobacco. Following the defeat of France in the Seven Years’ War, ending with the Treaty of Paris in 1763, British companies began their own fur trade with the Ojibwe. Three prominent fur trade companies — the North West Company, the XY Company, and the Hudson’s Bay Company — established their own presence in northern Minnesota and continued to trade manufactured items for animal pelts. The Ojibwe played a crucial intermediary role in connecting the British to other Indigenous tribes and transporting furs and other goods between European traders and those tribes. After the War of 1812, both American and British trading posts were present in the Border Lake region, which offers a canoe route from the Boundary Waters to Lake Superior along the Canadian border.3
+
+
+ 
+
+
+The Ojibwe Treaties of 1837 and 1854
+
+
+ By the 1830s, in the midst of westward expansion, the United States government began forcibly removing Indigenous tribes from their lands in the upper Midwest. In 1837, with little choice but to move, Ojibwe and Dakota leaders ceded a massive swath of what is now east-central Minnesota and western Wisconsin to the U.S. government. The land ceded by the Ojibwe included Mille Lacs Lake, one of Minnesota’s most famous fisheries; however, at this time, the government was primarily interested in logging the white pine forests east of the Mississippi River. In exchange for the millions of acres of land, the government promised payments to the Ojibwe of $35,000 each year for twenty years. The payments were completed in the form of cash, goods, and services that included food, blacksmith shops, and a yearly ration of $500 worth of tobacco.4 The tribes were also granted the right to hunt, fish and gather on the ceded land, which became a pivotal provision of the treaty agreement in the following decades. 
+
+
+ In 1848, surveyors discovered copper along the north shore of Lake Superior. Immediately, mining companies in Michigan began pressuring the federal government to open the area for mining, which required another land cession from the Ojibwe.5 The 1854 Treaty of LaPointe, signed by eighty-five Ojibwe leaders, ceded 5.5 million acres of the Arrowhead Region of Minnesota, including what would become the entire BWCAW. In exchange, the tribes received annual payments of less than $20,000, split among cash, goods, agricultural supplies, and school funds. The Lake Superior Bands received an extra $90,000 to help pay their debts to traders.6 As with the 1837 treaty, the Ojibwe agreed to sell their land only if they retained the right to hunt and fish on ceded territory. Despite the discovery of several extensive copper deposits, the expected rush of miners never developed at this time. 
+
+
+ As a part of the 1854 treaty, the Ojibwe also received several one-time payments to help them resettle on reservation land. These reservations are still heavily populated. The Grand Portage Indian Reservation, east of the Boundary Waters, is home to the Grand Portage Band of Chippewa; the Bois Forte Reservation, to the west, belongs to the Bois Forte Band of Chippewa; to the southeast is the Fond du Lac Band of Lake Superior Chippewa. These three groups join the Leech Lake, Mille Lacs, and White Earth reservations as part of the Minnesota Chippewa Tribe, which has roughly 41,000 members.7 
+
+
+ Based on the legal interpretation of the prominent treaties of 1837 and 1854, the signatory Ojibwe Bands retain usufruct rights: the right to live off the land and make a modest living from hunting, fishing, and gathering from the ceded territory’s resources. This interpretation results from the Reserved Rights Doctrine, which establishes that “any rights that are not specifically addressed in a treaty are reserved to the tribe.” In other words, treaties outline the specific rights that the tribes ceded, not the rights that they retained.8 Despite this legally-mandated interpretation of the rights granted to the Ojibwe Bands, the State of Minnesota applied its hunting and fishing laws in the ceded territory to both Indigenous and non-Indigenous people alike for over a century, violating the treaties. 
+
+
+The Battle Over Treaty Rights 
+
+
+ In 1985, in an effort to reclaim long-denied treaty rights, the Grand Portage sued the State of Minnesota in federal court. The Fond du Lac and Bois Forte Bands subsequently joined the lawsuit to negotiate a satisfactory settlement.9 The state and three bands came to an agreement in 1988 whereby the state makes an annual payment to the bands — $1.6 million to the Grant Portage and Bois Forte and $1.85 million to the Fond du Lac — and the bands establish their own regulations on Tribal members. Under the agreement, the Bands’ regulations restrict commercial harvest, big game seasons, spearing, netting, and other activities that are “of concern to the state” for tribal members.10 The Grand Portage and Bois Forte Bands remain in the agreement, which continues successfully to date. 
+
+
+ While this agreement was a positive step for the Minnesota Chippewa Tribe, it did not commit to a legal conclusion regarding the validity of the treaty rights. In fact, despite entering the agreement, the state argued in separate cases in 1988 and 1999 that the tribes’ use rights had been dissolved, citing an 1850 Executive Order.11 The order, signed by President Zachary Taylor on February 6, 1850, states that the “hunting, fishing, and gathering of wild rice upon the lands, the rivers, and lakes included in the territory ceded to the United States…are hereby revoked; and all of the said Indians remaining on the lands ceded as aforesaid, are required to remove to their unceded lands.”12 Additionally, the state argued that the entrance of Minnesota into the union in 1858 terminated the use rights. 
+
+
+ However, in Grand Portage Band of Chippewa of Lake Superior v. Minnesota (1988), the U.S. District Court in Minnesota affirmed the Ojibwe Bands’ authority to regulate the exercise of their enrolled members’ hunting, fishing, and gathering rights in the ceded territory. Since 1989, the U.S. Department of Interior has encouraged the participating Bands to exercise these rights sustainably by granting funds to maintain natural resource programs.13Yet, the state continued to complicate — and in some cases prevent—the ability of the bands to exercise their treaty rights. 
+
+
+ Consequently, in 1990, the Mille Lacs Band of Chippewa filed suit seeking a confirmation of their use rights and an injunction against the State of Minnesota to prevent it from interfering with those rights. In 1999, the U.S. Supreme Court affirmed the Ojibwe’s rights to the ceded land, stating that the 1850 Executive Order had no source of authority because it did not “stem either from an act of Congress or from the Constitution itself.”14 The Court’s affirmation of the treaty rights was not only important for the Ojibwe but for all tribes with treaty use rights; ultimately, the decision ensures that treaty rights are retained unless a treaty, statute, or executive order clearly expresses a future intention to abrogate those rights. In the case of the 1837 and 1854 treaties, no such stipulation or intention was included, which allows the bands to continue their hunting, fishing, and gathering with explicit legal protection.15 
+
+
+ In 2017, the state and Fond du Lac Band agreed to a Memorandum of Understanding (MOU) that formalized collaborative efforts regarding the collection and sharing of data that informs annual hunting, fishing, and gathering regulations. The MOU solidifies acceptable harvesting methods, establishes wildlife surplus levels and moose population protections, and creates committees consisting of Tribal and state representatives where resource management issues and disputes can be discussed. The MOU includes a stipulation, signed by both parties, ensuring that the 1837 and 1854 treaty rights are interpreted consistently. At the signing of the agreement, former Fond du Lac Band Chairman Kevin Dupuis highlighted the gravity of this event: “The exercise of our hunting, fishing, and gathering rights under our 1854 treaty is central to the lives, culture, and traditions of the Fond du Lac people. Because of the critical importance of these rights, the Band has worked extensively to ensure proper management of the natural resources on which those rights depend.”16
+
+
+Growing Threat of Mining Near the Boundary Waters 
+
+
+ A significant portion of the 1854 treaty land is within the Superior National Forest, which comprises nearly 4 million acres in northeastern Minnesota. The BWCAW lies within the Superior National Forest, and much of the best hunting, fishing, and wild rice harvesting occurs in the area’s watershed. This is critical because of a new threat: mining. 
+
+
+ Historically, the Boundary Waters have been strictly protected. The one million acres that now make up the Wilderness were formally designated in 1964 by the Wilderness Act. However, the Wilderness Act allowed for unsustainable practices to continue within the area, including the use of motorboats, mining, and some logging. The 1978 Boundary Waters Canoe Area Wilderness Act restricted these activities, making the area one of the most heavily protected regions in the U.S.17 Yet, while the Wilderness Area and federal buffer area are protected from mining, the surrounding area, including the headwaters, is not. The Boundary Waters — with its 165,000 annual visitors and $540 million ecotourism economy — is threatened by proposals for toxic sulfide-ore copper mines in its headwaters and watershed. This type of mining, never done before in Minnesota, has proven to be extremely damaging; a peer-reviewed report by Earthworks, an
+
+
+anti-mining advocacy group, studied fourteen sulfide-ore copper mines in the U.S. and found that thirteen had had significant impacts on water quality in their catchment areas.18 The mining process is risky. First, rock is blasted from pit walls and sorted into metal-bearing ore and waste rock. Since less than one percent of the rock contains copper or nickel, ninety-nine percent of the rock has little economic value and will sit indefinitely in the waste storage facility or rock piles. No metal recovery method is fully effective, so metals, sulfides, and residue from explosives are commonly left behind in the waste. Acidic mine drainage develops when these sulfide minerals are exposed to air or water. Chemical reactions can turn these otherwise benign minerals toxic.19 
+
+
+ As soon as pollutants enter the interconnected waters, they are likely to spread throughout the entire ecosystem. Depending on whether the pollution occurs north or south of the Laurentian Divide, the toxic waste will either flow south into Lake Superior or north through Voyageurs National Park, emptying finally into Hudson Bay. 
+
+
+ The mining proposal by Twin Metals Minnesota, a subsidiary of Chilean mining firm Antofagasta, would operate next to the headwaters of the Boundary Waters near Ely, Minnesota, for twenty years. The lease has been passed between mining companies since 1966, but the severity and imminence of the threat have grown rapidly in recent years. President Obama first proposed withdrawing the area from mining in 2016, but President Trump approved the leases for the project in 2019. When President Biden took office, he initiated a U.S. Forest Service environmental assessment of the potential damage of the mine, and a judge ordered a pause on any action until the legality of the Trump administration’s decision to renew the leases was evaluated. Ultimately, the Biden administration canceled two leases required to build and operate the mine.20 
+
+
+ On January 26, 2023, in the most significant action to date, Secretary of the Interior Deb Haaland, signed Public Land Order 7917, effectively banning sulfide-ore copper mining on 225,504 acres in the watershed of the BWCAW. In short, this federal step ensures the protection of the established acreage for the next twenty years.21 It is the longest moratorium that the Department of Interior can issue; permanent protection would require Congressional action. This is a major step in the environmental protection movement, and the Minnesota Chippewa Tribe (MCT) has played an integral role in the ruling. 
+
+
+Advocacy for the Protection of Tribal Livelihood 
+
+
+ In one example of the ruling’s far-reaching effects, in January 2020, the MCT sent a letter to Congress announcing its support for the Boundary Waters Wilderness Protection and Pollution Prevention Act. The bill, authored by Minnesota Fourth District Congresswoman Betty McCollum, would expand the existing mining buffer zone around the Boundary Waters by an additional 234,000 acres. 
+
+
+ In the letter, MCT president Cathy Chavers references the 1854 treaty that granted hunting, fishing, and gathering rights to the Fond du Lac, Grand Portage, and Bois Forte Bands. Because of these rights, Chavers explains that the Bands have a “legal interest in protecting natural resources, and all federal agencies share in the federal government’s trust responsibility to the Bands to maintain those treaty resources.”22 
+
+
+ Chavers also emphasizes the historical significance of the region to the MCT and the likely effect of mining pollution on the surrounding reservations: “The fish in adjacent waters are subject to consumption advisories designated by the Minnesota Department of Health because of mercury in their flesh,” Chavers says. “Sulfide-ore copper mining will increase the amount of mercury in fish, a toxin of great concern to our members who depend on wild caught fish for their sustenance. Wild rice and terrestrial species will also be at risk, as pollution and habitat destruction will have wide reaching impacts.”23
+
+
+ The letter concludes by expressing appreciation for the healthy environment and economy that offer sustenance to the MCT and warns that it is all at risk if any mining proposal moves forward. “It is unacceptable to trade this precious landscape and our way of life to enrich foreign mining companies that will leave a legacy of degradation that will last forever,” says Chavers. “We need this protection before it is too late, and the future of this area is now in your hands.”24
+
+
+ The MCT was also cited extensively in findings and recommendations from the U.S. Forest Service. In October 2021, the Forest Service submitted a withdrawal application to the Interior Department’s Bureau of Land Management, which manages the subsurface mineral estate under the national forest. While collecting extensive public input regarding the withdrawal, the Forest Service conducted a science-based environmental assessment to evaluate the potential impacts of prohibiting new mineral and geothermal exploration and development within the Rainy River watershed for the next twenty years.25 The analysis and decision were informed by 225,000 comments, three public meetings, and, notably, two Tribal consultations. 
+
+
+ One of the predominant findings from the Tribal consultations was the potential impact on wild rice harvesting. To the Ojibwe, wild rice “was endowed with spiritual attributes, and its discovery was recounted in legends. It was used ceremonially as well as for food, and its harvest promoted social interaction in the late summer each year.” This significance remains. Since wild rice is sensitive to fluctuations in water level and changes to alkalinity and water chemistry, mining would likely decrease yield, which has already been reduced by industrial development in the area.26 According to the 1854 Tribal Authority, an Inter-Tribal resource management agency that is cited heavily in the assessment, there are 521 waters that support wild rice growth within the 1854 Ceded Territory. In the consultation, the Tribes also reference the subsistence value of uncontaminated fish and the cultural value of moose, sugar maple, white cedar, paper birch, and berries.27 
+
+
+ The locations most used by Band members are within the “area of highest potential for mine infrastructure,” so degradation would be likely to occur on these lands. Overall, the amount of federal land within the 1854 Ceded Territory has already been reduced by nearly fifty percent since the treaty was signed, so the protection of the remaining land is of utmost importance for the Tribes. The assessment states that “wildlife habitat, plants, wetlands, and associated cultural resources of value to the tribes…may be permanently lost.”28 
+
+
+ Ultimately, the Forest Service concluded that mining activity in this area would disproportionately affect the Bands, breaking the federal government’s legally mandated trust responsibility with tribes. Based on the strong evidence for the adverse effects of mining presented by the Bois Forte, Grand Portage, Fond du Lac, and White Earth Bands, the Forest Service recommended a mineral ban on 225,504 acres in the Wilderness watershed.29 The Department of Interior implemented this recommendation in January 2023, protecting the Boundary Waters for the next twenty years. 
+
+
+The Ultimate Goal: Permanent Conservation 
+
+
+ Despite the success, there is still potential for the government to reverse course when the administration or Congress changes hands. However, the Ojibwe Bands are actively fighting to proactively protect their land from economic extortion and environmental degradation. On July 14, 2022, the Fond du Lac and Grand Portage Bands filed a landmark Clean Water Act lawsuit against the Environmental Protection Agency Region in federal court. This is the first lawsuit any tribe in the U.S. has filed against the EPA over changes to water quality standards. The lawsuit aims to challenge the EPA’s decision to approve the Minnesota Pollution Control Agency’s overhaul of “Industrial Use” and “Agricultural Use” water quality measures. The Bands argue that the elimination of numeric standards is likely to exacerbate pollution in waters that flow through the Ojibwe reservations.30
+
+
+ In addition, on May 9, 2023, the Bois Forte, Fond du Lac, and Grant Portage Bands of Lake Superior Chippewa entered into an agreement with the U.S. Forest Service to work collaboratively to manage the Superior National Forest. The Memorandum of Understanding states that the Forest Service “recognizes the Bands as original stewards of lands now encompassing the Superior National Forest and outlines procedures to ensure that Tribal input is meaningfully incorporated into Forest Service decision-making.” The MOU recognizes that tribes have already been playing a major role in studying wildlife, contributing traditional ecological knowledge, and advocating against development in the region, but they will now have a greater say in the protection of culturally-sensitive areas, coordination of forest management goals, and the selection of conservation projects. Cathy Chavers, MCT president, articulated the weight of this agreement: “We, as Tribal Leaders, are charged with caring for our natural resources. This includes our elders and youth. We also must think of the next seven generations by building partnerships and strengthening relationships to work together to achieve that common goal.”31 
+
+
+ The Boundary Waters Canoe Area Wilderness and Superior National Forest are Anishinaabe lands. When the Anishinaabe were forced to cede their land in 1837 and 1854, their use rights to the land remained. Yet, the realization of these rights has taken decades of legal challenges, advocacy, and persistence. Ultimately, the Chippewa Bands were successful in achieving legal protection of their treaty rights. But they are not inclined to stop here. As a primary current threat to their livelihood comes in the form of sulfide-ore copper mining proposals, the Bands will continue to fight for permanent federal protection of this land. They intend to fight until politicians recognize the value of a pristine, spiritually-rich Wilderness and choose to protect it from exploitation.![](2023-spring-web-resources/image/1.png)
+
+
+
+
+\*All references appear in Endnotes in the back of the issue.
+
+
+
+
+
+![](2023-spring-web-resources/image/spindler-krage-2-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Sunset over Ojibwe Lake, which rests on the edge of the Boundary Waters Canoe Area Wilderness (BWCAW). All photos courtesy of Zach Spindler-Krage unless otherwise noted.
+
+
+
+
+A Spirited Land |  Spindler-Krage
+
+
+
+
+
+![](2023-spring-web-resources/image/spindler-krage-3-volume-ix-issue-1-spring-2023.png)
+
+
+
+Map of the territory ceded by Ojibwe Tribes in 1837 and 1854. Graphic courtesy of Great Lakes Indian Fish & Wildlife Commission. 
+
+
+
+
+
+![](2023-spring-web-resources/image/spindler-krage-10-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Tribal officials signing the treaty of LaPointe in 1854. The treaty ceded all of the Lake Superior Ojibwe lands to the United States in the Arrowhead Region of Northeastern Minnesota, in exchange for reservations for the Lake Superior Ojibwe in Wisconsin, Michigan, and Minnesota.
+
+
+
+
+
+![](2023-spring-web-resources/image/spindler-krage-4-volume-ix-issue-1-spring-2023.png)
+
+
+
+The eleven federally recognized Tribal governments in Minnesota, including the six members of the Minnesota Chippewa Tribe. Graphic courtesy of Minnesota Department of Transportation
+
+
+
+
+A Spirited Land |  Spindler-Krage
+
+
+
+
+
+![](2023-spring-web-resources/image/spindler-krage-5-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+View overlooking Lake Superior and the Superior National Forest
+
+
+
+
+
+![](2023-spring-web-resources/image/spindler-krage-6-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Map of the proposed sulfide-ore copper mine and the likely path of pollution. Graphic courtesy of Save the Boundary Waters Campaign
+
+
+
+
+
+
+
+
+On January 26, 2023, in the most significant action to date, Secretary of the Interior Deb Haaland effectively banned sulfide-ore copper mining on 225,504 acres in the watershed of the BWCAW.
+
+
+
+
+
+
+
+
+A Spirited Land |  Spindler-Krage
+
+
+
+
+
+![](2023-spring-web-resources/image/spindler-krage-7-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Cherokee Lake in the BWCAW
+
+
+
+
+
+![](2023-spring-web-resources/image/spindler-krage-8-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Ojibwe harvesting wild rice in 1939. Photo courtesy of Minnesota Historical Society
+
+
+
+
+A Spirited Land |  Spindler-Krage
+
+
+
+
+
+![](2023-spring-web-resources/image/spindler-krage-9-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Much of the water in the BWCA is currently clean enough to drink without filtration
+
+
+
+
+“The realization of [Chippewa] rights has taken decades of legal challenges, advocacy and persistence. Ultimately, the Chippewa Bands were successful in achieving legal protection of their treaty rights. “
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technology on the Prairie |  Allen
+
+
+
+
+Technology on the Prairie
+
+
+Stroboscopic 
+
+
+Photography
+
+
+Stroboscopic photography involves using a flashing light source to capture pictures of a moving object at different points in its motion. It is credited to Harold E. “Doc” Edgerton of Nebraska ca. 1930-1940s and has a fascinating origin story. Edgerton’s passion for photography was ignited during his teenage years when he learned the art from his uncle. Driven by his deep interest in photography, he even went on to create his own darkroom at home to process his film photographs. 
+
+
+As Edgerton continued in his academic pursuits, he went to MIT for postgraduate studies where he began experimenting with a stroboscope, which generates rapid, repeated bursts of light. This innovative technology allowed him to capture images in a way that had never been done before. By utilizing the stroboscope’s ability to freeze motion, Edgerton was able to capture fleeting moments with extraordinary clarity and detail, revealing an exciting new world of visual possibilities. 
+
+
+The impact of Edgerton’s invention was clear, revolutionizing the field of photography and opening new avenues for scientific, artistic, and industrial applications. His pioneering work in stroboscopic photography has left a permanent mark in the realm of visual imaging, and his legacy as a visionary inventor and photographer continues to inspire generations of innovators and artists today. The image above vividly exemplifies the remarkable effect achieved through stroboscopic photography, that is its ability to freeze motion with an unprecedented amount of clarity. ![](2023-spring-web-resources/image/1.png)
+
+
+ 
+
+
+Sources: 
+
+
+American Chemical Society. (n.d.). Discovery of helium in natural gas - National Historic Chemical Landmark. American Chemical Society. Retrieved May 5, 2023, from https://www.acs.org/education/whatischemistry/landmarks/heliumnaturalgas.html 
+
+
+Cady, H. P., & McFarland, D. F. (1906). Helium in Kansas Natural Gas. Transactions of the Kansas Academy of Science (1903-), 20, 80–81. https://doi.org/10.2307/3624645 
+
+
+Williams, M. (2016, March 15). Who discovered helium? Phys.org. Retrieved May 5, 2023, from https://phys.org/news/2016-03-helium.html
+
+
+
+
+
+![](2023-spring-web-resources/image/allen-8-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+The motion of a bouncing basketball captured with stroboscopic photography. Photo courtesy of Wikimedia Commons (https://en.wikipedia.org/wiki/Stroboscope#/media/File:Bouncing\_ball\_strobe\_edit.jpg)
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/Downing-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Photo courtesy of Karen Downing
+
+
+
+
+Karen Downing taught high school English for 34 years. She is the Special Projects Coordinator for CultureALL’s Open Book program. These poems were inspired by time spent at Alan and Nancy Meyer’s home outside Cedar Bluffs, Nebraska as part of the AgArts Residency program. 
+
+
+
+
+At the North Bend Farmers Market in Late July  
+
+
+  
+
+
+The girls are what I notice 
+
+
+not the first haul of corn spilling from the back of a 
+
+
+not the beachball watermelons flattening the dry grass 
+
+
+not the farmers who toiled in the fields 
+
+
+but their daughters in their track shorts and Adidas slides 
+
+
+hair still damp from the city swimming pool 
+
+
+the scent of chlorine layered with Bath and BodyWorks  
+
+
+“Enchanted Candy Potion” lotion 
+
+
+ 
+
+
+That trance of youth  
+
+
+like staring into the wavy heat lines on 
+
+
+I-80 as I drive to work and back 
+
+
+work and back 
+
+
+arriving in my driveway 
+
+
+without knowing how I made it home 
+
+
+ 
+
+
+The girls stretch their legs out long 
+
+
+resigned to sit in camping chairs 
+
+
+and wait this out 
+
+
+propped next to baskets of zucchini and onions, 
+
+
+the girls sell home-made earrings made in 4-H 
+
+
+$10 a pair 
+
+
+gas money so they can drive out and away 
+
+
+from the flatness of the land 
+
+
+the sight of their mothers disappearing in the rear view mirror 
+
+
+down dusty country roads 
+
+
+singing as if their lives depended on it 
+
+
+even if no one hears 
+
+
+ The girls are dirt under nails and glitter on skin 
+
+
+ripe as blushing tomatoes on the folding card table 
+
+
+the girls are sleeker than cucumbers and brighter than carrots 
+
+
+they eat monkey bread from tin foil loaf pans  
+
+
+that spark in the sunshine 
+
+
+licking the sticky goodness off their hands 
+
+
+ 
+
+
+The girls can not contain their magic 
+
+
+in screw-top jam jars jeweled in the afternoon light 
+
+
+their spell holds my gaze as I offer any money I can find 
+
+
+to buy what they have 
+
+
+in the afternoon sunlight, I am a shadowy form they can barely see 
+
+
+their eyes squinting as they look ahead  
+
+
+to make out what is in front of them. 
+
+
+
+
+Two Poems
+
+
+
+
+By Karen Downing
+
+
+
+
+Two Poems |  Downing
+
+
+
+
+Photo by Jon Andelson
+
+
+
+
+
+![](2023-spring-web-resources/image/downing-2-andelson-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+The Front  
+
+
+ 
+
+
+“We should engage with poetry as we do the weather.” 
+
+
+–Ocean Vuong 
+
+
+ 
+
+
+In that case 
+
+
+I will skip the five day forecast 
+
+
+warning of high temperatures 
+
+
+The banter in the grocery store checkout line 
+
+
+about the heat 
+
+
+The urge to pack an umbrella 
+
+
+just in case 
+
+
+I will neglect to put on sunscreen 
+
+
+Forget to bring a hat 
+
+
+And not worry if I don’t roll up the car windows. 
+
+
+ 
+
+
+Instead I will sit on the porch 
+
+
+on a swing rocking back and forth 
+
+
+betwixt and between 
+
+
+As the sky darkens and the winds pick up 
+
+
+I will settle in 
+
+
+even as the temperature drops  
+
+
+and the birds hush 
+
+
+The leaves of the trees will turn silver in the sharp light 
+
+
+I will greet this force with the awe it deserves  
+
+
+Tasting the metallic mystery of the rain 
+
+
+That can’t help but touch me  
+
+
+no matter my cover. 
+
+
+ 
+
+
+You will join me 
+
+
+Waiting in the false cool of the air 
+
+
+for the weight of the clouds to lift 
+
+
+We hold turbulence  
+
+
+As a thing that can pass 
+
+
+Even as the pressure keeps us in place 
+
+
+The edge of the storm not quite gone 
+
+
+ 
+
+
+You will ask me if I plan  
+
+
+On mentioning the rainbow we saw 
+
+
+No, I will say  
+
+
+This is poetry we’re talking about, after all 
+
+
+Instead I will compare the curl in my hair 
+
+
+To the rising steam on the pavement 
+
+
+I will 
+
+
+I will 
+
+
+ 
+
+
+and that it is just super weird  
+
+
+by the way   
+
+
+none of this is factual okay  
+
+
+stay calm  
+
+
+they are not coming to arrest you  
+
+
+yet   
+
+
+  
+
+
+gold roaster and goldfish  
+
+
+and I have bad news   
+
+
+the house didn’t sell  
+
+
+and what do I have to say  
+
+
+that isn’t another windmill to attack  
+
+
+with a jousting lance   
+
+
+on horseback  
+
+
+  
+
+
+volunteer mulberries weld their shadows  
+
+
+to the side of the next hovel  
+
+
+  
+
+
+we made a Mount Rushmore of mud   
+
+
+complete with our tired faces
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/Ulbrich-1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Author photo![](2023-spring-web-resources/image/19.png)
+
+
+
+
+Photo courtesy of Tayler Ulbrich
+
+
+
+
+Tayler Chicoine Ulbrich grew up near Des Moines, Iowa, graduated from Grinnell College in 2014, and subsequently received a PhD in soil microbiology from Michigan State University. Now, she lives with her husband and son in Hickory Corners, Michigan, working as the Associate Director for engagement for the Long-Term Agroecosystem Research (LTAR; https://www.canr.msu.edu/ltar) program at Michigan State University. In this role, Tayler serves as a bridge between academic and agricultural audiences and helps the project conduct participatory action research that will produce farmer-driven data collection. The ultimate goal of the project is to support the adoption of more sustainable and resilient agricultural systems throughout the Midwest. In her free time, Tayler enjoys the new adventures of motherhood, gardening, hiking, and traveling. 
+
+
+
+
+Interview with 
+
+
+Congressman 
+
+
+Neal Smith
+
+
+
+
+by Tayler Chicoine Ulbrich, 
+
+
+with Jon Andelson 
+
+
+
+
+The following interview was inspired by a college student curious to learn how her great-grandfather’s stories from 93 years of life could help explain the past and build hope and vision for the future.
+
+
+My great-grandfather, Neal Smith, was a quiet man, but there were three topics that we could always ramble on about—Grinnell College, the prairie, and agriculture.These conversations were fueled by childhood memories growing up in Iowa and our shared comfort in and love for the tall grass prairie. Our connection to Grinnell was thanks to my great-grandmother, Bea Smith. She graduated from Grinnell in 1945. My great-grandfather loved to share the story of when he arrived by train to Grinnell after returning from military service. He made it just in time to surprise my great-grandmother for her senior dance. These shared Grinnell experiences brought me closer to my great-grandparents.
+
+
+While at Grinnell, I continued learning about the beauty and paradox of the tallgrass prairie: Iowa has the richest soil in the Midwest, yet its agricultural system has nearly led to its demise. While monitoring water quality in nearby creeks and spraying invasive weeds at the Neal Smith National Wildlife Refuge (https://www.fws.gov/refuge/neal-smith), which supports one of the largest restored tallgrass prairies, I learned about the challenges of building a system where nature and agriculture can coexist. For instance, the existence of diverse lifeforms underpins both the natural balance and ecosystem services of nature, and while these services benefit agriculture, the principles of biodiversity are not often integrated into systems managed for production alone. 
+
+
+My great-grandfather also had an appreciation for these challenges and had a significant impact on conserving natural areas in Iowa during his years in Congress (1959-1995). I wanted to learn more about this, so I interviewed him while serving on the board of the Center for Prairie Studies (CPS) at Grinnell College. Along with Jon Andelson, the emeritus director of CPS, I interviewed my great-grandfather at the Neal Smith National Wildlife Refuge. It was strange to see everyone excited to see and learn from my great-grandfather. Normally Neal Smith was just my great-grandfather, but during the interview I saw that he was so much more.Going into the interview, I had a hard time fathoming the amount of change he had experienced in 93 years, but it was even more shocking to hear about how many things hadn’t changed. For instance, he shared how, even after 93 years, some people still lack respect for one another and that we still struggle to live in balance with nature. But despite this, he shared that he still had hope for change, and that was inspiring to me—just a 21-year-old desperate to make a difference.
+
+
+Now, ten years since the interview, I continue to see the threads of my great-grandfather’s passions sewn into my own life and work. I recently received my PhD in soil microbiology from Michigan State University and am working at the intersection of science and engagement to help build a more resilient and regenerative agricultural system that works with, instead of against, nature. Editing my great-grandfather’s words during this stage of my life helped remind me of the steady pace needed to make the changes he always believed in.  
+  
+A brief recap of Neal Smith’s life 
+
+
+My great-grandfather, Neal Smith, was born on March 23rd, 1920, near Packwood, Iowa. He was born in a house that his great-grandfather had built. His early years spanned from the stock market crash and the Great Depression to WWII. While it is apparent that those experiences influenced his values and views on the world, my great-grandfather did not share much about the hard times. Instead, the stories I heard most often—which often made him chuckle to himself —were about the mischief he got into with his horse, Topsie, and pet raccoon (see picture on page 110).   
+ Neal opened up more in the last years of his life, writing a book of reflections and telling my dad many stories, which my dad has since shared with me. He talked about how he helped his family during the Depression by selling pelts, collecting bounty on crows, and doing various other jobs that he could find. While he was thankful that he could help his family earn money, he never enjoyed killing anything. He had respect for animals and appreciated what they gave him, whether it was a wild animal or the domestic pigs they raised for food and income.  
+ He also shared how, in his teenage years, President Franklin D. Roosevelt gave people hope that their lives could be better, and that the government had the ability to accomplish what individuals could or would not do alone. He talked about how cooperation is the key to change. He rarely mentioned his time in the war, only sometimes reminiscing on the funny people he met and the impact that some of his missions had on others. He also talked of the disruptive impact war has on humanity. My great-grandfather told my dad that his time in the service changed how he thought about the world, that the world became small: a finite place where all humanity exists. I think these experiences probably contributed to great-grandfather’s strong conservation ethic and belief in the need for connection and respect among people and all other species.   
+ This belief and desire to help build connections among people may have fueled his desire to run for office. Neal served as a member of the Democratic Party for the United States House of Representatives from 1959 until 1995, which made him the longest-serving Iowan in the United States House of Representatives. He had two children, six grandchildren, and twelve great-grandchildren. He lived a long life, dying at 101 years of age on November 2, 2021.   
+ I hope, as it did for me, this interview from my great-grandpa gives you a glimpse into the past and offers a bit of hope for the future. If someone that saw so much pain and tragedy, who also worked in the US government for 36 years, can end an interview with “It can be improved,” I think we must have hope. 
+
+
+TU: You have already enjoyed a long life, which means you’ve seen a lot of changes in your lifetime—in the world, in the United States, and in Iowa. Of the changes you’ve seen in your home state, which ones stand out as the most significant changes? 
+
+
+NS: Well, I was raised during the Depression on a farm near Packwood, Iowa. Anybody who was raised during the Depression saw significant changes. The railroad was about a mile away from our house. And our place was on a steep grade, so the trains slowed down when they came close to us. People who didn’t have a job and were riding the rails would jump off the train, come to our place, and ask for something to eat. The government began getting involved in programs to simply help lots of people survive. The other change that really impresses me, when I think back, is how much technology has changed life, especially in communication. In those days we got a weekly paper from Kansas City. And you didn’t have television and radio and all these things that have come along since then. All these things changed a lot. 
+
+
+TU: Iowa has also seen a lot of changes in its landscape. It has long been known as the agricultural state, and I’m especially interested in how you view the extensive changes that you’ve witnessed in agriculture and the farming way of life in the course of your lifetime. Do you see these changes as positive or negative?
+
+
+NS: Well, of course, the big change is in the amount of food—corn, beef, and so on—one person can produce. It is just a huge, huge change. So, for instance, when I was in my late teens, if a farmer had more than 40 acres of corn, they couldn’t husk it all themselves. They had to hire somebody to help them. Today, with machinery, a farmer can harvest hundreds of acres of corn, even thousands. Yields are way up, too. So, technology’s been a big difference.
+
+
+TU: The natural environment is suffering in many parts of the country and the world, and, in many cases, this is impacted by agriculture. Is it possible for natural areas like the [Neal Smith National Wildlife] Refuge and agriculture to coexist?
+
+
+NS: Well, what I think many people don’t appreciate enough is that different kinds of soil should be treated differently. For instance, some of the flat land north of Des Moines is heavy and solid and gummy. Near where I was raised, the soil was real black on top. But you get down about three feet and it’s blue. But you dig that blue out and put it up on top and in a year or two, it’s black. It was the same soil, but it didn’t have oxygen. And so, in the same field you could have two different kinds [of soil]. Now here where we are at the Refuge, the soil drains deeply, fairly easily. Some places down south of here they have almost a hard pan just a foot down under the ground. So, these soils must be handled differently. Another example is that there’s a place on this Refuge where they found that six feet of soil had been eroded away. It was very rich soil, but also highly erodible. But if you go south of here, if you get down two feet, there’s no richness at all. 
+
+
+TU: So maybe just being more aware of the soil types would allow us to manage the land cover in a way that would be more efficient?
+
+
+NS: I hear people say everybody ought to do a certain kind of farming. Well, you have different weather, different soil. So, there isn’t just one type of farming [that’s] appropriate, no one rule fits all.
+
+
+TU: Many people would say that one of the most important developments in recent history has been the rise of the environmental movement generally. Why do you think the environmental movement began and what triggered that change?
+
+
+NS: We’ve always had some people that are sort of up-in-arms and others that are not. In some cases, people who lived in the city and have never been exposed to other species, or hardly at all, don’t think much about the environment. Their environment is concrete and high buildings. For other people, who are closer to the environment, it’s different. Here at the Refuge, they had 7,600 schoolchildren visit last year [2013], and some years they’ve had more. Even more would like to come, but it’s hard to handle them all. In Iowa, the land was plowed up and we didn’t have forests and mountains and things, so we don’t have as much nature for them to visit. That is very important.   
+ There’s always been some people more concerned about the environment than others, but there are some that have never been exposed to nature in a way that would make them want to know more about it. With regard to your question about why so many more people are involved... I’m not sure there are more people—a greater percentage—involved. But another interesting thing is how technology has changed the experience of nature. It used to be you went to the Rocky Mountains maybe once in your lifetime. Now you can watch TV and see more of the Rocky Mountains than you used to if you went out there. 
+
+
+TU: That’s so true. You’re known for having very strong environmental values. What experiences in your life shaped these?
+
+
+NS: Growing up during the Great Depression shaped them. There had to be a certain amount of saving anything, people had to do whatever they could to get to next week. If you didn’t have coal, you burned corn for warmth. Also, one of the things we have here at the Refuge is the opportunity to see what has happened on this piece of land over 170 years. You need to learn from that.
+
+
+TU: Did your conservation values influence your approach to public policy when you were in office?
+
+
+NS: Well, they did. Any experience that anybody has influences their interest in some subjects more than other subjects. If you haven’t had certain experiences, you won’t be that interested or won’t know how to value certain subjects. So, experiences do make a difference. For anybody that’s working with public policy, background makes a difference.
+
+
+TU: There has been a long-term research project at the Refuge called the STRIPS project [Science-Based Trials of Row-Crops Integrated with Prairie Strips], which is where they’re studying how integrating small strips of prairie within row crop agriculture might benefit the landscape and ecosystem surrounding it. Have you heard about this study, and what do you think of it? 
+
+
+NS: Well, any of those kinds of studies are good. Yeah, you recognize that to do it in one field may not be what you do in another. For example, when I was farming, I had some land that needed a way to control the runoff. So, I used strips too! I used switchgrass, pure switchgrass. And some of the conservation people think you shouldn’t use switchgrass and they have some other combinations that they want people to use. But I used switchgrass, even though I did not get any government help with planting it, because I wanted it that badly. And then three years later, after it got established very well, some of the conservation people were bringing people to see it. But people are still learning. Yeah, still learning.
+
+
+TU: How can we address these topics when we’re talking to farmers or conservation districts about implementing conservation measures?
+
+
+NS: When you talk to someone, what they know is on their own farm, in their conditions. It’s really difficult for some of them to understand that you can’t use the same methods everywhere and expect to have the same effect. And they have to recognize that different parcels of their land are different. We’ve got farms between here and Des Moines where part of the soil on the farm is from that last glacier and the other half of it was made 8000 years before that. The farmers have fields that need to be treated differently.
+
+
+TU: Some people argue that conservation practices should be made mandatory rather than voluntary. What is your opinion about that? Also, how could we provide money for farmers to install such practices if we did, in fact, make them mandatory?
+
+
+NS: Well, we do have programs that offer cost-share for conservation measures. However, there’s no one smart enough to write a bill for the right kind of program for each and every farmer, and each and every kind of soil. Some of the results have got to come from experience. It’s just different. You just can’t write a mandatory procedure for all conditions. So, you can have minimum things [limits], but to say that all farmers must do X or Y is never going to work.
+
+
+TU: What do you think would be the way around that?
+
+
+NS: The way we have been doing it: we agree and still debate. Somebody tries to make something more mandatory, then they find out that causes a condition that they didn’t expect to see, and they try to change it some more.There are always people working [on it].
+
+
+TU: Recently, there has been a large push for social and environmental changes to happen through small localized grassroot organizations and movements that can then hopefully spread into more general belief-systems and policies. What do you think about the power and sustainability of those small grassroots movements. Do you think that’s the best way for people to influence governmental policies, or if not that, what’s the best way a person can help influence?
+
+
+NS: Well, the main thing I think about is...we’ve always had some of that. It increased greatly during the Johnson administration. Johnson had some programs that affected cities, especially. During his administration [1963-1969], they encouraged growth of organizations that would speak up and have ever since. But the main thing these organizations need to remember is to be respectful of others and not to force their beliefs, you know. Some of them get out of hand; they only see their own situation. The main thing is: be respectful of others, express yourself, and let them know what your situation is and why you think something. So, to that extent, these organizations are good. 
+
+
+TU: Do you think that the small grassroots organizations have power?
+
+
+NS: Yes, there is some. But their power and their influence are much greater if they are respectful and try to understand that others may have a different situation.
+
+
+  
+Future generations and Iowa agriculture 
+
+
+TU: I’m wondering what you think Iowa agriculture will look like in another generation? Will there be anything left of the yeoman farmer ideal that Thomas Jefferson believed was such an important foundation of democracy?
+
+
+NS: There will always be some. As a matter of fact, there may be more of them right now than there were 10 years ago. There will always be some with different ideas and investment possibilities, and different abilities to respond. 
+
+
+TU: Many people think that education will play a vital role in shaping the future. The Walnut Creek National Wildlife Refuge, which is now renamed in your honor, is trying to educate the people of Iowa—like the students you said that visit and other visitors—about the prairie. What do you see as the ultimate purpose of this education?
+
+
+NS: Well, it’s so that, in the end, we live in a place we   
+understand and know. 
+
+
+TU: My father told me that you taught him how to make willow whistles on the streets of DC when he was a kid, and that this helped him realize that nature can exist in a city. I think that’s mis- 
+
+
+ sing for a lot of children that are now growing up in urban areas. How do you think that educators and policymakers should work on improving environmental education in urban areas?
+
+
+NS: We need to expose people as soon as we can to other species. I have seen it here so many times. Ten miles from here, there are people and young children or teenagers that hardly know that there are other species in the world besides them. They come here to the Refuge, and I see it. I saw a little boy get so excited when he looked up at the exhibit with the cross-section of grass roots under the ground. He said, “I didn’t know grass grows below the ground.” He thought grass only grows up. 
+
+
+TU: Did you have close contact with nature growing up?
+
+
+NS: I spent hours and hours and hours in the timber. I lived on a farm, and there was a pasture and creek running through it. And there were trees along the creek, with a couple more timbers a mile away. So, I spent a lot of time just out sitting and watching and observing, listening to the species talk to one another. I mean, they don’t talk to one another, but each species in the timber knows what others are saying. For example, when an enemy of some kind comes through the timber, say a coyote or something, a bird will fly through cackckckaka [sound effect]. The squirrels know what the bird says, and they run up the tree. But they couldn’t answer back. They communicate by listening. So, yes, I spent a lot of time in timber watching. And I remember so well that when I was very, very small, probably four or five years old, I discovered that no matter what two trees you looked at they were in line with one another. I thought I really had discovered something. [laughter]. And I saw that it wasn’t true with three trees! Just observation, you learn a lot with observation.
+
+
+TU: Do you think that your connection with nature has helped you in your relationships with people because you learned how to observe and how to see things work together?
+
+
+NS: I think that knowing [and] appreciating other species is always helpful. There are so many thousands of species in the world. You observe them, how they get along, and how they protect themselves while they’re devouring others. 
+
+
+Jon Andelson: I’d like to follow up if I may with one question about that. I’m a little worried that — maybe especially in Iowa—it’s getting harder and harder for those other species to live. You remember Earl Butz telling farmers to plant fence row to fence row. Most farmers are doing that. There’s very little wild land on a farm anymore. Do you have any thoughts about that? Are we making it hard for other species to live?
+
+
+NS: Yes, we are. But it’s important to do what we’re doing here at the Refuge — trying to re-establish species so that you see them, and you can know how they operated in the past. It’s very difficult to re-establish some species. It was too bad that the tall grass prairie was such good farmland. It would have been so much better if maybe 50,000 acres had been reserved somewhere. But we have less than 1% of the original tallgrass prairie left, and that’s not enough. You can’t have buffalo very many places. But right here at the Refuge they’ve found species that people didn’t even know were here; [the species] have come back on their own after 75 years, once the right conditions appeared. 
+
+
+JA: Maybe you remember the name Ada Hayden. She was an early naturalist in Iowa. Hayden Prairie is named for her. She published an essay in 1916 that Tayler actually read at one of our events [for the Center for Prairie Studies]. Way back in 1916, Hayden called for the preservation of just one quarter-section of original prairie   
+in every township in Iowa for the ecological knowledge it could give us. It’s a pity that we didn’t follow her advice. 
+
+
+NS: They just didn’t think about how valuable it would be for future generations 100 years ago. “Well, I want to plow that up because I need it right now.” Yeah. When I was in Congress, we set aside a lot of land in the West that was about to be torn up.
+
+
+JA: I think they’re trying to take away some of that protection. 
+
+
+NS: Yes, they are. 
+
+
+JA: One of the concerns that I’ve had about agriculture in Iowa is all the chemicals being used, because some of the chemicals are intended to kill things, the insecticides and so on. And I’m especially concerned about it from the standpoint of the soil, because what makes Iowa soil so special is the life in it. It’s got all the microorganisms; it’s got all the root structures and so on. What you see in the exhibits here at the Refuge shows that very clearly, but we’ve become so reliant on insecticides that we’re killing the life in the soil. Do you think there is a solution to that?
+
+
+NS: Well, we’re overpopulated, and we’re responding to that to try and get more and more food from the land. So, we have special corn varieties that have been developed now, it’s mostly feedstock and food stock. So that means you use more and more and more chemicals.
+
+
+JA: Do you think there’s any way that we can return to a more diversified farming like we had in the past?
+
+
+NS: Well, we have some diversified farming, but it’d be very difficult for many people to farm that way.
+
+
+ 
+
+
+Reflections on Neal Smith’s political career 
+
+
+JA: I wanted to ask a question about the United States as a whole, which has been through a lot of very challenging political periods in its life. You mentioned the Great Depression, which certainly is one of them. World War II, obviously, the whole Vietnam era and the political turmoil that it created, the more recent wars in Afghanistan and Iraq, the collapse of the markets in 2008. Are there some political periods that you think that we as a country handled better than others?
+
+
+NS: Oh, no question about that. The World Wars, for example, especially World War II. During World War II, overnight it went from two-thirds of the people being against it, to everyone being for it, to everybody united.
+
+
+JA: December 7. 
+
+
+NS: Yes, it made a difference because we were attacked. 
+
+
+JA: Do you have any thoughts on the Kennedy administration [1961-1963] since you were in Congress at that time?
+
+
+NS: Kennedy had a lot of good ideas, but they didn’t get implemented. Then Johnson picked them up and passed them. In other words, they were creative people who were thinking of something, but accomplishing it was something else. And some of that was not their fault. Johnson had a unique background. He was from the South, but not from the Deep South. And he had the ability to get along with everybody, no matter where they were from. And even more important, he had the ability to know how to put coalitions together. And he had the ability to realize what had to be done to get the right kind of coalition to do one thing, even though they were opposed to something else. He was unique in his ability. The conditions today are different. Years ago, we had the Southern Democrats and Northern Democrats and Republicans. You really had three parties, and you had to put different coalitions together. In the last election, the majority of the people voted for a Democratic House of Representatives, but because of how districts are set up we have a Republican House. So, you don’t have the voice of the people. To have that we may need to have some kind of constitutional amendment, which would be very difficult to pass. Former [Supreme Court] Justice Stevens has proposed one. He says we need to think about changing the constitution once in a while to match the changes in the times. During my service of 36 years, we had five amendments to the Constitution. In the last 20 years we’ve had virtually none. 
+
+
+JA: I’m under the impression that a lot of the problems come from the re-districting procedures. 
+
+
+NS: That’s one of the things that [Justice] Stephens is talking about. Through redistricting you end up with some districts that are 80 percent one party or the other, and not enough are between 45 and 55. There are other things that would be almost impossible to change. One is that the small states are not wanting to give up having two senators. So now there are 21 states, with 42 senators, that have the same population as California with two. You don’t have majority rule when you have that. 
+
+
+JA: Well, the Constitution was also set up to protect the rights of the minority and the small states.
+
+
+NS: Well, it was set up as if each state was an independent country.
+
+
+Lessons from the past 
+
+
+JA: A few minutes ago, I referred to the various crises of the 20th century. I’m curious to know your thoughts about what lessons the American people should draw from the crises of the 20th century.
+
+
+NS: We draw lessons from each one of them. Not immediately, maybe 50 years later. From World War II, how up until December 7th, the overwhelming majority said, “Well, there’s a big ocean between us and those people are over there, and that acts to protect us. We don’t want to have anything to do with them.” So, we ignored what Hitler was doing. And then all at once you find out it does affect you. Lessons can be learned from each one of these crises, but in many cases almost nobody foresees the lesson.
+
+
+JA: What was the lesson of the Great Depression?
+
+
+NS: The Great Depression showed Americans that things get done by getting together and utilizing the government as a tool. We did something that benefited almost all the people. It wouldn’t have happened unless they did it through government. 
+
+
+JA: I’m feeling a little pessimistic right now about the government. There seems to be a kind of inability to work across the aisle. Do you see some hope?
+
+
+NS: Well, it’s difficult. It started in the early 1990s, it started with the majority of each party making the minority go along with [their preferences]. And I never thought I would ever, ever see anything like the Hastert Rule. [Editor’s Note: “The Hastert Rule says that the Speaker will not schedule a floor vote on any bill that does not have majority support within their party – even if the majority of the members of the House would vote to pass it” - Wikipedia.]
+
+
+JA: So where does the hope lie? 
+
+
+NS: It is going to be very, very difficult to make some changes that would improve things, but there are some that can be made. There’s hope. You’ve got to think things can be done. A lot of things can be done to improve it, even if it isn’t going to change fundamentally. It can be improved.
+
+
+  
+JA: Well, it’s probably never been 100 percent. 
+
+
+  
+NS: No, no it never has.![](2023-spring-web-resources/image/1.png)
+
+
+  
+
+
+
+
+
+An Interview with Neal Smith |  Chicoine Ulbrich and Andelson
+
+
+
+
+
+![](2023-spring-web-resources/image/ulbrich-2-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Congressman Neal Smith, Chairman of the House Small Business Committee, 1977-1980. Photo Courtesy of Tayler Ulbrich
+
+
+
+
+
+
+
+
+“I was raised during the Depression on a farm near Packwood, Iowa. Anybody who was raised during the Depression saw significant changes.”
+
+
+
+
+
+
+
+
+An Interview with Neal Smith |  Chicoine Ulbrich and Andelson
+
+
+
+
+
+![](2023-spring-web-resources/image/Ulbrich-3-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Neal Smith at fourteen with his horse and pet raccoon at the family farm in Packwood, Iowa, in 1934. Photo Courtesy of Tayler Ulbrich
+
+
+
+
+
+![](2023-spring-web-resources/image/ulbrich-4-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Congressman Neal Smith with then-Senator John F. Kennedy, 1959. Photo courtesy of tayler ulbrich
+
+
+
+
+An Interview with Neal Smith |  Chicoine Ulbrich and Andelson
+
+
+
+
+
+
+
+
+“When you talk to someone, what they know is on their own farm, in their conditions. It’s really difficult for some of them to understand that you can’t use the same methods everywhere and expect to have the same effect.”
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/ulbrich-5-volume-ix-issue-1-spring-2023.png)
+
+
+
+Neal Smith with U.S. Fish & Wildlife Service Director Mollie Beattie and other dignitaries, planting native species during Prairie Learning Center Ground Breaking, September 1st, 1994. Photo courtesy of Fish & Wildlife Service and Neal Smith NWR 
+
+
+
+
+An Interview with Neal Smith |  Chicoine Ulbrich and Andelson
+
+
+
+
+
+![](2023-spring-web-resources/image/ulbrich-6-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Monarch butterfly on a prairie sunflower. Photo courtesy of Joan Van Gorp, President and Community Coordinator for Friends of the Neal Smith National Wildlife Refuge (https://www.tallgrass.org)
+
+
+
+
+
+![](2023-spring-web-resources/image/ulbrich-7-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Bison herd at the Neal Smith National Wildlife Refuge (NWR). Photo courtesy of Joan Van Gorp, President and Community Coordinator for Friends of the Neal Smith NWR
+
+
+
+
+An Interview with Neal Smith |  Chicoine Ulbrich and Andelson
+
+
+
+
+
+
+
+
+“They just didn’t think about how valuable [the prairie] would be for future generations 100 years ago. ‘Well, I want to plow that up because I need it right now.’”
+
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/ulbrich-8-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Neal Smith and wife Bea with Great-Granddaughters Madison (center left) and Tayler (center right) in 1996 at the Franklin D. Roosevelt Memorial in Washington, DC. Photo courtesy of tayler ulbirch
+
+
+
+
+An Interview with Neal Smith |  Chicoine Ulbrich and Andelson
+
+
+
+
+Elk grazing at the Neal Smith National Wildlife Refuge (NWR). Photo by the U.S. Geological Survey
+
+
+
+
+
+![](2023-spring-web-resources/image/ulbrich-9-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+
+
+
+
+
+![](2023-spring-web-resources/image/gresham-1-volume-ix-issue-1-spring-2023-.jpg)
+
+
+
+Author photo
+
+
+
+
+Photo by Beck Lambert
+
+
+
+
+Will Gresham is an undergraduate at Grinnell College where he leads the off-campus Stew Makerspace’s (https://stew.sites.grinnell.edu) 3D printing, scanning, and modeling capabilities. He is currently researching the digitization and replication of physical anthropological artifacts such as stone tools and tools made by non-humans. His interests include archaeology and spaceflight. 
+
+
+
+
+Sundogs
+
+
+
+
+by Will Gresham
+
+
+
+
+The photographs on the facing page and the page following are of a sundog, or rather of two sundogs, which flank the sun in the middle. Sundogs are an atmospheric oddity with many of the same original characteristics of a rainbow. A spectacular phenomenon, they are caused by hexagonal prism-shaped ice crystals in the upper atmosphere.1
+
+
+ Microscopic hexagonal prisms of ice (see the photograph, at right) work together to diffract the light of the sun at precise angles across a horizon. The ring connecting the two sundogs in the photographs is created by similar crystals that have a longer height. Acting together, these crystals produce a halo effect around the sun that follows alongside just like a pair of loyal dogs.2
+
+
+The things that set sundogs apart from rainbows can be ascribed to a couple of factors. First, in contrast to a rainbow, the arcs appear separated from the sun at precise 22-degree arcs on either side of it. This means that unless one has a habit of looking directly at or around the sun, sundogs can be tricky to catch. Secondly, the crystals essential for the creation of these phenomena are only formed at low temperatures and under specific climate conditions. The long winters of the prairie region, combined with the flat, uninterrupted horizon, make for a perfect harmony that allowed Grinnell College’s campus photographer, Justin Hayworth (https://justinhayworthphotography.zenfolio.com), to take the beautiful photographs you see here. 
+
+
+The origin of the word “Sundog” is hotly debated. Most linguists agree that the name has roots in mythology. Norse mythology makes reference to the term Solhunde or Solvarg, both meaning, essentially, “Sun Dog.” However, the scientific terminology for the phenomenon is parhelion, which is derived from the Ancient Greek meaning “beside the sun.” Aristotle is quoted as saying, “two mock suns rose with the sun and followed it all through the day until sunset.”3 Aristotle follows this with the statement, “mock suns” are always to the side, never above or below, most commonly at sunrise or sunset, more rarely in the middle of the day.” This could indicate that at the time Aristotle was writing, no common name yet existed. Aristotle was describing the event rather than simply offering a name. Aristotle isn’t the only noteworthy historical figure to discuss Sundogs, as William Shakespeare also makes reference to sundogs in the third part of his play King Henry VI.![](2023-spring-web-resources/image/1.png) 
+
+
+
+
+Sundogs |  Gresham
+
+
+
+
+
+![](2023-spring-web-resources/image/gresham-2-hayworth1-volume-ix-issue-1-spring-2023.jpg)
+
+
+
+Sundogs flanking L. J. Maasdam’s wheel sculpture outside Sully, Iowa. Photo by Justin Hayworth
+
+
+
+
+
+![](2023-spring-web-resources/image/gresham-3-volume-ix-issue-1-spring-2023-.jpg)
+
+
+
+Sundogs form when light diffracts through hexagonal ice crystals in the upper atmosphere. Photo by Kenneth Libbrecht, California Institute of Technology
+
+
+
+
+
+![](2023-spring-web-resources/image/volume-ix-issue-1-spring-2023-gresham2-hayworth.jpg)
+
+
+
+Sundogs over an Iowa farmstead. Photo by Justin Hayworth
+
+
+
+
+
+
+
+
+Three glorious suns, each one a perfect sun;
+
+
+Not separated with the racking clouds,
+
+
+But sever’d in a pale clear-shining sky.
+
+
+See, see! they join, embrace, and seem to kiss,
+
+
+As if they vow’d some league inviolable:
+
+
+Now are they but one lamp, one light, one sun.
+
+
+In this the heaven figures some event.
+
+
+  Act Two, Scene One
+
+
+  Henry VI, Part 3
+
+
+  William Shakespeare
+
+
+  
+
+
+
+
 
 
 
@@ -4176,6 +6086,7 @@ Rabalais seated at a workstation dedicated to another of his passions: music
 
 
 
+Endnotes
 
 
 
@@ -4185,22 +6096,541 @@ Endnotes
 
 
 
-Publisher’s Note: The Stories We Tell
+The Propaganda of Postcards
 
 
-1 Joseph Frazier Wall, Iowa: A Bicentennial History (The States and the Nation Series, New York: W.W. Norton & Company, 1978, p.xvi)
+1 Jeffrey L. Meikle, Postcard America: Curt Teich and the Imaging of a Nation, 1931-1950 (Austin, Texas: University of Texas Press, 2016). 
 
 
-2 John Ayto, Dictionary of Word Origins (New York, Little, Brown and Company, 1990, p.504)
+2 Ibid. 
 
 
-3 Calvert Watkins (ed.), The American Heritage Dictionary of Indo-European Roots, 3e (New York: Houghton Mifflin Harcourt, 2011, p.99)
+3 History.com Editors, “Andrew Jackson Signs the Indian Removal Act into Law - History,” History.com, August 30, 2021, https://www.history.com/this-day-in-history/indian-removal-act-signed-andrew-jackson.
 
 
-4 Beth Hoffman, Bet the Farm: The Dollars and Sense of Growing Food in America (Island Press, 2020). 
+4 “Manifest Destiny and Indian Removal - American Experience,” Smithsonian American Art Museum, accessed March 21, 2023, https://americanexperience.si.edu/wp-content/uploads/2015/02/Manifest-Destiny-and-Indian-Removal.pdf. 
 
 
-5 Kamyar Enshayan, personal communication, March 15, 2022
+5 Pam Cornelison and Ted Yanak, The Great American History Fact-Finder the W.H.O., What, Where, When, and Why of American History (Boston , Massachusetts: Houghton Mifflin, 2004). 
+
+
+6 “Trail of Tears,” The Museum of the Cherokee Indian, September 16, 2015, https://cherokeemuseum.com/archives/era/trail-of-tears. 
+
+
+7 Larry O’Dell, “Miller Brothers 101 Ranch,” The Encyclopedia of Oklahoma History and Culture, https://www.okhistory.org/publications/enc/entry.php?entry=MI029. v
+
+
+8 Fixico, Donald. “American Indians.” Oklahoma Historical Society | OHS. Oklahoma Department of Libraries. Accessed April 30, 2023. https://www.okhistory.org/publications/enc/entry?entryname=AMERICAN+INDIANS. 
+
+
+Technology on the Prairie
+
+
+The First Electronic Computer
+
+
+Mobley, B. P. (2001). The Ingenuity of Common Workmen: and the Invention of the Computer (dissertation). ProQuest Information and Learning Company, Ann Arbor, MI. 
+
+
+Burks, A. R., & Burks, A. W. (1988). The First Electronic Computer: The Atanasoff Story. University of Michigan Press. 
+
+
+Mackintosh, A. R. (1988). Dr. Atanasoff’s Computer. Scientific American, 259(2), 90–96. http://www.jstor.org/stable/24989199
+
+
+The Discovery of Helium
+
+
+American Chemical Society. (n.d.). Discovery of Helium in Natural Gas - National Historic Chemical Landmark. American Chemical Society. Retrieved May 5, 2023, from https://www.acs.org/education/whatischemistry/landmarks/heliumnaturalgas.html 
+
+
+Cady, H. P., & McFarland, D. F. (1906). Helium in Kansas Natural Gas. Transactions of the Kansas Academy of Science (1903-), 20, 80–81. https://doi.org/10.2307/3624645 
+
+
+Williams, M. (2016, March 15). Who Discovered Helium? Phys.org. Retrieved May 5, 2023, from https://phys.org/news/2016-03-helium.html
+
+
+The First Sky Scraper
+
+
+Bellis, M. (2020, January 10). Why the First Skyscraper was Only Ten Stories Tall. ThoughtCo. Retrieved May 4, 2023, from https://www.thoughtco.com/how-skyscrapers-became-possible-1991649 
+
+
+Editors, History.com. (2010). Home Insurance Building. History.com. Retrieved May 4, 2023, from https://www.history.com/topics/landmarks/home-insurance-building 
+
+
+The Liquid-Crystal Display
+
+
+Sharpe, S. (n.d.). Funding Breakthrough Technology - Centre for Business Research. Retrieved May 5, 2023, from https://www.cbr.cam.ac.uk/wp-content/uploads/2020/08/lcd-case-report.pdf 
+
+
+Massachusetts Institute of Technology. (2004, May 30). Inventor of the week. Archive. Retrieved April 24, 2023, from https://web.archive.org/web/20040530161518/http://web.mit.edu/invent/iow/fergason.html
+
+
+First American Gasoline Automobile
+
+
+Ohio History Central. (2020, October 21). John W. Lambert - Ohio History Central. Retrieved May 4, 2023, from https://ohiohistorycentral.org/w/John\_W.\_Lambert 
+
+
+The Cincinnati Enquirer. (1960, October 20). The Cincinnati Enquirer, 20 Oct 1960, page 76. Historical Newspapers from 1700s-2000s - Newspapers.com. Retrieved May 4, 2023, from https://www.newspapers.com/image/101138055/?clipping\_id=65352327&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjEwMTEzODA1NSwiaWF0IjoxNjgxOTk0Mjg3LCJleHAiOjE2ODIwODA2ODd9.jitUsCMLuyGeRiH8WBGnxDWCFzJ14opmkVPBomHx9ak
+
+
+Stroboscopic Photography
+
+
+Massachusetts Institute of Technology. (n.d.). Harold Edgerton. Lemelson. Retrieved May 4, 2023, from https://lemelson.mit.edu/resources/harold-edgerton 
+
+
+Massachusetts Institute of Technology. (n.d.). Studies at MIT: 1926 – 1931 Harold “Doc” Edgerton. Harold ‘Doc’ Edgerton, visionary engineer. The Edgerton Digital Collections (EDC) project. Retrieved May 5, 2023, from https://edgerton-digital-collections.org/docs-life/studies-at-mit
+
+
+Ibid.
+
+
+Four-Legged People
+
+
+1 Brown, Joseph Epes. Animals of the Soul: Sacred Animals of the Oglala Sioux. Element, 1998. 
+
+
+2 Ibid.
+
+
+3 Ibid. Note that here I use the words bison and buffalo interchangeably, referring in each instance to the same animal, although technically the species Bison bison is not related to buffalo at all. I use them interchangeably because many of the sources I reference do also
+
+
+4Ibid. 
+
+
+5 Lewis, Thomas H. The Medicine Men: Oglala Sioux Ceremony and Healing (Studies in the Anthropology of North American Indians) University of Nebraska Press, 1992
+
+
+6 Brown, Joseph Epes. Animals of the Soul: Sacred Animals of the Oglala Sioux. Element, 1998. 
+
+
+7 Onion, Amanda, et al. “Indian Reservations.” History.com, A&E Television Networks, 18 Mar. 2019, https://www.history.com/topics/native-american-history/indian-reservations.
+
+
+8 Brown, Joseph Epes. Animals of the Soul: Sacred Animals of the Oglala Sioux. Element, 1998. 
+
+
+9 Powers, Marla N. Oglala Women Myth, Ritual, and Reality. University of Chicago Press, 1986. 
+
+
+10 Lott, Dale F. American Bison: A Natural History. 1st ed. University of California Press, 2002. http://www.jstor.org/stable/10.1525/j.ctt1ppxd1.
+
+
+11 Powers, Marla N. Oglala Women Myth, Ritual, and Reality. University of Chicago Press, 1986.
+
+
+Wolves Under Threat
+
+
+1 Wisconsin Department of Natural Resources. “Wisconsin DNR Announces Wolf Season Begins Nov. 6, 2021.” https://dnr.wisconsin.gov/newsroom/release/39871. Accessed May 15 2023.
+
+
+2 Wisconsin Department of Natural Resources Bureau of Wildlife Management. “Wisconsin Wolf Management Plan 2022.” 2022, pp. 1-178. https://widnr.widen.net/s/kpfkd8nr2n/draft\_wisconsin\_wolf-management\_plan\_nov2022.
+
+
+3 “Hunter Nation V. Wisconsin Department of Natural Resources.” Case No. 21CV31, United States Circuit Court for Jefferson County, Wisconsin, 2021. https://will-law.org/wp-content/uploads/2021/11/Hunter-Nation-SJ-Decision.pdf.
+
+
+4 Defenders of Wildlife. “Fall 2021 Wolf Harvest Season Comments.” 2021. https://defenders.org/sites/default/files/2021-08/DefendersOfWildlife\_Comments\_NRB\_meeting\_2021.pdf.
+
+
+5 Johnson, Randy and Anna Schneider. “Wisconsin Wolf Season Report.” edited by Wisconsin Department of Natural Resoruces, 2021, pp. 1-9. https://widnr.widen.net/s/k8vtcgjwkf/wolf-season-report-february-2021.
+
+
+6 Ibid.
+
+
+7 Ibid.
+
+
+8 Ibid.
+
+
+9 Hubbuch, Chris. “Wolf Hunters Vastly Exceed Wisconsin Quota in First Hunt since Federal Protections Dropped.” Wisconsin State Journal, 2021. https://madison.com/wsj/news/local/environment/wolf-hunters-vastly-exceed-wisconsin-quota-in-first-hunt-since-federal-protections-dropped/article\_47537484-7cf6-56d6-bd0f-21d0a0b4a76e.html//.
+
+
+10 Clemons, Alan. “Wisconsin Hunters Take 216 Wolves and Exceed Harvest Quota in Controversial Hunt That Closed after Just Three Days.” Outdoor Life, 2021. https://www.outdoorlife.com/story/hunting/wisconsin-wolf-hunt-exceeds-harvest-quota/.
+
+
+11 Johnson, Randy and Anna Schneider. “Wisconsin Wolf Season Report.” edited by Wisconsin Department of Natural Resoruces, 2021, pp. 1-9. https://widnr.widen.net/s/k8vtcgjwkf/wolf-season-report-february-2021.
+
+
+12 Learn, Joshua Rapp. “The ESA Fails Due to Slow Listing Process.” https://wildlife.org/the-esa-fails-due-to-slow-listing-process/. Accessed April 1 2023.
+
+
+13 Hoffman, Austin and Annie White. “Brief History of Wild Wolves.” Mission:Wolf. https://missionwolf.org/brief-history-of-wolves-in-the-wild. Accessed April 1 2023.
+
+
+14 “America’s Gray Wolves: A Long Road to Recovery.” Center for Biological Diversity. https://www.biologicaldiversity.org/campaigns/gray\_wolves/. Accessed April 1 2023.
+
+
+15 White, Annie B. “A History of Wild Wolves in the United States.” Gray Wolf Conservation. https://www.graywolfconservation.com/Wild\_Wolves/history.htm#:~:text=It%20is%20estimated%20that%20over,over%20the%20past%2050%20years. Accessed April 1 2023.
+
+
+16 Ibid.
+
+
+17 “Endangered Species Act of 1973 as Amended through the 108th Congress.” 16 USC §1531-1544, United States Fish and Wildlife Service, December 28, 1973 pp. 1-41.
+
+
+18 Ibid.
+
+
+19 United States, Department of the Interior, Fish and Wildlife Service,. “Endangered and Threatened Wildlife and Plants; Removing the Gray Wolf (Canis lupus) from the List of Endangered and Threatened Wildlife.” 85 FR 69778, Federal Register, 2020, pp. 69778-895. https://www.govinfo.gov/content/pkg/FR-2020-11-03/pdf/2020-24171.pdf#page=1.
+
+
+20 Union of Concerned Scientists. “Progress and Problems: Government Scientists Report on Scientific Integrity at Four Agencies.” 2015. https://www.ucsusa.org/sites/default/files/attach/2015/10/ucs-scientist-survey-2015-appendix-b.pdf.
+
+
+21 United States, Department of the Interior, Fish and Wildlife Service,. “Endangered and Threatened Wildlife and Plants; Removing the Gray Wolf (Canis lupus) from the List of Endangered and Threatened Wildlife.” 85 FR 69778, Federal Register, 2020, pp. 69778-895. https://www.govinfo.gov/content/pkg/FR-2020-11-03/pdf/2020-24171.pdf#page=1.
+
+
+22 Ibid.
+
+
+23 “Endangered Species Act of 1973.” Public Law 93-205 87 Stat., December 28, 1973 pp. 884-903. https://www.govinfo.gov/content/pkg/STATUTE-87/pdf/STATUTE-87-Pg884.pdf.
+
+
+24 “Endangered Species Act of 1973 as Amended through the 108th Congress.” 16 USC §1531-1544, United States Fish and Wildlife Service, December 28, 1973 pp. 1-41.
+
+
+25 Chaffetz, Mark. “Clarifying the Endangered Species Act’s ‘Distinct Population Segment’ Policy through the Lens of Grizzly Bears.” Virginia Environmental Law Journal, 2019, http://www.velj.org/elrs/clarifying-the-endangered-species-acts-distinct-population-segment-policy-through-the-lens-of-grizzly-bears#\_ftn2.
+
+
+26 United States, Department of the Interior, Fish and Wildlife Service. “Endangered and Threatened Wildlife and Plants; Removing the Gray Wolf (Canis lupus) from the List of Endangered and Threatened Wildlife.” 85 FR 69778, Federal Register, 2020, pp. 69778-895. https://www.govinfo.gov/content/pkg/FR-2020-11-03/pdf/2020-24171.pdf#page=1.
+
+
+27 Ibid.
+
+
+28 Ibid.
+
+
+29 Ibid.
+
+
+30 Ibid.
+
+
+31 Ibid.
+
+
+32 “Defenders of Wildlife V. U.S. Fish and Wildlife Service,.” 4:21-cv-00344-JSW, United States Disctrict Court of the Northern District of California, 2022. https://www.michigan.gov/-/media/Project/Websites/AG/releases/2022/February/Wolf\_Delisting\_Order\_747978\_7.pdf?rev=3e04211d990d4d458025d58d49ea1f68.
+
+
+33 Ibid.
+
+
+34 Ibid.
+
+
+35 Ibid.
+
+
+36 Ibid.
+
+
+37 Ibid.
+
+
+38 Ibid.
+
+
+39 Ibid.
+
+
+40 Ibid.
+
+
+41 United States, Department of the Interior, Fish and Wildlife Service,. “Endangered and Threatened Wildlife and Plants; Removing the Gray Wolf (Canis lupus) from the List of Endangered and Threatened Wildlife.” 85 FR 69778, Federal Register, 2020, pp. 69778-895. https://www.govinfo.gov/content/pkg/FR-2020-11-03/pdf/2020-24171.pdf#page=1.
+
+
+42 “Defenders of Wildlife V. U.S. Fish and Wildlife Service,.” 4:21-cv-00344-JSW, United States Disctrict Court of the Northern District of California, 2022. https://www.michigan.gov/-/media/Project/Websites/AG/releases/2022/February/Wolf\_Delisting\_Order\_747978\_7.pdf?rev=3e04211d990d4d458025d58d49ea1f68.
+
+
+43 United States, Department of the Interior, Fish and Wildlife Service,. “Endangered and Threatened Wildlife and Plants; Removing the Gray Wolf (Canis lupus) from the List of Endangered and Threatened Wildlife.” 85 FR 69778, Federal Register, 2020, pp. 69778-895. https://www.govinfo.gov/content/pkg/FR-2020-11-03/pdf/2020-24171.pdf#page=1.
+
+
+44  “Defenders of Wildlife V. U.S. Fish and Wildlife Service,.” 4:21-cv-00344-JSW, United States Disctrict Court of the Northern District of California, 2022. https://www.michigan.gov/-/media/Project/Websites/AG/releases/2022/February/Wolf\_Delisting\_Order\_747978\_7.pdf?rev=3e04211d990d4d458025d58d49ea1f68.
+
+
+45 Ibid.
+
+
+46 Ibid.
+
+
+47 Ibid.
+
+
+48 “America’s Gray Wolves: A Long Road to Recovery.” Center for Biological Diversity. https://www.biologicaldiversity.org/campaigns/gray\_wolves/. Accessed April 1 2023.
+
+
+49 “Defenders of Wildlife V. U.S. Fish and Wildlife Service,.” 4:21-cv-00344-JSW, United States Disctrict Court of the Northern District of California, 2022. https://www.michigan.gov/-/media/Project/Websites/AG/releases/2022/February/Wolf\_Delisting\_Order\_747978\_7.pdf?rev=3e04211d990d4d458025d58d49ea1f68.
+
+
+50 Union of Concerned Scientists. “Progress and Problems: Government Scientists Report on Scientific Integrity at Four Agencies.” 2015. https://www.ucsusa.org/sites/default/files/attach/2015/10/ucs-scientist-survey-2015-appendix-b.pdf.
+
+
+51 Hamilton, Lawrence C. et al. “Wolves Are Back: Sociopolitical Identity and Opinions on Management of Canis lupus.” Conservation Science and Pratice, 2020, pp. 1-13, doi:10.1111/csp2.213.
+
+
+52 Niemiec, Rebecca et al. “Public Perspective and Media Reporting of Wolf Reintroduction in Colorado.” PeerJ, no. 8:e9074, 2020, doi:10.7717/peerj.9074.
+
+
+53 Eeden, Lily M. van et al. “Political Affiliation Predicts Public Attitudes toward Gray Wolf (Canis lupus) Conservation and Management.” Conservation Science and Pratice, vol. 3, no. 3, 2021, doi:10.1111/csp2.387.
+
+
+54 Ibid.
+
+
+55 Hamilton, Lawrence C. et al. “Wolves Are Back: Sociopolitical Identity and Opinions on Management of Canis Lupus.” Ibid.2020, pp. 1-13, doi:10.1111/csp2.213.
+
+
+56 Eeden, Lily M. van et al. “Political Affiliation Predicts Public Attitudes toward Gray Wolf (Canis lupus) Conservation and Management.” Ibid.vol. 3, no. 3, 2021, doi:10.1111/csp2.387.
+
+
+57 Niemiec, Rebecca et al. “Public Perspecgive and Media Reporting of Wolf Reintroduction in Colorado.” PeerJ, no. 8:e9074, 2020, doi:10.7717/peerj.9074.
+
+
+58 The Humane Society of the United States. “Government Data Confirms That Wolves Have a Negligible Effect on U.S. Cattle & Sheep Industries.” 2019, pp. 1-30. https://www.humanesociety.org/sites/default/files/docs/HSUS-Wolf-Livestock-6.Mar\_.19Final.pdf.
+
+
+59 Ibid.
+
+
+60 Ibid.
+
+
+61 Ibid.
+
+
+62 USDA-Animal and Plant Health Inspection Service. “Death Loss in U.S. Cattle and Calbes Due to Predator and Nonpredator Causes, 2015.” 2017. https://www.aphis.usda.gov/animal\_health/nahms/general/downloads/cattle\_calves\_deathloss\_2015.pdf.
+
+
+63 The Humane Society of the United States. “Government Data Confirms That Wolves Have a Negligible Effect on U.S. Cattle & Sheep Industries.” 2019, pp. 1-30. https://www.humanesociety.org/sites/default/files/docs/HSUS-Wolf-Livestock-6.Mar\_.19Final.pdf.
+
+
+64 Ibid.
+
+
+65 United States, Department of the Interior, Fish and Wildlife Service,. “Endangered and Threatened Wildlife and Plants; Revision of the Regulations for Listing Species and Designating Critical Habitat.” 83 FR 35193, 2018, pp. 35193-201. https://www.govinfo.gov/content/pkg/FR-2018-07-25/pdf/2018-15810.pdf.
+
+
+66 Ibid.
+
+
+67 “Endangered Species Act of 1973 as Amended through the 108th Congress.” 16 USC §1531-1544, United States Fish and Wildlife Service, December 28, 1973 pp. 1-41.
+
+
+68 Stracqualursi, Veronica. “Trump Administration Wants to Change Key Parts of the Endangered Species Act.” CNN, 2018. https://www.cnn.com/2018/07/20/politics/trump-administration-endangered-species-act-changes/index.html.
+
+
+69 Holden, Emily. “Trump Officials Weaken Protectiosn for Animnals near Extinction.” The Guardian, 2019. https://www.theguardian.com/environment/2019/aug/12/endangered-species-act-trump-administration-protection-changes.
+
+
+70 U.S. Fish and Wildlife Service. “Statement on the Gray Wolf in the Lower-48 United States.” 2023. https://www.fws.gov/media/2023-usfws-gray-wolf-statement.
+
+
+Is Renewable Energy Enough?
+
+
+1 Our Land, Ourselves: Readings on People and Place. 1999. Edited by Peter Forbes, Ann Armbrecht, and Helen Whybrow. Page 184. The Trust for Public Land. 
+
+
+2 Berry, Wendell. 2015. Our Only World. Chapter 5, Less Energy, More Life. Counterpoint Press. 
+
+
+3 Klein, Naomi. 2014. This Changes Everything: Capitalism vs. The Climate. Page 16. Simon & Schuster. 
+
+
+Tight, Insulated, and Thermally Massive
+
+
+ https://www.como.gov/Council/Commissions/downloadfile.php?id=8255
+
+
+2 https://theecologist.org/2012/apr/20/are-straw-bales-future-sustainable-building
+
+
+3 https://www.britannica.com/topic/Earthship
+
+
+4 https://chem.libretexts.org/Courses/University\_of\_Arkansas\_Little\_Rock/Chem\_1402%3A\_General\_Chemistry\_1\_ (Kattoum)/Text/5%3A\_Energy\_and\_Chemical\_Reactions/5.2\_Specific\_Heat\_Capacity
+
+
+5 https://www.squareone.ca/resource-centres/homeowner/what-are-net-zero-or-net-energy- homes#:~:text=A%20Net- zero%20home%20is%20a%20home%20built%20with,doesn%E2%80%99t%20necessarily%20mean%20that%20Net -zero%20homes%20are%20off-grid.
+
+
+6 https://www.techtarget.com/whatis/definition/passive- solar#:~:text=Passive%20solar%20is%20the%20use%20of%20the%20sun%E2%80%99s,gathering%20or%20transfo rmation%20through%20mechanical%20or%20electronic%20means.
+
+
+7 https://www.greenbuilt.org/articles/156-green-building-glossary/
+
+
+8 https://monarch-architecture.com/portfolio/sustainable-accessory-dwelling/ 
+
+
+9 https://www.homebuilding.co.uk/advice/tadelakt
+
+
+10 https://echotape.com/construction-and-insulation/why-thermal-bridging-and-thermal-breaks-matter-in-construction/
+
+
+Tornadoes in Kansas
+
+
+1https://www.statista.com/statistics/237409/economic-damage-caused-by-tornadoes-in-us
+
+
+2https://lisbdnet.com/how-many-people-die-from-tornadoes-each-year
+
+
+3https://weather.com/safety/tornado/news/2020-03-26-average-number-of-tornadoes-by-state-each-year-united-states
+
+
+4 https://www.weather.gov/ict/kstorfacts
+
+
+Iowa’s Lichens: Found and Lost
+
+
+1 Brodo, I.M., S.D. Sharnoff, S. Sharnoff. 2001. Lichens of North America. Yale University Press, New Haven, Connecticut. 
+
+
+2 Spribille, T., Tuovinen, V., Resl, P., Vanderpool, D., Wolinski, H., Aime, M. C., and McCutcheon, J. P. 2016. Basidiomycete yeasts in the cortex of ascomycete macrolichens. Science, 353, 488–492. 
+
+
+3 Thompson, K.M. and J.T. Colbert. 2020. Lichens of Iowa’s White Pine Hollow State Preserve. Evansia 37: 31-49. 
+
+
+4 Iowa Department of Natural Resources. 2000. Iowa – Portrait of the Land. Des Moines, Iowa. 
+
+
+5 Dinsmore, J. 1994. A Country So Full of Game. The story of wildlife in Iowa. University of Iowa Press, Iowa City, Iowa. 
+
+
+6 Poole, K. E. and J. A. Downing. 2004. Relationship of declining mussel biodiversity to stream-reach and watershed characteristics in an agricultural landscape. J. North American Benthological Society 23:114–125.  
+
+
+7 Consortium of North American Lichen Herbaria. 2023. https://lichenportal.org/portal/. Accessed February 22, 2023. 
+
+
+8 Podaril, A. L. and J.T. Colbert. 2015. Lichen diversity in southeast Iowa. Opuscula Philolichenum 14: 121-138. 
+
+
+9 ibid. 
+
+
+10 Colbert, J.T. 2011. Current status of lichen diversity in Iowa. Proceedings of the Iowa Academy of Science 118: 16-23. 
+
+
+11 Thompson and Colbert, 2020. 
+
+
+12 Brodo et al., 2001 
+
+
+A Spirited Land
+
+
+1 Susan C. Mulholland, Stephen L. Mulholland, Gordon R. Peters, James K. Huber, & Howard D. Mooers, “Paleo-Indian Occupations in Northeastern Minnesota: How Early?” North American Archaeologist 18, no. 4 (1998): 371–76.
+
+
+2 Susan C. Mulholland et al., “Paleo-Indian Occupations,” 381–86.
+
+
+3 United States Forest Service, “Historical Contact,” United States Department of Agriculture, accessed on March 28, 2023. https://www.fs.usda.gov/detail/superior/learning/historyculture/?cid=fsm91\_049856#:~:text=French%20Fur%20Trade%20
+
+
+4 John Enger, “Explaining Minnesota’s 1837, 1854, and 1855 Ojibwe Treaties,” MPR News, February 1, 2016. https://www.mprnews.org/story/2016/02/01/explaining-minnesota-ojibwe-treaties
+
+
+5 Minnesota Legislative Reference Library, “Copper-Nickel Studies and Non-Ferrous Mining,” Minnesota Legislature, January 2023. https://www.lrl.mn.gov/guides/guides?issue=coppernickel#:~:text=Copper%2Dnickel%20deposits%20have%20been,metals%20developed%20in%20the%20region.
+
+
+6 Minnesota Department of Natural Resources, “1854 Treaty,” DNR, accessed on March 15, 2023. https://www.dnr.state.mn.us/aboutdnr/laws\_treaties/1854/index.html
+
+
+7 Minnesota Chippewa Tribe, “Who We Are,” MCT, accessed on March 5, 2023. https://www.mnchippewatribe.org/
+
+
+8 Douglas P. Thompson, “Understanding Chippewa Treaty Rights in Minnesota’s 1854 Ceded Territory,” 1854 Treaty Authority, 2020. https://www.1854treatyauthority.org/images/ToHuntandFish.updated2020.pdf
+
+
+9 MDNR, “1854 Treaty.”
+
+
+10 United States District Court Fourth Division, “Grand Portage Band of Chippewa of Lake Superior v. State of Minnesota,” 1985. https://data.glifwc.org/ceded/legal.references/Grand.Portage.v.Minnesota.No.%204-85-1090.pdf
+
+
+11 Karii Krogseng, “Minnesota v. Mille Lacs Band of Chippewa Indians,” Ecology Law Quarterly 27, no. 3 (2000): 773-78.
+
+
+12 Legal Information Institute, “Supreme Court of the United States 119 S.Ct. 1187 143 L.Ed.2d 270,” Cornell Law School, accessed on April 3, 2023. https://www.law.cornell.edu/supremecourt/text/526/172
+
+
+13 MDNR, “1854 Treaty.”
+
+
+14 United States Department of Justice, “Minnesota v. Mille Lacs Band,” January 4, 2022. https://www.justice.gov/enrd/minnesota-v-mille-lacs-band
+
+
+15 “Minnesota v. Mille Lacs Band of Chippewa Indians,” Oyez, accessed on April 24, 2023. https://www.oyez.org/cases/1998/97-1337
+
+
+16 Office of Mark Dayton, “State of Minnesota and Fond du Lac Band of Lake Superior Chippewa Reach Agreement Resolving Outstanding Fish and Wildlife Issues Related to 1854 Treaty,” State of Minnesota, December 8, 2017. https://www.leg.mn.gov/docs/2018/other/181224/governor/newsroom/indexee39.htm
+
+
+17 “History of the Boundary Waters and its Protections,” Save the Boundary Waters Campaign, April 7, 2021. https://www.savetheboundarywaters.org/updates/history-boundary-waters-and-its-protections
+
+
+18 “What is the Threat?” Save the Boundary Waters Campaign, accessed on May 1, 2023. https://www.savetheboundarywaters.org/current-threats
+
+
+19 “Sulfide Mining Fact Sheet,” Minnesota Environmental Partnership, 2017. https://www.mepartnership.org/wp-content/uploads/2018/02/MEP-Sulfide-Mining-Fact-Sheet-2018.pdf
+
+
+20 United States Forest Service, “BWCAW Overview and History,” United States Department of Agriculture, accessed on March 7, 2023. https://www.fs.usda.gov/detail/superior/specialplaces/?cid=stelprdb5203434
+
+
+21 United States Department of Interior, “Biden-Harris Administration Protects Boundary Waters Area Watershed,” January 26, 2023. https://www.doi.gov/pressreleases/biden-harris-administration-protects-boundary-waters-area-watershed
+
+
+22 Catherine Chavers, “Minnesota Chippewa Tribe Letter of Support for Copper Mining Ban Near Boundary Waters,” Minnesota Chippewa Tribe, January 31, 2020, 1. https://www.documentcloud.org/documents/6792326- Chippewa-Tribe-Letter-of-Support
+
+
+23 Catherine Chavers, “MCT Letter,” 2.
+
+
+24 Ibid.
+
+
+25 Lee R. Johnson & Juan Martinez, “Rainy River Withdrawal: Tribal Traditional Needs and Values Report,” United States Forest Service. June 2022, 1-8. https://eplanning.blm.gov/public\_projects
+
+
+26 Ibid, 3.
+
+
+27 Ibid, 5.
+
+
+28 Ibid, 6.
+
+
+29 United States Forest Service, “Rainy River Withdrawal: Environmental Assessment,” June 2022.
+
+
+30 “Fond du Lac and Grand Portage Bands File Suit Against EPA to Reverse Approval of Minnesota’s Damaging New Class 3 &amp; 4 Water Quality Standards,” Indian Country Today, July 15, 2022. https://ictnews.org/the-press-pool/fond-du-lac-and-grand-portage-bands-file-suit-against-epa-to-reverse-approval-of-minnesotas-damaging-new-class-3-4-water-quality-standards
+
+
+31 Greg Seitz, “Tribes and Forest Service Announce Co-Stewardship of Superior National Forest,” Quetico Superior Wilderness News, May 9, 2023.https://queticosuperior.org/tribes-and-forest-service-announce-co-stewardship-of-superior-national-forest
 
 
 Sundogs
@@ -4215,64 +6645,32 @@ Sundogs
 3 Aristotle, Meteorologica (340 B.C.E.)
 
 
-Prairie Style: Wright, the Griffins, Sullivan, and their Impact on Iowa Architecture
 
 
-1. Louis Henry Sullivan, “The Young Man in Architecture,” The Architectural Review 9, no. 54 (1901): 214
+Endnotes
 
 
-2. Allen H. Brooks, The Prairie School: Frank Lloyd Wright and his Midwest Contemporaries, (Toronto and Buffalo: University of Toronto Press, 1972), 242
 
 
-3. “WTOP History,” Wright on the Park, 2022, https://wrightonthepark.org/about-us/wotp-history/
+Endnotes
 
 
-4. Allen H. Brooks, The Prairie School, 173
 
 
-5. Ryan Ferguson. “Ricker House, Ryan Ferguson Perspective,” 2020
+Endnotes
 
 
-6. Claire Zulkey, “Meet Marion Mahony Griffin, Frank Lloyd Wright’s best frenemy: The two architects are forever intertwined,” Curbed, June 8, 2017. https://archive.curbed.com/2017/6/8/15755858/marion-mahony-walter-burley-griffin-wright-drawings
 
 
-7. Allen H. Brooks, The Prairie School, 164
+Endnotes
 
 
-8. Allen H. Brooks, The Prairie School, 164
 
 
-9. “Walter Burley Griffin in his Own Right: The Griffins Architecture Interviews Producer’s Notes,” PBS, June 4, 1999, https://www.pbs.org/wbgriffin/index.htm
 
 
-10. Ryan Ferguson. “Ricker House, Ryan Ferguson Perspective,” 2020
 
 
-11. Allen H. Brooks, The Prairie School, 231
-
-
-12. Louis Henry Sullivan, “The Tall Office Building Artistically Considered,” Lippincott’s 
-
-
-Magazine, March 1896, 408
-
-
-13. Louis Henry Sullivan, “The Tall Office Building Artistically Considered,” 408
-
-
-14. H. Koeper, “Louis Sullivan,” Encyclopedia Britannica, accessed April 8, 2022 from https://www.britannica.com/biography/Louis-Sullivan
-
-
-15. Allen H. Brooks, The Prairie School, 12
-
-
-16. Allen H. Brooks, The Prairie School, 344
-
-
-Fly Fishing in the Driftless Region
-
-
-1Isaiah Bowman, PhD, Forest Physiography: Physiography of the United States and Principles of Soils in Relation to Forestry. (New York and London: John Wiley & Sons, 1911), p. 495. 
 
 
 

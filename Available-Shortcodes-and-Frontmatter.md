@@ -77,6 +77,26 @@ _This shortcode has no closing tag!  It's used to present a video playback widge
 {{% video_azure pid="Mustard-Seed-Farm-Flix-ep.-1-210930.mp4" caption="Open the first of four of Emma Kieran Schaefer's short videos on Mustard Seed Farm." %}}  
 ```  
 
+## {{% ref %}}, {{% endnotes %}} and {{% endnote %}}
+
+_These shortcodes have no closing tag!  They are used to create endnote references, heading and a list of endnotes at then end of an article._  
+
+**Example:** From https://yellow-wave-0e513e510.3.azurestaticapps.net/past-issues/volume-i-issue-1/ikerd/
+
+```
+3) “The clarity that the world changes through local communities taking action—that there is no power for change greater than a community taking its future into its own hands.”{{% ref 1 %}} 
+
+...
+
+Now that the sound-science has turned against them, the defenders of industrial agriculture have resorted to a multi-million dollar, nationwide propaganda campaign. {{% ref 2 %}}
+
+...
+
+{{% endnotes %}}
+{{% endnote 1 "Margaret Wheatley, “The Big Learning Event,” Prepared for presentationat the University of Wisconsin, Madison, WI, June 2011." %}}
+{{% endnote 2 "[Food Dialogues, U.S. Farmers and Ranchers Alliance.](http://www.fooddialogues.com/)" %}}
+```  
+
 &nbsp;  
 &nbsp;  
 

@@ -100,50 +100,6 @@ p.Letter-V_rootstalk_Running-Header {
 	text-transform:none;
 	widows:1;
 }
-p.Normal {
-	-epub-hyphens:none;
-	color:#000000;
-	font-family:"Times New Roman", serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.2;
-	margin-bottom:0;
-	margin-left:0;
-	margin-right:0;
-	margin-top:0;
-	orphans:1;
-	page-break-after:auto;
-	page-break-before:auto;
-	text-align:left;
-	text-decoration:none;
-	text-indent:0;
-	text-transform:none;
-	widows:1;
-}
-p.Normal--Web- {
-	-epub-hyphens:none;
-	color:#000000;
-	font-family:"Times New Roman", serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.2;
-	margin-bottom:5px;
-	margin-left:0;
-	margin-right:0;
-	margin-top:5px;
-	orphans:1;
-	page-break-after:auto;
-	page-break-before:auto;
-	text-align:left;
-	text-decoration:none;
-	text-indent:0;
-	text-transform:none;
-	widows:1;
-}
 p.Basic-Paragraph {
 	color:#000000;
 	font-family:"Times New Roman", serif;
@@ -229,28 +185,6 @@ p.rootstalk_Lead-Pages_Body-Paragraph {
 	text-transform:none;
 	widows:1;
 }
-p.rootstalk_Lead-Pages_Interview-Paragraphs {
-	color:#000000;
-	font-family:"Minion Pro", serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.2;
-	margin-bottom:0;
-	margin-left:36px;
-	margin-right:0;
-	margin-top:0;
-	orphans:1;
-	page-break-after:auto;
-	page-break-before:auto;
-	text-align:justify;
-	text-align-last:left;
-	text-decoration:none;
-	text-indent:-36px;
-	text-transform:none;
-	widows:1;
-}
 p.rootstalk_Lead-Pages_Page-Headings--titles- {
 	color:#000000;
 	font-family:"Kannada MN", sans-serif;
@@ -263,27 +197,6 @@ p.rootstalk_Lead-Pages_Page-Headings--titles- {
 	margin-left:0;
 	margin-right:0;
 	margin-top:0;
-	orphans:1;
-	page-break-after:auto;
-	page-break-before:auto;
-	text-align:left;
-	text-decoration:none;
-	text-indent:0;
-	text-transform:none;
-	widows:1;
-}
-p.usetheseAuthor {
-	color:#000000;
-	font-family:"Kannada MN", sans-serif;
-	font-size:14px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.2;
-	margin-bottom:0;
-	margin-left:24px;
-	margin-right:0;
-	margin-top:6px;
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
@@ -350,6 +263,9 @@ span.Drop-Cap {
 	font-weight:normal;
 	text-transform:none;
 }
+span.Endnote-reference {
+	vertical-align:super;
+}
 span.Hyperlink {
 	color:#215e9e;
 	text-decoration:underline;
@@ -391,6 +307,11 @@ span.TOC-page-numbers {
 	font-style:normal;
 	font-weight:normal;
 }
+span.Text {
+	font-family:"Minion Pro", serif;
+	font-style:normal;
+	font-weight:normal;
+}
 p.ParaOverride-1 {
 	text-align:center;
 }
@@ -411,17 +332,18 @@ p.ParaOverride-6 {
 	text-indent:19px;
 }
 p.ParaOverride-7 {
-	text-align:left;
+	text-align:right;
 }
 p.ParaOverride-8 {
-	margin-left:48px;
+	margin-left:41px;
+	text-align:left;
 }
 p.ParaOverride-9 {
-	margin-left:73px;
-	text-align:right;
+	margin-left:72px;
+	text-indent:-36px;
 }
 p.ParaOverride-10 {
-	text-align:right;
+	text-align:left;
 }
 p.ParaOverride-11 {
 	margin-top:0px;
@@ -431,100 +353,46 @@ p.ParaOverride-12 {
 	text-align:left;
 }
 p.ParaOverride-13 {
-	margin-left:32px;
+	margin-left:41px;
 	text-align:right;
-	text-indent:-22px;
 }
 p.ParaOverride-14 {
-	margin-left:32px;
-	text-align:left;
-	text-indent:-22px;
+	margin-left:72px;
+	text-align:right;
+	text-indent:-36px;
 }
 p.ParaOverride-15 {
-	text-align:justify;
-	text-align-last:center;
+	margin-top:0px;
+	text-align:right;
 }
 p.ParaOverride-16 {
-	text-align:left;
-	text-indent:0px;
-}
-p.ParaOverride-17 {
-	-epub-hyphens:none;
-}
-p.ParaOverride-18 {
-	text-align:justify;
-	text-align-last:left;
-	text-indent:24px;
-}
-p.ParaOverride-19 {
-	margin-bottom:0px;
-	margin-top:0px;
-	text-align:justify;
-	text-align-last:left;
-	text-indent:24px;
-}
-p.ParaOverride-20 {
-	-epub-hyphens:none;
-	margin-left:0px;
-	text-align:justify;
-	text-align-last:left;
-}
-p.ParaOverride-21 {
-	text-align:justify;
-	text-align-last:left;
-}
-p.ParaOverride-22 {
-	margin-left:1px;
-}
-p.ParaOverride-23 {
-	margin-left:40px;
-}
-p.ParaOverride-24 {
-	margin-left:40px;
-	text-indent:-36px;
-}
-p.ParaOverride-25 {
-	text-align:center;
-	text-indent:0px;
-}
-p.ParaOverride-26 {
-	margin-left:36px;
-	text-indent:29px;
-}
-p.ParaOverride-27 {
-	margin-left:0px;
 	text-align:justify;
 	text-align-last:center;
 }
-p.ParaOverride-28 {
+p.ParaOverride-17 {
+	text-align:left;
+	text-indent:0px;
+}
+p.ParaOverride-18 {
+	margin-left:36px;
+	text-indent:36px;
+}
+p.ParaOverride-19 {
+	text-align:justify;
+	text-align-last:center;
+	text-indent:0px;
+}
+p.ParaOverride-20 {
 	text-indent:24px;
 }
-p.ParaOverride-29 {
-	margin-left:12px;
+p.ParaOverride-21 {
+	margin-left:17px;
+	text-indent:-17px;
 }
-p.ParaOverride-30 {
-	text-indent:21px;
-}
-p.ParaOverride-31 {
-	margin-left:0px;
-	text-indent:24px;
-}
-p.ParaOverride-32 {
+p.ParaOverride-22 {
 	margin-left:36px;
 	text-align:left;
 	text-indent:-36px;
-}
-p.ParaOverride-33 {
-	margin-bottom:6px;
-	text-indent:0px;
-}
-p.ParaOverride-34 {
-	margin-left:36px;
-	margin-right:36px;
-	text-indent:-36px;
-}
-p.ParaOverride-35 {
-	margin-right:36px;
 }
 span.CharOverride-1 {
 	font-family:"Minion Pro", serif;
@@ -553,29 +421,27 @@ span.CharOverride-4 {
 	text-transform:none;
 }
 span.CharOverride-5 {
-	font-family:"Minion Pro Bold", sans-serif;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-6 {
-	font-family:"Minion Pro Bold", sans-serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	text-transform:none;
-}
-span.CharOverride-7 {
 	font-size:11px;
 }
-span.CharOverride-8 {
+span.CharOverride-6 {
 	font-size:18px;
 	text-decoration:underline;
 }
-span.CharOverride-9 {
+span.CharOverride-7 {
 	font-size:18px;
 }
-span.CharOverride-10 {
+span.CharOverride-8 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"Minion Pro Italic", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-9 {
 	-webkit-text-combine:none;
 	color:#000000;
 	font-family:"Minion Pro", serif;
@@ -585,204 +451,194 @@ span.CharOverride-10 {
 	font-weight:normal;
 	text-decoration:none;
 	text-transform:none;
+}
+span.CharOverride-10 {
+	font-family:"Times New Roman", serif;
+	font-style:normal;
+	font-weight:normal;
 }
 span.CharOverride-11 {
-	-webkit-text-combine:none;
-	color:#000000;
-	font-family:"Minion Pro Italic", sans-serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	text-decoration:none;
-	text-transform:none;
-}
-span.CharOverride-12 {
-	-webkit-text-combine:none;
-	color:#000000;
-	font-family:"Minion Pro Bold", sans-serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	text-decoration:none;
-	text-transform:none;
-}
-span.CharOverride-13 {
-	font-size:30px;
-}
-span.CharOverride-14 {
-	font-family:"Kannada MN", sans-serif;
-	font-size:46px;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-15 {
-	font-size:12px;
-	font-style:normal;
-	font-weight:bold;
-}
-span.CharOverride-16 {
-	font-family:"Kannada MN", sans-serif;
-	font-size:12px;
-	font-style:normal;
-	font-weight:bold;
-}
-span.CharOverride-17 {
-	font-style:normal;
-	font-weight:bold;
-}
-span.CharOverride-18 {
-	font-family:"Minion Pro", serif;
-	font-size:11px;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-19 {
-	font-family:"Kannada MN", sans-serif;
-	font-size:11px;
-	font-style:normal;
-	font-weight:bold;
-}
-span.CharOverride-20 {
-	font-family:"Kannada MN", sans-serif;
-	font-style:normal;
-	font-weight:bold;
-}
-span.CharOverride-21 {
-	font-size:12px;
-}
-span.CharOverride-22 {
-	color:#414042;
-	font-family:"Minion Pro", serif;
-	font-size:11px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	text-transform:none;
-}
-span.CharOverride-23 {
-	font-size:11px;
-	font-style:normal;
-	font-weight:bold;
-}
-span.CharOverride-24 {
-	font-family:"Minion Pro", serif;
-	font-size:12px;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-25 {
-	font-size:10px;
-}
-span.CharOverride-26 {
-	font-size:20px;
-}
-span.CharOverride-27 {
-	font-family:"Minion Pro Bold", sans-serif;
-	font-size:58%;
-	font-style:normal;
-	font-weight:normal;
-	vertical-align:super;
-}
-span.CharOverride-28 {
-	color:#000000;
-	font-family:"Times New Roman", serif;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-29 {
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-30 {
-	color:#414042;
-	font-family:"Minion Pro", serif;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-31 {
-	color:#414042;
-	font-family:"Minion Pro Italic", sans-serif;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-32 {
-	-webkit-text-combine:none;
-	color:#414042;
-	font-family:"Minion Pro", serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	text-decoration:none;
-	text-transform:none;
-}
-span.CharOverride-33 {
-	font-family:"Times New Roman", serif;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-34 {
 	font-family:"Times New Roman", serif;
 	font-size:14px;
 	font-style:normal;
 	font-weight:bold;
 }
-span.CharOverride-35 {
-	font-size:11px;
-	font-variant:small-caps;
-	text-transform:none;
+span.CharOverride-12 {
+	font-size:30px;
 }
-span.CharOverride-36 {
+span.CharOverride-13 {
+	font-family:"Kannada MN", sans-serif;
+	font-size:46px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-14 {
 	font-size:12px;
 	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-15 {
+	font-family:"Kannada MN", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-16 {
+	font-family:"Minion Pro", serif;
+	font-size:11px;
+	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-37 {
+span.CharOverride-17 {
+	font-family:"Kannada MN", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-18 {
+	font-family:"Kannada MN", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-19 {
+	font-family:"Kannada MN", sans-serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-20 {
 	color:#414042;
-	font-family:"Kannada MN", sans-serif;
+	font-family:"Minion Pro", serif;
 	font-size:11px;
 	font-style:normal;
-	font-variant:small-caps;
+	font-variant:normal;
 	font-weight:normal;
 	text-transform:none;
 }
-span.CharOverride-38 {
-	font-family:"Kannada MN", sans-serif;
+span.CharOverride-21 {
 	font-size:11px;
 	font-style:normal;
-	font-variant:small-caps;
-	font-weight:normal;
-	text-transform:none;
+	font-weight:bold;
 }
-span.CharOverride-39 {
+span.CharOverride-22 {
+	font-size:10px;
+}
+span.CharOverride-23 {
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-24 {
+	font-size:20px;
+}
+span.CharOverride-25 {
+	font-family:"Minion Pro", serif;
+	font-size:58%;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.CharOverride-26 {
+	color:#000000;
+}
+span.CharOverride-27 {
 	font-family:"Minion Pro Italic", sans-serif;
 	font-size:30px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-40 {
-	font-style:italic;
-	font-weight:normal;
-}
-span.CharOverride-41 {
-	font-style:italic;
-	font-weight:bold;
-}
-span.CharOverride-42 {
-	font-family:"Minion Pro Bold Italic", sans-serif;
+span.CharOverride-28 {
+	font-size:11px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-43 {
+span.CharOverride-29 {
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-30 {
+	font-family:"Minion Pro", serif;
+	font-size:17px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-31 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:17px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-32 {
 	font-family:"Minion Pro", serif;
 	font-size:18px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-44 {
+span.CharOverride-33 {
+	font-size:18px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-34 {
+	font-size:16px;
+	text-decoration:underline;
+}
+span.CharOverride-35 {
+	font-size:58%;
+	vertical-align:super;
+}
+span.CharOverride-36 {
 	font-family:"Minion Pro Italic", sans-serif;
+	font-size:58%;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.CharOverride-37 {
+	font-size:23px;
+}
+span.CharOverride-38 {
+	font-size:14px;
+}
+span.CharOverride-39 {
+	font-family:"Minion Pro", serif;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:normal;
+	text-transform:none;
+}
+span.CharOverride-40 {
+	font-family:"Minion Pro", serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:none;
+}
+span.CharOverride-41 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:18px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-42 {
+	font-size:11px;
+	font-variant:normal;
+	text-transform:none;
+}
+span.CharOverride-43 {
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-44 {
+	font-family:"Minion Pro", serif;
 	font-size:11px;
 	font-style:normal;
 	font-variant:normal;
@@ -790,72 +646,117 @@ span.CharOverride-44 {
 	text-transform:none;
 }
 span.CharOverride-45 {
-	font-family:"Minion Pro Bold", sans-serif;
-	font-size:11px;
 	font-style:normal;
 	font-variant:normal;
-	font-weight:normal;
+	font-weight:bold;
 	text-transform:none;
 }
 span.CharOverride-46 {
-	font-size:16px;
-	text-decoration:underline;
-}
-span.CharOverride-47 {
-	font-size:16px;
-}
-span.CharOverride-48 {
-	font-size:22px;
-}
-span.CharOverride-49 {
-	font-size:14px;
-	vertical-align:super;
-}
-span.CharOverride-50 {
-	font-size:23px;
-}
-span.CharOverride-51 {
-	color:#414042;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-52 {
-	font-family:"Minion Pro Italic", sans-serif;
-	font-size:18px;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-53 {
-	-webkit-text-combine:none;
-	color:#000000;
 	font-family:"Minion Pro", serif;
-	font-size:12px;
+	font-size:13px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
 	text-transform:none;
 }
-span.CharOverride-54 {
-	font-size:58%;
+span.CharOverride-47 {
+	font-family:"Minion Pro", serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:none;
 	vertical-align:super;
 }
-span.CharOverride-55 {
-	font-size:6px;
-	vertical-align:super;
-}
-span.CharOverride-56 {
+span.CharOverride-48 {
 	color:#000000;
+	font-family:"Minion Pro", serif;
 	font-style:normal;
 	font-weight:normal;
 }
+span.CharOverride-49 {
+	font-family:"Minion Pro", serif;
+	font-size:58%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:none;
+	vertical-align:super;
+}
+span.CharOverride-50 {
+	font-family:"Minion Pro", serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-51 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-52 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:7px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+	vertical-align:super;
+}
+span.CharOverride-53 {
+	font-family:"Minion Pro", serif;
+	font-size:15px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-54 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:15px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-55 {
+	font-family:"Minion Pro Italic", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-56 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"Minion Pro Italic", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
 span.CharOverride-57 {
-	font-size:24px;
+	font-family:"Minion Pro", serif;
+	font-size:16px;
+	font-style:normal;
+	font-weight:normal;
 }
 span.CharOverride-58 {
 	-webkit-text-combine:none;
 	color:#000000;
 	font-family:"Minion Pro", serif;
-	font-size:14px;
+	font-size:16px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -863,116 +764,24 @@ span.CharOverride-58 {
 	text-transform:none;
 }
 span.CharOverride-59 {
+	font-family:"Minion Pro", serif;
 	font-size:14px;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:normal;
+	text-transform:none;
 }
 span.CharOverride-60 {
-	font-size:8px;
+	font-family:"Minion Pro", serif;
+	font-size:7px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:none;
 	vertical-align:super;
 }
-span.CharOverride-61 {
-	font-family:"Minion Pro Italic", sans-serif;
+span._idGenCharOverride-1 {
 	font-size:58%;
-	font-style:normal;
-	font-weight:normal;
-	vertical-align:super;
-}
-span.CharOverride-62 {
-	-webkit-text-combine:none;
-	color:#000000;
-	font-family:"Minion Pro Italic", sans-serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	text-transform:none;
-}
-span.CharOverride-63 {
-	-webkit-text-combine:none;
-	color:#000000;
-	font-family:"Minion Pro", serif;
-	font-size:18px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	text-decoration:none;
-	text-transform:none;
-}
-span.CharOverride-64 {
-	font-family:"Minion Variable Concept", serif;
-	font-variation-settings:"opsz" 12, "wght" 400;
-}
-span.CharOverride-65 {
-	font-family:"Minion Variable Concept", serif;
-	font-variation-settings:"opsz" 11, "wght" 400;
-}
-span.CharOverride-66 {
-	font-family:"Minion Pro", serif;
-	font-size:30px;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-67 {
-	font-family:"Minion Pro", serif;
-	font-size:20px;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-68 {
-	-webkit-text-combine:none;
-	color:#000000;
-	font-family:"Minion Pro", serif;
-	font-size:20px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	text-decoration:none;
-	text-transform:none;
-}
-span.CharOverride-69 {
-	font-family:"Minion Pro Bold", sans-serif;
-	font-size:14px;
-	font-style:normal;
-	font-variant:small-caps;
-	font-weight:normal;
-	text-transform:none;
-}
-span.CharOverride-70 {
-	font-family:"Minion Pro", serif;
-	font-size:58%;
-	font-style:normal;
-	font-weight:normal;
-	vertical-align:super;
-}
-span.CharOverride-71 {
-	color:#414042;
-	font-family:"Minion Pro Bold", sans-serif;
-	font-size:14px;
-	font-style:normal;
-	font-variant:small-caps;
-	font-weight:normal;
-	text-transform:none;
-}
-span.CharOverride-72 {
-	color:#414042;
-	font-family:"Minion Pro", serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	text-transform:none;
-}
-span.CharOverride-73 {
-	color:#414042;
-	font-family:"Minion Pro Italic", sans-serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	text-transform:none;
-}
-span.CharOverride-74 {
-	color:#414042;
-	font-size:12px;
 }
 ._idGenDropcap-1 {
 	float:left;
@@ -985,6 +794,17 @@ span.CharOverride-74 {
 ._idGenDropcap-2 {
 	float:left;
 	font-family:"Bell MT Regular", sans-serif;
+	font-size:2.78em;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1;
+	margin-bottom:-0.25em;
+	margin-right:0.05em;
+	margin-top:-0.073em;
+}
+._idGenDropcap-3 {
+	float:left;
+	font-family:"Minion Pro Italic", sans-serif;
 	font-size:2.78em;
 	font-style:normal;
 	font-weight:normal;
@@ -1009,12 +829,12 @@ span.CharOverride-74 {
 	height:434px;
 	width:320px;
 }
-#_idContainer004, #_idContainer008, #_idContainer039, #_idContainer072, #_idContainer081, #_idContainer088, #_idContainer179 {
+#_idContainer004, #_idContainer008, #_idContainer045, #_idContainer048, #_idContainer462, #_idContainer596, #_idContainer597 {
 	display:inline-block;
 	height:20px;
 	width:184px;
 }
-#_idContainer011, #_idContainer043, #_idContainer061, #_idContainer128, #_idContainer136, #_idContainer145, #_idContainer159, #_idContainer176, #_idContainer207, #_idContainer215, #_idContainer223, #_idContainer275, #_idContainer308, #_idContainer316, #_idContainer324, #_idContainer332, #_idContainer337, #_idContainer368, #_idContainer385, #_idContainer406, #_idContainer422 {
+#_idContainer011, #_idContainer052, #_idContainer075, #_idContainer100, #_idContainer126, #_idContainer139, #_idContainer166, #_idContainer265, #_idContainer285, #_idContainer344, #_idContainer383, #_idContainer398, #_idContainer426, #_idContainer440, #_idContainer452, #_idContainer473, #_idContainer517, #_idContainer528, #_idContainer569 {
 	display:inline-block;
 	height:86px;
 	width:295px;
@@ -1024,655 +844,744 @@ span.CharOverride-74 {
 	height:223px;
 	width:184px;
 }
-#_idContainer019, #_idContainer113 {
+#_idContainer020 {
 	display:inline-block;
 	height:340px;
 	width:264px;
 }
-#_idContainer021 {
+#_idContainer022 {
 	display:inline-block;
 	height:396px;
 	width:264px;
 }
-#_idContainer023 {
+#_idContainer025 {
 	display:inline-block;
 	height:413px;
 	width:264px;
 }
-#_idContainer025 {
+#_idContainer027 {
 	display:inline-block;
 	height:395px;
 	width:258px;
 }
-#_idContainer027 {
+#_idContainer030 {
 	display:inline-block;
 	height:304px;
 	width:540px;
 }
-#_idContainer030 {
+#_idContainer033 {
 	display:inline-block;
 	height:375px;
 	width:540px;
 }
-#_idContainer032 {
+#_idContainer036 {
+	display:inline-block;
+	height:627px;
+	width:470px;
+}
+#_idContainer038 {
 	display:inline-block;
 	height:790px;
 	width:1224px;
 }
-#_idContainer037 {
+#_idContainer046 {
 	display:inline-block;
 	height:35px;
 	width:264px;
 }
-#_idContainer044, #_idContainer096, #_idContainer180, #_idContainer209, #_idContainer216, #_idContainer225, #_idContainer252, #_idContainer309, #_idContainer327, #_idContainer369, #_idContainer386, #_idContainer407 {
+#_idContainer053, #_idContainer127, #_idContainer167, #_idContainer267, #_idContainer286, #_idContainer345, #_idContainer359, #_idContainer385, #_idContainer399, #_idContainer427, #_idContainer441, #_idContainer454, #_idContainer529 {
 	display:inline-block;
 	height:269px;
 	width:201px;
 }
-#_idContainer054 {
+#_idContainer063 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:321px;
+}
+#_idContainer065 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:318px;
+}
+#_idContainer066 {
 	display:inline-block;
 	height:269px;
 	width:296px;
 }
-#_idContainer055 {
+#_idContainer067 {
 	display:inline-block;
 	height:256px;
 	width:335px;
 }
-#_idContainer056, #_idContainer058 {
+#_idContainer069, #_idContainer071 {
 	display:inline-block;
 	height:0px;
 	position:relative;
 	width:392px;
 }
-#_idContainer059 {
+#_idContainer072 {
 	display:inline-block;
 	height:243px;
 	width:324px;
 }
-#_idContainer060 {
-	display:inline-block;
-	height:311px;
-	width:415px;
-}
-#_idContainer062 {
-	display:inline-block;
-	height:242px;
-	width:200px;
-}
-#_idContainer070 {
-	display:inline-block;
-	height:299px;
-	width:446px;
-}
 #_idContainer074 {
 	display:inline-block;
-	height:310px;
+	height:261px;
+	width:415px;
+}
+#_idContainer076 {
+	display:inline-block;
+	height:275px;
+	width:201px;
+}
+#_idContainer085 {
+	display:inline-block;
+	height:0px;
+	position:relative;
 	width:243px;
 }
-#_idContainer078 {
+#_idContainer087 {
 	display:inline-block;
-	height:198px;
-	width:264px;
+	height:0px;
+	position:relative;
+	width:238px;
 }
-#_idContainer079 {
-	display:inline-block;
-	height:197px;
-	width:264px;
-}
-#_idContainer083 {
-	display:inline-block;
-	height:265px;
-	width:540px;
-}
-#_idContainer086 {
-	display:inline-block;
-	height:187px;
-	width:264px;
-}
-#_idContainer091, #_idContainer092 {
-	display:inline-block;
-	height:150px;
-	width:270px;
-}
-#_idContainer093 {
-	display:inline-block;
-	height:590px;
-	width:380px;
-}
-#_idContainer095 {
-	display:inline-block;
-	height:81px;
-	width:300px;
-}
-#_idContainer104 {
-	display:inline-block;
-	height:270px;
-	width:536px;
-}
-#_idContainer106, #_idContainer416, #_idContainer418 {
+#_idContainer089 {
 	display:inline-block;
 	height:305px;
-	width:236px;
+	width:533px;
 }
-#_idContainer108 {
+#_idContainer090 {
 	display:inline-block;
-	height:235px;
-	width:336px;
-}
-#_idContainer110, #_idContainer111, #_idContainer127 {
-	display:inline-block;
-	height:0px;
+	height:223px;
 	position:relative;
-	width:272px;
-}
-#_idContainer115 {
-	display:inline-block;
-	height:340px;
-	width:260px;
-}
-#_idContainer116, #_idContainer118 {
-	display:inline-block;
-	height:0px;
-	position:relative;
-	width:166px;
-}
-#_idContainer119 {
-	display:inline-block;
-	height:374px;
 	width:540px;
 }
-#_idContainer121, #_idContainer123 {
-	display:inline-block;
-	height:0px;
-	position:relative;
-	width:291px;
-}
-#_idContainer124 {
-	display:inline-block;
-	height:637px;
-	width:264px;
-}
-#_idContainer125, #_idContainer291, #_idContainer302 {
+#_idContainer092, #_idContainer093, #_idContainer152, #_idContainer153, #_idContainer275, #_idContainer277 {
 	display:inline-block;
 	height:0px;
 	position:relative;
 	width:274px;
 }
-#_idContainer129 {
+#_idContainer096 {
 	display:inline-block;
-	height:254px;
-	width:161px;
+	height:353px;
+	width:249px;
 }
-#_idContainer132 {
+#_idContainer098 {
+	display:inline-block;
+	height:237px;
+	width:380px;
+}
+#_idContainer102 {
+	display:inline-block;
+	height:278px;
+	width:201px;
+}
+#_idContainer108 {
+	display:inline-block;
+	height:194px;
+	width:264px;
+}
+#_idContainer112, #_idContainer114 {
 	display:inline-block;
 	height:0px;
 	position:relative;
-	width:15px;
+	width:333px;
+}
+#_idContainer117 {
+	display:inline-block;
+	height:185px;
+	width:292px;
+}
+#_idContainer119 {
+	display:inline-block;
+	height:274px;
+	width:168px;
+}
+#_idContainer121 {
+	display:inline-block;
+	height:171px;
+	width:276px;
+}
+#_idContainer124 {
+	display:inline-block;
+	height:405px;
+	width:540px;
+}
+#_idContainer135, #_idContainer260, #_idContainer338, #_idContainer378, #_idContainer434, #_idContainer511 {
+	display:inline-block;
+	height:104px;
+	width:532px;
 }
 #_idContainer137 {
 	display:inline-block;
-	height:348px;
-	width:207px;
+	height:300px;
+	width:413px;
 }
-#_idContainer139 {
+#_idContainer143 {
 	display:inline-block;
-	height:200px;
-	width:207px;
-}
-#_idContainer146 {
-	display:inline-block;
-	height:239px;
+	height:270px;
 	width:201px;
 }
-#_idContainer153 {
+#_idContainer150 {
 	display:inline-block;
-	height:232px;
-	width:236px;
-}
-#_idContainer155, #_idContainer157 {
-	display:inline-block;
-	height:0px;
-	position:relative;
-	width:267px;
-}
-#_idContainer158 {
-	display:inline-block;
-	height:209px;
-	width:312px;
-}
-#_idContainer161 {
-	display:inline-block;
-	height:269px;
-	width:196px;
-}
-#_idContainer168 {
-	display:inline-block;
-	height:376px;
+	height:282px;
 	width:540px;
 }
-#_idContainer170, #_idContainer172 {
-	display:inline-block;
-	height:0px;
-	position:relative;
-	width:300px;
-}
-#_idContainer173 {
-	display:inline-block;
-	height:315px;
-	width:540px;
-}
-#_idContainer174 {
-	display:inline-block;
-	height:305px;
-	position:relative;
-	width:540px;
-}
-#_idContainer188 {
-	display:inline-block;
-	height:116px;
-	width:540px;
-}
-#_idContainer190 {
+#_idContainer157 {
 	display:inline-block;
 	height:369px;
-	width:264px;
+	width:540px;
 }
-#_idContainer192 {
+#_idContainer160 {
 	display:inline-block;
-	height:370px;
-	width:260px;
+	height:299px;
+	width:209px;
 }
-#_idContainer194, #_idContainer196, #_idContainer201, #_idContainer202 {
+#_idContainer164 {
+	display:inline-block;
+	height:275px;
+	width:431px;
+}
+#_idContainer176 {
+	display:inline-block;
+	height:295px;
+	width:236px;
+}
+#_idContainer178, #_idContainer181, #_idContainer182, #_idContainer186, #_idContainer188, #_idContainer197, #_idContainer198, #_idContainer199, #_idContainer200, #_idContainer201, #_idContainer202, #_idContainer204, #_idContainer205, #_idContainer231, #_idContainer232, #_idContainer233 {
 	display:inline-block;
 	height:0px;
 	position:relative;
 	width:0px;
 }
-#_idContainer195, #_idContainer200 {
+#_idContainer179, #_idContainer206 {
 	display:inline-block;
-	height:346px;
-	width:264px;
+	height:609px;
+	position:relative;
+	width:514px;
 }
-#_idContainer198 {
+#_idContainer180 {
 	display:inline-block;
-	height:229px;
-	width:345px;
+	height:610px;
+	width:258px;
 }
-#_idContainer204 {
+#_idContainer183, #_idContainer218 {
+	display:inline-block;
+	height:608px;
+	position:relative;
+	width:0px;
+}
+#_idContainer184, #_idContainer185, #_idContainer187, #_idContainer208, #_idContainer209, #_idContainer212, #_idContainer213, #_idContainer220, #_idContainer221, #_idContainer222, #_idContainer223 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:256px;
+}
+#_idContainer189 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:255px;
+}
+#_idContainer190, #_idContainer193, #_idContainer196, #_idContainer207, #_idContainer210, #_idContainer211 {
+	display:inline-block;
+	height:157px;
+	width:252px;
+}
+#_idContainer219 {
 	display:inline-block;
 	height:155px;
-	width:250px;
+	width:258px;
 }
-#_idContainer211 {
+#_idContainer224 {
 	display:inline-block;
-	height:191px;
-	width:204px;
+	height:157px;
+	width:257px;
 }
-#_idContainer218 {
+#_idContainer234, #_idContainer236 {
 	display:inline-block;
-	height:207px;
-	width:201px;
+	height:0px;
+	position:relative;
+	width:297px;
 }
-#_idContainer232 {
+#_idContainer238 {
 	display:inline-block;
-	height:456px;
-	width:303px;
+	height:237px;
+	width:252px;
 }
-#_idContainer234 {
+#_idContainer240 {
 	display:inline-block;
-	height:197px;
-	width:115px;
+	height:325px;
+	width:256px;
 }
-#_idContainer235 {
+#_idContainer242, #_idContainer244 {
 	display:inline-block;
-	height:352px;
-	width:234px;
+	height:0px;
+	position:relative;
+	width:96px;
 }
-#_idContainer237 {
+#_idContainer246 {
 	display:inline-block;
-	height:352px;
-	width:264px;
+	height:325px;
+	width:488px;
 }
-#_idContainer239 {
+#_idContainer249, #_idContainer250, #_idContainer254, #_idContainer256 {
 	display:inline-block;
-	height:461px;
+	height:0px;
+	position:relative;
+	width:355px;
+}
+#_idContainer252 {
+	display:inline-block;
+	height:433px;
 	width:289px;
 }
-#_idContainer241 {
+#_idContainer258 {
 	display:inline-block;
-	height:607px;
-	width:391px;
+	height:306px;
+	width:486px;
 }
-#_idContainer243 {
+#_idContainer264 {
 	display:inline-block;
-	height:470px;
+	height:286px;
+	width:215px;
+}
+#_idContainer278 {
+	display:inline-block;
+	height:199px;
+	width:276px;
+}
+#_idContainer281 {
+	display:inline-block;
+	height:183px;
+	width:262px;
+}
+#_idContainer283 {
+	display:inline-block;
+	height:182px;
+	width:276px;
+}
+#_idContainer297 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:300px;
+}
+#_idContainer299 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:296px;
+}
+#_idContainer302 {
+	display:inline-block;
+	height:284px;
+	width:367px;
+}
+#_idContainer303 {
+	display:inline-block;
+	height:635px;
+	position:relative;
+	width:266px;
+}
+#_idContainer304, #_idContainer305 {
+	display:inline-block;
+	height:144px;
+	width:144px;
+}
+#_idContainer306, #_idContainer307 {
+	display:inline-block;
+	height:134px;
+	width:144px;
+}
+#_idContainer310 {
+	display:inline-block;
+	height:269px;
 	width:352px;
 }
-#_idContainer245 {
+#_idContainer312 {
 	display:inline-block;
-	height:600px;
-	width:429px;
+	height:277px;
+	width:263px;
 }
-#_idContainer247 {
+#_idContainer314 {
 	display:inline-block;
-	height:466px;
-	width:311px;
+	height:208px;
+	width:264px;
 }
-#_idContainer250 {
+#_idContainer316 {
 	display:inline-block;
-	height:402px;
-	width:268px;
+	height:284px;
+	width:264px;
 }
-#_idContainer251 {
+#_idContainer319 {
+	display:inline-block;
+	height:636px;
+	width:264px;
+}
+#_idContainer321 {
+	display:inline-block;
+	height:286px;
+	width:367px;
+}
+#_idContainer322, #_idContainer324 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:166px;
+}
+#_idContainer328 {
+	display:inline-block;
+	height:316px;
+	width:264px;
+}
+#_idContainer329 {
+	display:inline-block;
+	height:97px;
+	width:22px;
+}
+#_idContainer330 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:206px;
+}
+#_idContainer331 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:203px;
+}
+#_idContainer334 {
+	display:inline-block;
+	height:316px;
+	width:263px;
+}
+#_idContainer335 {
+	display:inline-block;
+	height:653px;
+	width:540px;
+}
+#_idContainer342 {
+	display:inline-block;
+	height:286px;
+	width:286px;
+}
+#_idContainer353 {
+	display:inline-block;
+	height:263px;
+	width:360px;
+}
+#_idContainer355 {
+	display:inline-block;
+	height:407px;
+	width:295px;
+}
+#_idContainer357 {
 	display:inline-block;
 	height:86px;
 	width:300px;
 }
-#_idContainer260 {
+#_idContainer367 {
 	display:inline-block;
-	height:252px;
+	height:234px;
+	width:282px;
+}
+#_idContainer370 {
+	display:inline-block;
+	height:309px;
+	width:215px;
+}
+#_idContainer372, #_idContainer374 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:308px;
+}
+#_idContainer376 {
+	display:inline-block;
+	height:166px;
+	width:349px;
+}
+#_idContainer381 {
+	display:inline-block;
+	height:259px;
+	width:270px;
+}
+#_idContainer392, #_idContainer394 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:250px;
+}
+#_idContainer396 {
+	display:inline-block;
+	height:269px;
 	width:540px;
 }
-#_idContainer262 {
+#_idContainer407 {
 	display:inline-block;
-	height:149px;
-	width:264px;
+	height:256px;
+	width:317px;
 }
-#_idContainer264 {
+#_idContainer408, #_idContainer410 {
 	display:inline-block;
-	height:121px;
-	width:264px;
+	height:0px;
+	position:relative;
+	width:284px;
 }
-#_idContainer266 {
+#_idContainer411 {
 	display:inline-block;
-	height:175px;
-	width:264px;
+	height:228px;
+	width:304px;
 }
-#_idContainer268 {
+#_idContainer413 {
+	display:inline-block;
+	height:228px;
+	width:360px;
+}
+#_idContainer414 {
+	display:inline-block;
+	height:342px;
+	width:540px;
+}
+#_idContainer416 {
+	display:inline-block;
+	height:354px;
+	width:335px;
+}
+#_idContainer417 {
+	display:inline-block;
+	height:342px;
+	width:257px;
+}
+#_idContainer419, #_idContainer421 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:266px;
+}
+#_idContainer422 {
+	display:inline-block;
+	height:386px;
+	width:278px;
+}
+#_idContainer425 {
+	display:inline-block;
+	height:494px;
+	width:540px;
+}
+#_idContainer431 {
+	display:inline-block;
+	height:216px;
+	text-align:left;
+	width:246px;
+}
+#_idContainer432 {
+	display:inline-block;
+	height:216px;
+	width:246px;
+}
+#_idContainer437 {
+	display:inline-block;
+	height:214px;
+	width:217px;
+}
+#_idContainer439 {
+	display:inline-block;
+	height:214px;
+	width:223px;
+}
+#_idContainer448 {
+	display:inline-block;
+	height:307px;
+	width:307px;
+}
+#_idContainer450 {
+	display:inline-block;
+	height:205px;
+	width:308px;
+}
+#_idContainer464, #_idContainer579 {
+	display:inline-block;
+	height:360px;
+	width:540px;
+}
+#_idContainer467, #_idContainer469 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:328px;
+}
+#_idContainer470 {
 	display:inline-block;
 	height:251px;
 	width:264px;
 }
-#_idContainer270 {
+#_idContainer471 {
 	display:inline-block;
-	height:159px;
-	width:258px;
+	height:133px;
+	width:247px;
 }
-#_idContainer272 {
+#_idContainer475 {
 	display:inline-block;
-	height:154px;
-	width:257px;
+	height:256px;
+	width:201px;
 }
-#_idContainer274 {
-	display:inline-block;
-	height:154px;
-	width:258px;
-}
-#_idContainer277 {
-	display:inline-block;
-	height:269px;
-	width:204px;
-}
-#_idContainer283 {
-	display:inline-block;
-	height:373px;
-	width:264px;
-}
-#_idContainer285 {
+#_idContainer483 {
 	display:inline-block;
 	height:318px;
 	width:540px;
 }
-#_idContainer287, #_idContainer289 {
+#_idContainer486 {
 	display:inline-block;
-	height:0px;
-	position:relative;
-	width:344px;
+	height:188px;
+	width:254px;
 }
-#_idContainer290, #_idContainer304 {
+#_idContainer488 {
 	display:inline-block;
-	height:0px;
-	position:relative;
-	width:273px;
-}
-#_idContainer293 {
-	display:inline-block;
-	height:298px;
+	height:292px;
 	width:540px;
 }
-#_idContainer295, #_idContainer297 {
+#_idContainer490 {
 	display:inline-block;
-	height:0px;
-	position:relative;
-	width:310px;
+	height:218px;
+	width:245px;
 }
-#_idContainer298 {
+#_idContainer493 {
 	display:inline-block;
-	height:444px;
+	height:306px;
 	width:540px;
 }
-#_idContainer300 {
+#_idContainer495 {
 	display:inline-block;
-	height:269px;
-	width:341px;
+	height:228px;
+	width:269px;
 }
-#_idContainer305 {
+#_idContainer497, #_idContainer499 {
 	display:inline-block;
 	height:0px;
 	position:relative;
-	width:316px;
+	width:215px;
 }
-#_idContainer307 {
+#_idContainer501 {
 	display:inline-block;
-	height:0px;
-	position:relative;
-	width:313px;
-}
-#_idContainer311 {
-	display:inline-block;
-	height:199px;
-	width:201px;
-}
-#_idContainer318 {
-	display:inline-block;
-	height:179px;
-	width:201px;
-}
-#_idContainer320 {
-	display:inline-block;
-	height:261px;
-	width:201px;
-}
-#_idContainer325 {
-	display:inline-block;
-	height:194px;
-	width:208px;
-}
-#_idContainer333 {
-	display:inline-block;
-	height:235px;
-	width:201px;
-}
-#_idContainer334 {
-	display:inline-block;
-	height:295px;
+	height:336px;
 	width:540px;
 }
-#_idContainer339 {
+#_idContainer503 {
 	display:inline-block;
-	height:295px;
-	width:234px;
-}
-#_idContainer344 {
-	display:inline-block;
-	height:193px;
-	position:relative;
-	width:273px;
-}
-#_idContainer347 {
-	display:inline-block;
-	height:0px;
-	position:relative;
-	width:350px;
-}
-#_idContainer348 {
-	display:inline-block;
-	height:0px;
-	position:relative;
-	width:347px;
-}
-#_idContainer349 {
-	display:inline-block;
-	height:259px;
-	width:394px;
-}
-#_idContainer351, #_idContainer352, #_idContainer361, #_idContainer363 {
-	display:inline-block;
-	height:0px;
-	position:relative;
+	height:255px;
 	width:323px;
 }
-#_idContainer354 {
+#_idContainer506 {
 	display:inline-block;
-	height:241px;
-	width:344px;
+	height:384px;
+	width:359px;
 }
-#_idContainer356, #_idContainer358 {
+#_idContainer509, #_idContainer510 {
 	display:inline-block;
 	height:0px;
 	position:relative;
-	width:191px;
+	width:248px;
 }
-#_idContainer364 {
+#_idContainer515 {
 	display:inline-block;
-	height:419px;
-	width:540px;
+	height:234px;
+	width:386px;
 }
-#_idContainer366 {
+#_idContainer518 {
 	display:inline-block;
-	height:191px;
-	width:294px;
+	height:269px;
+	width:189px;
 }
-#_idContainer378 {
+#_idContainer526 {
 	display:inline-block;
-	height:246px;
-	width:172px;
+	height:383px;
+	width:255px;
 }
-#_idContainer379, #_idContainer381 {
+#_idContainer539 {
+	display:inline-block;
+	height:280px;
+	width:438px;
+}
+#_idContainer541, #_idContainer543 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:360px;
+}
+#_idContainer545 {
+	display:inline-block;
+	height:383px;
+	width:264px;
+}
+#_idContainer547 {
+	display:inline-block;
+	height:269px;
+	width:440px;
+}
+#_idContainer550, #_idContainer552 {
 	display:inline-block;
 	height:0px;
 	position:relative;
 	width:282px;
 }
-#_idContainer382 {
+#_idContainer553 {
 	display:inline-block;
-	height:243px;
-	width:236px;
+	height:255px;
+	width:412px;
 }
-#_idContainer383 {
+#_idContainer556 {
 	display:inline-block;
-	height:502px;
-	width:299px;
-}
-#_idContainer384 {
-	display:inline-block;
-	height:409px;
-	width:237px;
-}
-#_idContainer395 {
-	display:inline-block;
-	height:259px;
-	width:307px;
-}
-#_idContainer397 {
-	display:inline-block;
-	height:176px;
-	width:271px;
-}
-#_idContainer399, #_idContainer401 {
-	display:inline-block;
-	height:0px;
-	position:relative;
-	width:240px;
-}
-#_idContainer402 {
-	display:inline-block;
-	height:336px;
-	width:245px;
-}
-#_idContainer404 {
-	display:inline-block;
-	height:251px;
-	width:456px;
-}
-#_idContainer414 {
-	display:inline-block;
-	height:131px;
-	width:539px;
-}
-#_idContainer420 {
-	display:inline-block;
-	height:320px;
-	width:540px;
-}
-#_idContainer423 {
-	display:inline-block;
-	height:258px;
-	width:201px;
-}
-#_idContainer430, #_idContainer432 {
-	display:inline-block;
-	height:0px;
-	position:relative;
-	width:348px;
-}
-#_idContainer433 {
-	display:inline-block;
-	height:274px;
-	width:223px;
-}
-#_idContainer434 {
-	display:inline-block;
-	height:486px;
-	width:230px;
-}
-#_idContainer436 {
-	display:inline-block;
-	height:243px;
-	width:365px;
-}
-#_idContainer437 {
-	display:inline-block;
-	height:254px;
-	width:172px;
-}
-#_idContainer439 {
-	display:inline-block;
-	height:0px;
-	position:relative;
-	width:376px;
-}
-#_idContainer440 {
-	display:inline-block;
-	height:0px;
-	position:relative;
-	width:375px;
-}
-#_idContainer441 {
-	display:inline-block;
-	height:195px;
-	width:293px;
-}
-#_idContainer443 {
-	display:inline-block;
-	height:354px;
+	height:343px;
 	width:264px;
 }
-#_idContainer446 {
+#_idContainer558 {
 	display:inline-block;
-	height:17px;
+	height:232px;
+	width:339px;
+}
+#_idContainer561, #_idContainer563 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:262px;
+}
+#_idContainer564 {
+	display:inline-block;
+	height:228px;
+	width:362px;
+}
+#_idContainer568 {
+	display:inline-block;
+	height:220px;
+	width:403px;
+}
+#_idContainer570 {
+	display:inline-block;
+	height:274px;
+	width:185px;
+}
+#_idContainer581 {
+	display:inline-block;
+	height:186px;
+	width:228px;
+}
+#_idContainer583 {
+	display:inline-block;
+	height:341px;
 	width:540px;
+}
+#_idContainer585, #_idContainer587 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:347px;
 }
 img._idGenObjectAttribute-1 {
 	height:100.00%;
@@ -1684,8 +1593,20 @@ img._idGenObjectAttribute-2 {
 	width:19px;
 }
 img._idGenObjectAttribute-3 {
-	height:2048px;
-	width:2048px;
+	height:860px;
+	width:1324px;
+}
+img._idGenObjectAttribute-4 {
+	height:1562px;
+	width:2500px;
+}
+img._idGenObjectAttribute-5 {
+	height:1244px;
+	width:829px;
+}
+img._idGenObjectAttribute-6 {
+	height:2016px;
+	width:1512px;
 }
 div._idGenObjectStyleOverride-1 {
 	background-color:#efebe0;
@@ -1715,18 +1636,12 @@ div._idGenObjectStyleOverride-6 {
 	border-width:0px;
 }
 div._idGenObjectStyleOverride-7 {
-	background-color:#d4d4d4;
 	border-color:#d4d4d4;
 	border-style:solid;
 	border-width:1px;
 }
 div._idGenObjectStyleOverride-8 {
-	border-color:#00aeef;
-	border-style:solid;
-	border-width:1px;
-}
-div._idGenObjectStyleOverride-9 {
-	border-color:#d4d4d4;
+	border-color:#739b5d;
 	border-style:solid;
 	border-width:1px;
 }

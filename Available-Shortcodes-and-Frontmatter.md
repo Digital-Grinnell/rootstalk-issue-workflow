@@ -23,16 +23,6 @@ No doubt he was already thinking of sales!
 {{% /pullquote %}}
 ```
 
-## {{% indent-with-attribution %}}
-
-**Example:** From https://yellow-wave-0e513e510.3.azurestaticapps.net/past-issues/volume-viii-issue-1/agpoon/  
-
-```
-{{% indent-with-attribution 3 5 "*Mark Baechtel, Editor-in-chief*" %}}  
-*Periodically, we like to allow one of our Associate Editors to take over the Editor’s column for an issue. We thought Hannah’s extraordinary re-imagining of the prairie’s changing seasonal colors deserved such a recognition.*    
-{{% /indent-with-attribution %}}  
-```
-
 ## {{% indent %}}
 
 **Example:** From https://yellow-wave-0e513e510.3.azurestaticapps.net/past-issues/volume-viii-issue-1/taylor/
@@ -44,6 +34,16 @@ The white flowers turn their faces to the sky
 They play on this hill, layers and layers  
 Swaying in the wind  
 {{% /indent %}}  
+```
+
+## {{% indent-with-attribution %}}
+
+**Example:** From https://yellow-wave-0e513e510.3.azurestaticapps.net/past-issues/volume-viii-issue-1/agpoon/  
+
+```
+{{% indent-with-attribution 3 5 "*Mark Baechtel, Editor-in-chief*" %}}  
+*Periodically, we like to allow one of our Associate Editors to take over the Editor’s column for an issue. We thought Hannah’s extraordinary re-imagining of the prairie’s changing seasonal colors deserved such a recognition.*    
+{{% /indent-with-attribution %}}  
 ```
 
 ## {{% leaf-bug %}}

@@ -1,3 +1,17 @@
+# Not a Shortcode...
+
+Ok, this first thing isn't unique to _Rootstalk_, but worth knowing anyway...  
+
+**You can insert an attribute of `data-proofer-ignore` into any HTML tag (you'll most likely do this in our partials and shortcodes) to keep the `html-proofer` script from processing it.  See https://github.com/gjtorikian/html-proofer for details.**
+
+Example: From `layouts/shortcodes/broken.html`
+
+```
+{{- $s := .Get 1 -}}
+{{- $link := replaceRE "^https?://([^/]+)" "$1" $s -}}
+{{- $dead := "dead" -}}
+<a data-proofer-ignore href="/broken-external-link?{{- (querify $dead $link) | safeURL -}}" target="_blank">{{- .Get 0 -}}</a>
+```
 # Available Shortcodes with Examples
 
 ## {% broken %}

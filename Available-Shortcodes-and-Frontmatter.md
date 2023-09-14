@@ -1,5 +1,25 @@
 # Available Shortcodes with Examples
 
+## {% broken %}
+
+Used to deal with a broken external link in a content `.md` file.
+
+**Example:**  From https://rootstalk.grinnell.edu/past-issues/volume-ii-issue-1/lahay/ 
+
+```
+According to information on the website for the {{% broken "American Society for the Prevention of Cruelty to Animals," "http://www.humanesociety.org/assets/pdfs/pets/puppy_mills/report-puppy-mills-then-now.pdf" %}} “puppy mills became more prevalent after World War II.
+```
+
+## {% broken-endnote %}
+
+Used to deal with a broken "endnote" external link in a content `.md` file.
+
+**Example:**  Fhttps://rootstalk.grinnell.edu/past-issues/volume-i-issue-1/ikerd/
+
+```
+{{% broken-endnote 7 "World Society for Protection of Animals, “What’s on Your Plate? The Hidden Costs of Industrial Animal Agriculture in Canada, 2012, page 136." "http://richarddagan.com/cafo-ilo/WSPA_WhatsonYourPlate_FullReport.pdf" %}}
+```
+
 ## {% dropcap %}  
 
 **Example:**  From https://yellow-wave-0e513e510.3.azurestaticapps.net/past-issues/volume-viii-issue-1/buck/  

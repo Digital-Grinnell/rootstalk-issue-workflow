@@ -1,6 +1,6 @@
-# Rootstalk New Issue Workflow - New DIGITAL FIRST Workflow
+# Rootstalk New Issue Workflow - Old PRINT FIRST Workflow
 
-This file documents a comprehensive workflow for creation of a new **digital** issue of _Rootstalk_ in our new (2024) _digital-first_ workflow.  
+This file documents a comprehensive workflow for creation of a new **digital** issue of _Rootstalk_.  
 
 ## Python
 
@@ -39,15 +39,7 @@ An _issue_ is comprised of `articles` and _filler_. Each _article_ is  included 
         - articles 1...n
         - filler
 
-&copy;[InDesign](https://www.adobe.com/products/indesign) by &copy;[Adobe](https://www.adobe.com) will be used to manage, assemble, edit, and publish all **print** versions of _Rootstalk_.  
-
-
-
-**Progress Marker**
-** Document digital-first workflow procedure here. **
-
-
-_InDesign_'s `File`>`Export...`>`HTML` feature will be used to generate an HTML copy of each print-version issue to seed the creation of that issue in the [Rootstalk](https://rootstalk.grinnell.edu) website.  &copy;[Hugo](https://gohugo.io) is used to manage, assemble, edit and publish the _Rootstalk_ website. 
+&copy;[InDesign](https://www.adobe.com/products/indesign) by &copy;[Adobe](https://www.adobe.com) will be used to manage, assemble, edit, and publish all print versions of _Rootstalk_.  _InDesign_'s `File`>`Export...`>`HTML` feature will be used to generate an HTML copy of each print-version issue to seed the creation of that issue in the [Rootstalk](https://rootstalk.grinnell.edu) website.  &copy;[Hugo](https://gohugo.io) is used to manage, assemble, edit and publish the _Rootstalk_ website. 
 
 ## <a name="export-indd"></a> Editing _Rootstalk_ for the Web
 

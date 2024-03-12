@@ -33,6 +33,14 @@ Searching for a Word-to-Markdown conversion tool yielded a number of unacceptabl
 
 Note that while _Mammoth_ claims to offer conversion to Markdown and a `--output-format=markdown` option, the documentation states that such conversion is deprecated in favor of HTML output only.  Fortunately, that HTML is remarkably Markdown-like so this does not appear to be a fatal flaw.   
 
+The statement from the Mammoth `README` file says:    
+
+```
+Markdown support is deprecated. Generating HTML and using a separate library to convert the HTML to Markdown is recommended, and is likely to produce better results.
+```
+
+We already have a "custom" HTML-to-Markdown conversion (see [rootstalk-workflow](https://github.com/Digital-Grinnell/rootstalk-workflow)) app that we previously used to convert InDesign HTML exports to Markdown.  
+
 `Mammoth` does offer some useful customization "options" that are not deprecated, and while testing them we found the following command form to be most promising:  
 
 ```zsh

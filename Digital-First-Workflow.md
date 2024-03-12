@@ -35,7 +35,7 @@ Note that while _Mammoth_ claims to offer conversion to Markdown and a `--output
 
 `Mammoth` does offer some useful customization "options" that are not deprecated, and while testing them we found the following command form to be most promising:  
 
-```
+```zsh
 mammoth source_document.docx --output-dir=output_dir
 ```
 
@@ -89,7 +89,7 @@ Note that the `klassen.md` file is simply a "renamed" copy of `klassen.html` tha
 
 The `klassen.docx` "working document" has been altered numerous times to test different editing strategies.  In each iteration it was convered to Markdown using these commands:  
 
-```
+```zsh
 cd ~/GitHub/rootstalk-issue-workflow/Submitted-Word-Documents/klassen
 mammoth klassen.docx --output-dir=klassen-converted
 cp -f klassen.html klassen.md

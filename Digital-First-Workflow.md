@@ -44,8 +44,11 @@ We already have a "custom" HTML-to-Markdown conversion (see [rootstalk-workflow]
 `Mammoth` does offer some useful customization "options" that are not deprecated, and while testing them we found the following command form to be most promising:  
 
 ```zsh
-mammoth source_document.docx --output-dir=output_dir
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow ‹main●› 
+╰─$ mammoth source_document.docx --output-dir=output_dir
 ```
+
+**Note**: The `mammoth` command only works inside our Python virtual environment.  Therefore, you must `source ./venv/bin/activate` to establish the environment before you attempt to run `mammoth`!   
 
 In that form, the command opens an existing, specified `output_dir` and and deposits within a `.html` file named after the source document, plus a `.png` copy (this may vary depending on the source format) of each embedded image.  Images are numbered and named sequentially `1.png`, `2.png`, etc., based on their order of appearance in the source document.  
 
@@ -85,7 +88,7 @@ The `walsh` article, a collection of poems, contains significant elements includ
 
 In each subdirectory is a list of unlatered content from Mark B's _OneDrive_ in directories named `Draft`, `Edited-Draft`, `Final-Draft` and `Images`.  At the same level is a copy of what was thought to be a "final draft" of the submitted `.docx` file, and a working copy of the same named after the author, so filenames `klassen.docx` and `walsh.docx` are our WORKING documents.  
 
-Also inside each "author" directory is a like-named `-converted` subdirectory which is/was the `output_dir` we specified in our _mammoth_ command.  
+Also inside each "author" directory is a `converted` subdirectory which is/was the `output_dir` we specified in our _mammoth_ command.  
 
 ## Example
 
@@ -99,11 +102,9 @@ The `klassen.docx` "working document" has been altered numerous times to test di
 
 ```zsh
 cd ~/GitHub/rootstalk-issue-workflow/Submitted-Word-Documents/klassen
-mammoth klassen.docx --output-dir=klassen-converted
+mammoth klassen.docx --output-dir=converted
 cp -f klassen.html klassen.md
 ```
-
-
 # Image w/ Caption Added via MS Word
 
 In my last test I added an image (not in the original submission) with a caption added using MS Word.  My last conversion run produced the following:  
@@ -116,6 +117,103 @@ Unrecognised paragraph style: caption (Style ID: Caption)
 ```
 
 It's likely that the added caption is to blame.  It might be worth looking into the [Styles](https://github.com/mwilliamson/python-mammoth?tab=readme-ov-file#styles) and `custom-style-map` features of `python-mammoth` to see if these can be accommodated.  
+
+I'm going to remove the `caption` from the final image and test again to see what happens... NOPE, the error persists.    
+
+So, I found [this reference](https://stackabuse.com/how-to-convert-docx-to-html-with-python-mammoth/) that includes a little more background for working with `custom styles`.  That lead me to create a new file, `rootstalk-custom-style.map`, with initial contents shown here.  
+
+```txt
+p[style-name='Caption'] => <figcaption>
+```
+
+We should be able to engage the new `custom styles` like so:  
+
+```zsh
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow 
+╰─$ doc='klassen'  
+dir='./Submitted-Word-Documents'
+mkdir -p ${dir}/${doc}/converted
+mammoth ${dir}/${doc}/${doc}.docx --output-dir=${dir}/${doc}/converted --style-map=rootstalk-custom-style.map
+cp -f ${dir}/${doc}/converted/${doc}.html ${dir}/${doc}/converted/${doc}.md 
+```
+
+This process works without error, but there's no evidence of our `caption` since it was removed from the `klassen.docx` file prior to this test.  After putting it back we get...  BINGO!  
+
+## Successfully Using Mammoth
+
+The [klassen.html](./Submitted-Word-Documents/klassen/converted/klassen.html) file created by the last process is NOT Markdown, it's clearly HTML as expected, but it looks VERY GOOD and demonstrates that we can easily control `mammoth` output using a `custom style map`.  
+
+![](documents/images/2024-03-14-09-40-39.png)  
+
+The image above is a screen grab of `klassen.html` displayed in a simple, local browser.  Worth noting in the image is the presence of...
+
+  - Headings - There's no hierarhcy because the `.docx` file we used has none.
+  - {{tag}} Pass-thru - The `{{% dropcap %}}` at the start of the second paragraph is just one example. 
+  - Live Endnote References - There are two of these, superscript `[1]` and `[2]` in the third paragraph, and THEY WORK!
+
+![](documents/images/2024-03-14-09-41-29.png)  
+
+The above image is a screen grab from near the end of the `klassen.html` rendering.  Worth noting in the image are...
+
+  - Images - The dancers image is cut off in my screen capture, but it's clearly visible, reproduced without any apparent distortion.  
+  - Figcaption - Below the image is the `<figcaption>` tag created by our `custom style map`.
+  - Working Endnotes - Note the up-arrow links at the end of each numbered note, those links take you back into the document.  
+
+### Other Observations
+
+It's worth noting that the three embedded images were output into the `converted` directory as `1.png`, `2.png` and `3.jpeg`.  The differenes in those `converted` file extensions seems to indicate that whatever extension/type present in the Word document is preserved by `mammoth`, only the basename is changed to an integer.  
+
+Note too that our custom style map to `<figcaption>` did more than just "substitute" our text, it created valid opening and closing tags in the HTML.  
+
+## Next Steps / Questions
+
+The `mammoth` documentation indicates that Markdown output was deprecated because there are many suitable tools for HTML-to-Markdown conversion these days.  We should probably take a look at those, including the `markdownify` library and its use (plus other bits of code) in our own [rootstalk-workflow/main.py](https://github.com/Digital-Grinnell/rootstalk-workflow/blob/main/main.py) script.  
+
+## More Testing and Configuration
+
+Moving on to the `walsh.docx` test article... 
+
+```zsh
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow ‹main●› 
+╰─$ doc='walsh'    
+dir='./Submitted-Word-Documents'
+mkdir -p ${dir}/${doc}/converted
+mammoth ${dir}/${doc}/${doc}.docx --output-dir=${dir}/${doc}/converted --style-map=rootstalk-custom-style.map
+cp -f ${dir}/${doc}/converted/${doc}.html ${dir}/${doc}/converted/${doc}.md
+Unrecognised paragraph style: paragraph (Style ID: paragraph)
+Unrecognised run style: normaltextrun (Style ID: normaltextrun)
+Unrecognised run style: eop (Style ID: eop)
+Unrecognised paragraph style: Normal (Web) (Style ID: NormalWeb)
+```
+
+Clearly, there are some styles here that are unaccounted for.  Some `rootstalk-custom-style.map` additions should at least get the conversion working.  
+
+```txt
+p[style-name='Caption'] => figcaption
+p[style-name='paragraph'] => p
+p[style-name='NormalWeb'] => p
+```
+
+Note that even with the "Unrecognised..." messages in the output, a `converted` document WAS created.  So, moving on to `weeks.docx`...  
+
+```zsh
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow ‹main●› 
+╰─$ doc='weeks'  
+dir='./Submitted-Word-Documents'
+mkdir -p ${dir}/${doc}/converted
+mammoth ${dir}/${doc}/${doc}.docx --output-dir=${dir}/${doc}/converted --style-map=rootstalk-custom-style.map
+cp -f ${dir}/${doc}/converted/${doc}.html ${dir}/${doc}/converted/${doc}.md
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow ‹main●› 
+```
+
+Note that the `weeks.docx` file contained very few "features" to be converted, and NO images whatsoever.  The `converted` result is also rather bland and as expected, there were NO errors.  
+
+
+
+
+
+
+
 
 
 

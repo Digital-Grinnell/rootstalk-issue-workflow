@@ -1,0 +1,3 @@
+p[style-name='Caption'] => figcaption
+p[style-name='paragraph'] => p
+p[style-name='NormalWeb'] => p

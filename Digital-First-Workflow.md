@@ -21,6 +21,10 @@ So, when building for print you should be able to use the digital edition for gu
 - gather end notes and move them to the back of the publication (unless we elect to keep end notes with each article in print),
 - pull the print issue together and produce a PDF that can be added to the digital edition.  
 
+# Image Manipulation
+
+_mjocconor52_ created a project repository for pre-publication image manipulation at [mjoconnor52/rootstalk-image-restore](https://github.com/mjoconnor52/rootstalk-image-restore).  _digital@grinnell.edu_ has been granted push access to this repository.  Thanks, Mikey!  
+
 # Starting Point - MS Word
 
 After some discussion it appears that the logical approach to a digital-first workflow is to continue accepting article submissions largely in MS Word (.docx) form with illustrations and other media as attached, but separate, files.  In the past, _Rootstalk_ editors have created a sequence of working copies from the original Word document with comments and media added to document the changes.  An overall "linear" layout of each article with embedded media is usually the result, although things like article header images, footer images, and positioned pull-quotes are generally NOT included at this stage.  
@@ -208,6 +212,9 @@ cp -f ${dir}/${doc}/converted/${doc}.html ${dir}/${doc}/converted/${doc}.md
 
 Note that the `weeks.docx` file contained very few "features" to be converted, and NO images whatsoever.  The `converted` result is also rather bland and as expected, there were NO errors.  
 
+## MS Word Templates
+
+The `klassen` article from 2023, in MS Word (.docx) form, was turned into a Microsoft Word "template" intended to look as much like the [published digital version](https://rootstalk.grinnell.edu/volume-ix-issue-1/klassen/) of the article.  The "template" styles used in that transformed document are saved in a MS Word template (.dotx) file in the MS Word templates collection on Mark's MacBook Pro.  The template name is `klassen-article-template`.        
 
 
 

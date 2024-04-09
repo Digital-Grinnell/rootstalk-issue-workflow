@@ -216,7 +216,55 @@ Note that the `weeks.docx` file contained very few "features" to be converted, a
 
 The `klassen` article from 2023, in MS Word (.docx) form, was turned into a Microsoft Word "template" intended to look as much like the [published digital version](https://rootstalk.grinnell.edu/volume-ix-issue-1/klassen/) of the article.  The "template" styles used in that transformed document are saved in a MS Word template (.dotx) file in the MS Word templates collection on Mark's MacBook Pro.  The template name is `klassen-article-template`.        
 
+## Initial Template Test
 
+To test the `klassen-article-template` I created a new `./Submitted-Word-Documents/klassen-from-template` directory with `klassen-from-template.docx` within.  That document was created from the similarly named template mentioned above.  
+
+The test was run like so...  
+
+```zsh
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow ‹main●› 
+╰─$ doc='klassen-from-template'  
+dir='./Submitted-Word-Documents'
+mkdir -p ${dir}/${doc}/converted
+mammoth ${dir}/${doc}/${doc}.docx --output-dir=${dir}/${doc}/converted --style-map=rootstalk-custom-style.map
+cp -f ${dir}/${doc}/converted/${doc}.html ${dir}/${doc}/converted/${doc}.md
+Unrecognised paragraph style: Title (Style ID: Title)
+Unrecognised paragraph style: By Line (Style ID: ByLine)
+Unrecognised paragraph style: ArticleType (Style ID: ArticleType)
+Unrecognised run style: Emphasis (Style ID: Emphasis)
+Unrecognised paragraph style: Image Caption (Style ID: ImageCaption)
+Unrecognised paragraph style: Intense Quote (Style ID: IntenseQuote)
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow ‹main●› 
+```
+
+As you can see from the output above, several styles were unrecognized including:  
+
+`Title`  
+`ByLine`  
+`ArticleType`  
+`Emphasis`  
+`ImageCaption` and   
+`IntenseQuote`  
+
+The structure of the output from `mammoth` subsequently looked like this:  
+
+![](documents/images/2024-04-04-11-14-21.png)  
+
+And the `klassen-from-template.md` file when previewed in VSCode is moderately promising.  The first/header image appears as it should and other elements are clearly visible where they belong, but those things for which the style was unrecognized are, naturally, not formatted as they should be.  
+
+This should be easy to fix by adding those elements to our `rootstalk-custom-style.map` file.  
+
+The other thing worth noting, also not difficult to fix, is that the second image and all subsequent images do NOT appear in the preview.  Apparently that's because those images were "evaluated" by `mammoth` to produce alt-tag text, and the outcome has a line break in the middle of the alt-tag, like so:  
+
+```markdown
+...
+Furthermore, these varying levels of financial exploitation were fostering negative stereotypes of Native Americans that upheld the United States’s dominant view. </p><p>Exploitation by Erasure</p><p><img alt="An old person in a blanket
+
+Description automatically generated" src="3.jpeg" />(Figure 2) Circa 1920 postcard Featuring a Native American mother and child</p><h1>The second postcard (Figure 2) also displays this same type of United States stereotype, time promoting erasure of...
+```
+
+Note that if the line break is removed the image appears as it should, so that would seem like an easy fix.  
 
 
 

@@ -266,8 +266,37 @@ Description automatically generated" src="3.jpeg" />(Figure 2) Circa 1920 postca
 
 Note that if the line break is removed the image appears as it should, so that would seem like an easy fix.  
 
+## Testing the `generic-rootstalk-template`
 
+A new `generic-rootstalk-template` has been created from my eariler creations, namely the `klassen-article-template` and subsequent `essay-rootstalk-template`.  To test the latest `-template` I created a new `./Submitted-Word-Documents/sample-from-generic-rootstalk-template` directory with `sample-from-generic-rootstalk-template.docx` within.  That document was created from the similarly named template mentioned above.  
 
+The test was run like so...  
+
+```zsh
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow ‹main●› 
+╰─$ doc='sample-from-generic-rootstalk-template'  
+dir='./Submitted-Word-Documents'
+mkdir -p ${dir}/${doc}/converted
+mammoth ${dir}/${doc}/${doc}.docx --output-dir=${dir}/${doc}/converted --style-map=rootstalk-custom-style.map
+cp -f ${dir}/${doc}/converted/${doc}.html ${dir}/${doc}/converted/${doc}.md
+```
+
+And the output from it was...  
+
+```zsh
+Unrecognised paragraph style: Primary-Title (Style ID: Primary-Title)
+Unrecognised paragraph style: Byline (Style ID: Byline)
+Unrecognised paragraph style: Article-Type (Style ID: Article-Type)
+Unrecognised paragraph style: Hero-Image (Style ID: Hero-Image)
+Unrecognised run style: Emphasis (Style ID: Emphasis)
+Unrecognised paragraph style: Title (Style ID: Title)
+Unrecognised paragraph style: Article-Image (Style ID: Article-Image)
+Unrecognised paragraph style: Image-Caption (Style ID: Image-Caption)
+Unrecognised paragraph style: Intense Quote (Style ID: IntenseQuote)
+Unrecognised paragraph style: Fixed-Format (Style ID: Fixed-Format)
+```
+
+As you can see from the output above, several styles were one again "unrecognised".  As before, these should be easy to account for by modifying our `rootstalk-custom-style.map` file.  
 
 
 

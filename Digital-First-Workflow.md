@@ -293,15 +293,108 @@ Unrecognised paragraph style: Title (Style ID: Title)
 Unrecognised paragraph style: Article-Image (Style ID: Article-Image)
 Unrecognised paragraph style: Image-Caption (Style ID: Image-Caption)
 Unrecognised paragraph style: Intense Quote (Style ID: IntenseQuote)
+Unrecognised paragraph style: Media (Style ID: Media)
 Unrecognised paragraph style: Fixed-Format (Style ID: Fixed-Format)
+Unrecognised paragraph style: Interview (Style ID: Interview)
+Unrecognised paragraph style: List Paragraph (Style ID: ListParagraph)
 ```
 
-As you can see from the output above, several styles were one again "unrecognised".  As before, these should be easy to account for by modifying our `rootstalk-custom-style.map` file.  
+As you can see from the output above, several styles were once again "unrecognised".  As before, these should be easy to account for by modifying our `rootstalk-custom-style.map` file.  
 
+## Testing Mammoth's Limits
 
+In this test I'm going to introduce a mapping of `p[style-name='Primary-Title'] => h1` into our `rootstalk-custom-style.map`, and run the above test again.  The result...  
 
+```zsh
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow ‹main●› 
+╰─$ doc='sample-from-generic-rootstalk-template'  
+dir='./Submitted-Word-Documents'
+mkdir -p ${dir}/${doc}/converted
+mammoth ${dir}/${doc}/${doc}.docx --output-dir=${dir}/${doc}/converted --style-map=rootstalk-custom-style.map
+cp -f ${dir}/${doc}/converted/${doc}.html ${dir}/${doc}/converted/${doc}.md
+Unrecognised paragraph style: Byline (Style ID: Byline)
+Unrecognised paragraph style: Article-Type (Style ID: Article-Type)
+Unrecognised paragraph style: Hero-Image (Style ID: Hero-Image)
+Unrecognised run style: Emphasis (Style ID: Emphasis)
+Unrecognised paragraph style: Title (Style ID: Title)
+Unrecognised paragraph style: Article-Image (Style ID: Article-Image)
+Unrecognised paragraph style: Image-Caption (Style ID: Image-Caption)
+Unrecognised paragraph style: Intense Quote (Style ID: IntenseQuote)
+Unrecognised paragraph style: Media (Style ID: Media)
+Unrecognised paragraph style: Fixed-Format (Style ID: Fixed-Format)
+Unrecognised paragraph style: Interview (Style ID: Interview)
+Unrecognised paragraph style: List Paragraph (Style ID: ListParagraph)
+```
 
+Note that the `Primary-Title` paragraph is no longer "unrecognised".  The corresponding `.md` result looks like this:  
 
+```
+<h1>This is the Article’s Primary-Title</h1><p>by This is the Byline Naming the Author(s)</p><p>This is the Article-Type</p><p><img src="1.png" /></p>
+```
 
+So, the mapping successfully introduced a first-level heading ('#') as it should.  Now, will the style map allow us to do more than that?  Let's try a new style mapping of:
 
+```
+p[style-name='Primary-Title'] => {{ shortcode }} 
+```
+
+Unfortunately, this produced...  
+
+```zsh
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow ‹main●› 
+╰─$ doc='sample-from-generic-rootstalk-template'     
+dir='./Submitted-Word-Documents'
+mkdir -p ${dir}/${doc}/converted
+mammoth ${dir}/${doc}/${doc}.docx --output-dir=${dir}/${doc}/converted --style-map=rootstalk-custom-style.map
+Did not understand this style mapping, so ignored it: p[style-name='Primary-Title'] => {{ shortcode }}
+Unrecognised paragraph style: Primary-Title (Style ID: Primary-Title)
+Unrecognised paragraph style: Byline (Style ID: Byline)
+...
+```
+
+Based on the `mammoth.js` documentation at https://github.com/mwilliamson/mammoth.js/blob/master/README.md#writing-style-maps, it looks like our best bet will be to map all paragraph styles to `<p>` tags plus a specific CSS class, like `p.primary-title`.  Let's try that for a few "unrecognised" styles like so...  
+
+```
+p[style-name='Primary-Title'] => p.Primary-Title 
+p[style-name='Byline'] => p.Byline
+p[style-name='Article-Type'] => p.Article-Type
+```
+
+Ok, the three previously "unrecognised" styles mapped above and no longer a problem, and the relevant output looks like this:  
+
+```zsh
+<p class="Primary-Title">This is the Article’s Primary-Title</p><p class="Byline">by This is the Byline Naming the Author(s)</p><p class="Article-Type">This is the Article-Type</p><p><img src="1.png" /></p>...
+```
+
+Now that looks like manageable output!   But an even better mapping is probably something like this...  
+
+```zsh
+p[style-name='Primary-Title'] => h1.Primary-Title 
+p[style-name='Byline'] => p.Byline
+p[style-name='Article-Type'] => p.Article-Type
+p[style-name='Hero-Image'] => img.Hero-Image
+p[style-name='Emphasized-Paragraph'] => p.Emphasized-Paragraph
+p[style-name='Title'] => h2.Title
+p[style-name='Article-Image'] => img.Article-Image
+p[style-name='Image-Caption'] => figcaption.Image-Caption
+p[style-name='Intense Quote'] => p.Intense-Quote
+p[style-name='Media'] => p.Media
+p[style-name='Fixed-Format'] => p.Fixed-Format
+p[style-name='Interview'] => p.Interview
+p[style-name='List Paragraph'] => p.List-Paragraph
+p[style-name='Caption'] => figcaption.Caption
+```
+
+The output from my test run with the above mapping in play was this:  
+
+```zsh
+(.venv) ╭─mcfatem@MAC02FK0XXQ05Q ~/GitHub/rootstalk-issue-workflow ‹main●› 
+╰─$ doc='sample-from-generic-rootstalk-template'  
+dir='./Submitted-Word-Documents'
+mkdir -p ${dir}/${doc}/converted
+mammoth ${dir}/${doc}/${doc}.docx --output-dir=${dir}/${doc}/converted --style-map=rootstalk-custom-style.map
+cp -f ${dir}/${doc}/converted/${doc}.html ${dir}/${doc}/converted/${doc}.md
+```
+
+There were no errors or warnings of any kind, and I believe all of the formatted elements got tagged with a corresponding CSS class name.  The Markdown generated from that run appears in [this file](Submitted-Word-Documents/sample-from-generic-rootstalk-template/converted/sample-from-generic-rootstalk-template.md).  It still needs some post-Mammoth processing!  
 

@@ -1,3 +1,15 @@
-p[style-name='Caption'] => figcaption
-p[style-name='paragraph'] => p
-p[style-name='NormalWeb'] => p
+p[style-name='Primary-Title'] => h1.Primary-Title 
+p[style-name='Byline'] => p.Byline
+p[style-name='Article-Type'] => p.Article-Type
+p[style-name='Hero-Image'] => img.Hero-Image
+p[style-name='Emphasized-Paragraph'] => p.Emphasized-Paragraph
+p[style-name='Title'] => h2.Title
+p[style-name='Article-Image'] => img.Article-Image
+p[style-name='Image-Caption'] => figcaption.Image-Caption
+p[style-name='Intense Quote'] => p.Intense-Quote
+p[style-name='Media'] => p.Media
+p[style-name='Fixed-Format'] => p.Fixed-Format
+p[style-name='Interview'] => p.Interview
+p[style-name='List Paragraph'] => p.List-Paragraph
+p[style-name='Caption'] => figcaption.Caption
+

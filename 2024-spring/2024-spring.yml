@@ -2,6 +2,5 @@ year: 2024
 term: spring
 title: Volume X, Issue 1, Spring 2024
 articles:
-  - test-1
-  - test-2
-  - test-3
+  - sample-from-generic
+

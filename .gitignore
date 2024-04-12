@@ -4,3 +4,4 @@
 image/*
 .DS_Store
 .20*/
+.env

@@ -10,13 +10,16 @@ from datetime import datetime
 from markdownify import markdownify as md
 from bs4 import BeautifulSoup
 import tempfile, shutil
+from azure.storage.blob import BlobServiceClient
+
 
 converted_pattern = r"(\d{4})-(spring|fall)/(.+)/converted/(.+)\.html"
 file_pattern = r"^\d{4}-(spring|fall)\.md$"
 year_term_pattern = r"(\d{4})-(spring|fall)"
 image_pattern = r".{3}\(.+/image/(.+)\)$"
-header_pattern = r"^Rootstalk \| .+$"
-replacement = '{{% figure_azure pid="xPIDx" caption="" %}}'
+reference_pattern = r"\[(\d+)]"
+endnote_pattern = r"endnote-(\d+)"
+
 
 fm_template = '---\n' \
               'index: \n' \
@@ -46,6 +49,51 @@ fm_template = '---\n' \
               "---\n"
 
 
+def figcaption(element):
+  # Is the next element a <figcaption>?
+  found = element.find_next('figcaption')
+  if found:
+    c = found.contents[0]
+    if c:
+      caption = c.lstrip('0123456789').replace('"', "'")
+      found.decompose( )  # remove the <figcaption> and return it's content
+      return caption
+  
+  return ""
+
+
+# upload_to_azure( ) - Just what the name says post-processing
+# ----------------------------------------------------------------------------------------------
+def upload_to_azure(blob_service_client, target, upload_file_path):
+  azure_base_url = "https://rootstalk.blob.core.windows.net"
+
+  try:
+    
+    container_name = 'rootstalk-2024-spring'
+    url = azure_base_url + "/" + container_name 
+
+    blob_client = blob_service_client.get_blob_client(container=container_name, blob=target)
+
+    if blob_client.exists( ):
+      msg = f"Blob '{target}' already exists in Azure Storage container '{container_name}'.  Skipping this upload."
+      print(msg)
+      return False
+    else:  
+      msg = f"Uploading '{target}' to Azure Storage container '{container_name}'"
+      print(msg)
+      
+      # Upload the file
+      with open(file=upload_file_path, mode="rb") as data:
+        blob_client.upload_blob(data)
+      
+    return url
+
+  except Exception as ex:
+    print('Exception:')
+    print(f"{ex}")
+    return False
+
+
 # Create a temporary file copy for our HTML
 # From https://stackoverflow.com/a/6587648
 # -------------------------------------------------------------------------
@@ -56,20 +104,59 @@ def create_temporary_copy(path):
   return temp_path
 
 
+# do_image(i, path)
+# ------------------------------------------------------------------------
+def do_image(i, path):
+  global a_name
+  global open_shortcode
+  global close_shortcode
+  global blob_service_client
+  
+  remove_me = "\n\nDescription automatically generated"
+  
+  caption = "We need a caption here!"
+  alt = "We need alt text here!"
+  
+  # Get the image name and build an Azure path
+  image_name = i.next.attrs['src']
+  image_path = f"{a_name}-{image_name}"
+
+  # Upload the image to Azure
+  url = upload_to_azure(blob_service_client, image_path, path + "/" + image_name)
+  
+  # Now, deal with the alt text
+  alt = False
+  sibling = i.nextSibling
+  if sibling:
+    for a in sibling.attrs:
+      if a == 'alt':
+        alt = sibling.attrs['alt']
+        if alt.endswith(remove_me):
+          alt = alt[:-(len(remove_me))]
+        sibling.decompose( )                         # remove the <img> alt
+
+  caption = figcaption(i)
+  markdown = f'{open_shortcode} figure_azure pid="{image_path}" caption="{caption}" alt="{alt}" {close_shortcode}'
+  
+  return markdown
+
+
 # Parse the Mammoth-converted HTML to find key/frontmatter elements from our
 #    rootstalk-custom-style.map file.  Substitute them into `frontmatter`.
 #
 # See https://www.geeksforgeeks.org/find-tags-by-css-class-using-beautifulsoup/ for guidance.
 #
 # -----------------------------------------------------------------------------
-def parse_post_mammoth_converted_html(html_file):
+def parse_post_mammoth_converted_html(html_file, path):
   global frontmatter 
   global aIndex
+  global blob_service_client
   global index 
 
   # Parse the HTML content
   with open(html_file, 'r') as h:
-    soup = BeautifulSoup(h, "html.parser")
+    html_string = h.read( ).replace('“','"').replace('”','"')     # remove smart quotes!
+    soup = BeautifulSoup(html_string, "html.parser")
   
     # Find key tags by CSS class
     title = soup.find("h1", class_= "Primary-Title")
@@ -97,25 +184,102 @@ def parse_post_mammoth_converted_html(html_file):
       frontmatter = frontmatter.replace("  filename: ", f"  filename: {image_path}")
       hero_image.next.decompose( )  # get rid of the <img> tag
       hero_image.decompose( )
+      # Upload the hero image to Azure
+      url = upload_to_azure(blob_service_client, image_path, path + "/" + image_name)
+
 
     # Now, find ALL and rewrite remaining "inline" styles... 
     # --------------------------------------------------------
 
-    headings = soup.find_all("h2", class_ = "Title")
-    for h in headings:
-      h.replace_with(f"## {h.contents[0]} \n\n")
+    try:
 
-    emphasized = soup.find_all("p", class_ = "Emphasized-Paragraph")
-    for e in emphasized:
-      e.replace_with(f"_{e.contents[0].strip( )}_ \n\n")
+      headings = soup.find_all("h2", class_ = "Title")
+      for h in headings:
+        h.replace_with(f"## {h.contents[0]} \n\n")
 
-    images = soup.find_all("img", class_ = "Article-Image")
-    for i in images:
-      image_name = i.next.attrs['src']
-      image_path = f"{a_name}-{image_name}"
-      markdown = f'{{% figure_azure pid="{image_path}" caption="Need to put the caption here!" %}}'
-      i.replace_with(f"{markdown} \n\n")
+      emphasized = soup.find_all("p", class_ = "Emphasized-Paragraph")
+      for e in emphasized:
+        e.replace_with(f"_{e.contents[0].strip( )}_ \n\n")
 
+      images = soup.find_all("img", class_ = "Article-Image")
+      for i in images:
+        replacement = do_image(i, path)
+        i.replace_with(f"{replacement} \n\n")
+
+      videos = soup.find_all("p", class_ = "Video")
+      for v in videos:
+        for c in v.contents:  
+          if isinstance(c, str):                  
+            if c.startswith("{{% video"):         # find contents that opens with '{{% video'
+              markdown = f"{c}"
+              caption = figcaption(v)
+              if caption:
+                markdown = markdown.replace(close_shortcode, f"caption=\"{caption}\" {close_shortcode}")
+              v.replace_with(f"{markdown} \n\n")  # replace entire tag with the {{% contents %}}
+              # Upload the video to Azure
+              # url = upload_to_azure(blob_service_client, image_path, path + "/" + image_name)
+
+      audios = soup.find_all("p", class_ = "Audio")
+      for a in audios:
+        for c in a.contents:                    
+          if isinstance(c, str):                  
+            if c.startswith("{{% audio"):         # find contents that opens with '{{% audio'
+              markdown = f"{c}"
+              caption = figcaption(a)
+              if caption:
+                markdown = markdown.replace(close_shortcode, f"caption=\"{caption}\" {close_shortcode}")
+              a.replace_with(f"{markdown} \n\n")  # replace entire tag with the {{% contents %}}
+              # Upload the audio to Azure
+              # url = upload_to_azure(blob_service_client, image_path, path + "/" + image_name)
+
+      # Sample endnote reference:
+      # references<sup><a href="#endnote-2" id="endnote-ref-2">[1]</a></sup> expressed
+      # {{% ref 1 %}}
+
+      refs = soup.find_all("sup")
+      for r in refs:
+        number_string = r.next_element.contents[0]
+        m = re.match(reference_pattern, number_string)
+        if m:
+          number = m.group(1)
+          r.replace_with(f"{open_shortcode} ref {number} {close_shortcode} ")
+          r.decompose( )
+
+      # Sample endnotes:
+      # <ol>
+      #   <li id="endnote-2">
+      #     <p> This is endnote #1 referenced...</p>
+      #   </li>
+      #   <li id="endnote-3">
+      #     <p> This is endnote #2. Endnotes...</p>
+      #   </li>
+      # </ol>
+      #
+      # {{% endnotes %}}
+      # {{% endnote 1 "This is endnote #1 referenced..." %}}
+
+      replacement = f"{open_shortcode} endnotes {close_shortcode} "
+
+      has_notes = soup.find("ol")
+      if has_notes:
+        notes = has_notes.find_all("li")
+        for n in notes:
+          id = n.attrs['id']
+          m = re.match(endnote_pattern, id)
+          number = int(m.group(1)) - 1
+          p = n.find("p")
+          text = ""
+          for s in p.contents[:-1]:
+            text += str(s).replace('"', r'\"').replace(r"\n", " ")
+          replacement += f"\n{open_shortcode} endnote {number} \"{text}\" {close_shortcode} "
+
+        has_notes.replace_with(f"{replacement} \n")
+        has_notes.decompose( )
+
+    except Exception as e:
+      print('Exception: ')
+      print(e)
+      return False
 
   # Return the decomposed and rewritten HTML as a string
   return str(soup.prettify( ))    
@@ -132,7 +296,6 @@ def rootstalk_markdownify(filepath):
   global frontmatter
 
   with open(filepath, "r") as html:
-    html_string = html.read( )
 
     # Open a new .md file to receive translated text
     (path, filename) = os.path.split(filepath)
@@ -153,17 +316,19 @@ def rootstalk_markdownify(filepath):
 
     # Parse the Mammoth-converted HTML to make additional substitutions into the frontmatter.
     # Return a reduced (decomposed) HTML string suitable for processing using 'markdownify' (alias "md")
-    reduced = parse_post_mammoth_converted_html(temp)
+    reduced = parse_post_mammoth_converted_html(temp, path)
 
     # Write the front matter and content to the article.md file
-    with open(new_file, "w") as mdf:
-      print(frontmatter, file=mdf)
-      markdown_text = md(reduced, escape_asterisks=False, escape_underscores=False, escape_misc=False)
-      print(markdown_text, file=mdf)
-        
+    if reduced:
+      with open(new_file, "w") as mdf:
+        print(frontmatter, file=mdf)
+        markdown_text = md(reduced, escape_asterisks=False, escape_underscores=False, escape_misc=False)
+        print(markdown_text, file=mdf)
+          
   return
                 
 
+# --------------------------------------------------------------------------------
 def rootstalk_azure_media(year, term, filepath):
   # ytmd = "{}-{}.md".format(year, term, year, term)
   ytmd = filepath.replace(".html", ".md")
@@ -202,6 +367,7 @@ def rootstalk_azure_media(year, term, filepath):
     azure_md.writelines(stripped)  # write the stripped version
 
 
+# ----------------------------------------------------------------------------------
 def rootstalk_make_articles(year, term, filepath):
   ytyml = filepath.replace(".html", ".yml")
   
@@ -261,6 +427,20 @@ if __name__ == '__main__':
   # Initialize some globals...
   aIndex = 0
   frontmatter = fm_template
+  open_shortcode = "{{%"
+  close_shortcode = "%}}"
+
+  # Retrieve the Azure connection string for use with the application. The storage
+  # connection string is stored in an environment variable on the machine
+  # running the application called AZURE_STORAGE_CONNECTION_STRING. If the environment variable is
+  # created after the application is launched in a console or with Visual Studio,
+  # the shell or application needs to be closed and reloaded to take the
+  # environment variable into account.
+
+  connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
+
+  # Create the BlobServiceClient object
+  blob_service_client = BlobServiceClient.from_connection_string(connect_str)
   
   # Iterate over the working directory tree + subdirectories for article/converted sub-directories and '*.html' files within.
   for filepath in glob.glob('**/**/converted/*.html'):

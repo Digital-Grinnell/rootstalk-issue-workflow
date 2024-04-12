@@ -91,6 +91,16 @@ abundance feels possible, coaxed
 by these tired hands. {{% leaf-bug %}}
 ```
 
+## {{% figure_azure %}}
+
+_This shortcode has no closing tag!  It's used to present an image from a JPG or PNG file._  
+
+**Example:** From https://yellow-wave-0e513e510.3.azurestaticapps.net/past-issues/volume-viii-issue-1/mcgary-adams-dubow-fay-stindt-schaefer/  
+
+```
+{{% figure_azure pid="Mustard-Seed-Farm-Flix-ep.-1-210930.png" caption="Open the first of four of Emma Kieran Schaefer's short videos on Mustard Seed Farm." alt="Some alt text" %}}  
+```  
+
 ## {{% audio_azure %}}
 
 _This shortcode has no closing tag!  It's used to present an audio playback widget for an MP3 file._

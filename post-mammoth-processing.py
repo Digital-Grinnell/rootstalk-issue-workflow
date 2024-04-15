@@ -112,33 +112,55 @@ def do_image(i, path):
   global close_shortcode
   global blob_service_client
   
+  image_name = False
+  markdown = False
   remove_me = "\n\nDescription automatically generated"
   
   caption = "We need a caption here!"
   alt = "We need alt text here!"
   
-  # Get the image name and build an Azure path
-  image_name = i.next.attrs['src']
-  image_path = f"{a_name}-{image_name}"
+  try:
 
-  # Upload the image to Azure
-  url = upload_to_azure(blob_service_client, image_path, path + "/" + image_name)
-  
-  # Now, deal with the alt text
-  alt = False
-  sibling = i.nextSibling
-  if sibling:
-    for a in sibling.attrs:
-      if a == 'alt':
-        alt = sibling.attrs['alt']
-        if alt.endswith(remove_me):
-          alt = alt[:-(len(remove_me))]
-        sibling.decompose( )                         # remove the <img> alt
+    # Get the image name and build an Azure path...  if the <img> has no 'src' element look for it in the next element.
+    if i.attrs:
+      if len(i.attrs) > 0:
+        if i.attrs['src']:
+          image_name = i.attrs['src']
 
-  caption = figcaption(i)
-  markdown = f'{open_shortcode} figure_azure pid="{image_path}" caption="{caption}" alt="{alt}" {close_shortcode}'
+    # Get the image name and build an Azure path...  if the <img> has no 'src' element, skip it.
+    if not image_name:
+      if i.next:
+        if i.next.attrs:
+          if len(i.next.attrs) > 0:
+            image_name = i.next.attrs['src']
+        
+    if image_name:
+      image_path = f"{a_name}-{image_name}"
+
+      # Upload the image to Azure
+      url = upload_to_azure(blob_service_client, image_path, path + "/" + image_name)
   
-  return markdown
+      # Now, deal with the alt text
+      alt = False
+      sibling = i.nextSibling
+      if sibling:
+        for a in sibling.attrs:
+          if a == 'alt':
+            alt = sibling.attrs['alt']
+            if alt.endswith(remove_me):
+              alt = alt[:-(len(remove_me))]
+            sibling.decompose( )                         # remove the <img> alt
+
+      caption = figcaption(i)
+      markdown = f'{open_shortcode} figure_azure pid="{image_path}" caption="{caption}" alt="{alt}" {close_shortcode}'
+  
+    return markdown
+  
+  except Exception as e:
+    print('Exception: ')
+    print('Found an empty <img> that is missing a key element (see below).  It will be omitted.')
+    print(e)
+    return False
 
 
 # Parse the Mammoth-converted HTML to find key/frontmatter elements from our
@@ -201,10 +223,18 @@ def parse_post_mammoth_converted_html(html_file, path):
       for e in emphasized:
         e.replace_with(f"_{e.contents[0].strip( )}_ \n\n")
 
-      images = soup.find_all("img", class_ = "Article-Image")
+      pull_quotes = soup.find_all("p", class_ = "Intense-Quote")
+      for q in pull_quotes:
+        q.replace_with(f"{open_shortcode} pullquote {close_shortcode}\n{q.contents[0].strip( )}\n{open_shortcode} /pullquote {close_shortcode} \n\n")
+
+      images = soup.find_all("img")
+      # images = soup.find_all("img", class_ = "Article-Image")
       for i in images:
         replacement = do_image(i, path)
-        i.replace_with(f"{replacement} \n\n")
+        if replacement:
+          i.replace_with(f"{replacement} \n\n")     # valid replacment, swap it in place of <img>
+        else:
+          i.decompose( )   # no valid replacement, decompose (remove) the <img> element
 
       videos = soup.find_all("p", class_ = "Video")
       for v in videos:

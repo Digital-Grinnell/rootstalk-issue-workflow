@@ -57,6 +57,31 @@ No doubt he was already thinking of sales!
 {{% /pullquote %}}
 ```
 
+## {{% fixed_format %}}
+
+**Example:** TBD
+
+```
+{{% fixed_format %}}
+*do not come    too close to me*, he says, with strong brown eyes that   contain   the world.  
+She stands atop  
+packed black dirt,  
+Facing me  
+as I forget my self, forget my name, feel my breath, feel hers too
+
+Shadows cast by the afternoon sun. reflecting their sacred bodies,  
+moral behavior power survival entangled within their woolly dense fur  
+
+the *tatanka*,"buffalo," are four-legged people{{% ref 6 %}},   
+who hold a mystery of    sacred life,  
+which travels  
+   in dust  
+formed playfully wallowing, rubbing their backs   
+  with packs  
+of Earth’s colorful skin.  
+{{% /fixed_format %}}
+```
+
 ## {{% indent %}}
 
 **Example:** From https://yellow-wave-0e513e510.3.azurestaticapps.net/past-issues/volume-viii-issue-1/taylor/
@@ -69,6 +94,17 @@ They play on this hill, layers and layers
 Swaying in the wind  
 {{% /indent %}}  
 ```
+
+## {{% attribution %}}
+
+**Example:** From https://yellow-wave-0e513e510.3.azurestaticapps.net/past-issues/volume-viii-issue-1/agpoon/  
+
+```
+{{% attribution 5 %}}  
+*Mark Baechtel, Editor-in-chief*
+{{% /attribution %}}  
+```
+
 
 ## {{% indent-with-attribution %}}
 

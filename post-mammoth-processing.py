@@ -105,6 +105,7 @@ def create_temporary_copy(path):
 
 
 # do_image(i, path)
+# Note that <figcaption> MUST come AFTER the <figure>!
 # ------------------------------------------------------------------------
 def do_image(i, path):
   global a_name
@@ -117,7 +118,7 @@ def do_image(i, path):
   remove_me = "\n\nDescription automatically generated"
   
   caption = "We need a caption here!"
-  alt = "We need alt text here!"
+  alt = False
   
   try:
 
@@ -126,6 +127,10 @@ def do_image(i, path):
       if len(i.attrs) > 0:
         if i.attrs['src']:
           image_name = i.attrs['src']
+        if i.attrs['alt']: 
+          alt = i.attrs['alt']
+          if alt.endswith(remove_me):
+            alt = alt[:-(len(remove_me))]
 
     # Get the image name and build an Azure path...  if the <img> has no 'src' element, skip it.
     if not image_name:
@@ -140,8 +145,7 @@ def do_image(i, path):
       # Upload the image to Azure
       url = upload_to_azure(blob_service_client, image_path, path + "/" + image_name)
   
-      # Now, deal with the alt text
-      alt = False
+      # Now, deal with the alt text as a sibling
       sibling = i.nextSibling
       if sibling:
         for a in sibling.attrs:
@@ -189,11 +193,11 @@ def parse_post_mammoth_converted_html(html_file, path):
     # Drop found elements into the frontmatter and remove them from the soup...
 
     if title:
-      frontmatter = frontmatter.replace("_title: ", f"title: {title.contents[0]}")
+      frontmatter = frontmatter.replace("_title: ", f"title: \"{title.contents[0]}\"")
       title.decompose( )
   
     if byline:
-      frontmatter = frontmatter.replace("byline: ", f"byline: {byline.contents[0]}")
+      frontmatter = frontmatter.replace("byline: ", f"byline: \"{byline.contents[0]}\"")
       byline.decompose( )
 
     if article_type:
@@ -226,6 +230,10 @@ def parse_post_mammoth_converted_html(html_file, path):
       pull_quotes = soup.find_all("p", class_ = "Intense-Quote")
       for q in pull_quotes:
         q.replace_with(f"{open_shortcode} pullquote {close_shortcode}\n{q.contents[0].strip( )}\n{open_shortcode} /pullquote {close_shortcode} \n\n")
+
+      attributions = soup.find_all("p", class_ = "Attribution")
+      for a in attributions:
+        a.replace_with(f"{open_shortcode} attribution 5 {close_shortcode}\n{a.contents[0].strip( )}\n{open_shortcode} /attribution {close_shortcode} \n\n")
 
       images = soup.find_all("img")
       # images = soup.find_all("img", class_ = "Article-Image")
@@ -353,10 +361,22 @@ def rootstalk_markdownify(filepath):
       with open(new_file, "w") as mdf:
         print(frontmatter, file=mdf)
         markdown_text = md(reduced, escape_asterisks=False, escape_underscores=False, escape_misc=False)
-        print(markdown_text, file=mdf)
+        clean_markdown = clean_up(markdown_text)
+        print(clean_markdown, file=mdf)
           
   return
                 
+
+# clean_up(markdown)
+# --------------------------------------------------------------------------------
+def clean_up(markdown):
+
+  # Fix line breaks and spacing around {{% ref X %}} tags
+  pattern = re.compile(r"\n ({{% ref \d+ %}})\n")
+  clean = re.sub(pattern, r'\1', markdown, re.MULTILINE)
+
+  return clean
+
 
 # --------------------------------------------------------------------------------
 # def rootstalk_azure_media(year, term, filepath):
@@ -499,6 +519,6 @@ if __name__ == '__main__':
         # rootstalk_azure_media(year, term, filepath)
         # rootstalk_make_articles(year, term, filepath)
 
-      break  # stop search at first level
+      # break  # stop search at first level
 
 # See VSCode Python setup at https://blog.summittdweller.com/posts/2022/09/proper-python/

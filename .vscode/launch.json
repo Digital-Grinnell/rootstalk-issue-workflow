@@ -5,10 +5,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Python Debugger: Current File",
+      "name": "Python Debugger: Post-Mammoth-Processing",
       "type": "debugpy",
       "request": "launch",
-      "program": "${file}",
+      "program": "post-mammoth-processing.py",
       "console": "integratedTerminal"
     }
   ]
